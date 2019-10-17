@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/.idea.AdvancedRecyclerView/audio_list_grouped_sample__RecordGuard.ListSample.Android.iml" filepath="$PROJECT_DIR$/.idea/.idea.AdvancedRecyclerView/audio_list_grouped_sample__RecordGuard.ListSample.Android.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/.idea.AdvancedRecyclerView/grouping__XamarinMvvmCross_MeetupSample.Droid.iml" filepath="$PROJECT_DIR$/.idea/.idea.AdvancedRecyclerView/grouping__XamarinMvvmCross_MeetupSample.Droid.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/.idea.AdvancedRecyclerView/riderModule.iml" filepath="$PROJECT_DIR$/.idea/.idea.AdvancedRecyclerView/riderModule.iml" />
     </modules>
   </component>

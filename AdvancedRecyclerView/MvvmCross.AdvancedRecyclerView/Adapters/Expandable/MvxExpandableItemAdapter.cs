@@ -153,15 +153,24 @@ namespace MvvmCross.AdvancedRecyclerView.Adapters.Expandable
                     InflateViewForHolder(TemplateSelector.GetItemLayoutId(viewType), parent, viewType, itemBindingContext),
                     ChildSwipeableTemplate.SwipeContainerViewGroupId,
                     ChildSwipeableTemplate.UnderSwipeContainerViewGroupId,
-                    itemBindingContext)
-                {
-                    Click = ChildItemClickCommand,
-                    LongClick = ChildItemLongClickCommand
-                };
-
+                    itemBindingContext);
+            viewHolder.Click -= ChildItemOnClick;
+            viewHolder.LongClick -= ChildItemOnLongClick;           
+            viewHolder.Click += ChildItemOnClick;
+            viewHolder.LongClick += ChildItemOnLongClick;
             return viewHolder;
         }
+        private void ChildItemOnClick(object sender, EventArgs e)
+        {
+            var holder = (IMvxRecyclerViewHolder)sender;
+            GroupItemClickCommand?.Execute(holder.DataContext);
+        }
 
+        private void ChildItemOnLongClick(object sender, EventArgs e)
+        {
+            var holder = (IMvxRecyclerViewHolder)sender;
+            GroupItemLongClickCommand?.Execute(holder.DataContext);        
+        }
         public override Object OnCreateGroupViewHolder(ViewGroup parent, int viewType)
         {
             var itemBindingContext = new MvxAndroidBindingContext(parent.Context, BindingContext.LayoutInflaterHolder);
@@ -172,12 +181,24 @@ namespace MvvmCross.AdvancedRecyclerView.Adapters.Expandable
                     GroupSwipeableTemplate.SwipeContainerViewGroupId,
                     GroupSwipeableTemplate.UnderSwipeContainerViewGroupId,
                     itemBindingContext)
-                {
-                    Click = GroupItemClickCommand,
-                    LongClick = GroupItemLongClickCommand
-                };
-
+                ;
+            viewHolder.Click -= GroupItemOnClick;
+            viewHolder.LongClick -= GroupItemOnLongClick;           
+            viewHolder.Click += GroupItemOnClick;
+            viewHolder.LongClick += GroupItemOnLongClick;
             return viewHolder;
+        }
+        
+        private void GroupItemOnClick(object sender, EventArgs e)
+        {
+            var holder = (IMvxRecyclerViewHolder)sender;
+            GroupItemClickCommand?.Execute(holder.DataContext);
+        }
+
+        private void GroupItemOnLongClick(object sender, EventArgs e)
+        {
+            var holder = (IMvxRecyclerViewHolder)sender;
+            GroupItemLongClickCommand?.Execute(holder.DataContext);        
         }
 
         public override bool OnHookGroupCollapse(int p0, bool p1)

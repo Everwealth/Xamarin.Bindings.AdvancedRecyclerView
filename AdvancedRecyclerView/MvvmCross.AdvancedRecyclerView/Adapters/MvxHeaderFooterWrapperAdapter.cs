@@ -52,12 +52,25 @@ namespace MvvmCross.AdvancedRecyclerView.Adapters
                     InflateViewForHolder(HeaderFooterDetails.FooterLayoutId, p0, p1, itemBindingContext),
                     itemBindingContext)
                 {
-                    Click = FooterClickCommand,
-                    LongClick = FooterLongClickCommand,
                     DataContext = BindingContext.DataContext
                 };
-
+            viewHolder.Click -= FooterViewHolderOnClick;
+            viewHolder.LongClick -= FooterViewHolderOnLongClick;           
+            viewHolder.Click += FooterViewHolderOnClick;
+            viewHolder.LongClick += FooterViewHolderOnLongClick;
             return viewHolder;
+        }
+
+        private void FooterViewHolderOnLongClick(object sender, EventArgs e)
+        {
+            var holder = (IMvxRecyclerViewHolder)sender;
+            FooterClickCommand?.Execute(holder.DataContext);
+        }
+
+        private void FooterViewHolderOnClick(object sender, EventArgs e)
+        {
+            var holder = (IMvxRecyclerViewHolder)sender;
+            FooterLongClickCommand?.Execute(holder);
         }
 
         public override Object OnCreateHeaderItemViewHolder(ViewGroup p0, int p1)
@@ -69,12 +82,27 @@ namespace MvvmCross.AdvancedRecyclerView.Adapters
                     InflateViewForHolder(HeaderFooterDetails.HeaderLayoutId, p0, p1, itemBindingContext),
                     itemBindingContext)
                 {
-                    Click = HeaderClickCommand,
-                    LongClick = HeaderLongClickCommand,
+
                     DataContext = BindingContext.DataContext
                 };
+            viewHolder.Click -= HeaderViewHolderOnClick;
+            viewHolder.LongClick -= HeaderViewHolderOnLongClick;
+            viewHolder.Click += HeaderViewHolderOnClick;
+            viewHolder.LongClick += HeaderViewHolderOnLongClick;
 
             return viewHolder;
+        }
+
+        private void HeaderViewHolderOnLongClick(object sender, EventArgs e)
+        {
+            var holder = (IMvxRecyclerViewHolder)sender;
+            HeaderLongClickCommand?.Execute(holder.DataContext);
+        }
+
+        private void HeaderViewHolderOnClick(object sender, EventArgs e)
+        {
+            var holder = (IMvxRecyclerViewHolder)sender;
+            HeaderClickCommand?.Execute(holder.DataContext);        
         }
 
         private View InflateViewForHolder(int headerLayoutId, ViewGroup p0, int p1, MvxAndroidBindingContext itemBindingContext)

@@ -3,21 +3,27 @@ using System.Windows.Input;
 using Android.Views;
 using Com.H6ah4i.Android.Widget.Advrecyclerview.Swipeable;
 using Com.H6ah4i.Android.Widget.Advrecyclerview.Utils;
+using MvvmCross.Base;
 using MvvmCross.Binding.BindingContext;
 using MvvmCross.Droid.Support.V7.RecyclerView;
 using MvvmCross.Platforms.Android.Binding.BindingContext;
+using MvvmCross.Platforms.Android.WeakSubscription;
 
 namespace MvvmCross.AdvancedRecyclerView.ViewHolders
 {
     public class MvxAdvancedRecyclerViewHolder : AbstractSwipeableItemViewHolder, IMvxRecyclerViewHolder, IMvxBindingContextOwner
     {
-        private readonly IMvxBindingContext _bindingContext;
+        private IMvxBindingContext _bindingContext;
 
         private object _cachedDataContext;
         private ICommand _click, _longClick;
         private bool _clickOverloaded, _longClickOverloaded;
         private View swipeableView;
 
+        private IDisposable clickSubscription, longClickSubscription;
+        private IDisposable itemViewClickSubscription, itemViewLongClickSubscription;
+        
+        
         public MvxAdvancedRecyclerViewHolder(View itemView, int swipeableContainerViewId, int underSwipeContainerViewId, IMvxAndroidBindingContext context)
             : base(itemView)
         {
@@ -57,49 +63,40 @@ namespace MvvmCross.AdvancedRecyclerView.ViewHolders
             }
         }
 
-        public ICommand Click
-        {
-            get
-            {
-                return _click;
-            }
-            set
-            {
-                _click = value;
-                if (_click != null)
-                    EnsureClickOverloaded();
-            }
-        }
+        public event EventHandler<EventArgs> Click;
 
-        private void EnsureClickOverloaded()
-        {
-            if (_clickOverloaded)
-                return;
-            _clickOverloaded = true;
-            ItemView.Click += OnItemViewOnClick;
-        }
+        public event EventHandler<EventArgs> LongClick;
+        
 
-        public ICommand LongClick
-        {
-            get
-            {
-                return _longClick;
-            }
-            set
-            {
-                _longClick = value;
-                if (_longClick != null)
-                    EnsureLongClickOverloaded();
-            }
-        }
+//        public ICommand Click
+//        {
+//            get
+//            {
+//                return _click;
+//            }
+//            set
+//            {
+//                _click = value;
+//                if (_click != null)
+//                    EnsureClickOverloaded();
+//            }
+//        }
 
-        private void EnsureLongClickOverloaded()
-        {
-            if (_longClickOverloaded)
-                return;
-            _longClickOverloaded = true;
-            ItemView.LongClick += OnItemViewOnLongClick;
-        }
+    
+//        public ICommand LongClick
+//        {
+//            get
+//            {
+//                return _longClick;
+//            }
+//            set
+//            {
+//                _longClick = value;
+//                if (_longClick != null)
+//                    EnsureLongClickOverloaded();
+//            }
+//        }
+
 
         protected virtual void ExecuteCommandOnItem(ICommand command)
         {
@@ -116,51 +113,87 @@ namespace MvvmCross.AdvancedRecyclerView.ViewHolders
             command.Execute(item);
         }
 
-        private void OnItemViewOnClick(object sender, EventArgs args)
-        {
-            ExecuteCommandOnItem(Click);
-        }
-
-        private void OnItemViewOnLongClick(object sender, View.LongClickEventArgs args)
-        {
-            ExecuteCommandOnItem(LongClick);
-        }
-
         public virtual void OnAttachedToWindow()
         {
             if (_cachedDataContext != null && DataContext == null)
-                DataContext = _cachedDataContext;
-        }
+                _bindingContext.DataContext = _cachedDataContext;
+            _cachedDataContext = null;
 
+            if (itemViewClickSubscription == null)
+                itemViewClickSubscription = ItemView.WeakSubscribe(nameof(View.Click), OnItemViewClick);
+            if (itemViewLongClickSubscription == null)
+                itemViewLongClickSubscription = ItemView.WeakSubscribe<View, View.LongClickEventArgs>(nameof(View.LongClick), OnItemViewLongClick);
+        }
         public virtual void OnDetachedFromWindow()
         {
+            itemViewClickSubscription.Dispose();
+            itemViewClickSubscription = null;
+            itemViewLongClickSubscription.Dispose();
+            itemViewLongClickSubscription = null;
+
             _cachedDataContext = DataContext;
-            DataContext = null;
+            _bindingContext.DataContext = null;
         }
 
+//        public virtual void OnViewRecycled()
+//        {
+//            _cachedDataContext = null;
+//            DataContext = null;
+//        }
         public virtual void OnViewRecycled()
         {
             _cachedDataContext = null;
-            DataContext = null;
+            _bindingContext.DataContext = null;
         }
-
         public int Id { get; set; }
 
+//        protected override void Dispose(bool disposing)
+//        {
+//            // Clean up the binding context since nothing
+//            // explicitly Disposes of the ViewHolder.
+//            _bindingContext?.ClearAllBindings();
+//
+//            if (disposing)
+//            {
+//                _cachedDataContext = null;
+//
+//                if (ItemView != null)
+//                {
+//                    ItemView.Click = null;
+//                    ItemView.LongClick -= OnItemViewOnLongClick;
+//                }
+//            }
+//
+//            base.Dispose(disposing);
+//        }
+//        
+
+        protected virtual void OnItemViewClick(object sender, EventArgs e)
+        {
+            Click?.Invoke(this, e);
+        }
+
+        protected virtual void OnItemViewLongClick(object sender, EventArgs e)
+        {
+            LongClick?.Invoke(this, e);
+        }
         protected override void Dispose(bool disposing)
         {
-            // Clean up the binding context since nothing
-            // explicitly Disposes of the ViewHolder.
-            _bindingContext?.ClearAllBindings();
+            itemViewClickSubscription?.Dispose();
+            itemViewClickSubscription = null;
+            itemViewLongClickSubscription?.Dispose();
+            itemViewLongClickSubscription = null;
 
-            if (disposing)
+            _cachedDataContext = null;
+            clickSubscription?.Dispose();
+            longClickSubscription?.Dispose();
+
+            if (_bindingContext != null)
             {
-                _cachedDataContext = null;
-
-                if (ItemView != null)
-                {
-                    ItemView.Click -= OnItemViewOnClick;
-                    ItemView.LongClick -= OnItemViewOnLongClick;
-                }
+                _bindingContext.DataContext = null;
+                _bindingContext.ClearAllBindings();
+                _bindingContext.DisposeIfDisposable();
+                _bindingContext = null;
             }
 
             base.Dispose(disposing);

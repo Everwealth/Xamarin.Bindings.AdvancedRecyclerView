@@ -50,13 +50,16 @@ namespace MvvmCross.AdvancedRecyclerView.Adapters.NonExpandable
             var viewForHolder = InflateViewForHolder(parent, viewType, itemBindingContext);
 
             var vh = new MvxAdvancedRecyclerViewHolder(viewForHolder,
-                                                       SwipeableTemplate.SwipeContainerViewGroupId,
-                                                       SwipeableTemplate.UnderSwipeContainerViewGroupId,
-                itemBindingContext)
-            {
-                Click = ItemClick,
-                LongClick = ItemLongClick
-            };
+                SwipeableTemplate.SwipeContainerViewGroupId,
+                SwipeableTemplate.UnderSwipeContainerViewGroupId,
+                itemBindingContext);
+            
+            vh.Click -= OnItemViewClick;
+            vh.LongClick -= OnItemViewLongClick;
+            vh.Click += OnItemViewClick;
+            vh.LongClick += OnItemViewLongClick;
+            
+            
 
             return vh;
         }

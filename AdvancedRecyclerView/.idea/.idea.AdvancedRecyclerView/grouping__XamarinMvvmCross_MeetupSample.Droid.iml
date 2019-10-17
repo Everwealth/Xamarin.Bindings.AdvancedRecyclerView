@@ -9,20 +9,9 @@
       </configuration>
     </facet>
   </component>
-  <component name="NewModuleRootManager" inherit-compiler-output="true">
-    <exclude-output />
+  <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$/../../GroupingSample/XamarinMvvmCross_MeetupSample.Droid" />
     <orderEntry type="jdk" jdkName="Android API 28 Platform" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="support-annotations-27.0.2" level="project" />
-    <orderEntry type="library" name="design-27.0.2" level="project" />
-    <orderEntry type="library" name="appcompat-v7-27.0.2" level="project" />
-    <orderEntry type="library" name="recyclerview-v7-27.0.2" level="project" />
-    <orderEntry type="library" name="support-vector-drawable-27.0.2" level="project" />
-    <orderEntry type="library" name="support-annotations-27.0.2" level="project" />
-    <orderEntry type="library" name="design-27.0.2" level="project" />
-    <orderEntry type="library" name="appcompat-v7-27.0.2" level="project" />
-    <orderEntry type="library" name="recyclerview-v7-27.0.2" level="project" />
-    <orderEntry type="library" name="support-vector-drawable-27.0.2" level="project" />
   </component>
 </module>
