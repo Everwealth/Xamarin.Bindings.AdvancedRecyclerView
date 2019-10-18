@@ -247,6 +247,14 @@
       <Project>{4173ae6c-288a-4352-80ad-27e72d781a06}</Project>
       <Name>RecordGuard.ListSample.App</Name>
     </ProjectReference>
+    <ProjectReference Include="..\..\MvvmCross.AdvancedRecyclerView\MvvmCross.AdvancedRecyclerView.csproj">
+      <Project>{765FE19E-8953-4EAE-832B-EA83564BB1C5}</Project>
+      <Name>MvvmCross.AdvancedRecyclerView</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Bindings\Xamarin.Bindings.AdvancedRecyclerView.csproj">
+      <Project>{473774EE-BDED-4F73-BA4B-B0A977BB3ABB}</Project>
+      <Name>Xamarin.Bindings.AdvancedRecyclerView</Name>
+    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable-hdpi\appIcon.png" />

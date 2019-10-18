@@ -26,6 +26,1706 @@ namespace RecordGuard.ListSample.Android
 		
 		public static void UpdateIdValues()
 		{
+			global::MvvmCross.AdvancedRecyclerView.Resource.Animation.abc_fade_in = global::RecordGuard.ListSample.Android.Resource.Animation.abc_fade_in;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Animation.abc_fade_out = global::RecordGuard.ListSample.Android.Resource.Animation.abc_fade_out;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Animation.abc_grow_fade_in_from_bottom = global::RecordGuard.ListSample.Android.Resource.Animation.abc_grow_fade_in_from_bottom;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Animation.abc_popup_enter = global::RecordGuard.ListSample.Android.Resource.Animation.abc_popup_enter;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Animation.abc_popup_exit = global::RecordGuard.ListSample.Android.Resource.Animation.abc_popup_exit;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Animation.abc_shrink_fade_out_from_bottom = global::RecordGuard.ListSample.Android.Resource.Animation.abc_shrink_fade_out_from_bottom;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Animation.abc_slide_in_bottom = global::RecordGuard.ListSample.Android.Resource.Animation.abc_slide_in_bottom;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Animation.abc_slide_in_top = global::RecordGuard.ListSample.Android.Resource.Animation.abc_slide_in_top;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Animation.abc_slide_out_bottom = global::RecordGuard.ListSample.Android.Resource.Animation.abc_slide_out_bottom;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Animation.abc_slide_out_top = global::RecordGuard.ListSample.Android.Resource.Animation.abc_slide_out_top;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Animation.abc_tooltip_enter = global::RecordGuard.ListSample.Android.Resource.Animation.abc_tooltip_enter;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Animation.abc_tooltip_exit = global::RecordGuard.ListSample.Android.Resource.Animation.abc_tooltip_exit;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.actionBarDivider = global::RecordGuard.ListSample.Android.Resource.Attribute.actionBarDivider;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.actionBarItemBackground = global::RecordGuard.ListSample.Android.Resource.Attribute.actionBarItemBackground;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.actionBarPopupTheme = global::RecordGuard.ListSample.Android.Resource.Attribute.actionBarPopupTheme;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.actionBarSize = global::RecordGuard.ListSample.Android.Resource.Attribute.actionBarSize;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.actionBarSplitStyle = global::RecordGuard.ListSample.Android.Resource.Attribute.actionBarSplitStyle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.actionBarStyle = global::RecordGuard.ListSample.Android.Resource.Attribute.actionBarStyle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.actionBarTabBarStyle = global::RecordGuard.ListSample.Android.Resource.Attribute.actionBarTabBarStyle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.actionBarTabStyle = global::RecordGuard.ListSample.Android.Resource.Attribute.actionBarTabStyle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.actionBarTabTextStyle = global::RecordGuard.ListSample.Android.Resource.Attribute.actionBarTabTextStyle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.actionBarTheme = global::RecordGuard.ListSample.Android.Resource.Attribute.actionBarTheme;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.actionBarWidgetTheme = global::RecordGuard.ListSample.Android.Resource.Attribute.actionBarWidgetTheme;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.actionButtonStyle = global::RecordGuard.ListSample.Android.Resource.Attribute.actionButtonStyle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.actionDropDownStyle = global::RecordGuard.ListSample.Android.Resource.Attribute.actionDropDownStyle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.actionLayout = global::RecordGuard.ListSample.Android.Resource.Attribute.actionLayout;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.actionMenuTextAppearance = global::RecordGuard.ListSample.Android.Resource.Attribute.actionMenuTextAppearance;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.actionMenuTextColor = global::RecordGuard.ListSample.Android.Resource.Attribute.actionMenuTextColor;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.actionModeBackground = global::RecordGuard.ListSample.Android.Resource.Attribute.actionModeBackground;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.actionModeCloseButtonStyle = global::RecordGuard.ListSample.Android.Resource.Attribute.actionModeCloseButtonStyle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.actionModeCloseDrawable = global::RecordGuard.ListSample.Android.Resource.Attribute.actionModeCloseDrawable;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.actionModeCopyDrawable = global::RecordGuard.ListSample.Android.Resource.Attribute.actionModeCopyDrawable;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.actionModeCutDrawable = global::RecordGuard.ListSample.Android.Resource.Attribute.actionModeCutDrawable;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.actionModeFindDrawable = global::RecordGuard.ListSample.Android.Resource.Attribute.actionModeFindDrawable;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.actionModePasteDrawable = global::RecordGuard.ListSample.Android.Resource.Attribute.actionModePasteDrawable;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.actionModePopupWindowStyle = global::RecordGuard.ListSample.Android.Resource.Attribute.actionModePopupWindowStyle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.actionModeSelectAllDrawable = global::RecordGuard.ListSample.Android.Resource.Attribute.actionModeSelectAllDrawable;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.actionModeShareDrawable = global::RecordGuard.ListSample.Android.Resource.Attribute.actionModeShareDrawable;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.actionModeSplitBackground = global::RecordGuard.ListSample.Android.Resource.Attribute.actionModeSplitBackground;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.actionModeStyle = global::RecordGuard.ListSample.Android.Resource.Attribute.actionModeStyle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.actionModeWebSearchDrawable = global::RecordGuard.ListSample.Android.Resource.Attribute.actionModeWebSearchDrawable;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.actionOverflowButtonStyle = global::RecordGuard.ListSample.Android.Resource.Attribute.actionOverflowButtonStyle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.actionOverflowMenuStyle = global::RecordGuard.ListSample.Android.Resource.Attribute.actionOverflowMenuStyle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.actionProviderClass = global::RecordGuard.ListSample.Android.Resource.Attribute.actionProviderClass;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.actionViewClass = global::RecordGuard.ListSample.Android.Resource.Attribute.actionViewClass;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.activityChooserViewStyle = global::RecordGuard.ListSample.Android.Resource.Attribute.activityChooserViewStyle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.alertDialogButtonGroupStyle = global::RecordGuard.ListSample.Android.Resource.Attribute.alertDialogButtonGroupStyle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.alertDialogCenterButtons = global::RecordGuard.ListSample.Android.Resource.Attribute.alertDialogCenterButtons;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.alertDialogStyle = global::RecordGuard.ListSample.Android.Resource.Attribute.alertDialogStyle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.alertDialogTheme = global::RecordGuard.ListSample.Android.Resource.Attribute.alertDialogTheme;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.allowStacking = global::RecordGuard.ListSample.Android.Resource.Attribute.allowStacking;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.alpha = global::RecordGuard.ListSample.Android.Resource.Attribute.alpha;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.alphabeticModifiers = global::RecordGuard.ListSample.Android.Resource.Attribute.alphabeticModifiers;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.arrowHeadLength = global::RecordGuard.ListSample.Android.Resource.Attribute.arrowHeadLength;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.arrowShaftLength = global::RecordGuard.ListSample.Android.Resource.Attribute.arrowShaftLength;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.autoCompleteTextViewStyle = global::RecordGuard.ListSample.Android.Resource.Attribute.autoCompleteTextViewStyle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.autoSizeMaxTextSize = global::RecordGuard.ListSample.Android.Resource.Attribute.autoSizeMaxTextSize;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.autoSizeMinTextSize = global::RecordGuard.ListSample.Android.Resource.Attribute.autoSizeMinTextSize;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.autoSizePresetSizes = global::RecordGuard.ListSample.Android.Resource.Attribute.autoSizePresetSizes;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.autoSizeStepGranularity = global::RecordGuard.ListSample.Android.Resource.Attribute.autoSizeStepGranularity;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.autoSizeTextType = global::RecordGuard.ListSample.Android.Resource.Attribute.autoSizeTextType;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.background = global::RecordGuard.ListSample.Android.Resource.Attribute.background;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.backgroundSplit = global::RecordGuard.ListSample.Android.Resource.Attribute.backgroundSplit;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.backgroundStacked = global::RecordGuard.ListSample.Android.Resource.Attribute.backgroundStacked;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.backgroundTint = global::RecordGuard.ListSample.Android.Resource.Attribute.backgroundTint;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.backgroundTintMode = global::RecordGuard.ListSample.Android.Resource.Attribute.backgroundTintMode;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.barLength = global::RecordGuard.ListSample.Android.Resource.Attribute.barLength;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.borderlessButtonStyle = global::RecordGuard.ListSample.Android.Resource.Attribute.borderlessButtonStyle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.buttonBarButtonStyle = global::RecordGuard.ListSample.Android.Resource.Attribute.buttonBarButtonStyle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.buttonBarNegativeButtonStyle = global::RecordGuard.ListSample.Android.Resource.Attribute.buttonBarNegativeButtonStyle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.buttonBarNeutralButtonStyle = global::RecordGuard.ListSample.Android.Resource.Attribute.buttonBarNeutralButtonStyle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.buttonBarPositiveButtonStyle = global::RecordGuard.ListSample.Android.Resource.Attribute.buttonBarPositiveButtonStyle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.buttonBarStyle = global::RecordGuard.ListSample.Android.Resource.Attribute.buttonBarStyle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.buttonGravity = global::RecordGuard.ListSample.Android.Resource.Attribute.buttonGravity;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.buttonIconDimen = global::RecordGuard.ListSample.Android.Resource.Attribute.buttonIconDimen;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.buttonPanelSideLayout = global::RecordGuard.ListSample.Android.Resource.Attribute.buttonPanelSideLayout;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.buttonStyle = global::RecordGuard.ListSample.Android.Resource.Attribute.buttonStyle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.buttonStyleSmall = global::RecordGuard.ListSample.Android.Resource.Attribute.buttonStyleSmall;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.buttonTint = global::RecordGuard.ListSample.Android.Resource.Attribute.buttonTint;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.buttonTintMode = global::RecordGuard.ListSample.Android.Resource.Attribute.buttonTintMode;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.checkboxStyle = global::RecordGuard.ListSample.Android.Resource.Attribute.checkboxStyle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.checkedTextViewStyle = global::RecordGuard.ListSample.Android.Resource.Attribute.checkedTextViewStyle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.closeIcon = global::RecordGuard.ListSample.Android.Resource.Attribute.closeIcon;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.closeItemLayout = global::RecordGuard.ListSample.Android.Resource.Attribute.closeItemLayout;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.collapseContentDescription = global::RecordGuard.ListSample.Android.Resource.Attribute.collapseContentDescription;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.collapseIcon = global::RecordGuard.ListSample.Android.Resource.Attribute.collapseIcon;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.color = global::RecordGuard.ListSample.Android.Resource.Attribute.color;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.colorAccent = global::RecordGuard.ListSample.Android.Resource.Attribute.colorAccent;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.colorBackgroundFloating = global::RecordGuard.ListSample.Android.Resource.Attribute.colorBackgroundFloating;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.colorButtonNormal = global::RecordGuard.ListSample.Android.Resource.Attribute.colorButtonNormal;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.colorControlActivated = global::RecordGuard.ListSample.Android.Resource.Attribute.colorControlActivated;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.colorControlHighlight = global::RecordGuard.ListSample.Android.Resource.Attribute.colorControlHighlight;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.colorControlNormal = global::RecordGuard.ListSample.Android.Resource.Attribute.colorControlNormal;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.colorError = global::RecordGuard.ListSample.Android.Resource.Attribute.colorError;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.colorPrimary = global::RecordGuard.ListSample.Android.Resource.Attribute.colorPrimary;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.colorPrimaryDark = global::RecordGuard.ListSample.Android.Resource.Attribute.colorPrimaryDark;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.colorSwitchThumbNormal = global::RecordGuard.ListSample.Android.Resource.Attribute.colorSwitchThumbNormal;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.commitIcon = global::RecordGuard.ListSample.Android.Resource.Attribute.commitIcon;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.contentDescription = global::RecordGuard.ListSample.Android.Resource.Attribute.contentDescription;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.contentInsetEnd = global::RecordGuard.ListSample.Android.Resource.Attribute.contentInsetEnd;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.contentInsetEndWithActions = global::RecordGuard.ListSample.Android.Resource.Attribute.contentInsetEndWithActions;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.contentInsetLeft = global::RecordGuard.ListSample.Android.Resource.Attribute.contentInsetLeft;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.contentInsetRight = global::RecordGuard.ListSample.Android.Resource.Attribute.contentInsetRight;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.contentInsetStart = global::RecordGuard.ListSample.Android.Resource.Attribute.contentInsetStart;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.contentInsetStartWithNavigation = global::RecordGuard.ListSample.Android.Resource.Attribute.contentInsetStartWithNavigation;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.controlBackground = global::RecordGuard.ListSample.Android.Resource.Attribute.controlBackground;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.coordinatorLayoutStyle = global::RecordGuard.ListSample.Android.Resource.Attribute.coordinatorLayoutStyle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.customNavigationLayout = global::RecordGuard.ListSample.Android.Resource.Attribute.customNavigationLayout;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.defaultQueryHint = global::RecordGuard.ListSample.Android.Resource.Attribute.defaultQueryHint;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.dialogCornerRadius = global::RecordGuard.ListSample.Android.Resource.Attribute.dialogCornerRadius;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.dialogPreferredPadding = global::RecordGuard.ListSample.Android.Resource.Attribute.dialogPreferredPadding;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.dialogTheme = global::RecordGuard.ListSample.Android.Resource.Attribute.dialogTheme;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.displayOptions = global::RecordGuard.ListSample.Android.Resource.Attribute.displayOptions;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.divider = global::RecordGuard.ListSample.Android.Resource.Attribute.divider;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.dividerHorizontal = global::RecordGuard.ListSample.Android.Resource.Attribute.dividerHorizontal;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.dividerPadding = global::RecordGuard.ListSample.Android.Resource.Attribute.dividerPadding;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.dividerVertical = global::RecordGuard.ListSample.Android.Resource.Attribute.dividerVertical;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.drawableSize = global::RecordGuard.ListSample.Android.Resource.Attribute.drawableSize;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.drawerArrowStyle = global::RecordGuard.ListSample.Android.Resource.Attribute.drawerArrowStyle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.dropdownListPreferredItemHeight = global::RecordGuard.ListSample.Android.Resource.Attribute.dropdownListPreferredItemHeight;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.dropDownListViewStyle = global::RecordGuard.ListSample.Android.Resource.Attribute.dropDownListViewStyle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.editTextBackground = global::RecordGuard.ListSample.Android.Resource.Attribute.editTextBackground;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.editTextColor = global::RecordGuard.ListSample.Android.Resource.Attribute.editTextColor;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.editTextStyle = global::RecordGuard.ListSample.Android.Resource.Attribute.editTextStyle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.elevation = global::RecordGuard.ListSample.Android.Resource.Attribute.elevation;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.expandActivityOverflowButtonDrawable = global::RecordGuard.ListSample.Android.Resource.Attribute.expandActivityOverflowButtonDrawable;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.fastScrollEnabled = global::RecordGuard.ListSample.Android.Resource.Attribute.fastScrollEnabled;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.fastScrollHorizontalThumbDrawable = global::RecordGuard.ListSample.Android.Resource.Attribute.fastScrollHorizontalThumbDrawable;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.fastScrollHorizontalTrackDrawable = global::RecordGuard.ListSample.Android.Resource.Attribute.fastScrollHorizontalTrackDrawable;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.fastScrollVerticalThumbDrawable = global::RecordGuard.ListSample.Android.Resource.Attribute.fastScrollVerticalThumbDrawable;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.fastScrollVerticalTrackDrawable = global::RecordGuard.ListSample.Android.Resource.Attribute.fastScrollVerticalTrackDrawable;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.firstBaselineToTopHeight = global::RecordGuard.ListSample.Android.Resource.Attribute.firstBaselineToTopHeight;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.font = global::RecordGuard.ListSample.Android.Resource.Attribute.font;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.fontFamily = global::RecordGuard.ListSample.Android.Resource.Attribute.fontFamily;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.fontProviderAuthority = global::RecordGuard.ListSample.Android.Resource.Attribute.fontProviderAuthority;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.fontProviderCerts = global::RecordGuard.ListSample.Android.Resource.Attribute.fontProviderCerts;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.fontProviderFetchStrategy = global::RecordGuard.ListSample.Android.Resource.Attribute.fontProviderFetchStrategy;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.fontProviderFetchTimeout = global::RecordGuard.ListSample.Android.Resource.Attribute.fontProviderFetchTimeout;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.fontProviderPackage = global::RecordGuard.ListSample.Android.Resource.Attribute.fontProviderPackage;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.fontProviderQuery = global::RecordGuard.ListSample.Android.Resource.Attribute.fontProviderQuery;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.fontStyle = global::RecordGuard.ListSample.Android.Resource.Attribute.fontStyle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.fontVariationSettings = global::RecordGuard.ListSample.Android.Resource.Attribute.fontVariationSettings;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.fontWeight = global::RecordGuard.ListSample.Android.Resource.Attribute.fontWeight;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.gapBetweenBars = global::RecordGuard.ListSample.Android.Resource.Attribute.gapBetweenBars;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.goIcon = global::RecordGuard.ListSample.Android.Resource.Attribute.goIcon;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.height = global::RecordGuard.ListSample.Android.Resource.Attribute.height;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.hideOnContentScroll = global::RecordGuard.ListSample.Android.Resource.Attribute.hideOnContentScroll;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.homeAsUpIndicator = global::RecordGuard.ListSample.Android.Resource.Attribute.homeAsUpIndicator;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.homeLayout = global::RecordGuard.ListSample.Android.Resource.Attribute.homeLayout;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.icon = global::RecordGuard.ListSample.Android.Resource.Attribute.icon;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.iconifiedByDefault = global::RecordGuard.ListSample.Android.Resource.Attribute.iconifiedByDefault;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.iconTint = global::RecordGuard.ListSample.Android.Resource.Attribute.iconTint;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.iconTintMode = global::RecordGuard.ListSample.Android.Resource.Attribute.iconTintMode;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.imageButtonStyle = global::RecordGuard.ListSample.Android.Resource.Attribute.imageButtonStyle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.indeterminateProgressStyle = global::RecordGuard.ListSample.Android.Resource.Attribute.indeterminateProgressStyle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.initialActivityCount = global::RecordGuard.ListSample.Android.Resource.Attribute.initialActivityCount;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.isLightTheme = global::RecordGuard.ListSample.Android.Resource.Attribute.isLightTheme;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.itemPadding = global::RecordGuard.ListSample.Android.Resource.Attribute.itemPadding;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.keylines = global::RecordGuard.ListSample.Android.Resource.Attribute.keylines;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.lastBaselineToBottomHeight = global::RecordGuard.ListSample.Android.Resource.Attribute.lastBaselineToBottomHeight;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.layout = global::RecordGuard.ListSample.Android.Resource.Attribute.layout;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.layoutManager = global::RecordGuard.ListSample.Android.Resource.Attribute.layoutManager;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.layout_anchor = global::RecordGuard.ListSample.Android.Resource.Attribute.layout_anchor;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.layout_anchorGravity = global::RecordGuard.ListSample.Android.Resource.Attribute.layout_anchorGravity;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.layout_behavior = global::RecordGuard.ListSample.Android.Resource.Attribute.layout_behavior;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.layout_dodgeInsetEdges = global::RecordGuard.ListSample.Android.Resource.Attribute.layout_dodgeInsetEdges;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.layout_insetEdge = global::RecordGuard.ListSample.Android.Resource.Attribute.layout_insetEdge;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.layout_keyline = global::RecordGuard.ListSample.Android.Resource.Attribute.layout_keyline;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.lineHeight = global::RecordGuard.ListSample.Android.Resource.Attribute.lineHeight;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.listChoiceBackgroundIndicator = global::RecordGuard.ListSample.Android.Resource.Attribute.listChoiceBackgroundIndicator;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.listDividerAlertDialog = global::RecordGuard.ListSample.Android.Resource.Attribute.listDividerAlertDialog;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.listItemLayout = global::RecordGuard.ListSample.Android.Resource.Attribute.listItemLayout;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.listLayout = global::RecordGuard.ListSample.Android.Resource.Attribute.listLayout;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.listMenuViewStyle = global::RecordGuard.ListSample.Android.Resource.Attribute.listMenuViewStyle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.listPopupWindowStyle = global::RecordGuard.ListSample.Android.Resource.Attribute.listPopupWindowStyle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.listPreferredItemHeight = global::RecordGuard.ListSample.Android.Resource.Attribute.listPreferredItemHeight;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.listPreferredItemHeightLarge = global::RecordGuard.ListSample.Android.Resource.Attribute.listPreferredItemHeightLarge;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.listPreferredItemHeightSmall = global::RecordGuard.ListSample.Android.Resource.Attribute.listPreferredItemHeightSmall;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.listPreferredItemPaddingLeft = global::RecordGuard.ListSample.Android.Resource.Attribute.listPreferredItemPaddingLeft;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.listPreferredItemPaddingRight = global::RecordGuard.ListSample.Android.Resource.Attribute.listPreferredItemPaddingRight;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.logo = global::RecordGuard.ListSample.Android.Resource.Attribute.logo;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.logoDescription = global::RecordGuard.ListSample.Android.Resource.Attribute.logoDescription;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.maxButtonHeight = global::RecordGuard.ListSample.Android.Resource.Attribute.maxButtonHeight;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.measureWithLargestChild = global::RecordGuard.ListSample.Android.Resource.Attribute.measureWithLargestChild;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.multiChoiceItemLayout = global::RecordGuard.ListSample.Android.Resource.Attribute.multiChoiceItemLayout;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.MvxBind = global::RecordGuard.ListSample.Android.Resource.Attribute.MvxBind;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.MvxChildSwipeableTemplate = global::RecordGuard.ListSample.Android.Resource.Attribute.MvxChildSwipeableTemplate;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.MvxDropDownItemTemplate = global::RecordGuard.ListSample.Android.Resource.Attribute.MvxDropDownItemTemplate;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.MvxFooterLayoutId = global::RecordGuard.ListSample.Android.Resource.Attribute.MvxFooterLayoutId;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.MvxGroupedDataConverter = global::RecordGuard.ListSample.Android.Resource.Attribute.MvxGroupedDataConverter;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.MvxGroupExpandController = global::RecordGuard.ListSample.Android.Resource.Attribute.MvxGroupExpandController;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.MvxGroupItemTemplate = global::RecordGuard.ListSample.Android.Resource.Attribute.MvxGroupItemTemplate;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.MvxGroupSwipeableTemplate = global::RecordGuard.ListSample.Android.Resource.Attribute.MvxGroupSwipeableTemplate;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.MvxHeaderLayoutId = global::RecordGuard.ListSample.Android.Resource.Attribute.MvxHeaderLayoutId;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.MvxHidesFooterIfEmpty = global::RecordGuard.ListSample.Android.Resource.Attribute.MvxHidesFooterIfEmpty;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.MvxHidesHeaderIfEmpty = global::RecordGuard.ListSample.Android.Resource.Attribute.MvxHidesHeaderIfEmpty;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.MvxItemTemplate = global::RecordGuard.ListSample.Android.Resource.Attribute.MvxItemTemplate;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.MvxLang = global::RecordGuard.ListSample.Android.Resource.Attribute.MvxLang;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.MvxSwipeableTemplate = global::RecordGuard.ListSample.Android.Resource.Attribute.MvxSwipeableTemplate;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.MvxTemplate = global::RecordGuard.ListSample.Android.Resource.Attribute.MvxTemplate;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.MvxTemplateSelector = global::RecordGuard.ListSample.Android.Resource.Attribute.MvxTemplateSelector;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.MvxUniqueItemIdProvider = global::RecordGuard.ListSample.Android.Resource.Attribute.MvxUniqueItemIdProvider;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.navigationContentDescription = global::RecordGuard.ListSample.Android.Resource.Attribute.navigationContentDescription;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.navigationIcon = global::RecordGuard.ListSample.Android.Resource.Attribute.navigationIcon;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.navigationMode = global::RecordGuard.ListSample.Android.Resource.Attribute.navigationMode;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.numericModifiers = global::RecordGuard.ListSample.Android.Resource.Attribute.numericModifiers;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.overlapAnchor = global::RecordGuard.ListSample.Android.Resource.Attribute.overlapAnchor;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.paddingBottomNoButtons = global::RecordGuard.ListSample.Android.Resource.Attribute.paddingBottomNoButtons;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.paddingEnd = global::RecordGuard.ListSample.Android.Resource.Attribute.paddingEnd;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.paddingStart = global::RecordGuard.ListSample.Android.Resource.Attribute.paddingStart;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.paddingTopNoTitle = global::RecordGuard.ListSample.Android.Resource.Attribute.paddingTopNoTitle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.panelBackground = global::RecordGuard.ListSample.Android.Resource.Attribute.panelBackground;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.panelMenuListTheme = global::RecordGuard.ListSample.Android.Resource.Attribute.panelMenuListTheme;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.panelMenuListWidth = global::RecordGuard.ListSample.Android.Resource.Attribute.panelMenuListWidth;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.popupMenuStyle = global::RecordGuard.ListSample.Android.Resource.Attribute.popupMenuStyle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.popupTheme = global::RecordGuard.ListSample.Android.Resource.Attribute.popupTheme;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.popupWindowStyle = global::RecordGuard.ListSample.Android.Resource.Attribute.popupWindowStyle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.preserveIconSpacing = global::RecordGuard.ListSample.Android.Resource.Attribute.preserveIconSpacing;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.progressBarPadding = global::RecordGuard.ListSample.Android.Resource.Attribute.progressBarPadding;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.progressBarStyle = global::RecordGuard.ListSample.Android.Resource.Attribute.progressBarStyle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.queryBackground = global::RecordGuard.ListSample.Android.Resource.Attribute.queryBackground;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.queryHint = global::RecordGuard.ListSample.Android.Resource.Attribute.queryHint;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.radioButtonStyle = global::RecordGuard.ListSample.Android.Resource.Attribute.radioButtonStyle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.ratingBarStyle = global::RecordGuard.ListSample.Android.Resource.Attribute.ratingBarStyle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.ratingBarStyleIndicator = global::RecordGuard.ListSample.Android.Resource.Attribute.ratingBarStyleIndicator;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.ratingBarStyleSmall = global::RecordGuard.ListSample.Android.Resource.Attribute.ratingBarStyleSmall;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.reverseLayout = global::RecordGuard.ListSample.Android.Resource.Attribute.reverseLayout;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.searchHintIcon = global::RecordGuard.ListSample.Android.Resource.Attribute.searchHintIcon;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.searchIcon = global::RecordGuard.ListSample.Android.Resource.Attribute.searchIcon;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.searchViewStyle = global::RecordGuard.ListSample.Android.Resource.Attribute.searchViewStyle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.seekBarStyle = global::RecordGuard.ListSample.Android.Resource.Attribute.seekBarStyle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.selectableItemBackground = global::RecordGuard.ListSample.Android.Resource.Attribute.selectableItemBackground;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.selectableItemBackgroundBorderless = global::RecordGuard.ListSample.Android.Resource.Attribute.selectableItemBackgroundBorderless;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.showAsAction = global::RecordGuard.ListSample.Android.Resource.Attribute.showAsAction;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.showDividers = global::RecordGuard.ListSample.Android.Resource.Attribute.showDividers;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.showText = global::RecordGuard.ListSample.Android.Resource.Attribute.showText;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.showTitle = global::RecordGuard.ListSample.Android.Resource.Attribute.showTitle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.singleChoiceItemLayout = global::RecordGuard.ListSample.Android.Resource.Attribute.singleChoiceItemLayout;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.spanCount = global::RecordGuard.ListSample.Android.Resource.Attribute.spanCount;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.spinBars = global::RecordGuard.ListSample.Android.Resource.Attribute.spinBars;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.spinnerDropDownItemStyle = global::RecordGuard.ListSample.Android.Resource.Attribute.spinnerDropDownItemStyle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.spinnerStyle = global::RecordGuard.ListSample.Android.Resource.Attribute.spinnerStyle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.splitTrack = global::RecordGuard.ListSample.Android.Resource.Attribute.splitTrack;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.srcCompat = global::RecordGuard.ListSample.Android.Resource.Attribute.srcCompat;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.stackFromEnd = global::RecordGuard.ListSample.Android.Resource.Attribute.stackFromEnd;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.state_above_anchor = global::RecordGuard.ListSample.Android.Resource.Attribute.state_above_anchor;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.statusBarBackground = global::RecordGuard.ListSample.Android.Resource.Attribute.statusBarBackground;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.subMenuArrow = global::RecordGuard.ListSample.Android.Resource.Attribute.subMenuArrow;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.submitBackground = global::RecordGuard.ListSample.Android.Resource.Attribute.submitBackground;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.subtitle = global::RecordGuard.ListSample.Android.Resource.Attribute.subtitle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.subtitleTextAppearance = global::RecordGuard.ListSample.Android.Resource.Attribute.subtitleTextAppearance;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.subtitleTextColor = global::RecordGuard.ListSample.Android.Resource.Attribute.subtitleTextColor;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.subtitleTextStyle = global::RecordGuard.ListSample.Android.Resource.Attribute.subtitleTextStyle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.suggestionRowLayout = global::RecordGuard.ListSample.Android.Resource.Attribute.suggestionRowLayout;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.switchMinWidth = global::RecordGuard.ListSample.Android.Resource.Attribute.switchMinWidth;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.switchPadding = global::RecordGuard.ListSample.Android.Resource.Attribute.switchPadding;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.switchStyle = global::RecordGuard.ListSample.Android.Resource.Attribute.switchStyle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.switchTextAppearance = global::RecordGuard.ListSample.Android.Resource.Attribute.switchTextAppearance;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.textAllCaps = global::RecordGuard.ListSample.Android.Resource.Attribute.textAllCaps;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.textAppearanceLargePopupMenu = global::RecordGuard.ListSample.Android.Resource.Attribute.textAppearanceLargePopupMenu;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.textAppearanceListItem = global::RecordGuard.ListSample.Android.Resource.Attribute.textAppearanceListItem;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.textAppearanceListItemSecondary = global::RecordGuard.ListSample.Android.Resource.Attribute.textAppearanceListItemSecondary;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.textAppearanceListItemSmall = global::RecordGuard.ListSample.Android.Resource.Attribute.textAppearanceListItemSmall;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.textAppearancePopupMenuHeader = global::RecordGuard.ListSample.Android.Resource.Attribute.textAppearancePopupMenuHeader;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.textAppearanceSearchResultSubtitle = global::RecordGuard.ListSample.Android.Resource.Attribute.textAppearanceSearchResultSubtitle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.textAppearanceSearchResultTitle = global::RecordGuard.ListSample.Android.Resource.Attribute.textAppearanceSearchResultTitle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.textAppearanceSmallPopupMenu = global::RecordGuard.ListSample.Android.Resource.Attribute.textAppearanceSmallPopupMenu;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.textColorAlertDialogListItem = global::RecordGuard.ListSample.Android.Resource.Attribute.textColorAlertDialogListItem;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.textColorSearchUrl = global::RecordGuard.ListSample.Android.Resource.Attribute.textColorSearchUrl;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.theme = global::RecordGuard.ListSample.Android.Resource.Attribute.theme;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.thickness = global::RecordGuard.ListSample.Android.Resource.Attribute.thickness;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.thumbTextPadding = global::RecordGuard.ListSample.Android.Resource.Attribute.thumbTextPadding;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.thumbTint = global::RecordGuard.ListSample.Android.Resource.Attribute.thumbTint;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.thumbTintMode = global::RecordGuard.ListSample.Android.Resource.Attribute.thumbTintMode;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.tickMark = global::RecordGuard.ListSample.Android.Resource.Attribute.tickMark;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.tickMarkTint = global::RecordGuard.ListSample.Android.Resource.Attribute.tickMarkTint;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.tickMarkTintMode = global::RecordGuard.ListSample.Android.Resource.Attribute.tickMarkTintMode;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.tint = global::RecordGuard.ListSample.Android.Resource.Attribute.tint;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.tintMode = global::RecordGuard.ListSample.Android.Resource.Attribute.tintMode;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.title = global::RecordGuard.ListSample.Android.Resource.Attribute.title;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.titleMargin = global::RecordGuard.ListSample.Android.Resource.Attribute.titleMargin;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.titleMarginBottom = global::RecordGuard.ListSample.Android.Resource.Attribute.titleMarginBottom;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.titleMarginEnd = global::RecordGuard.ListSample.Android.Resource.Attribute.titleMarginEnd;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.titleMargins = global::RecordGuard.ListSample.Android.Resource.Attribute.titleMargins;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.titleMarginStart = global::RecordGuard.ListSample.Android.Resource.Attribute.titleMarginStart;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.titleMarginTop = global::RecordGuard.ListSample.Android.Resource.Attribute.titleMarginTop;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.titleTextAppearance = global::RecordGuard.ListSample.Android.Resource.Attribute.titleTextAppearance;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.titleTextColor = global::RecordGuard.ListSample.Android.Resource.Attribute.titleTextColor;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.titleTextStyle = global::RecordGuard.ListSample.Android.Resource.Attribute.titleTextStyle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.toolbarNavigationButtonStyle = global::RecordGuard.ListSample.Android.Resource.Attribute.toolbarNavigationButtonStyle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.toolbarStyle = global::RecordGuard.ListSample.Android.Resource.Attribute.toolbarStyle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.tooltipForegroundColor = global::RecordGuard.ListSample.Android.Resource.Attribute.tooltipForegroundColor;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.tooltipFrameBackground = global::RecordGuard.ListSample.Android.Resource.Attribute.tooltipFrameBackground;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.tooltipText = global::RecordGuard.ListSample.Android.Resource.Attribute.tooltipText;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.track = global::RecordGuard.ListSample.Android.Resource.Attribute.track;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.trackTint = global::RecordGuard.ListSample.Android.Resource.Attribute.trackTint;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.trackTintMode = global::RecordGuard.ListSample.Android.Resource.Attribute.trackTintMode;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.ttcIndex = global::RecordGuard.ListSample.Android.Resource.Attribute.ttcIndex;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.viewInflaterClass = global::RecordGuard.ListSample.Android.Resource.Attribute.viewInflaterClass;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.voiceIcon = global::RecordGuard.ListSample.Android.Resource.Attribute.voiceIcon;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.windowActionBar = global::RecordGuard.ListSample.Android.Resource.Attribute.windowActionBar;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.windowActionBarOverlay = global::RecordGuard.ListSample.Android.Resource.Attribute.windowActionBarOverlay;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.windowActionModeOverlay = global::RecordGuard.ListSample.Android.Resource.Attribute.windowActionModeOverlay;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.windowFixedHeightMajor = global::RecordGuard.ListSample.Android.Resource.Attribute.windowFixedHeightMajor;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.windowFixedHeightMinor = global::RecordGuard.ListSample.Android.Resource.Attribute.windowFixedHeightMinor;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.windowFixedWidthMajor = global::RecordGuard.ListSample.Android.Resource.Attribute.windowFixedWidthMajor;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.windowFixedWidthMinor = global::RecordGuard.ListSample.Android.Resource.Attribute.windowFixedWidthMinor;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.windowMinWidthMajor = global::RecordGuard.ListSample.Android.Resource.Attribute.windowMinWidthMajor;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.windowMinWidthMinor = global::RecordGuard.ListSample.Android.Resource.Attribute.windowMinWidthMinor;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Attribute.windowNoTitle = global::RecordGuard.ListSample.Android.Resource.Attribute.windowNoTitle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Boolean.abc_action_bar_embed_tabs = global::RecordGuard.ListSample.Android.Resource.Boolean.abc_action_bar_embed_tabs;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Boolean.abc_allow_stacked_button_bar = global::RecordGuard.ListSample.Android.Resource.Boolean.abc_allow_stacked_button_bar;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Boolean.abc_config_actionMenuItemAllCaps = global::RecordGuard.ListSample.Android.Resource.Boolean.abc_config_actionMenuItemAllCaps;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Color.abc_background_cache_hint_selector_material_dark = global::RecordGuard.ListSample.Android.Resource.Color.abc_background_cache_hint_selector_material_dark;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Color.abc_background_cache_hint_selector_material_light = global::RecordGuard.ListSample.Android.Resource.Color.abc_background_cache_hint_selector_material_light;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Color.abc_btn_colored_borderless_text_material = global::RecordGuard.ListSample.Android.Resource.Color.abc_btn_colored_borderless_text_material;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Color.abc_btn_colored_text_material = global::RecordGuard.ListSample.Android.Resource.Color.abc_btn_colored_text_material;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Color.abc_color_highlight_material = global::RecordGuard.ListSample.Android.Resource.Color.abc_color_highlight_material;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Color.abc_hint_foreground_material_dark = global::RecordGuard.ListSample.Android.Resource.Color.abc_hint_foreground_material_dark;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Color.abc_hint_foreground_material_light = global::RecordGuard.ListSample.Android.Resource.Color.abc_hint_foreground_material_light;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Color.abc_input_method_navigation_guard = global::RecordGuard.ListSample.Android.Resource.Color.abc_input_method_navigation_guard;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Color.abc_primary_text_disable_only_material_dark = global::RecordGuard.ListSample.Android.Resource.Color.abc_primary_text_disable_only_material_dark;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Color.abc_primary_text_disable_only_material_light = global::RecordGuard.ListSample.Android.Resource.Color.abc_primary_text_disable_only_material_light;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Color.abc_primary_text_material_dark = global::RecordGuard.ListSample.Android.Resource.Color.abc_primary_text_material_dark;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Color.abc_primary_text_material_light = global::RecordGuard.ListSample.Android.Resource.Color.abc_primary_text_material_light;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Color.abc_search_url_text = global::RecordGuard.ListSample.Android.Resource.Color.abc_search_url_text;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Color.abc_search_url_text_normal = global::RecordGuard.ListSample.Android.Resource.Color.abc_search_url_text_normal;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Color.abc_search_url_text_pressed = global::RecordGuard.ListSample.Android.Resource.Color.abc_search_url_text_pressed;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Color.abc_search_url_text_selected = global::RecordGuard.ListSample.Android.Resource.Color.abc_search_url_text_selected;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Color.abc_secondary_text_material_dark = global::RecordGuard.ListSample.Android.Resource.Color.abc_secondary_text_material_dark;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Color.abc_secondary_text_material_light = global::RecordGuard.ListSample.Android.Resource.Color.abc_secondary_text_material_light;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Color.abc_tint_btn_checkable = global::RecordGuard.ListSample.Android.Resource.Color.abc_tint_btn_checkable;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Color.abc_tint_default = global::RecordGuard.ListSample.Android.Resource.Color.abc_tint_default;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Color.abc_tint_edittext = global::RecordGuard.ListSample.Android.Resource.Color.abc_tint_edittext;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Color.abc_tint_seek_thumb = global::RecordGuard.ListSample.Android.Resource.Color.abc_tint_seek_thumb;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Color.abc_tint_spinner = global::RecordGuard.ListSample.Android.Resource.Color.abc_tint_spinner;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Color.abc_tint_switch_track = global::RecordGuard.ListSample.Android.Resource.Color.abc_tint_switch_track;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Color.accent_material_dark = global::RecordGuard.ListSample.Android.Resource.Color.accent_material_dark;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Color.accent_material_light = global::RecordGuard.ListSample.Android.Resource.Color.accent_material_light;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Color.background_floating_material_dark = global::RecordGuard.ListSample.Android.Resource.Color.background_floating_material_dark;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Color.background_floating_material_light = global::RecordGuard.ListSample.Android.Resource.Color.background_floating_material_light;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Color.background_material_dark = global::RecordGuard.ListSample.Android.Resource.Color.background_material_dark;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Color.background_material_light = global::RecordGuard.ListSample.Android.Resource.Color.background_material_light;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Color.bright_foreground_disabled_material_dark = global::RecordGuard.ListSample.Android.Resource.Color.bright_foreground_disabled_material_dark;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Color.bright_foreground_disabled_material_light = global::RecordGuard.ListSample.Android.Resource.Color.bright_foreground_disabled_material_light;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Color.bright_foreground_inverse_material_dark = global::RecordGuard.ListSample.Android.Resource.Color.bright_foreground_inverse_material_dark;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Color.bright_foreground_inverse_material_light = global::RecordGuard.ListSample.Android.Resource.Color.bright_foreground_inverse_material_light;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Color.bright_foreground_material_dark = global::RecordGuard.ListSample.Android.Resource.Color.bright_foreground_material_dark;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Color.bright_foreground_material_light = global::RecordGuard.ListSample.Android.Resource.Color.bright_foreground_material_light;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Color.button_material_dark = global::RecordGuard.ListSample.Android.Resource.Color.button_material_dark;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Color.button_material_light = global::RecordGuard.ListSample.Android.Resource.Color.button_material_light;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Color.dim_foreground_disabled_material_dark = global::RecordGuard.ListSample.Android.Resource.Color.dim_foreground_disabled_material_dark;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Color.dim_foreground_disabled_material_light = global::RecordGuard.ListSample.Android.Resource.Color.dim_foreground_disabled_material_light;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Color.dim_foreground_material_dark = global::RecordGuard.ListSample.Android.Resource.Color.dim_foreground_material_dark;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Color.dim_foreground_material_light = global::RecordGuard.ListSample.Android.Resource.Color.dim_foreground_material_light;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Color.error_color_material_dark = global::RecordGuard.ListSample.Android.Resource.Color.error_color_material_dark;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Color.error_color_material_light = global::RecordGuard.ListSample.Android.Resource.Color.error_color_material_light;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Color.foreground_material_dark = global::RecordGuard.ListSample.Android.Resource.Color.foreground_material_dark;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Color.foreground_material_light = global::RecordGuard.ListSample.Android.Resource.Color.foreground_material_light;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Color.highlighted_text_material_dark = global::RecordGuard.ListSample.Android.Resource.Color.highlighted_text_material_dark;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Color.highlighted_text_material_light = global::RecordGuard.ListSample.Android.Resource.Color.highlighted_text_material_light;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Color.material_blue_grey_800 = global::RecordGuard.ListSample.Android.Resource.Color.material_blue_grey_800;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Color.material_blue_grey_900 = global::RecordGuard.ListSample.Android.Resource.Color.material_blue_grey_900;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Color.material_blue_grey_950 = global::RecordGuard.ListSample.Android.Resource.Color.material_blue_grey_950;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Color.material_deep_teal_200 = global::RecordGuard.ListSample.Android.Resource.Color.material_deep_teal_200;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Color.material_deep_teal_500 = global::RecordGuard.ListSample.Android.Resource.Color.material_deep_teal_500;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Color.material_grey_100 = global::RecordGuard.ListSample.Android.Resource.Color.material_grey_100;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Color.material_grey_300 = global::RecordGuard.ListSample.Android.Resource.Color.material_grey_300;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Color.material_grey_50 = global::RecordGuard.ListSample.Android.Resource.Color.material_grey_50;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Color.material_grey_600 = global::RecordGuard.ListSample.Android.Resource.Color.material_grey_600;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Color.material_grey_800 = global::RecordGuard.ListSample.Android.Resource.Color.material_grey_800;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Color.material_grey_850 = global::RecordGuard.ListSample.Android.Resource.Color.material_grey_850;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Color.material_grey_900 = global::RecordGuard.ListSample.Android.Resource.Color.material_grey_900;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Color.notification_action_color_filter = global::RecordGuard.ListSample.Android.Resource.Color.notification_action_color_filter;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Color.notification_icon_bg_color = global::RecordGuard.ListSample.Android.Resource.Color.notification_icon_bg_color;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Color.notification_material_background_media_default_color = global::RecordGuard.ListSample.Android.Resource.Color.notification_material_background_media_default_color;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Color.primary_dark_material_dark = global::RecordGuard.ListSample.Android.Resource.Color.primary_dark_material_dark;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Color.primary_dark_material_light = global::RecordGuard.ListSample.Android.Resource.Color.primary_dark_material_light;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Color.primary_material_dark = global::RecordGuard.ListSample.Android.Resource.Color.primary_material_dark;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Color.primary_material_light = global::RecordGuard.ListSample.Android.Resource.Color.primary_material_light;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Color.primary_text_default_material_dark = global::RecordGuard.ListSample.Android.Resource.Color.primary_text_default_material_dark;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Color.primary_text_default_material_light = global::RecordGuard.ListSample.Android.Resource.Color.primary_text_default_material_light;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Color.primary_text_disabled_material_dark = global::RecordGuard.ListSample.Android.Resource.Color.primary_text_disabled_material_dark;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Color.primary_text_disabled_material_light = global::RecordGuard.ListSample.Android.Resource.Color.primary_text_disabled_material_light;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Color.ripple_material_dark = global::RecordGuard.ListSample.Android.Resource.Color.ripple_material_dark;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Color.ripple_material_light = global::RecordGuard.ListSample.Android.Resource.Color.ripple_material_light;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Color.secondary_text_default_material_dark = global::RecordGuard.ListSample.Android.Resource.Color.secondary_text_default_material_dark;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Color.secondary_text_default_material_light = global::RecordGuard.ListSample.Android.Resource.Color.secondary_text_default_material_light;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Color.secondary_text_disabled_material_dark = global::RecordGuard.ListSample.Android.Resource.Color.secondary_text_disabled_material_dark;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Color.secondary_text_disabled_material_light = global::RecordGuard.ListSample.Android.Resource.Color.secondary_text_disabled_material_light;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Color.switch_thumb_disabled_material_dark = global::RecordGuard.ListSample.Android.Resource.Color.switch_thumb_disabled_material_dark;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Color.switch_thumb_disabled_material_light = global::RecordGuard.ListSample.Android.Resource.Color.switch_thumb_disabled_material_light;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Color.switch_thumb_material_dark = global::RecordGuard.ListSample.Android.Resource.Color.switch_thumb_material_dark;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Color.switch_thumb_material_light = global::RecordGuard.ListSample.Android.Resource.Color.switch_thumb_material_light;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Color.switch_thumb_normal_material_dark = global::RecordGuard.ListSample.Android.Resource.Color.switch_thumb_normal_material_dark;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Color.switch_thumb_normal_material_light = global::RecordGuard.ListSample.Android.Resource.Color.switch_thumb_normal_material_light;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Color.tooltip_background_dark = global::RecordGuard.ListSample.Android.Resource.Color.tooltip_background_dark;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Color.tooltip_background_light = global::RecordGuard.ListSample.Android.Resource.Color.tooltip_background_light;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.abc_action_bar_content_inset_material = global::RecordGuard.ListSample.Android.Resource.Dimension.abc_action_bar_content_inset_material;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.abc_action_bar_content_inset_with_nav = global::RecordGuard.ListSample.Android.Resource.Dimension.abc_action_bar_content_inset_with_nav;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.abc_action_bar_default_height_material = global::RecordGuard.ListSample.Android.Resource.Dimension.abc_action_bar_default_height_material;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.abc_action_bar_default_padding_end_material = global::RecordGuard.ListSample.Android.Resource.Dimension.abc_action_bar_default_padding_end_material;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.abc_action_bar_default_padding_start_material = global::RecordGuard.ListSample.Android.Resource.Dimension.abc_action_bar_default_padding_start_material;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.abc_action_bar_elevation_material = global::RecordGuard.ListSample.Android.Resource.Dimension.abc_action_bar_elevation_material;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.abc_action_bar_icon_vertical_padding_material = global::RecordGuard.ListSample.Android.Resource.Dimension.abc_action_bar_icon_vertical_padding_material;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.abc_action_bar_overflow_padding_end_material = global::RecordGuard.ListSample.Android.Resource.Dimension.abc_action_bar_overflow_padding_end_material;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.abc_action_bar_overflow_padding_start_material = global::RecordGuard.ListSample.Android.Resource.Dimension.abc_action_bar_overflow_padding_start_material;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.abc_action_bar_stacked_max_height = global::RecordGuard.ListSample.Android.Resource.Dimension.abc_action_bar_stacked_max_height;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.abc_action_bar_stacked_tab_max_width = global::RecordGuard.ListSample.Android.Resource.Dimension.abc_action_bar_stacked_tab_max_width;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material = global::RecordGuard.ListSample.Android.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.abc_action_bar_subtitle_top_margin_material = global::RecordGuard.ListSample.Android.Resource.Dimension.abc_action_bar_subtitle_top_margin_material;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.abc_action_button_min_height_material = global::RecordGuard.ListSample.Android.Resource.Dimension.abc_action_button_min_height_material;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.abc_action_button_min_width_material = global::RecordGuard.ListSample.Android.Resource.Dimension.abc_action_button_min_width_material;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.abc_action_button_min_width_overflow_material = global::RecordGuard.ListSample.Android.Resource.Dimension.abc_action_button_min_width_overflow_material;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.abc_alert_dialog_button_bar_height = global::RecordGuard.ListSample.Android.Resource.Dimension.abc_alert_dialog_button_bar_height;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.abc_alert_dialog_button_dimen = global::RecordGuard.ListSample.Android.Resource.Dimension.abc_alert_dialog_button_dimen;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.abc_button_inset_horizontal_material = global::RecordGuard.ListSample.Android.Resource.Dimension.abc_button_inset_horizontal_material;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.abc_button_inset_vertical_material = global::RecordGuard.ListSample.Android.Resource.Dimension.abc_button_inset_vertical_material;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.abc_button_padding_horizontal_material = global::RecordGuard.ListSample.Android.Resource.Dimension.abc_button_padding_horizontal_material;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.abc_button_padding_vertical_material = global::RecordGuard.ListSample.Android.Resource.Dimension.abc_button_padding_vertical_material;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.abc_cascading_menus_min_smallest_width = global::RecordGuard.ListSample.Android.Resource.Dimension.abc_cascading_menus_min_smallest_width;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.abc_config_prefDialogWidth = global::RecordGuard.ListSample.Android.Resource.Dimension.abc_config_prefDialogWidth;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.abc_control_corner_material = global::RecordGuard.ListSample.Android.Resource.Dimension.abc_control_corner_material;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.abc_control_inset_material = global::RecordGuard.ListSample.Android.Resource.Dimension.abc_control_inset_material;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.abc_control_padding_material = global::RecordGuard.ListSample.Android.Resource.Dimension.abc_control_padding_material;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.abc_dialog_corner_radius_material = global::RecordGuard.ListSample.Android.Resource.Dimension.abc_dialog_corner_radius_material;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.abc_dialog_fixed_height_major = global::RecordGuard.ListSample.Android.Resource.Dimension.abc_dialog_fixed_height_major;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.abc_dialog_fixed_height_minor = global::RecordGuard.ListSample.Android.Resource.Dimension.abc_dialog_fixed_height_minor;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.abc_dialog_fixed_width_major = global::RecordGuard.ListSample.Android.Resource.Dimension.abc_dialog_fixed_width_major;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.abc_dialog_fixed_width_minor = global::RecordGuard.ListSample.Android.Resource.Dimension.abc_dialog_fixed_width_minor;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons = global::RecordGuard.ListSample.Android.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.abc_dialog_list_padding_top_no_title = global::RecordGuard.ListSample.Android.Resource.Dimension.abc_dialog_list_padding_top_no_title;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.abc_dialog_min_width_major = global::RecordGuard.ListSample.Android.Resource.Dimension.abc_dialog_min_width_major;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.abc_dialog_min_width_minor = global::RecordGuard.ListSample.Android.Resource.Dimension.abc_dialog_min_width_minor;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.abc_dialog_padding_material = global::RecordGuard.ListSample.Android.Resource.Dimension.abc_dialog_padding_material;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.abc_dialog_padding_top_material = global::RecordGuard.ListSample.Android.Resource.Dimension.abc_dialog_padding_top_material;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.abc_dialog_title_divider_material = global::RecordGuard.ListSample.Android.Resource.Dimension.abc_dialog_title_divider_material;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.abc_disabled_alpha_material_dark = global::RecordGuard.ListSample.Android.Resource.Dimension.abc_disabled_alpha_material_dark;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.abc_disabled_alpha_material_light = global::RecordGuard.ListSample.Android.Resource.Dimension.abc_disabled_alpha_material_light;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.abc_dropdownitem_icon_width = global::RecordGuard.ListSample.Android.Resource.Dimension.abc_dropdownitem_icon_width;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.abc_dropdownitem_text_padding_left = global::RecordGuard.ListSample.Android.Resource.Dimension.abc_dropdownitem_text_padding_left;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.abc_dropdownitem_text_padding_right = global::RecordGuard.ListSample.Android.Resource.Dimension.abc_dropdownitem_text_padding_right;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.abc_edit_text_inset_bottom_material = global::RecordGuard.ListSample.Android.Resource.Dimension.abc_edit_text_inset_bottom_material;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.abc_edit_text_inset_horizontal_material = global::RecordGuard.ListSample.Android.Resource.Dimension.abc_edit_text_inset_horizontal_material;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.abc_edit_text_inset_top_material = global::RecordGuard.ListSample.Android.Resource.Dimension.abc_edit_text_inset_top_material;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.abc_floating_window_z = global::RecordGuard.ListSample.Android.Resource.Dimension.abc_floating_window_z;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.abc_list_item_padding_horizontal_material = global::RecordGuard.ListSample.Android.Resource.Dimension.abc_list_item_padding_horizontal_material;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.abc_panel_menu_list_width = global::RecordGuard.ListSample.Android.Resource.Dimension.abc_panel_menu_list_width;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.abc_progress_bar_height_material = global::RecordGuard.ListSample.Android.Resource.Dimension.abc_progress_bar_height_material;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.abc_search_view_preferred_height = global::RecordGuard.ListSample.Android.Resource.Dimension.abc_search_view_preferred_height;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.abc_search_view_preferred_width = global::RecordGuard.ListSample.Android.Resource.Dimension.abc_search_view_preferred_width;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.abc_seekbar_track_background_height_material = global::RecordGuard.ListSample.Android.Resource.Dimension.abc_seekbar_track_background_height_material;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.abc_seekbar_track_progress_height_material = global::RecordGuard.ListSample.Android.Resource.Dimension.abc_seekbar_track_progress_height_material;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.abc_select_dialog_padding_start_material = global::RecordGuard.ListSample.Android.Resource.Dimension.abc_select_dialog_padding_start_material;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.abc_switch_padding = global::RecordGuard.ListSample.Android.Resource.Dimension.abc_switch_padding;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.abc_text_size_body_1_material = global::RecordGuard.ListSample.Android.Resource.Dimension.abc_text_size_body_1_material;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.abc_text_size_body_2_material = global::RecordGuard.ListSample.Android.Resource.Dimension.abc_text_size_body_2_material;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.abc_text_size_button_material = global::RecordGuard.ListSample.Android.Resource.Dimension.abc_text_size_button_material;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.abc_text_size_caption_material = global::RecordGuard.ListSample.Android.Resource.Dimension.abc_text_size_caption_material;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.abc_text_size_display_1_material = global::RecordGuard.ListSample.Android.Resource.Dimension.abc_text_size_display_1_material;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.abc_text_size_display_2_material = global::RecordGuard.ListSample.Android.Resource.Dimension.abc_text_size_display_2_material;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.abc_text_size_display_3_material = global::RecordGuard.ListSample.Android.Resource.Dimension.abc_text_size_display_3_material;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.abc_text_size_display_4_material = global::RecordGuard.ListSample.Android.Resource.Dimension.abc_text_size_display_4_material;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.abc_text_size_headline_material = global::RecordGuard.ListSample.Android.Resource.Dimension.abc_text_size_headline_material;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.abc_text_size_large_material = global::RecordGuard.ListSample.Android.Resource.Dimension.abc_text_size_large_material;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.abc_text_size_medium_material = global::RecordGuard.ListSample.Android.Resource.Dimension.abc_text_size_medium_material;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.abc_text_size_menu_header_material = global::RecordGuard.ListSample.Android.Resource.Dimension.abc_text_size_menu_header_material;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.abc_text_size_menu_material = global::RecordGuard.ListSample.Android.Resource.Dimension.abc_text_size_menu_material;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.abc_text_size_small_material = global::RecordGuard.ListSample.Android.Resource.Dimension.abc_text_size_small_material;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.abc_text_size_subhead_material = global::RecordGuard.ListSample.Android.Resource.Dimension.abc_text_size_subhead_material;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.abc_text_size_subtitle_material_toolbar = global::RecordGuard.ListSample.Android.Resource.Dimension.abc_text_size_subtitle_material_toolbar;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.abc_text_size_title_material = global::RecordGuard.ListSample.Android.Resource.Dimension.abc_text_size_title_material;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.abc_text_size_title_material_toolbar = global::RecordGuard.ListSample.Android.Resource.Dimension.abc_text_size_title_material_toolbar;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.compat_button_inset_horizontal_material = global::RecordGuard.ListSample.Android.Resource.Dimension.compat_button_inset_horizontal_material;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.compat_button_inset_vertical_material = global::RecordGuard.ListSample.Android.Resource.Dimension.compat_button_inset_vertical_material;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.compat_button_padding_horizontal_material = global::RecordGuard.ListSample.Android.Resource.Dimension.compat_button_padding_horizontal_material;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.compat_button_padding_vertical_material = global::RecordGuard.ListSample.Android.Resource.Dimension.compat_button_padding_vertical_material;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.compat_control_corner_material = global::RecordGuard.ListSample.Android.Resource.Dimension.compat_control_corner_material;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.compat_notification_large_icon_max_height = global::RecordGuard.ListSample.Android.Resource.Dimension.compat_notification_large_icon_max_height;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.compat_notification_large_icon_max_width = global::RecordGuard.ListSample.Android.Resource.Dimension.compat_notification_large_icon_max_width;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.disabled_alpha_material_dark = global::RecordGuard.ListSample.Android.Resource.Dimension.disabled_alpha_material_dark;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.disabled_alpha_material_light = global::RecordGuard.ListSample.Android.Resource.Dimension.disabled_alpha_material_light;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.fastscroll_default_thickness = global::RecordGuard.ListSample.Android.Resource.Dimension.fastscroll_default_thickness;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.fastscroll_margin = global::RecordGuard.ListSample.Android.Resource.Dimension.fastscroll_margin;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.fastscroll_minimum_range = global::RecordGuard.ListSample.Android.Resource.Dimension.fastscroll_minimum_range;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.highlight_alpha_material_colored = global::RecordGuard.ListSample.Android.Resource.Dimension.highlight_alpha_material_colored;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.highlight_alpha_material_dark = global::RecordGuard.ListSample.Android.Resource.Dimension.highlight_alpha_material_dark;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.highlight_alpha_material_light = global::RecordGuard.ListSample.Android.Resource.Dimension.highlight_alpha_material_light;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.hint_alpha_material_dark = global::RecordGuard.ListSample.Android.Resource.Dimension.hint_alpha_material_dark;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.hint_alpha_material_light = global::RecordGuard.ListSample.Android.Resource.Dimension.hint_alpha_material_light;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.hint_pressed_alpha_material_dark = global::RecordGuard.ListSample.Android.Resource.Dimension.hint_pressed_alpha_material_dark;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.hint_pressed_alpha_material_light = global::RecordGuard.ListSample.Android.Resource.Dimension.hint_pressed_alpha_material_light;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame = global::RecordGuard.ListSample.Android.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity = global::RecordGuard.ListSample.Android.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.item_touch_helper_swipe_escape_velocity = global::RecordGuard.ListSample.Android.Resource.Dimension.item_touch_helper_swipe_escape_velocity;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.notification_action_icon_size = global::RecordGuard.ListSample.Android.Resource.Dimension.notification_action_icon_size;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.notification_action_text_size = global::RecordGuard.ListSample.Android.Resource.Dimension.notification_action_text_size;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.notification_big_circle_margin = global::RecordGuard.ListSample.Android.Resource.Dimension.notification_big_circle_margin;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.notification_content_margin_start = global::RecordGuard.ListSample.Android.Resource.Dimension.notification_content_margin_start;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.notification_large_icon_height = global::RecordGuard.ListSample.Android.Resource.Dimension.notification_large_icon_height;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.notification_large_icon_width = global::RecordGuard.ListSample.Android.Resource.Dimension.notification_large_icon_width;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.notification_main_column_padding_top = global::RecordGuard.ListSample.Android.Resource.Dimension.notification_main_column_padding_top;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.notification_media_narrow_margin = global::RecordGuard.ListSample.Android.Resource.Dimension.notification_media_narrow_margin;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.notification_right_icon_size = global::RecordGuard.ListSample.Android.Resource.Dimension.notification_right_icon_size;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.notification_right_side_padding_top = global::RecordGuard.ListSample.Android.Resource.Dimension.notification_right_side_padding_top;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.notification_small_icon_background_padding = global::RecordGuard.ListSample.Android.Resource.Dimension.notification_small_icon_background_padding;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.notification_small_icon_size_as_large = global::RecordGuard.ListSample.Android.Resource.Dimension.notification_small_icon_size_as_large;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.notification_subtext_size = global::RecordGuard.ListSample.Android.Resource.Dimension.notification_subtext_size;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.notification_top_pad = global::RecordGuard.ListSample.Android.Resource.Dimension.notification_top_pad;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.notification_top_pad_large_text = global::RecordGuard.ListSample.Android.Resource.Dimension.notification_top_pad_large_text;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.subtitle_corner_radius = global::RecordGuard.ListSample.Android.Resource.Dimension.subtitle_corner_radius;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.subtitle_outline_width = global::RecordGuard.ListSample.Android.Resource.Dimension.subtitle_outline_width;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.subtitle_shadow_offset = global::RecordGuard.ListSample.Android.Resource.Dimension.subtitle_shadow_offset;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.subtitle_shadow_radius = global::RecordGuard.ListSample.Android.Resource.Dimension.subtitle_shadow_radius;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.tooltip_corner_radius = global::RecordGuard.ListSample.Android.Resource.Dimension.tooltip_corner_radius;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.tooltip_horizontal_padding = global::RecordGuard.ListSample.Android.Resource.Dimension.tooltip_horizontal_padding;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.tooltip_margin = global::RecordGuard.ListSample.Android.Resource.Dimension.tooltip_margin;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.tooltip_precise_anchor_extra_offset = global::RecordGuard.ListSample.Android.Resource.Dimension.tooltip_precise_anchor_extra_offset;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.tooltip_precise_anchor_threshold = global::RecordGuard.ListSample.Android.Resource.Dimension.tooltip_precise_anchor_threshold;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.tooltip_vertical_padding = global::RecordGuard.ListSample.Android.Resource.Dimension.tooltip_vertical_padding;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.tooltip_y_offset_non_touch = global::RecordGuard.ListSample.Android.Resource.Dimension.tooltip_y_offset_non_touch;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Dimension.tooltip_y_offset_touch = global::RecordGuard.ListSample.Android.Resource.Dimension.tooltip_y_offset_touch;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Drawable.abc_ab_share_pack_mtrl_alpha = global::RecordGuard.ListSample.Android.Resource.Drawable.abc_ab_share_pack_mtrl_alpha;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Drawable.abc_action_bar_item_background_material = global::RecordGuard.ListSample.Android.Resource.Drawable.abc_action_bar_item_background_material;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Drawable.abc_btn_borderless_material = global::RecordGuard.ListSample.Android.Resource.Drawable.abc_btn_borderless_material;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Drawable.abc_btn_check_material = global::RecordGuard.ListSample.Android.Resource.Drawable.abc_btn_check_material;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Drawable.abc_btn_check_to_on_mtrl_000 = global::RecordGuard.ListSample.Android.Resource.Drawable.abc_btn_check_to_on_mtrl_000;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Drawable.abc_btn_check_to_on_mtrl_015 = global::RecordGuard.ListSample.Android.Resource.Drawable.abc_btn_check_to_on_mtrl_015;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Drawable.abc_btn_colored_material = global::RecordGuard.ListSample.Android.Resource.Drawable.abc_btn_colored_material;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Drawable.abc_btn_default_mtrl_shape = global::RecordGuard.ListSample.Android.Resource.Drawable.abc_btn_default_mtrl_shape;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Drawable.abc_btn_radio_material = global::RecordGuard.ListSample.Android.Resource.Drawable.abc_btn_radio_material;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Drawable.abc_btn_radio_to_on_mtrl_000 = global::RecordGuard.ListSample.Android.Resource.Drawable.abc_btn_radio_to_on_mtrl_000;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Drawable.abc_btn_radio_to_on_mtrl_015 = global::RecordGuard.ListSample.Android.Resource.Drawable.abc_btn_radio_to_on_mtrl_015;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001 = global::RecordGuard.ListSample.Android.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012 = global::RecordGuard.ListSample.Android.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Drawable.abc_cab_background_internal_bg = global::RecordGuard.ListSample.Android.Resource.Drawable.abc_cab_background_internal_bg;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Drawable.abc_cab_background_top_material = global::RecordGuard.ListSample.Android.Resource.Drawable.abc_cab_background_top_material;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Drawable.abc_cab_background_top_mtrl_alpha = global::RecordGuard.ListSample.Android.Resource.Drawable.abc_cab_background_top_mtrl_alpha;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Drawable.abc_control_background_material = global::RecordGuard.ListSample.Android.Resource.Drawable.abc_control_background_material;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Drawable.abc_dialog_material_background = global::RecordGuard.ListSample.Android.Resource.Drawable.abc_dialog_material_background;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Drawable.abc_edit_text_material = global::RecordGuard.ListSample.Android.Resource.Drawable.abc_edit_text_material;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Drawable.abc_ic_ab_back_material = global::RecordGuard.ListSample.Android.Resource.Drawable.abc_ic_ab_back_material;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp = global::RecordGuard.ListSample.Android.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Drawable.abc_ic_clear_material = global::RecordGuard.ListSample.Android.Resource.Drawable.abc_ic_clear_material;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha = global::RecordGuard.ListSample.Android.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Drawable.abc_ic_go_search_api_material = global::RecordGuard.ListSample.Android.Resource.Drawable.abc_ic_go_search_api_material;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha = global::RecordGuard.ListSample.Android.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha = global::RecordGuard.ListSample.Android.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Drawable.abc_ic_menu_overflow_material = global::RecordGuard.ListSample.Android.Resource.Drawable.abc_ic_menu_overflow_material;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha = global::RecordGuard.ListSample.Android.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha = global::RecordGuard.ListSample.Android.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Drawable.abc_ic_menu_share_mtrl_alpha = global::RecordGuard.ListSample.Android.Resource.Drawable.abc_ic_menu_share_mtrl_alpha;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Drawable.abc_ic_search_api_material = global::RecordGuard.ListSample.Android.Resource.Drawable.abc_ic_search_api_material;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Drawable.abc_ic_star_black_16dp = global::RecordGuard.ListSample.Android.Resource.Drawable.abc_ic_star_black_16dp;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Drawable.abc_ic_star_black_36dp = global::RecordGuard.ListSample.Android.Resource.Drawable.abc_ic_star_black_36dp;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Drawable.abc_ic_star_black_48dp = global::RecordGuard.ListSample.Android.Resource.Drawable.abc_ic_star_black_48dp;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Drawable.abc_ic_star_half_black_16dp = global::RecordGuard.ListSample.Android.Resource.Drawable.abc_ic_star_half_black_16dp;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Drawable.abc_ic_star_half_black_36dp = global::RecordGuard.ListSample.Android.Resource.Drawable.abc_ic_star_half_black_36dp;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Drawable.abc_ic_star_half_black_48dp = global::RecordGuard.ListSample.Android.Resource.Drawable.abc_ic_star_half_black_48dp;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Drawable.abc_ic_voice_search_api_material = global::RecordGuard.ListSample.Android.Resource.Drawable.abc_ic_voice_search_api_material;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Drawable.abc_item_background_holo_dark = global::RecordGuard.ListSample.Android.Resource.Drawable.abc_item_background_holo_dark;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Drawable.abc_item_background_holo_light = global::RecordGuard.ListSample.Android.Resource.Drawable.abc_item_background_holo_light;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Drawable.abc_list_divider_material = global::RecordGuard.ListSample.Android.Resource.Drawable.abc_list_divider_material;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Drawable.abc_list_divider_mtrl_alpha = global::RecordGuard.ListSample.Android.Resource.Drawable.abc_list_divider_mtrl_alpha;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Drawable.abc_list_focused_holo = global::RecordGuard.ListSample.Android.Resource.Drawable.abc_list_focused_holo;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Drawable.abc_list_longpressed_holo = global::RecordGuard.ListSample.Android.Resource.Drawable.abc_list_longpressed_holo;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Drawable.abc_list_pressed_holo_dark = global::RecordGuard.ListSample.Android.Resource.Drawable.abc_list_pressed_holo_dark;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Drawable.abc_list_pressed_holo_light = global::RecordGuard.ListSample.Android.Resource.Drawable.abc_list_pressed_holo_light;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Drawable.abc_list_selector_background_transition_holo_dark = global::RecordGuard.ListSample.Android.Resource.Drawable.abc_list_selector_background_transition_holo_dark;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Drawable.abc_list_selector_background_transition_holo_light = global::RecordGuard.ListSample.Android.Resource.Drawable.abc_list_selector_background_transition_holo_light;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Drawable.abc_list_selector_disabled_holo_dark = global::RecordGuard.ListSample.Android.Resource.Drawable.abc_list_selector_disabled_holo_dark;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Drawable.abc_list_selector_disabled_holo_light = global::RecordGuard.ListSample.Android.Resource.Drawable.abc_list_selector_disabled_holo_light;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Drawable.abc_list_selector_holo_dark = global::RecordGuard.ListSample.Android.Resource.Drawable.abc_list_selector_holo_dark;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Drawable.abc_list_selector_holo_light = global::RecordGuard.ListSample.Android.Resource.Drawable.abc_list_selector_holo_light;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult = global::RecordGuard.ListSample.Android.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Drawable.abc_popup_background_mtrl_mult = global::RecordGuard.ListSample.Android.Resource.Drawable.abc_popup_background_mtrl_mult;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Drawable.abc_ratingbar_indicator_material = global::RecordGuard.ListSample.Android.Resource.Drawable.abc_ratingbar_indicator_material;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Drawable.abc_ratingbar_material = global::RecordGuard.ListSample.Android.Resource.Drawable.abc_ratingbar_material;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Drawable.abc_ratingbar_small_material = global::RecordGuard.ListSample.Android.Resource.Drawable.abc_ratingbar_small_material;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha = global::RecordGuard.ListSample.Android.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000 = global::RecordGuard.ListSample.Android.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005 = global::RecordGuard.ListSample.Android.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Drawable.abc_scrubber_primary_mtrl_alpha = global::RecordGuard.ListSample.Android.Resource.Drawable.abc_scrubber_primary_mtrl_alpha;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Drawable.abc_scrubber_track_mtrl_alpha = global::RecordGuard.ListSample.Android.Resource.Drawable.abc_scrubber_track_mtrl_alpha;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Drawable.abc_seekbar_thumb_material = global::RecordGuard.ListSample.Android.Resource.Drawable.abc_seekbar_thumb_material;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Drawable.abc_seekbar_tick_mark_material = global::RecordGuard.ListSample.Android.Resource.Drawable.abc_seekbar_tick_mark_material;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Drawable.abc_seekbar_track_material = global::RecordGuard.ListSample.Android.Resource.Drawable.abc_seekbar_track_material;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Drawable.abc_spinner_mtrl_am_alpha = global::RecordGuard.ListSample.Android.Resource.Drawable.abc_spinner_mtrl_am_alpha;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Drawable.abc_spinner_textfield_background_material = global::RecordGuard.ListSample.Android.Resource.Drawable.abc_spinner_textfield_background_material;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Drawable.abc_switch_thumb_material = global::RecordGuard.ListSample.Android.Resource.Drawable.abc_switch_thumb_material;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Drawable.abc_switch_track_mtrl_alpha = global::RecordGuard.ListSample.Android.Resource.Drawable.abc_switch_track_mtrl_alpha;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Drawable.abc_tab_indicator_material = global::RecordGuard.ListSample.Android.Resource.Drawable.abc_tab_indicator_material;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Drawable.abc_tab_indicator_mtrl_alpha = global::RecordGuard.ListSample.Android.Resource.Drawable.abc_tab_indicator_mtrl_alpha;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Drawable.abc_textfield_activated_mtrl_alpha = global::RecordGuard.ListSample.Android.Resource.Drawable.abc_textfield_activated_mtrl_alpha;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Drawable.abc_textfield_default_mtrl_alpha = global::RecordGuard.ListSample.Android.Resource.Drawable.abc_textfield_default_mtrl_alpha;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha = global::RecordGuard.ListSample.Android.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Drawable.abc_textfield_search_default_mtrl_alpha = global::RecordGuard.ListSample.Android.Resource.Drawable.abc_textfield_search_default_mtrl_alpha;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Drawable.abc_textfield_search_material = global::RecordGuard.ListSample.Android.Resource.Drawable.abc_textfield_search_material;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Drawable.abc_text_cursor_material = global::RecordGuard.ListSample.Android.Resource.Drawable.abc_text_cursor_material;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Drawable.abc_text_select_handle_left_mtrl_dark = global::RecordGuard.ListSample.Android.Resource.Drawable.abc_text_select_handle_left_mtrl_dark;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Drawable.abc_text_select_handle_left_mtrl_light = global::RecordGuard.ListSample.Android.Resource.Drawable.abc_text_select_handle_left_mtrl_light;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Drawable.abc_text_select_handle_middle_mtrl_dark = global::RecordGuard.ListSample.Android.Resource.Drawable.abc_text_select_handle_middle_mtrl_dark;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Drawable.abc_text_select_handle_middle_mtrl_light = global::RecordGuard.ListSample.Android.Resource.Drawable.abc_text_select_handle_middle_mtrl_light;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Drawable.abc_text_select_handle_right_mtrl_dark = global::RecordGuard.ListSample.Android.Resource.Drawable.abc_text_select_handle_right_mtrl_dark;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Drawable.abc_text_select_handle_right_mtrl_light = global::RecordGuard.ListSample.Android.Resource.Drawable.abc_text_select_handle_right_mtrl_light;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Drawable.abc_vector_test = global::RecordGuard.ListSample.Android.Resource.Drawable.abc_vector_test;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Drawable.notification_action_background = global::RecordGuard.ListSample.Android.Resource.Drawable.notification_action_background;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Drawable.notification_bg = global::RecordGuard.ListSample.Android.Resource.Drawable.notification_bg;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Drawable.notification_bg_low = global::RecordGuard.ListSample.Android.Resource.Drawable.notification_bg_low;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Drawable.notification_bg_low_normal = global::RecordGuard.ListSample.Android.Resource.Drawable.notification_bg_low_normal;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Drawable.notification_bg_low_pressed = global::RecordGuard.ListSample.Android.Resource.Drawable.notification_bg_low_pressed;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Drawable.notification_bg_normal = global::RecordGuard.ListSample.Android.Resource.Drawable.notification_bg_normal;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Drawable.notification_bg_normal_pressed = global::RecordGuard.ListSample.Android.Resource.Drawable.notification_bg_normal_pressed;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Drawable.notification_icon_background = global::RecordGuard.ListSample.Android.Resource.Drawable.notification_icon_background;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Drawable.notification_template_icon_bg = global::RecordGuard.ListSample.Android.Resource.Drawable.notification_template_icon_bg;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Drawable.notification_template_icon_low_bg = global::RecordGuard.ListSample.Android.Resource.Drawable.notification_template_icon_low_bg;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Drawable.notification_tile_bg = global::RecordGuard.ListSample.Android.Resource.Drawable.notification_tile_bg;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Drawable.notify_panel_notification_icon_bg = global::RecordGuard.ListSample.Android.Resource.Drawable.notify_panel_notification_icon_bg;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Drawable.tooltip_frame_dark = global::RecordGuard.ListSample.Android.Resource.Drawable.tooltip_frame_dark;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Drawable.tooltip_frame_light = global::RecordGuard.ListSample.Android.Resource.Drawable.tooltip_frame_light;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.action0 = global::RecordGuard.ListSample.Android.Resource.Id.action0;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.actions = global::RecordGuard.ListSample.Android.Resource.Id.actions;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.action_bar = global::RecordGuard.ListSample.Android.Resource.Id.action_bar;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.action_bar_activity_content = global::RecordGuard.ListSample.Android.Resource.Id.action_bar_activity_content;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.action_bar_container = global::RecordGuard.ListSample.Android.Resource.Id.action_bar_container;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.action_bar_root = global::RecordGuard.ListSample.Android.Resource.Id.action_bar_root;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.action_bar_spinner = global::RecordGuard.ListSample.Android.Resource.Id.action_bar_spinner;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.action_bar_subtitle = global::RecordGuard.ListSample.Android.Resource.Id.action_bar_subtitle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.action_bar_title = global::RecordGuard.ListSample.Android.Resource.Id.action_bar_title;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.action_container = global::RecordGuard.ListSample.Android.Resource.Id.action_container;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.action_context_bar = global::RecordGuard.ListSample.Android.Resource.Id.action_context_bar;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.action_divider = global::RecordGuard.ListSample.Android.Resource.Id.action_divider;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.action_image = global::RecordGuard.ListSample.Android.Resource.Id.action_image;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.action_menu_divider = global::RecordGuard.ListSample.Android.Resource.Id.action_menu_divider;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.action_menu_presenter = global::RecordGuard.ListSample.Android.Resource.Id.action_menu_presenter;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.action_mode_bar = global::RecordGuard.ListSample.Android.Resource.Id.action_mode_bar;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.action_mode_bar_stub = global::RecordGuard.ListSample.Android.Resource.Id.action_mode_bar_stub;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.action_mode_close_button = global::RecordGuard.ListSample.Android.Resource.Id.action_mode_close_button;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.action_text = global::RecordGuard.ListSample.Android.Resource.Id.action_text;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.activity_chooser_view_content = global::RecordGuard.ListSample.Android.Resource.Id.activity_chooser_view_content;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.add = global::RecordGuard.ListSample.Android.Resource.Id.add;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.alertTitle = global::RecordGuard.ListSample.Android.Resource.Id.alertTitle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.all = global::RecordGuard.ListSample.Android.Resource.Id.all;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.ALT = global::RecordGuard.ListSample.Android.Resource.Id.ALT;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.always = global::RecordGuard.ListSample.Android.Resource.Id.always;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.async = global::RecordGuard.ListSample.Android.Resource.Id.async;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.beginning = global::RecordGuard.ListSample.Android.Resource.Id.beginning;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.blocking = global::RecordGuard.ListSample.Android.Resource.Id.blocking;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.bottom = global::RecordGuard.ListSample.Android.Resource.Id.bottom;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.buttonPanel = global::RecordGuard.ListSample.Android.Resource.Id.buttonPanel;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.cancel_action = global::RecordGuard.ListSample.Android.Resource.Id.cancel_action;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.center = global::RecordGuard.ListSample.Android.Resource.Id.center;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.center_horizontal = global::RecordGuard.ListSample.Android.Resource.Id.center_horizontal;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.center_vertical = global::RecordGuard.ListSample.Android.Resource.Id.center_vertical;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.checkbox = global::RecordGuard.ListSample.Android.Resource.Id.checkbox;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.chronometer = global::RecordGuard.ListSample.Android.Resource.Id.chronometer;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.clip_horizontal = global::RecordGuard.ListSample.Android.Resource.Id.clip_horizontal;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.clip_vertical = global::RecordGuard.ListSample.Android.Resource.Id.clip_vertical;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.collapseActionView = global::RecordGuard.ListSample.Android.Resource.Id.collapseActionView;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.content = global::RecordGuard.ListSample.Android.Resource.Id.content;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.contentPanel = global::RecordGuard.ListSample.Android.Resource.Id.contentPanel;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.CTRL = global::RecordGuard.ListSample.Android.Resource.Id.CTRL;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.custom = global::RecordGuard.ListSample.Android.Resource.Id.custom;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.customPanel = global::RecordGuard.ListSample.Android.Resource.Id.customPanel;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.decor_content_parent = global::RecordGuard.ListSample.Android.Resource.Id.decor_content_parent;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.default_activity_button = global::RecordGuard.ListSample.Android.Resource.Id.default_activity_button;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.disableHome = global::RecordGuard.ListSample.Android.Resource.Id.disableHome;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.edit_query = global::RecordGuard.ListSample.Android.Resource.Id.edit_query;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.end = global::RecordGuard.ListSample.Android.Resource.Id.end;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.end_padder = global::RecordGuard.ListSample.Android.Resource.Id.end_padder;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.expanded_menu = global::RecordGuard.ListSample.Android.Resource.Id.expanded_menu;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.expand_activities_button = global::RecordGuard.ListSample.Android.Resource.Id.expand_activities_button;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.fill = global::RecordGuard.ListSample.Android.Resource.Id.fill;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.fill_horizontal = global::RecordGuard.ListSample.Android.Resource.Id.fill_horizontal;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.fill_vertical = global::RecordGuard.ListSample.Android.Resource.Id.fill_vertical;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.forever = global::RecordGuard.ListSample.Android.Resource.Id.forever;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.FUNCTION = global::RecordGuard.ListSample.Android.Resource.Id.FUNCTION;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.group_divider = global::RecordGuard.ListSample.Android.Resource.Id.group_divider;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.home = global::RecordGuard.ListSample.Android.Resource.Id.home;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.homeAsUp = global::RecordGuard.ListSample.Android.Resource.Id.homeAsUp;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.icon = global::RecordGuard.ListSample.Android.Resource.Id.icon;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.icon_group = global::RecordGuard.ListSample.Android.Resource.Id.icon_group;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.ifRoom = global::RecordGuard.ListSample.Android.Resource.Id.ifRoom;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.image = global::RecordGuard.ListSample.Android.Resource.Id.image;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.info = global::RecordGuard.ListSample.Android.Resource.Id.info;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.italic = global::RecordGuard.ListSample.Android.Resource.Id.italic;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.item_touch_helper_previous_elevation = global::RecordGuard.ListSample.Android.Resource.Id.item_touch_helper_previous_elevation;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.left = global::RecordGuard.ListSample.Android.Resource.Id.left;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.line1 = global::RecordGuard.ListSample.Android.Resource.Id.line1;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.line3 = global::RecordGuard.ListSample.Android.Resource.Id.line3;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.listMode = global::RecordGuard.ListSample.Android.Resource.Id.listMode;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.list_item = global::RecordGuard.ListSample.Android.Resource.Id.list_item;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.media_actions = global::RecordGuard.ListSample.Android.Resource.Id.media_actions;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.message = global::RecordGuard.ListSample.Android.Resource.Id.message;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.META = global::RecordGuard.ListSample.Android.Resource.Id.META;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.middle = global::RecordGuard.ListSample.Android.Resource.Id.middle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.multiply = global::RecordGuard.ListSample.Android.Resource.Id.multiply;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.MvvmCrossTagId = global::RecordGuard.ListSample.Android.Resource.Id.MvvmCrossTagId;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.MvxBindingTagUnique = global::RecordGuard.ListSample.Android.Resource.Id.MvxBindingTagUnique;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.never = global::RecordGuard.ListSample.Android.Resource.Id.never;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.none = global::RecordGuard.ListSample.Android.Resource.Id.none;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.normal = global::RecordGuard.ListSample.Android.Resource.Id.normal;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.notification_background = global::RecordGuard.ListSample.Android.Resource.Id.notification_background;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.notification_main_column = global::RecordGuard.ListSample.Android.Resource.Id.notification_main_column;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.notification_main_column_container = global::RecordGuard.ListSample.Android.Resource.Id.notification_main_column_container;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.parentPanel = global::RecordGuard.ListSample.Android.Resource.Id.parentPanel;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.progress_circular = global::RecordGuard.ListSample.Android.Resource.Id.progress_circular;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.progress_horizontal = global::RecordGuard.ListSample.Android.Resource.Id.progress_horizontal;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.radio = global::RecordGuard.ListSample.Android.Resource.Id.radio;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.right = global::RecordGuard.ListSample.Android.Resource.Id.right;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.right_icon = global::RecordGuard.ListSample.Android.Resource.Id.right_icon;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.right_side = global::RecordGuard.ListSample.Android.Resource.Id.right_side;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.screen = global::RecordGuard.ListSample.Android.Resource.Id.screen;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.scrollIndicatorDown = global::RecordGuard.ListSample.Android.Resource.Id.scrollIndicatorDown;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.scrollIndicatorUp = global::RecordGuard.ListSample.Android.Resource.Id.scrollIndicatorUp;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.scrollView = global::RecordGuard.ListSample.Android.Resource.Id.scrollView;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.search_badge = global::RecordGuard.ListSample.Android.Resource.Id.search_badge;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.search_bar = global::RecordGuard.ListSample.Android.Resource.Id.search_bar;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.search_button = global::RecordGuard.ListSample.Android.Resource.Id.search_button;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.search_close_btn = global::RecordGuard.ListSample.Android.Resource.Id.search_close_btn;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.search_edit_frame = global::RecordGuard.ListSample.Android.Resource.Id.search_edit_frame;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.search_go_btn = global::RecordGuard.ListSample.Android.Resource.Id.search_go_btn;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.search_mag_icon = global::RecordGuard.ListSample.Android.Resource.Id.search_mag_icon;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.search_plate = global::RecordGuard.ListSample.Android.Resource.Id.search_plate;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.search_src_text = global::RecordGuard.ListSample.Android.Resource.Id.search_src_text;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.search_voice_btn = global::RecordGuard.ListSample.Android.Resource.Id.search_voice_btn;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.select_dialog_listview = global::RecordGuard.ListSample.Android.Resource.Id.select_dialog_listview;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.SHIFT = global::RecordGuard.ListSample.Android.Resource.Id.SHIFT;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.shortcut = global::RecordGuard.ListSample.Android.Resource.Id.shortcut;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.showCustom = global::RecordGuard.ListSample.Android.Resource.Id.showCustom;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.showHome = global::RecordGuard.ListSample.Android.Resource.Id.showHome;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.showTitle = global::RecordGuard.ListSample.Android.Resource.Id.showTitle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.spacer = global::RecordGuard.ListSample.Android.Resource.Id.spacer;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.split_action_bar = global::RecordGuard.ListSample.Android.Resource.Id.split_action_bar;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.src_atop = global::RecordGuard.ListSample.Android.Resource.Id.src_atop;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.src_in = global::RecordGuard.ListSample.Android.Resource.Id.src_in;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.src_over = global::RecordGuard.ListSample.Android.Resource.Id.src_over;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.start = global::RecordGuard.ListSample.Android.Resource.Id.start;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.status_bar_latest_event_content = global::RecordGuard.ListSample.Android.Resource.Id.status_bar_latest_event_content;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.submenuarrow = global::RecordGuard.ListSample.Android.Resource.Id.submenuarrow;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.submit_area = global::RecordGuard.ListSample.Android.Resource.Id.submit_area;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.SYM = global::RecordGuard.ListSample.Android.Resource.Id.SYM;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.tabMode = global::RecordGuard.ListSample.Android.Resource.Id.tabMode;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.tag_transition_group = global::RecordGuard.ListSample.Android.Resource.Id.tag_transition_group;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.tag_unhandled_key_event_manager = global::RecordGuard.ListSample.Android.Resource.Id.tag_unhandled_key_event_manager;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.tag_unhandled_key_listeners = global::RecordGuard.ListSample.Android.Resource.Id.tag_unhandled_key_listeners;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.text = global::RecordGuard.ListSample.Android.Resource.Id.text;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.text2 = global::RecordGuard.ListSample.Android.Resource.Id.text2;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.textSpacerNoButtons = global::RecordGuard.ListSample.Android.Resource.Id.textSpacerNoButtons;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.textSpacerNoTitle = global::RecordGuard.ListSample.Android.Resource.Id.textSpacerNoTitle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.time = global::RecordGuard.ListSample.Android.Resource.Id.time;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.title = global::RecordGuard.ListSample.Android.Resource.Id.title;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.titleDividerNoCustom = global::RecordGuard.ListSample.Android.Resource.Id.titleDividerNoCustom;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.title_template = global::RecordGuard.ListSample.Android.Resource.Id.title_template;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.top = global::RecordGuard.ListSample.Android.Resource.Id.top;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.topPanel = global::RecordGuard.ListSample.Android.Resource.Id.topPanel;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.uniform = global::RecordGuard.ListSample.Android.Resource.Id.uniform;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.up = global::RecordGuard.ListSample.Android.Resource.Id.up;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.useLogo = global::RecordGuard.ListSample.Android.Resource.Id.useLogo;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.withText = global::RecordGuard.ListSample.Android.Resource.Id.withText;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Id.wrap_content = global::RecordGuard.ListSample.Android.Resource.Id.wrap_content;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Integer.abc_config_activityDefaultDur = global::RecordGuard.ListSample.Android.Resource.Integer.abc_config_activityDefaultDur;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Integer.abc_config_activityShortDur = global::RecordGuard.ListSample.Android.Resource.Integer.abc_config_activityShortDur;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Integer.cancel_button_image_alpha = global::RecordGuard.ListSample.Android.Resource.Integer.cancel_button_image_alpha;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Integer.config_tooltipAnimTime = global::RecordGuard.ListSample.Android.Resource.Integer.config_tooltipAnimTime;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Integer.status_bar_notification_info_maxnum = global::RecordGuard.ListSample.Android.Resource.Integer.status_bar_notification_info_maxnum;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Layout.abc_action_bar_title_item = global::RecordGuard.ListSample.Android.Resource.Layout.abc_action_bar_title_item;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Layout.abc_action_bar_up_container = global::RecordGuard.ListSample.Android.Resource.Layout.abc_action_bar_up_container;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Layout.abc_action_menu_item_layout = global::RecordGuard.ListSample.Android.Resource.Layout.abc_action_menu_item_layout;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Layout.abc_action_menu_layout = global::RecordGuard.ListSample.Android.Resource.Layout.abc_action_menu_layout;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Layout.abc_action_mode_bar = global::RecordGuard.ListSample.Android.Resource.Layout.abc_action_mode_bar;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Layout.abc_action_mode_close_item_material = global::RecordGuard.ListSample.Android.Resource.Layout.abc_action_mode_close_item_material;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Layout.abc_activity_chooser_view = global::RecordGuard.ListSample.Android.Resource.Layout.abc_activity_chooser_view;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Layout.abc_activity_chooser_view_list_item = global::RecordGuard.ListSample.Android.Resource.Layout.abc_activity_chooser_view_list_item;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Layout.abc_alert_dialog_button_bar_material = global::RecordGuard.ListSample.Android.Resource.Layout.abc_alert_dialog_button_bar_material;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Layout.abc_alert_dialog_material = global::RecordGuard.ListSample.Android.Resource.Layout.abc_alert_dialog_material;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Layout.abc_alert_dialog_title_material = global::RecordGuard.ListSample.Android.Resource.Layout.abc_alert_dialog_title_material;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Layout.abc_cascading_menu_item_layout = global::RecordGuard.ListSample.Android.Resource.Layout.abc_cascading_menu_item_layout;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Layout.abc_dialog_title_material = global::RecordGuard.ListSample.Android.Resource.Layout.abc_dialog_title_material;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Layout.abc_expanded_menu_layout = global::RecordGuard.ListSample.Android.Resource.Layout.abc_expanded_menu_layout;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Layout.abc_list_menu_item_checkbox = global::RecordGuard.ListSample.Android.Resource.Layout.abc_list_menu_item_checkbox;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Layout.abc_list_menu_item_icon = global::RecordGuard.ListSample.Android.Resource.Layout.abc_list_menu_item_icon;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Layout.abc_list_menu_item_layout = global::RecordGuard.ListSample.Android.Resource.Layout.abc_list_menu_item_layout;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Layout.abc_list_menu_item_radio = global::RecordGuard.ListSample.Android.Resource.Layout.abc_list_menu_item_radio;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Layout.abc_popup_menu_header_item_layout = global::RecordGuard.ListSample.Android.Resource.Layout.abc_popup_menu_header_item_layout;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Layout.abc_popup_menu_item_layout = global::RecordGuard.ListSample.Android.Resource.Layout.abc_popup_menu_item_layout;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Layout.abc_screen_content_include = global::RecordGuard.ListSample.Android.Resource.Layout.abc_screen_content_include;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Layout.abc_screen_simple = global::RecordGuard.ListSample.Android.Resource.Layout.abc_screen_simple;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Layout.abc_screen_simple_overlay_action_mode = global::RecordGuard.ListSample.Android.Resource.Layout.abc_screen_simple_overlay_action_mode;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Layout.abc_screen_toolbar = global::RecordGuard.ListSample.Android.Resource.Layout.abc_screen_toolbar;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Layout.abc_search_dropdown_item_icons_2line = global::RecordGuard.ListSample.Android.Resource.Layout.abc_search_dropdown_item_icons_2line;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Layout.abc_search_view = global::RecordGuard.ListSample.Android.Resource.Layout.abc_search_view;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Layout.abc_select_dialog_material = global::RecordGuard.ListSample.Android.Resource.Layout.abc_select_dialog_material;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Layout.abc_tooltip = global::RecordGuard.ListSample.Android.Resource.Layout.abc_tooltip;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Layout.notification_action = global::RecordGuard.ListSample.Android.Resource.Layout.notification_action;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Layout.notification_action_tombstone = global::RecordGuard.ListSample.Android.Resource.Layout.notification_action_tombstone;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Layout.notification_media_action = global::RecordGuard.ListSample.Android.Resource.Layout.notification_media_action;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Layout.notification_media_cancel_action = global::RecordGuard.ListSample.Android.Resource.Layout.notification_media_cancel_action;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Layout.notification_template_big_media = global::RecordGuard.ListSample.Android.Resource.Layout.notification_template_big_media;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Layout.notification_template_big_media_custom = global::RecordGuard.ListSample.Android.Resource.Layout.notification_template_big_media_custom;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Layout.notification_template_big_media_narrow = global::RecordGuard.ListSample.Android.Resource.Layout.notification_template_big_media_narrow;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Layout.notification_template_big_media_narrow_custom = global::RecordGuard.ListSample.Android.Resource.Layout.notification_template_big_media_narrow_custom;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Layout.notification_template_custom_big = global::RecordGuard.ListSample.Android.Resource.Layout.notification_template_custom_big;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Layout.notification_template_icon_group = global::RecordGuard.ListSample.Android.Resource.Layout.notification_template_icon_group;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Layout.notification_template_lines_media = global::RecordGuard.ListSample.Android.Resource.Layout.notification_template_lines_media;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Layout.notification_template_media = global::RecordGuard.ListSample.Android.Resource.Layout.notification_template_media;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Layout.notification_template_media_custom = global::RecordGuard.ListSample.Android.Resource.Layout.notification_template_media_custom;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Layout.notification_template_part_chronometer = global::RecordGuard.ListSample.Android.Resource.Layout.notification_template_part_chronometer;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Layout.notification_template_part_time = global::RecordGuard.ListSample.Android.Resource.Layout.notification_template_part_time;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Layout.select_dialog_item_material = global::RecordGuard.ListSample.Android.Resource.Layout.select_dialog_item_material;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Layout.select_dialog_multichoice_material = global::RecordGuard.ListSample.Android.Resource.Layout.select_dialog_multichoice_material;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Layout.select_dialog_singlechoice_material = global::RecordGuard.ListSample.Android.Resource.Layout.select_dialog_singlechoice_material;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Layout.support_simple_spinner_dropdown_item = global::RecordGuard.ListSample.Android.Resource.Layout.support_simple_spinner_dropdown_item;
+			global::MvvmCross.AdvancedRecyclerView.Resource.String.abc_action_bar_home_description = global::RecordGuard.ListSample.Android.Resource.String.abc_action_bar_home_description;
+			global::MvvmCross.AdvancedRecyclerView.Resource.String.abc_action_bar_up_description = global::RecordGuard.ListSample.Android.Resource.String.abc_action_bar_up_description;
+			global::MvvmCross.AdvancedRecyclerView.Resource.String.abc_action_menu_overflow_description = global::RecordGuard.ListSample.Android.Resource.String.abc_action_menu_overflow_description;
+			global::MvvmCross.AdvancedRecyclerView.Resource.String.abc_action_mode_done = global::RecordGuard.ListSample.Android.Resource.String.abc_action_mode_done;
+			global::MvvmCross.AdvancedRecyclerView.Resource.String.abc_activitychooserview_choose_application = global::RecordGuard.ListSample.Android.Resource.String.abc_activitychooserview_choose_application;
+			global::MvvmCross.AdvancedRecyclerView.Resource.String.abc_activity_chooser_view_see_all = global::RecordGuard.ListSample.Android.Resource.String.abc_activity_chooser_view_see_all;
+			global::MvvmCross.AdvancedRecyclerView.Resource.String.abc_capital_off = global::RecordGuard.ListSample.Android.Resource.String.abc_capital_off;
+			global::MvvmCross.AdvancedRecyclerView.Resource.String.abc_capital_on = global::RecordGuard.ListSample.Android.Resource.String.abc_capital_on;
+			global::MvvmCross.AdvancedRecyclerView.Resource.String.abc_font_family_body_1_material = global::RecordGuard.ListSample.Android.Resource.String.abc_font_family_body_1_material;
+			global::MvvmCross.AdvancedRecyclerView.Resource.String.abc_font_family_body_2_material = global::RecordGuard.ListSample.Android.Resource.String.abc_font_family_body_2_material;
+			global::MvvmCross.AdvancedRecyclerView.Resource.String.abc_font_family_button_material = global::RecordGuard.ListSample.Android.Resource.String.abc_font_family_button_material;
+			global::MvvmCross.AdvancedRecyclerView.Resource.String.abc_font_family_caption_material = global::RecordGuard.ListSample.Android.Resource.String.abc_font_family_caption_material;
+			global::MvvmCross.AdvancedRecyclerView.Resource.String.abc_font_family_display_1_material = global::RecordGuard.ListSample.Android.Resource.String.abc_font_family_display_1_material;
+			global::MvvmCross.AdvancedRecyclerView.Resource.String.abc_font_family_display_2_material = global::RecordGuard.ListSample.Android.Resource.String.abc_font_family_display_2_material;
+			global::MvvmCross.AdvancedRecyclerView.Resource.String.abc_font_family_display_3_material = global::RecordGuard.ListSample.Android.Resource.String.abc_font_family_display_3_material;
+			global::MvvmCross.AdvancedRecyclerView.Resource.String.abc_font_family_display_4_material = global::RecordGuard.ListSample.Android.Resource.String.abc_font_family_display_4_material;
+			global::MvvmCross.AdvancedRecyclerView.Resource.String.abc_font_family_headline_material = global::RecordGuard.ListSample.Android.Resource.String.abc_font_family_headline_material;
+			global::MvvmCross.AdvancedRecyclerView.Resource.String.abc_font_family_menu_material = global::RecordGuard.ListSample.Android.Resource.String.abc_font_family_menu_material;
+			global::MvvmCross.AdvancedRecyclerView.Resource.String.abc_font_family_subhead_material = global::RecordGuard.ListSample.Android.Resource.String.abc_font_family_subhead_material;
+			global::MvvmCross.AdvancedRecyclerView.Resource.String.abc_font_family_title_material = global::RecordGuard.ListSample.Android.Resource.String.abc_font_family_title_material;
+			global::MvvmCross.AdvancedRecyclerView.Resource.String.abc_menu_alt_shortcut_label = global::RecordGuard.ListSample.Android.Resource.String.abc_menu_alt_shortcut_label;
+			global::MvvmCross.AdvancedRecyclerView.Resource.String.abc_menu_ctrl_shortcut_label = global::RecordGuard.ListSample.Android.Resource.String.abc_menu_ctrl_shortcut_label;
+			global::MvvmCross.AdvancedRecyclerView.Resource.String.abc_menu_delete_shortcut_label = global::RecordGuard.ListSample.Android.Resource.String.abc_menu_delete_shortcut_label;
+			global::MvvmCross.AdvancedRecyclerView.Resource.String.abc_menu_enter_shortcut_label = global::RecordGuard.ListSample.Android.Resource.String.abc_menu_enter_shortcut_label;
+			global::MvvmCross.AdvancedRecyclerView.Resource.String.abc_menu_function_shortcut_label = global::RecordGuard.ListSample.Android.Resource.String.abc_menu_function_shortcut_label;
+			global::MvvmCross.AdvancedRecyclerView.Resource.String.abc_menu_meta_shortcut_label = global::RecordGuard.ListSample.Android.Resource.String.abc_menu_meta_shortcut_label;
+			global::MvvmCross.AdvancedRecyclerView.Resource.String.abc_menu_shift_shortcut_label = global::RecordGuard.ListSample.Android.Resource.String.abc_menu_shift_shortcut_label;
+			global::MvvmCross.AdvancedRecyclerView.Resource.String.abc_menu_space_shortcut_label = global::RecordGuard.ListSample.Android.Resource.String.abc_menu_space_shortcut_label;
+			global::MvvmCross.AdvancedRecyclerView.Resource.String.abc_menu_sym_shortcut_label = global::RecordGuard.ListSample.Android.Resource.String.abc_menu_sym_shortcut_label;
+			global::MvvmCross.AdvancedRecyclerView.Resource.String.abc_prepend_shortcut_label = global::RecordGuard.ListSample.Android.Resource.String.abc_prepend_shortcut_label;
+			global::MvvmCross.AdvancedRecyclerView.Resource.String.abc_searchview_description_clear = global::RecordGuard.ListSample.Android.Resource.String.abc_searchview_description_clear;
+			global::MvvmCross.AdvancedRecyclerView.Resource.String.abc_searchview_description_query = global::RecordGuard.ListSample.Android.Resource.String.abc_searchview_description_query;
+			global::MvvmCross.AdvancedRecyclerView.Resource.String.abc_searchview_description_search = global::RecordGuard.ListSample.Android.Resource.String.abc_searchview_description_search;
+			global::MvvmCross.AdvancedRecyclerView.Resource.String.abc_searchview_description_submit = global::RecordGuard.ListSample.Android.Resource.String.abc_searchview_description_submit;
+			global::MvvmCross.AdvancedRecyclerView.Resource.String.abc_searchview_description_voice = global::RecordGuard.ListSample.Android.Resource.String.abc_searchview_description_voice;
+			global::MvvmCross.AdvancedRecyclerView.Resource.String.abc_search_hint = global::RecordGuard.ListSample.Android.Resource.String.abc_search_hint;
+			global::MvvmCross.AdvancedRecyclerView.Resource.String.abc_shareactionprovider_share_with = global::RecordGuard.ListSample.Android.Resource.String.abc_shareactionprovider_share_with;
+			global::MvvmCross.AdvancedRecyclerView.Resource.String.abc_shareactionprovider_share_with_application = global::RecordGuard.ListSample.Android.Resource.String.abc_shareactionprovider_share_with_application;
+			global::MvvmCross.AdvancedRecyclerView.Resource.String.abc_toolbar_collapse_description = global::RecordGuard.ListSample.Android.Resource.String.abc_toolbar_collapse_description;
+			global::MvvmCross.AdvancedRecyclerView.Resource.String.AccordionMvxGroupExpandController = global::RecordGuard.ListSample.Android.Resource.String.AccordionMvxGroupExpandController;
+			global::MvvmCross.AdvancedRecyclerView.Resource.String.DefaultMvxGroupExpandController = global::RecordGuard.ListSample.Android.Resource.String.DefaultMvxGroupExpandController;
+			global::MvvmCross.AdvancedRecyclerView.Resource.String.search_menu_title = global::RecordGuard.ListSample.Android.Resource.String.search_menu_title;
+			global::MvvmCross.AdvancedRecyclerView.Resource.String.status_bar_notification_info_overflow = global::RecordGuard.ListSample.Android.Resource.String.status_bar_notification_info_overflow;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.AlertDialog_AppCompat = global::RecordGuard.ListSample.Android.Resource.Style.AlertDialog_AppCompat;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.AlertDialog_AppCompat_Light = global::RecordGuard.ListSample.Android.Resource.Style.AlertDialog_AppCompat_Light;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Animation_AppCompat_Dialog = global::RecordGuard.ListSample.Android.Resource.Style.Animation_AppCompat_Dialog;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Animation_AppCompat_DropDownUp = global::RecordGuard.ListSample.Android.Resource.Style.Animation_AppCompat_DropDownUp;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Animation_AppCompat_Tooltip = global::RecordGuard.ListSample.Android.Resource.Style.Animation_AppCompat_Tooltip;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_AlertDialog_AppCompat = global::RecordGuard.ListSample.Android.Resource.Style.Base_AlertDialog_AppCompat;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_AlertDialog_AppCompat_Light = global::RecordGuard.ListSample.Android.Resource.Style.Base_AlertDialog_AppCompat_Light;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_Animation_AppCompat_Dialog = global::RecordGuard.ListSample.Android.Resource.Style.Base_Animation_AppCompat_Dialog;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_Animation_AppCompat_DropDownUp = global::RecordGuard.ListSample.Android.Resource.Style.Base_Animation_AppCompat_DropDownUp;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_Animation_AppCompat_Tooltip = global::RecordGuard.ListSample.Android.Resource.Style.Base_Animation_AppCompat_Tooltip;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_DialogWindowTitleBackground_AppCompat = global::RecordGuard.ListSample.Android.Resource.Style.Base_DialogWindowTitleBackground_AppCompat;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_DialogWindowTitle_AppCompat = global::RecordGuard.ListSample.Android.Resource.Style.Base_DialogWindowTitle_AppCompat;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_TextAppearance_AppCompat = global::RecordGuard.ListSample.Android.Resource.Style.Base_TextAppearance_AppCompat;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_TextAppearance_AppCompat_Body1 = global::RecordGuard.ListSample.Android.Resource.Style.Base_TextAppearance_AppCompat_Body1;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_TextAppearance_AppCompat_Body2 = global::RecordGuard.ListSample.Android.Resource.Style.Base_TextAppearance_AppCompat_Body2;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_TextAppearance_AppCompat_Button = global::RecordGuard.ListSample.Android.Resource.Style.Base_TextAppearance_AppCompat_Button;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_TextAppearance_AppCompat_Caption = global::RecordGuard.ListSample.Android.Resource.Style.Base_TextAppearance_AppCompat_Caption;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_TextAppearance_AppCompat_Display1 = global::RecordGuard.ListSample.Android.Resource.Style.Base_TextAppearance_AppCompat_Display1;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_TextAppearance_AppCompat_Display2 = global::RecordGuard.ListSample.Android.Resource.Style.Base_TextAppearance_AppCompat_Display2;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_TextAppearance_AppCompat_Display3 = global::RecordGuard.ListSample.Android.Resource.Style.Base_TextAppearance_AppCompat_Display3;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_TextAppearance_AppCompat_Display4 = global::RecordGuard.ListSample.Android.Resource.Style.Base_TextAppearance_AppCompat_Display4;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_TextAppearance_AppCompat_Headline = global::RecordGuard.ListSample.Android.Resource.Style.Base_TextAppearance_AppCompat_Headline;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_TextAppearance_AppCompat_Inverse = global::RecordGuard.ListSample.Android.Resource.Style.Base_TextAppearance_AppCompat_Inverse;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_TextAppearance_AppCompat_Large = global::RecordGuard.ListSample.Android.Resource.Style.Base_TextAppearance_AppCompat_Large;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse = global::RecordGuard.ListSample.Android.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::RecordGuard.ListSample.Android.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::RecordGuard.ListSample.Android.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_TextAppearance_AppCompat_Medium = global::RecordGuard.ListSample.Android.Resource.Style.Base_TextAppearance_AppCompat_Medium;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse = global::RecordGuard.ListSample.Android.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_TextAppearance_AppCompat_Menu = global::RecordGuard.ListSample.Android.Resource.Style.Base_TextAppearance_AppCompat_Menu;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_TextAppearance_AppCompat_SearchResult = global::RecordGuard.ListSample.Android.Resource.Style.Base_TextAppearance_AppCompat_SearchResult;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle = global::RecordGuard.ListSample.Android.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title = global::RecordGuard.ListSample.Android.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_TextAppearance_AppCompat_Small = global::RecordGuard.ListSample.Android.Resource.Style.Base_TextAppearance_AppCompat_Small;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse = global::RecordGuard.ListSample.Android.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_TextAppearance_AppCompat_Subhead = global::RecordGuard.ListSample.Android.Resource.Style.Base_TextAppearance_AppCompat_Subhead;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse = global::RecordGuard.ListSample.Android.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_TextAppearance_AppCompat_Title = global::RecordGuard.ListSample.Android.Resource.Style.Base_TextAppearance_AppCompat_Title;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse = global::RecordGuard.ListSample.Android.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_TextAppearance_AppCompat_Tooltip = global::RecordGuard.ListSample.Android.Resource.Style.Base_TextAppearance_AppCompat_Tooltip;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu = global::RecordGuard.ListSample.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::RecordGuard.ListSample.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::RecordGuard.ListSample.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title = global::RecordGuard.ListSample.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::RecordGuard.ListSample.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::RecordGuard.ListSample.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title = global::RecordGuard.ListSample.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button = global::RecordGuard.ListSample.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::RecordGuard.ListSample.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored = global::RecordGuard.ListSample.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse = global::RecordGuard.ListSample.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem = global::RecordGuard.ListSample.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header = global::RecordGuard.ListSample.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large = global::RecordGuard.ListSample.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small = global::RecordGuard.ListSample.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch = global::RecordGuard.ListSample.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::RecordGuard.ListSample.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::RecordGuard.ListSample.Android.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::RecordGuard.ListSample.Android.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title = global::RecordGuard.ListSample.Android.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_ThemeOverlay_AppCompat = global::RecordGuard.ListSample.Android.Resource.Style.Base_ThemeOverlay_AppCompat;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar = global::RecordGuard.ListSample.Android.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_ThemeOverlay_AppCompat_Dark = global::RecordGuard.ListSample.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Dark;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar = global::RecordGuard.ListSample.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog = global::RecordGuard.ListSample.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert = global::RecordGuard.ListSample.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_ThemeOverlay_AppCompat_Light = global::RecordGuard.ListSample.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Light;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_Theme_AppCompat = global::RecordGuard.ListSample.Android.Resource.Style.Base_Theme_AppCompat;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_Theme_AppCompat_CompactMenu = global::RecordGuard.ListSample.Android.Resource.Style.Base_Theme_AppCompat_CompactMenu;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_Theme_AppCompat_Dialog = global::RecordGuard.ListSample.Android.Resource.Style.Base_Theme_AppCompat_Dialog;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge = global::RecordGuard.ListSample.Android.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_Theme_AppCompat_Dialog_Alert = global::RecordGuard.ListSample.Android.Resource.Style.Base_Theme_AppCompat_Dialog_Alert;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize = global::RecordGuard.ListSample.Android.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth = global::RecordGuard.ListSample.Android.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_Theme_AppCompat_Light = global::RecordGuard.ListSample.Android.Resource.Style.Base_Theme_AppCompat_Light;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar = global::RecordGuard.ListSample.Android.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_Theme_AppCompat_Light_Dialog = global::RecordGuard.ListSample.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge = global::RecordGuard.ListSample.Android.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert = global::RecordGuard.ListSample.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize = global::RecordGuard.ListSample.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth = global::RecordGuard.ListSample.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog = global::RecordGuard.ListSample.Android.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_V21_Theme_AppCompat = global::RecordGuard.ListSample.Android.Resource.Style.Base_V21_Theme_AppCompat;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_V21_Theme_AppCompat_Dialog = global::RecordGuard.ListSample.Android.Resource.Style.Base_V21_Theme_AppCompat_Dialog;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_V21_Theme_AppCompat_Light = global::RecordGuard.ListSample.Android.Resource.Style.Base_V21_Theme_AppCompat_Light;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog = global::RecordGuard.ListSample.Android.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_V22_Theme_AppCompat = global::RecordGuard.ListSample.Android.Resource.Style.Base_V22_Theme_AppCompat;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_V22_Theme_AppCompat_Light = global::RecordGuard.ListSample.Android.Resource.Style.Base_V22_Theme_AppCompat_Light;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_V23_Theme_AppCompat = global::RecordGuard.ListSample.Android.Resource.Style.Base_V23_Theme_AppCompat;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_V23_Theme_AppCompat_Light = global::RecordGuard.ListSample.Android.Resource.Style.Base_V23_Theme_AppCompat_Light;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_V26_Theme_AppCompat = global::RecordGuard.ListSample.Android.Resource.Style.Base_V26_Theme_AppCompat;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_V26_Theme_AppCompat_Light = global::RecordGuard.ListSample.Android.Resource.Style.Base_V26_Theme_AppCompat_Light;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_V26_Widget_AppCompat_Toolbar = global::RecordGuard.ListSample.Android.Resource.Style.Base_V26_Widget_AppCompat_Toolbar;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_V28_Theme_AppCompat = global::RecordGuard.ListSample.Android.Resource.Style.Base_V28_Theme_AppCompat;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_V28_Theme_AppCompat_Light = global::RecordGuard.ListSample.Android.Resource.Style.Base_V28_Theme_AppCompat_Light;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog = global::RecordGuard.ListSample.Android.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_V7_Theme_AppCompat = global::RecordGuard.ListSample.Android.Resource.Style.Base_V7_Theme_AppCompat;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_V7_Theme_AppCompat_Dialog = global::RecordGuard.ListSample.Android.Resource.Style.Base_V7_Theme_AppCompat_Dialog;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_V7_Theme_AppCompat_Light = global::RecordGuard.ListSample.Android.Resource.Style.Base_V7_Theme_AppCompat_Light;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog = global::RecordGuard.ListSample.Android.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView = global::RecordGuard.ListSample.Android.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_V7_Widget_AppCompat_EditText = global::RecordGuard.ListSample.Android.Resource.Style.Base_V7_Widget_AppCompat_EditText;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_V7_Widget_AppCompat_Toolbar = global::RecordGuard.ListSample.Android.Resource.Style.Base_V7_Widget_AppCompat_Toolbar;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_Widget_AppCompat_ActionBar = global::RecordGuard.ListSample.Android.Resource.Style.Base_Widget_AppCompat_ActionBar;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid = global::RecordGuard.ListSample.Android.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar = global::RecordGuard.ListSample.Android.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText = global::RecordGuard.ListSample.Android.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView = global::RecordGuard.ListSample.Android.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_Widget_AppCompat_ActionButton = global::RecordGuard.ListSample.Android.Resource.Style.Base_Widget_AppCompat_ActionButton;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode = global::RecordGuard.ListSample.Android.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow = global::RecordGuard.ListSample.Android.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_Widget_AppCompat_ActionMode = global::RecordGuard.ListSample.Android.Resource.Style.Base_Widget_AppCompat_ActionMode;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_Widget_AppCompat_ActivityChooserView = global::RecordGuard.ListSample.Android.Resource.Style.Base_Widget_AppCompat_ActivityChooserView;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView = global::RecordGuard.ListSample.Android.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_Widget_AppCompat_Button = global::RecordGuard.ListSample.Android.Resource.Style.Base_Widget_AppCompat_Button;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_Widget_AppCompat_ButtonBar = global::RecordGuard.ListSample.Android.Resource.Style.Base_Widget_AppCompat_ButtonBar;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog = global::RecordGuard.ListSample.Android.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_Widget_AppCompat_Button_Borderless = global::RecordGuard.ListSample.Android.Resource.Style.Base_Widget_AppCompat_Button_Borderless;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored = global::RecordGuard.ListSample.Android.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog = global::RecordGuard.ListSample.Android.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_Widget_AppCompat_Button_Colored = global::RecordGuard.ListSample.Android.Resource.Style.Base_Widget_AppCompat_Button_Colored;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_Widget_AppCompat_Button_Small = global::RecordGuard.ListSample.Android.Resource.Style.Base_Widget_AppCompat_Button_Small;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox = global::RecordGuard.ListSample.Android.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton = global::RecordGuard.ListSample.Android.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch = global::RecordGuard.ListSample.Android.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle = global::RecordGuard.ListSample.Android.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common = global::RecordGuard.ListSample.Android.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner = global::RecordGuard.ListSample.Android.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_Widget_AppCompat_EditText = global::RecordGuard.ListSample.Android.Resource.Style.Base_Widget_AppCompat_EditText;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_Widget_AppCompat_ImageButton = global::RecordGuard.ListSample.Android.Resource.Style.Base_Widget_AppCompat_ImageButton;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_Widget_AppCompat_Light_ActionBar = global::RecordGuard.ListSample.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid = global::RecordGuard.ListSample.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar = global::RecordGuard.ListSample.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText = global::RecordGuard.ListSample.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::RecordGuard.ListSample.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView = global::RecordGuard.ListSample.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu = global::RecordGuard.ListSample.Android.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow = global::RecordGuard.ListSample.Android.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_Widget_AppCompat_ListMenuView = global::RecordGuard.ListSample.Android.Resource.Style.Base_Widget_AppCompat_ListMenuView;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_Widget_AppCompat_ListPopupWindow = global::RecordGuard.ListSample.Android.Resource.Style.Base_Widget_AppCompat_ListPopupWindow;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_Widget_AppCompat_ListView = global::RecordGuard.ListSample.Android.Resource.Style.Base_Widget_AppCompat_ListView;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_Widget_AppCompat_ListView_DropDown = global::RecordGuard.ListSample.Android.Resource.Style.Base_Widget_AppCompat_ListView_DropDown;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_Widget_AppCompat_ListView_Menu = global::RecordGuard.ListSample.Android.Resource.Style.Base_Widget_AppCompat_ListView_Menu;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_Widget_AppCompat_PopupMenu = global::RecordGuard.ListSample.Android.Resource.Style.Base_Widget_AppCompat_PopupMenu;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow = global::RecordGuard.ListSample.Android.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_Widget_AppCompat_PopupWindow = global::RecordGuard.ListSample.Android.Resource.Style.Base_Widget_AppCompat_PopupWindow;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_Widget_AppCompat_ProgressBar = global::RecordGuard.ListSample.Android.Resource.Style.Base_Widget_AppCompat_ProgressBar;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal = global::RecordGuard.ListSample.Android.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_Widget_AppCompat_RatingBar = global::RecordGuard.ListSample.Android.Resource.Style.Base_Widget_AppCompat_RatingBar;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator = global::RecordGuard.ListSample.Android.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_Widget_AppCompat_RatingBar_Small = global::RecordGuard.ListSample.Android.Resource.Style.Base_Widget_AppCompat_RatingBar_Small;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_Widget_AppCompat_SearchView = global::RecordGuard.ListSample.Android.Resource.Style.Base_Widget_AppCompat_SearchView;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar = global::RecordGuard.ListSample.Android.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_Widget_AppCompat_SeekBar = global::RecordGuard.ListSample.Android.Resource.Style.Base_Widget_AppCompat_SeekBar;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete = global::RecordGuard.ListSample.Android.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_Widget_AppCompat_Spinner = global::RecordGuard.ListSample.Android.Resource.Style.Base_Widget_AppCompat_Spinner;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined = global::RecordGuard.ListSample.Android.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem = global::RecordGuard.ListSample.Android.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_Widget_AppCompat_Toolbar = global::RecordGuard.ListSample.Android.Resource.Style.Base_Widget_AppCompat_Toolbar;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation = global::RecordGuard.ListSample.Android.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Platform_AppCompat = global::RecordGuard.ListSample.Android.Resource.Style.Platform_AppCompat;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Platform_AppCompat_Light = global::RecordGuard.ListSample.Android.Resource.Style.Platform_AppCompat_Light;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Platform_ThemeOverlay_AppCompat = global::RecordGuard.ListSample.Android.Resource.Style.Platform_ThemeOverlay_AppCompat;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark = global::RecordGuard.ListSample.Android.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Platform_ThemeOverlay_AppCompat_Light = global::RecordGuard.ListSample.Android.Resource.Style.Platform_ThemeOverlay_AppCompat_Light;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Platform_V21_AppCompat = global::RecordGuard.ListSample.Android.Resource.Style.Platform_V21_AppCompat;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Platform_V21_AppCompat_Light = global::RecordGuard.ListSample.Android.Resource.Style.Platform_V21_AppCompat_Light;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Platform_V25_AppCompat = global::RecordGuard.ListSample.Android.Resource.Style.Platform_V25_AppCompat;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Platform_V25_AppCompat_Light = global::RecordGuard.ListSample.Android.Resource.Style.Platform_V25_AppCompat_Light;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Platform_Widget_AppCompat_Spinner = global::RecordGuard.ListSample.Android.Resource.Style.Platform_Widget_AppCompat_Spinner;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat = global::RecordGuard.ListSample.Android.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem = global::RecordGuard.ListSample.Android.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon = global::RecordGuard.ListSample.Android.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem = global::RecordGuard.ListSample.Android.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup = global::RecordGuard.ListSample.Android.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Shortcut = global::RecordGuard.ListSample.Android.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Shortcut;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_SubmenuArrow = global::RecordGuard.ListSample.Android.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_SubmenuArrow;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text = global::RecordGuard.ListSample.Android.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Title = global::RecordGuard.ListSample.Android.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Title;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon = global::RecordGuard.ListSample.Android.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown = global::RecordGuard.ListSample.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1 = global::RecordGuard.ListSample.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2 = global::RecordGuard.ListSample.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query = global::RecordGuard.ListSample.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text = global::RecordGuard.ListSample.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton = global::RecordGuard.ListSample.Android.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = global::RecordGuard.ListSample.Android.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.TextAppearance_AppCompat = global::RecordGuard.ListSample.Android.Resource.Style.TextAppearance_AppCompat;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.TextAppearance_AppCompat_Body1 = global::RecordGuard.ListSample.Android.Resource.Style.TextAppearance_AppCompat_Body1;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.TextAppearance_AppCompat_Body2 = global::RecordGuard.ListSample.Android.Resource.Style.TextAppearance_AppCompat_Body2;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.TextAppearance_AppCompat_Button = global::RecordGuard.ListSample.Android.Resource.Style.TextAppearance_AppCompat_Button;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.TextAppearance_AppCompat_Caption = global::RecordGuard.ListSample.Android.Resource.Style.TextAppearance_AppCompat_Caption;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.TextAppearance_AppCompat_Display1 = global::RecordGuard.ListSample.Android.Resource.Style.TextAppearance_AppCompat_Display1;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.TextAppearance_AppCompat_Display2 = global::RecordGuard.ListSample.Android.Resource.Style.TextAppearance_AppCompat_Display2;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.TextAppearance_AppCompat_Display3 = global::RecordGuard.ListSample.Android.Resource.Style.TextAppearance_AppCompat_Display3;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.TextAppearance_AppCompat_Display4 = global::RecordGuard.ListSample.Android.Resource.Style.TextAppearance_AppCompat_Display4;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.TextAppearance_AppCompat_Headline = global::RecordGuard.ListSample.Android.Resource.Style.TextAppearance_AppCompat_Headline;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.TextAppearance_AppCompat_Inverse = global::RecordGuard.ListSample.Android.Resource.Style.TextAppearance_AppCompat_Inverse;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.TextAppearance_AppCompat_Large = global::RecordGuard.ListSample.Android.Resource.Style.TextAppearance_AppCompat_Large;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.TextAppearance_AppCompat_Large_Inverse = global::RecordGuard.ListSample.Android.Resource.Style.TextAppearance_AppCompat_Large_Inverse;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle = global::RecordGuard.ListSample.Android.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title = global::RecordGuard.ListSample.Android.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::RecordGuard.ListSample.Android.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::RecordGuard.ListSample.Android.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.TextAppearance_AppCompat_Medium = global::RecordGuard.ListSample.Android.Resource.Style.TextAppearance_AppCompat_Medium;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.TextAppearance_AppCompat_Medium_Inverse = global::RecordGuard.ListSample.Android.Resource.Style.TextAppearance_AppCompat_Medium_Inverse;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.TextAppearance_AppCompat_Menu = global::RecordGuard.ListSample.Android.Resource.Style.TextAppearance_AppCompat_Menu;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle = global::RecordGuard.ListSample.Android.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.TextAppearance_AppCompat_SearchResult_Title = global::RecordGuard.ListSample.Android.Resource.Style.TextAppearance_AppCompat_SearchResult_Title;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.TextAppearance_AppCompat_Small = global::RecordGuard.ListSample.Android.Resource.Style.TextAppearance_AppCompat_Small;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.TextAppearance_AppCompat_Small_Inverse = global::RecordGuard.ListSample.Android.Resource.Style.TextAppearance_AppCompat_Small_Inverse;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.TextAppearance_AppCompat_Subhead = global::RecordGuard.ListSample.Android.Resource.Style.TextAppearance_AppCompat_Subhead;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse = global::RecordGuard.ListSample.Android.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.TextAppearance_AppCompat_Title = global::RecordGuard.ListSample.Android.Resource.Style.TextAppearance_AppCompat_Title;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.TextAppearance_AppCompat_Title_Inverse = global::RecordGuard.ListSample.Android.Resource.Style.TextAppearance_AppCompat_Title_Inverse;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.TextAppearance_AppCompat_Tooltip = global::RecordGuard.ListSample.Android.Resource.Style.TextAppearance_AppCompat_Tooltip;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu = global::RecordGuard.ListSample.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::RecordGuard.ListSample.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::RecordGuard.ListSample.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title = global::RecordGuard.ListSample.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::RecordGuard.ListSample.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::RecordGuard.ListSample.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse = global::RecordGuard.ListSample.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title = global::RecordGuard.ListSample.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse = global::RecordGuard.ListSample.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.TextAppearance_AppCompat_Widget_Button = global::RecordGuard.ListSample.Android.Resource.Style.TextAppearance_AppCompat_Widget_Button;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::RecordGuard.ListSample.Android.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored = global::RecordGuard.ListSample.Android.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse = global::RecordGuard.ListSample.Android.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem = global::RecordGuard.ListSample.Android.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header = global::RecordGuard.ListSample.Android.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large = global::RecordGuard.ListSample.Android.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small = global::RecordGuard.ListSample.Android.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.TextAppearance_AppCompat_Widget_Switch = global::RecordGuard.ListSample.Android.Resource.Style.TextAppearance_AppCompat_Widget_Switch;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::RecordGuard.ListSample.Android.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.TextAppearance_Compat_Notification = global::RecordGuard.ListSample.Android.Resource.Style.TextAppearance_Compat_Notification;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.TextAppearance_Compat_Notification_Info = global::RecordGuard.ListSample.Android.Resource.Style.TextAppearance_Compat_Notification_Info;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.TextAppearance_Compat_Notification_Info_Media = global::RecordGuard.ListSample.Android.Resource.Style.TextAppearance_Compat_Notification_Info_Media;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.TextAppearance_Compat_Notification_Line2 = global::RecordGuard.ListSample.Android.Resource.Style.TextAppearance_Compat_Notification_Line2;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.TextAppearance_Compat_Notification_Line2_Media = global::RecordGuard.ListSample.Android.Resource.Style.TextAppearance_Compat_Notification_Line2_Media;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.TextAppearance_Compat_Notification_Media = global::RecordGuard.ListSample.Android.Resource.Style.TextAppearance_Compat_Notification_Media;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.TextAppearance_Compat_Notification_Time = global::RecordGuard.ListSample.Android.Resource.Style.TextAppearance_Compat_Notification_Time;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.TextAppearance_Compat_Notification_Time_Media = global::RecordGuard.ListSample.Android.Resource.Style.TextAppearance_Compat_Notification_Time_Media;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.TextAppearance_Compat_Notification_Title = global::RecordGuard.ListSample.Android.Resource.Style.TextAppearance_Compat_Notification_Title;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.TextAppearance_Compat_Notification_Title_Media = global::RecordGuard.ListSample.Android.Resource.Style.TextAppearance_Compat_Notification_Title_Media;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::RecordGuard.ListSample.Android.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::RecordGuard.ListSample.Android.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title = global::RecordGuard.ListSample.Android.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.ThemeOverlay_AppCompat = global::RecordGuard.ListSample.Android.Resource.Style.ThemeOverlay_AppCompat;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.ThemeOverlay_AppCompat_ActionBar = global::RecordGuard.ListSample.Android.Resource.Style.ThemeOverlay_AppCompat_ActionBar;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.ThemeOverlay_AppCompat_Dark = global::RecordGuard.ListSample.Android.Resource.Style.ThemeOverlay_AppCompat_Dark;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar = global::RecordGuard.ListSample.Android.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.ThemeOverlay_AppCompat_Dialog = global::RecordGuard.ListSample.Android.Resource.Style.ThemeOverlay_AppCompat_Dialog;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert = global::RecordGuard.ListSample.Android.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.ThemeOverlay_AppCompat_Light = global::RecordGuard.ListSample.Android.Resource.Style.ThemeOverlay_AppCompat_Light;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Theme_AppCompat = global::RecordGuard.ListSample.Android.Resource.Style.Theme_AppCompat;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Theme_AppCompat_CompactMenu = global::RecordGuard.ListSample.Android.Resource.Style.Theme_AppCompat_CompactMenu;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Theme_AppCompat_DayNight = global::RecordGuard.ListSample.Android.Resource.Style.Theme_AppCompat_DayNight;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar = global::RecordGuard.ListSample.Android.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Theme_AppCompat_DayNight_Dialog = global::RecordGuard.ListSample.Android.Resource.Style.Theme_AppCompat_DayNight_Dialog;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge = global::RecordGuard.ListSample.Android.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert = global::RecordGuard.ListSample.Android.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth = global::RecordGuard.ListSample.Android.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Theme_AppCompat_DayNight_NoActionBar = global::RecordGuard.ListSample.Android.Resource.Style.Theme_AppCompat_DayNight_NoActionBar;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Theme_AppCompat_Dialog = global::RecordGuard.ListSample.Android.Resource.Style.Theme_AppCompat_Dialog;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Theme_AppCompat_DialogWhenLarge = global::RecordGuard.ListSample.Android.Resource.Style.Theme_AppCompat_DialogWhenLarge;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Theme_AppCompat_Dialog_Alert = global::RecordGuard.ListSample.Android.Resource.Style.Theme_AppCompat_Dialog_Alert;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Theme_AppCompat_Dialog_MinWidth = global::RecordGuard.ListSample.Android.Resource.Style.Theme_AppCompat_Dialog_MinWidth;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Theme_AppCompat_Light = global::RecordGuard.ListSample.Android.Resource.Style.Theme_AppCompat_Light;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Theme_AppCompat_Light_DarkActionBar = global::RecordGuard.ListSample.Android.Resource.Style.Theme_AppCompat_Light_DarkActionBar;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Theme_AppCompat_Light_Dialog = global::RecordGuard.ListSample.Android.Resource.Style.Theme_AppCompat_Light_Dialog;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge = global::RecordGuard.ListSample.Android.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Theme_AppCompat_Light_Dialog_Alert = global::RecordGuard.ListSample.Android.Resource.Style.Theme_AppCompat_Light_Dialog_Alert;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth = global::RecordGuard.ListSample.Android.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Theme_AppCompat_Light_NoActionBar = global::RecordGuard.ListSample.Android.Resource.Style.Theme_AppCompat_Light_NoActionBar;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Theme_AppCompat_NoActionBar = global::RecordGuard.ListSample.Android.Resource.Style.Theme_AppCompat_NoActionBar;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Widget_AppCompat_ActionBar = global::RecordGuard.ListSample.Android.Resource.Style.Widget_AppCompat_ActionBar;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Widget_AppCompat_ActionBar_Solid = global::RecordGuard.ListSample.Android.Resource.Style.Widget_AppCompat_ActionBar_Solid;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Widget_AppCompat_ActionBar_TabBar = global::RecordGuard.ListSample.Android.Resource.Style.Widget_AppCompat_ActionBar_TabBar;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Widget_AppCompat_ActionBar_TabText = global::RecordGuard.ListSample.Android.Resource.Style.Widget_AppCompat_ActionBar_TabText;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Widget_AppCompat_ActionBar_TabView = global::RecordGuard.ListSample.Android.Resource.Style.Widget_AppCompat_ActionBar_TabView;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Widget_AppCompat_ActionButton = global::RecordGuard.ListSample.Android.Resource.Style.Widget_AppCompat_ActionButton;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Widget_AppCompat_ActionButton_CloseMode = global::RecordGuard.ListSample.Android.Resource.Style.Widget_AppCompat_ActionButton_CloseMode;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Widget_AppCompat_ActionButton_Overflow = global::RecordGuard.ListSample.Android.Resource.Style.Widget_AppCompat_ActionButton_Overflow;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Widget_AppCompat_ActionMode = global::RecordGuard.ListSample.Android.Resource.Style.Widget_AppCompat_ActionMode;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Widget_AppCompat_ActivityChooserView = global::RecordGuard.ListSample.Android.Resource.Style.Widget_AppCompat_ActivityChooserView;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Widget_AppCompat_AutoCompleteTextView = global::RecordGuard.ListSample.Android.Resource.Style.Widget_AppCompat_AutoCompleteTextView;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Widget_AppCompat_Button = global::RecordGuard.ListSample.Android.Resource.Style.Widget_AppCompat_Button;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Widget_AppCompat_ButtonBar = global::RecordGuard.ListSample.Android.Resource.Style.Widget_AppCompat_ButtonBar;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog = global::RecordGuard.ListSample.Android.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Widget_AppCompat_Button_Borderless = global::RecordGuard.ListSample.Android.Resource.Style.Widget_AppCompat_Button_Borderless;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Widget_AppCompat_Button_Borderless_Colored = global::RecordGuard.ListSample.Android.Resource.Style.Widget_AppCompat_Button_Borderless_Colored;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog = global::RecordGuard.ListSample.Android.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Widget_AppCompat_Button_Colored = global::RecordGuard.ListSample.Android.Resource.Style.Widget_AppCompat_Button_Colored;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Widget_AppCompat_Button_Small = global::RecordGuard.ListSample.Android.Resource.Style.Widget_AppCompat_Button_Small;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox = global::RecordGuard.ListSample.Android.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton = global::RecordGuard.ListSample.Android.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Widget_AppCompat_CompoundButton_Switch = global::RecordGuard.ListSample.Android.Resource.Style.Widget_AppCompat_CompoundButton_Switch;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Widget_AppCompat_DrawerArrowToggle = global::RecordGuard.ListSample.Android.Resource.Style.Widget_AppCompat_DrawerArrowToggle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Widget_AppCompat_DropDownItem_Spinner = global::RecordGuard.ListSample.Android.Resource.Style.Widget_AppCompat_DropDownItem_Spinner;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Widget_AppCompat_EditText = global::RecordGuard.ListSample.Android.Resource.Style.Widget_AppCompat_EditText;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Widget_AppCompat_ImageButton = global::RecordGuard.ListSample.Android.Resource.Style.Widget_AppCompat_ImageButton;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Widget_AppCompat_Light_ActionBar = global::RecordGuard.ListSample.Android.Resource.Style.Widget_AppCompat_Light_ActionBar;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid = global::RecordGuard.ListSample.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse = global::RecordGuard.ListSample.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar = global::RecordGuard.ListSample.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse = global::RecordGuard.ListSample.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText = global::RecordGuard.ListSample.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::RecordGuard.ListSample.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView = global::RecordGuard.ListSample.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse = global::RecordGuard.ListSample.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Widget_AppCompat_Light_ActionButton = global::RecordGuard.ListSample.Android.Resource.Style.Widget_AppCompat_Light_ActionButton;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode = global::RecordGuard.ListSample.Android.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow = global::RecordGuard.ListSample.Android.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse = global::RecordGuard.ListSample.Android.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Widget_AppCompat_Light_ActivityChooserView = global::RecordGuard.ListSample.Android.Resource.Style.Widget_AppCompat_Light_ActivityChooserView;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView = global::RecordGuard.ListSample.Android.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner = global::RecordGuard.ListSample.Android.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Widget_AppCompat_Light_ListPopupWindow = global::RecordGuard.ListSample.Android.Resource.Style.Widget_AppCompat_Light_ListPopupWindow;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Widget_AppCompat_Light_ListView_DropDown = global::RecordGuard.ListSample.Android.Resource.Style.Widget_AppCompat_Light_ListView_DropDown;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Widget_AppCompat_Light_PopupMenu = global::RecordGuard.ListSample.Android.Resource.Style.Widget_AppCompat_Light_PopupMenu;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow = global::RecordGuard.ListSample.Android.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Widget_AppCompat_Light_SearchView = global::RecordGuard.ListSample.Android.Resource.Style.Widget_AppCompat_Light_SearchView;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar = global::RecordGuard.ListSample.Android.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Widget_AppCompat_ListMenuView = global::RecordGuard.ListSample.Android.Resource.Style.Widget_AppCompat_ListMenuView;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Widget_AppCompat_ListPopupWindow = global::RecordGuard.ListSample.Android.Resource.Style.Widget_AppCompat_ListPopupWindow;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Widget_AppCompat_ListView = global::RecordGuard.ListSample.Android.Resource.Style.Widget_AppCompat_ListView;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Widget_AppCompat_ListView_DropDown = global::RecordGuard.ListSample.Android.Resource.Style.Widget_AppCompat_ListView_DropDown;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Widget_AppCompat_ListView_Menu = global::RecordGuard.ListSample.Android.Resource.Style.Widget_AppCompat_ListView_Menu;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Widget_AppCompat_PopupMenu = global::RecordGuard.ListSample.Android.Resource.Style.Widget_AppCompat_PopupMenu;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Widget_AppCompat_PopupMenu_Overflow = global::RecordGuard.ListSample.Android.Resource.Style.Widget_AppCompat_PopupMenu_Overflow;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Widget_AppCompat_PopupWindow = global::RecordGuard.ListSample.Android.Resource.Style.Widget_AppCompat_PopupWindow;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Widget_AppCompat_ProgressBar = global::RecordGuard.ListSample.Android.Resource.Style.Widget_AppCompat_ProgressBar;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal = global::RecordGuard.ListSample.Android.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Widget_AppCompat_RatingBar = global::RecordGuard.ListSample.Android.Resource.Style.Widget_AppCompat_RatingBar;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Widget_AppCompat_RatingBar_Indicator = global::RecordGuard.ListSample.Android.Resource.Style.Widget_AppCompat_RatingBar_Indicator;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Widget_AppCompat_RatingBar_Small = global::RecordGuard.ListSample.Android.Resource.Style.Widget_AppCompat_RatingBar_Small;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Widget_AppCompat_SearchView = global::RecordGuard.ListSample.Android.Resource.Style.Widget_AppCompat_SearchView;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Widget_AppCompat_SearchView_ActionBar = global::RecordGuard.ListSample.Android.Resource.Style.Widget_AppCompat_SearchView_ActionBar;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Widget_AppCompat_SeekBar = global::RecordGuard.ListSample.Android.Resource.Style.Widget_AppCompat_SeekBar;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Widget_AppCompat_SeekBar_Discrete = global::RecordGuard.ListSample.Android.Resource.Style.Widget_AppCompat_SeekBar_Discrete;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Widget_AppCompat_Spinner = global::RecordGuard.ListSample.Android.Resource.Style.Widget_AppCompat_Spinner;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Widget_AppCompat_Spinner_DropDown = global::RecordGuard.ListSample.Android.Resource.Style.Widget_AppCompat_Spinner_DropDown;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar = global::RecordGuard.ListSample.Android.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Widget_AppCompat_Spinner_Underlined = global::RecordGuard.ListSample.Android.Resource.Style.Widget_AppCompat_Spinner_Underlined;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Widget_AppCompat_TextView_SpinnerItem = global::RecordGuard.ListSample.Android.Resource.Style.Widget_AppCompat_TextView_SpinnerItem;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Widget_AppCompat_Toolbar = global::RecordGuard.ListSample.Android.Resource.Style.Widget_AppCompat_Toolbar;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation = global::RecordGuard.ListSample.Android.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Widget_Compat_NotificationActionContainer = global::RecordGuard.ListSample.Android.Resource.Style.Widget_Compat_NotificationActionContainer;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Widget_Compat_NotificationActionText = global::RecordGuard.ListSample.Android.Resource.Style.Widget_Compat_NotificationActionText;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Style.Widget_Support_CoordinatorLayout = global::RecordGuard.ListSample.Android.Resource.Style.Widget_Support_CoordinatorLayout;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.ActionBar = global::RecordGuard.ListSample.Android.Resource.Styleable.ActionBar;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.ActionBarLayout = global::RecordGuard.ListSample.Android.Resource.Styleable.ActionBarLayout;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.ActionBarLayout_android_layout_gravity = global::RecordGuard.ListSample.Android.Resource.Styleable.ActionBarLayout_android_layout_gravity;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.ActionBar_background = global::RecordGuard.ListSample.Android.Resource.Styleable.ActionBar_background;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.ActionBar_backgroundSplit = global::RecordGuard.ListSample.Android.Resource.Styleable.ActionBar_backgroundSplit;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.ActionBar_backgroundStacked = global::RecordGuard.ListSample.Android.Resource.Styleable.ActionBar_backgroundStacked;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.ActionBar_contentInsetEnd = global::RecordGuard.ListSample.Android.Resource.Styleable.ActionBar_contentInsetEnd;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.ActionBar_contentInsetEndWithActions = global::RecordGuard.ListSample.Android.Resource.Styleable.ActionBar_contentInsetEndWithActions;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.ActionBar_contentInsetLeft = global::RecordGuard.ListSample.Android.Resource.Styleable.ActionBar_contentInsetLeft;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.ActionBar_contentInsetRight = global::RecordGuard.ListSample.Android.Resource.Styleable.ActionBar_contentInsetRight;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.ActionBar_contentInsetStart = global::RecordGuard.ListSample.Android.Resource.Styleable.ActionBar_contentInsetStart;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.ActionBar_contentInsetStartWithNavigation = global::RecordGuard.ListSample.Android.Resource.Styleable.ActionBar_contentInsetStartWithNavigation;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.ActionBar_customNavigationLayout = global::RecordGuard.ListSample.Android.Resource.Styleable.ActionBar_customNavigationLayout;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.ActionBar_displayOptions = global::RecordGuard.ListSample.Android.Resource.Styleable.ActionBar_displayOptions;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.ActionBar_divider = global::RecordGuard.ListSample.Android.Resource.Styleable.ActionBar_divider;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.ActionBar_elevation = global::RecordGuard.ListSample.Android.Resource.Styleable.ActionBar_elevation;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.ActionBar_height = global::RecordGuard.ListSample.Android.Resource.Styleable.ActionBar_height;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.ActionBar_hideOnContentScroll = global::RecordGuard.ListSample.Android.Resource.Styleable.ActionBar_hideOnContentScroll;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.ActionBar_homeAsUpIndicator = global::RecordGuard.ListSample.Android.Resource.Styleable.ActionBar_homeAsUpIndicator;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.ActionBar_homeLayout = global::RecordGuard.ListSample.Android.Resource.Styleable.ActionBar_homeLayout;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.ActionBar_icon = global::RecordGuard.ListSample.Android.Resource.Styleable.ActionBar_icon;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.ActionBar_indeterminateProgressStyle = global::RecordGuard.ListSample.Android.Resource.Styleable.ActionBar_indeterminateProgressStyle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.ActionBar_itemPadding = global::RecordGuard.ListSample.Android.Resource.Styleable.ActionBar_itemPadding;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.ActionBar_logo = global::RecordGuard.ListSample.Android.Resource.Styleable.ActionBar_logo;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.ActionBar_navigationMode = global::RecordGuard.ListSample.Android.Resource.Styleable.ActionBar_navigationMode;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.ActionBar_popupTheme = global::RecordGuard.ListSample.Android.Resource.Styleable.ActionBar_popupTheme;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.ActionBar_progressBarPadding = global::RecordGuard.ListSample.Android.Resource.Styleable.ActionBar_progressBarPadding;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.ActionBar_progressBarStyle = global::RecordGuard.ListSample.Android.Resource.Styleable.ActionBar_progressBarStyle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.ActionBar_subtitle = global::RecordGuard.ListSample.Android.Resource.Styleable.ActionBar_subtitle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.ActionBar_subtitleTextStyle = global::RecordGuard.ListSample.Android.Resource.Styleable.ActionBar_subtitleTextStyle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.ActionBar_title = global::RecordGuard.ListSample.Android.Resource.Styleable.ActionBar_title;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.ActionBar_titleTextStyle = global::RecordGuard.ListSample.Android.Resource.Styleable.ActionBar_titleTextStyle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.ActionMenuItemView = global::RecordGuard.ListSample.Android.Resource.Styleable.ActionMenuItemView;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.ActionMenuItemView_android_minWidth = global::RecordGuard.ListSample.Android.Resource.Styleable.ActionMenuItemView_android_minWidth;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.ActionMenuView = global::RecordGuard.ListSample.Android.Resource.Styleable.ActionMenuView;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.ActionMode = global::RecordGuard.ListSample.Android.Resource.Styleable.ActionMode;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.ActionMode_background = global::RecordGuard.ListSample.Android.Resource.Styleable.ActionMode_background;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.ActionMode_backgroundSplit = global::RecordGuard.ListSample.Android.Resource.Styleable.ActionMode_backgroundSplit;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.ActionMode_closeItemLayout = global::RecordGuard.ListSample.Android.Resource.Styleable.ActionMode_closeItemLayout;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.ActionMode_height = global::RecordGuard.ListSample.Android.Resource.Styleable.ActionMode_height;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.ActionMode_subtitleTextStyle = global::RecordGuard.ListSample.Android.Resource.Styleable.ActionMode_subtitleTextStyle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.ActionMode_titleTextStyle = global::RecordGuard.ListSample.Android.Resource.Styleable.ActionMode_titleTextStyle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.ActivityChooserView = global::RecordGuard.ListSample.Android.Resource.Styleable.ActivityChooserView;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable = global::RecordGuard.ListSample.Android.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.ActivityChooserView_initialActivityCount = global::RecordGuard.ListSample.Android.Resource.Styleable.ActivityChooserView_initialActivityCount;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AlertDialog = global::RecordGuard.ListSample.Android.Resource.Styleable.AlertDialog;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AlertDialog_android_layout = global::RecordGuard.ListSample.Android.Resource.Styleable.AlertDialog_android_layout;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AlertDialog_buttonIconDimen = global::RecordGuard.ListSample.Android.Resource.Styleable.AlertDialog_buttonIconDimen;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AlertDialog_buttonPanelSideLayout = global::RecordGuard.ListSample.Android.Resource.Styleable.AlertDialog_buttonPanelSideLayout;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AlertDialog_listItemLayout = global::RecordGuard.ListSample.Android.Resource.Styleable.AlertDialog_listItemLayout;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AlertDialog_listLayout = global::RecordGuard.ListSample.Android.Resource.Styleable.AlertDialog_listLayout;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AlertDialog_multiChoiceItemLayout = global::RecordGuard.ListSample.Android.Resource.Styleable.AlertDialog_multiChoiceItemLayout;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AlertDialog_showTitle = global::RecordGuard.ListSample.Android.Resource.Styleable.AlertDialog_showTitle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AlertDialog_singleChoiceItemLayout = global::RecordGuard.ListSample.Android.Resource.Styleable.AlertDialog_singleChoiceItemLayout;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AnimatedStateListDrawableCompat = global::RecordGuard.ListSample.Android.Resource.Styleable.AnimatedStateListDrawableCompat;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AnimatedStateListDrawableCompat_android_constantSize = global::RecordGuard.ListSample.Android.Resource.Styleable.AnimatedStateListDrawableCompat_android_constantSize;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AnimatedStateListDrawableCompat_android_dither = global::RecordGuard.ListSample.Android.Resource.Styleable.AnimatedStateListDrawableCompat_android_dither;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AnimatedStateListDrawableCompat_android_enterFadeDuration = global::RecordGuard.ListSample.Android.Resource.Styleable.AnimatedStateListDrawableCompat_android_enterFadeDuration;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AnimatedStateListDrawableCompat_android_exitFadeDuration = global::RecordGuard.ListSample.Android.Resource.Styleable.AnimatedStateListDrawableCompat_android_exitFadeDuration;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AnimatedStateListDrawableCompat_android_variablePadding = global::RecordGuard.ListSample.Android.Resource.Styleable.AnimatedStateListDrawableCompat_android_variablePadding;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AnimatedStateListDrawableCompat_android_visible = global::RecordGuard.ListSample.Android.Resource.Styleable.AnimatedStateListDrawableCompat_android_visible;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AnimatedStateListDrawableItem = global::RecordGuard.ListSample.Android.Resource.Styleable.AnimatedStateListDrawableItem;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AnimatedStateListDrawableItem_android_drawable = global::RecordGuard.ListSample.Android.Resource.Styleable.AnimatedStateListDrawableItem_android_drawable;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AnimatedStateListDrawableItem_android_id = global::RecordGuard.ListSample.Android.Resource.Styleable.AnimatedStateListDrawableItem_android_id;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AnimatedStateListDrawableTransition = global::RecordGuard.ListSample.Android.Resource.Styleable.AnimatedStateListDrawableTransition;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AnimatedStateListDrawableTransition_android_drawable = global::RecordGuard.ListSample.Android.Resource.Styleable.AnimatedStateListDrawableTransition_android_drawable;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AnimatedStateListDrawableTransition_android_fromId = global::RecordGuard.ListSample.Android.Resource.Styleable.AnimatedStateListDrawableTransition_android_fromId;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AnimatedStateListDrawableTransition_android_reversible = global::RecordGuard.ListSample.Android.Resource.Styleable.AnimatedStateListDrawableTransition_android_reversible;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AnimatedStateListDrawableTransition_android_toId = global::RecordGuard.ListSample.Android.Resource.Styleable.AnimatedStateListDrawableTransition_android_toId;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatImageView = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatImageView;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatImageView_android_src = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatImageView_android_src;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatImageView_srcCompat = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatImageView_srcCompat;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatImageView_tint = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatImageView_tint;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatImageView_tintMode = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatImageView_tintMode;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatSeekBar = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatSeekBar;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatSeekBar_android_thumb = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatSeekBar_android_thumb;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatSeekBar_tickMark = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatSeekBar_tickMark;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatSeekBar_tickMarkTint = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatSeekBar_tickMarkTint;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTextHelper = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTextHelper;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTextHelper_android_drawableBottom = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTextHelper_android_drawableBottom;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTextHelper_android_drawableEnd = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTextHelper_android_drawableEnd;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTextHelper_android_drawableLeft = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTextHelper_android_drawableLeft;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTextHelper_android_drawableRight = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTextHelper_android_drawableRight;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTextHelper_android_drawableStart = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTextHelper_android_drawableStart;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTextHelper_android_drawableTop = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTextHelper_android_drawableTop;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTextHelper_android_textAppearance = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTextHelper_android_textAppearance;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTextView = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTextView;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTextView_android_textAppearance = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTextView_android_textAppearance;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTextView_autoSizeMaxTextSize = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTextView_autoSizeMaxTextSize;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTextView_autoSizeMinTextSize = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTextView_autoSizeMinTextSize;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTextView_autoSizePresetSizes = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTextView_autoSizePresetSizes;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTextView_autoSizeStepGranularity = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTextView_autoSizeStepGranularity;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTextView_autoSizeTextType = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTextView_autoSizeTextType;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTextView_firstBaselineToTopHeight = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTextView_firstBaselineToTopHeight;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTextView_fontFamily = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTextView_fontFamily;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTextView_lastBaselineToBottomHeight = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTextView_lastBaselineToBottomHeight;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTextView_lineHeight = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTextView_lineHeight;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTextView_textAllCaps = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTextView_textAllCaps;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_actionBarDivider = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_actionBarDivider;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_actionBarItemBackground = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_actionBarItemBackground;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_actionBarPopupTheme = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_actionBarPopupTheme;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_actionBarSize = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_actionBarSize;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_actionBarSplitStyle = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_actionBarSplitStyle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_actionBarStyle = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_actionBarStyle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_actionBarTabStyle = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_actionBarTabStyle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_actionBarTheme = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_actionBarTheme;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_actionButtonStyle = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_actionButtonStyle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_actionDropDownStyle = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_actionDropDownStyle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_actionMenuTextColor = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_actionMenuTextColor;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_actionModeBackground = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_actionModeBackground;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_actionModeCutDrawable = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_actionModeCutDrawable;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_actionModeFindDrawable = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_actionModeFindDrawable;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_actionModePasteDrawable = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_actionModePasteDrawable;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_actionModeShareDrawable = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_actionModeShareDrawable;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_actionModeSplitBackground = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_actionModeSplitBackground;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_actionModeStyle = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_actionModeStyle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_activityChooserViewStyle = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_activityChooserViewStyle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_alertDialogStyle = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_alertDialogStyle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_alertDialogTheme = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_alertDialogTheme;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_android_windowIsFloating = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_android_windowIsFloating;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_borderlessButtonStyle = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_borderlessButtonStyle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_buttonBarStyle = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_buttonBarStyle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_buttonStyle = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_buttonStyle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_buttonStyleSmall = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_buttonStyleSmall;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_checkboxStyle = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_checkboxStyle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_checkedTextViewStyle = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_checkedTextViewStyle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_colorAccent = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_colorAccent;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_colorBackgroundFloating = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_colorBackgroundFloating;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_colorButtonNormal = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_colorButtonNormal;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_colorControlActivated = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_colorControlActivated;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_colorControlHighlight = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_colorControlHighlight;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_colorControlNormal = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_colorControlNormal;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_colorError = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_colorError;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_colorPrimary = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_colorPrimary;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_colorPrimaryDark = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_colorPrimaryDark;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_controlBackground = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_controlBackground;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_dialogCornerRadius = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_dialogCornerRadius;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_dialogPreferredPadding = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_dialogPreferredPadding;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_dialogTheme = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_dialogTheme;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_dividerHorizontal = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_dividerHorizontal;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_dividerVertical = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_dividerVertical;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_dropDownListViewStyle = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_dropDownListViewStyle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_editTextBackground = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_editTextBackground;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_editTextColor = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_editTextColor;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_editTextStyle = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_editTextStyle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_homeAsUpIndicator = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_homeAsUpIndicator;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_imageButtonStyle = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_imageButtonStyle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_listDividerAlertDialog = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_listDividerAlertDialog;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_listMenuViewStyle = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_listMenuViewStyle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_listPopupWindowStyle = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_listPopupWindowStyle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_listPreferredItemHeight = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_listPreferredItemHeight;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_panelBackground = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_panelBackground;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_panelMenuListTheme = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_panelMenuListTheme;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_panelMenuListWidth = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_panelMenuListWidth;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_popupMenuStyle = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_popupMenuStyle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_popupWindowStyle = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_popupWindowStyle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_radioButtonStyle = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_radioButtonStyle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_ratingBarStyle = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_ratingBarStyle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_searchViewStyle = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_searchViewStyle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_seekBarStyle = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_seekBarStyle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_selectableItemBackground = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_selectableItemBackground;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_spinnerStyle = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_spinnerStyle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_switchStyle = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_switchStyle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_textAppearanceListItem = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_textAppearanceListItem;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_textColorSearchUrl = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_textColorSearchUrl;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_toolbarStyle = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_toolbarStyle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_tooltipForegroundColor = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_tooltipForegroundColor;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_tooltipFrameBackground = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_tooltipFrameBackground;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_viewInflaterClass = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_viewInflaterClass;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_windowActionBar = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_windowActionBar;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_windowActionBarOverlay = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_windowActionBarOverlay;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_windowActionModeOverlay = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_windowActionModeOverlay;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_windowMinWidthMajor = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_windowMinWidthMajor;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_windowMinWidthMinor = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_windowMinWidthMinor;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.AppCompatTheme_windowNoTitle = global::RecordGuard.ListSample.Android.Resource.Styleable.AppCompatTheme_windowNoTitle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.ButtonBarLayout = global::RecordGuard.ListSample.Android.Resource.Styleable.ButtonBarLayout;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.ButtonBarLayout_allowStacking = global::RecordGuard.ListSample.Android.Resource.Styleable.ButtonBarLayout_allowStacking;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.ColorStateListItem = global::RecordGuard.ListSample.Android.Resource.Styleable.ColorStateListItem;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.ColorStateListItem_alpha = global::RecordGuard.ListSample.Android.Resource.Styleable.ColorStateListItem_alpha;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.ColorStateListItem_android_alpha = global::RecordGuard.ListSample.Android.Resource.Styleable.ColorStateListItem_android_alpha;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.ColorStateListItem_android_color = global::RecordGuard.ListSample.Android.Resource.Styleable.ColorStateListItem_android_color;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.CompoundButton = global::RecordGuard.ListSample.Android.Resource.Styleable.CompoundButton;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.CompoundButton_android_button = global::RecordGuard.ListSample.Android.Resource.Styleable.CompoundButton_android_button;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.CompoundButton_buttonTint = global::RecordGuard.ListSample.Android.Resource.Styleable.CompoundButton_buttonTint;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.CompoundButton_buttonTintMode = global::RecordGuard.ListSample.Android.Resource.Styleable.CompoundButton_buttonTintMode;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.CoordinatorLayout = global::RecordGuard.ListSample.Android.Resource.Styleable.CoordinatorLayout;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.CoordinatorLayout_keylines = global::RecordGuard.ListSample.Android.Resource.Styleable.CoordinatorLayout_keylines;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.CoordinatorLayout_Layout = global::RecordGuard.ListSample.Android.Resource.Styleable.CoordinatorLayout_Layout;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity = global::RecordGuard.ListSample.Android.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor = global::RecordGuard.ListSample.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity = global::RecordGuard.ListSample.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior = global::RecordGuard.ListSample.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges = global::RecordGuard.ListSample.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge = global::RecordGuard.ListSample.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline = global::RecordGuard.ListSample.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.CoordinatorLayout_statusBarBackground = global::RecordGuard.ListSample.Android.Resource.Styleable.CoordinatorLayout_statusBarBackground;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.DrawerArrowToggle = global::RecordGuard.ListSample.Android.Resource.Styleable.DrawerArrowToggle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.DrawerArrowToggle_arrowHeadLength = global::RecordGuard.ListSample.Android.Resource.Styleable.DrawerArrowToggle_arrowHeadLength;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.DrawerArrowToggle_arrowShaftLength = global::RecordGuard.ListSample.Android.Resource.Styleable.DrawerArrowToggle_arrowShaftLength;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.DrawerArrowToggle_barLength = global::RecordGuard.ListSample.Android.Resource.Styleable.DrawerArrowToggle_barLength;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.DrawerArrowToggle_color = global::RecordGuard.ListSample.Android.Resource.Styleable.DrawerArrowToggle_color;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.DrawerArrowToggle_drawableSize = global::RecordGuard.ListSample.Android.Resource.Styleable.DrawerArrowToggle_drawableSize;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.DrawerArrowToggle_gapBetweenBars = global::RecordGuard.ListSample.Android.Resource.Styleable.DrawerArrowToggle_gapBetweenBars;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.DrawerArrowToggle_spinBars = global::RecordGuard.ListSample.Android.Resource.Styleable.DrawerArrowToggle_spinBars;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.DrawerArrowToggle_thickness = global::RecordGuard.ListSample.Android.Resource.Styleable.DrawerArrowToggle_thickness;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.FontFamily = global::RecordGuard.ListSample.Android.Resource.Styleable.FontFamily;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.FontFamilyFont = global::RecordGuard.ListSample.Android.Resource.Styleable.FontFamilyFont;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.FontFamilyFont_android_font = global::RecordGuard.ListSample.Android.Resource.Styleable.FontFamilyFont_android_font;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.FontFamilyFont_android_fontStyle = global::RecordGuard.ListSample.Android.Resource.Styleable.FontFamilyFont_android_fontStyle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.FontFamilyFont_android_fontVariationSettings = global::RecordGuard.ListSample.Android.Resource.Styleable.FontFamilyFont_android_fontVariationSettings;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.FontFamilyFont_android_fontWeight = global::RecordGuard.ListSample.Android.Resource.Styleable.FontFamilyFont_android_fontWeight;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.FontFamilyFont_android_ttcIndex = global::RecordGuard.ListSample.Android.Resource.Styleable.FontFamilyFont_android_ttcIndex;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.FontFamilyFont_font = global::RecordGuard.ListSample.Android.Resource.Styleable.FontFamilyFont_font;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.FontFamilyFont_fontStyle = global::RecordGuard.ListSample.Android.Resource.Styleable.FontFamilyFont_fontStyle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.FontFamilyFont_fontVariationSettings = global::RecordGuard.ListSample.Android.Resource.Styleable.FontFamilyFont_fontVariationSettings;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.FontFamilyFont_fontWeight = global::RecordGuard.ListSample.Android.Resource.Styleable.FontFamilyFont_fontWeight;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.FontFamilyFont_ttcIndex = global::RecordGuard.ListSample.Android.Resource.Styleable.FontFamilyFont_ttcIndex;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.FontFamily_fontProviderAuthority = global::RecordGuard.ListSample.Android.Resource.Styleable.FontFamily_fontProviderAuthority;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.FontFamily_fontProviderCerts = global::RecordGuard.ListSample.Android.Resource.Styleable.FontFamily_fontProviderCerts;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.FontFamily_fontProviderFetchStrategy = global::RecordGuard.ListSample.Android.Resource.Styleable.FontFamily_fontProviderFetchStrategy;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.FontFamily_fontProviderFetchTimeout = global::RecordGuard.ListSample.Android.Resource.Styleable.FontFamily_fontProviderFetchTimeout;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.FontFamily_fontProviderPackage = global::RecordGuard.ListSample.Android.Resource.Styleable.FontFamily_fontProviderPackage;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.FontFamily_fontProviderQuery = global::RecordGuard.ListSample.Android.Resource.Styleable.FontFamily_fontProviderQuery;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.GradientColor = global::RecordGuard.ListSample.Android.Resource.Styleable.GradientColor;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.GradientColorItem = global::RecordGuard.ListSample.Android.Resource.Styleable.GradientColorItem;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.GradientColorItem_android_color = global::RecordGuard.ListSample.Android.Resource.Styleable.GradientColorItem_android_color;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.GradientColorItem_android_offset = global::RecordGuard.ListSample.Android.Resource.Styleable.GradientColorItem_android_offset;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.GradientColor_android_centerColor = global::RecordGuard.ListSample.Android.Resource.Styleable.GradientColor_android_centerColor;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.GradientColor_android_centerX = global::RecordGuard.ListSample.Android.Resource.Styleable.GradientColor_android_centerX;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.GradientColor_android_centerY = global::RecordGuard.ListSample.Android.Resource.Styleable.GradientColor_android_centerY;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.GradientColor_android_endColor = global::RecordGuard.ListSample.Android.Resource.Styleable.GradientColor_android_endColor;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.GradientColor_android_endX = global::RecordGuard.ListSample.Android.Resource.Styleable.GradientColor_android_endX;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.GradientColor_android_endY = global::RecordGuard.ListSample.Android.Resource.Styleable.GradientColor_android_endY;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.GradientColor_android_gradientRadius = global::RecordGuard.ListSample.Android.Resource.Styleable.GradientColor_android_gradientRadius;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.GradientColor_android_startColor = global::RecordGuard.ListSample.Android.Resource.Styleable.GradientColor_android_startColor;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.GradientColor_android_startX = global::RecordGuard.ListSample.Android.Resource.Styleable.GradientColor_android_startX;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.GradientColor_android_startY = global::RecordGuard.ListSample.Android.Resource.Styleable.GradientColor_android_startY;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.GradientColor_android_tileMode = global::RecordGuard.ListSample.Android.Resource.Styleable.GradientColor_android_tileMode;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.GradientColor_android_type = global::RecordGuard.ListSample.Android.Resource.Styleable.GradientColor_android_type;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.LinearLayoutCompat = global::RecordGuard.ListSample.Android.Resource.Styleable.LinearLayoutCompat;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.LinearLayoutCompat_android_baselineAligned = global::RecordGuard.ListSample.Android.Resource.Styleable.LinearLayoutCompat_android_baselineAligned;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex = global::RecordGuard.ListSample.Android.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.LinearLayoutCompat_android_gravity = global::RecordGuard.ListSample.Android.Resource.Styleable.LinearLayoutCompat_android_gravity;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.LinearLayoutCompat_android_orientation = global::RecordGuard.ListSample.Android.Resource.Styleable.LinearLayoutCompat_android_orientation;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.LinearLayoutCompat_android_weightSum = global::RecordGuard.ListSample.Android.Resource.Styleable.LinearLayoutCompat_android_weightSum;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.LinearLayoutCompat_divider = global::RecordGuard.ListSample.Android.Resource.Styleable.LinearLayoutCompat_divider;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.LinearLayoutCompat_dividerPadding = global::RecordGuard.ListSample.Android.Resource.Styleable.LinearLayoutCompat_dividerPadding;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.LinearLayoutCompat_Layout = global::RecordGuard.ListSample.Android.Resource.Styleable.LinearLayoutCompat_Layout;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity = global::RecordGuard.ListSample.Android.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height = global::RecordGuard.ListSample.Android.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight = global::RecordGuard.ListSample.Android.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width = global::RecordGuard.ListSample.Android.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild = global::RecordGuard.ListSample.Android.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.LinearLayoutCompat_showDividers = global::RecordGuard.ListSample.Android.Resource.Styleable.LinearLayoutCompat_showDividers;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.ListPopupWindow = global::RecordGuard.ListSample.Android.Resource.Styleable.ListPopupWindow;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset = global::RecordGuard.ListSample.Android.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset = global::RecordGuard.ListSample.Android.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.MenuGroup = global::RecordGuard.ListSample.Android.Resource.Styleable.MenuGroup;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.MenuGroup_android_checkableBehavior = global::RecordGuard.ListSample.Android.Resource.Styleable.MenuGroup_android_checkableBehavior;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.MenuGroup_android_enabled = global::RecordGuard.ListSample.Android.Resource.Styleable.MenuGroup_android_enabled;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.MenuGroup_android_id = global::RecordGuard.ListSample.Android.Resource.Styleable.MenuGroup_android_id;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.MenuGroup_android_menuCategory = global::RecordGuard.ListSample.Android.Resource.Styleable.MenuGroup_android_menuCategory;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.MenuGroup_android_orderInCategory = global::RecordGuard.ListSample.Android.Resource.Styleable.MenuGroup_android_orderInCategory;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.MenuGroup_android_visible = global::RecordGuard.ListSample.Android.Resource.Styleable.MenuGroup_android_visible;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.MenuItem = global::RecordGuard.ListSample.Android.Resource.Styleable.MenuItem;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.MenuItem_actionLayout = global::RecordGuard.ListSample.Android.Resource.Styleable.MenuItem_actionLayout;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.MenuItem_actionProviderClass = global::RecordGuard.ListSample.Android.Resource.Styleable.MenuItem_actionProviderClass;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.MenuItem_actionViewClass = global::RecordGuard.ListSample.Android.Resource.Styleable.MenuItem_actionViewClass;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.MenuItem_alphabeticModifiers = global::RecordGuard.ListSample.Android.Resource.Styleable.MenuItem_alphabeticModifiers;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.MenuItem_android_alphabeticShortcut = global::RecordGuard.ListSample.Android.Resource.Styleable.MenuItem_android_alphabeticShortcut;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.MenuItem_android_checkable = global::RecordGuard.ListSample.Android.Resource.Styleable.MenuItem_android_checkable;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.MenuItem_android_checked = global::RecordGuard.ListSample.Android.Resource.Styleable.MenuItem_android_checked;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.MenuItem_android_enabled = global::RecordGuard.ListSample.Android.Resource.Styleable.MenuItem_android_enabled;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.MenuItem_android_icon = global::RecordGuard.ListSample.Android.Resource.Styleable.MenuItem_android_icon;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.MenuItem_android_id = global::RecordGuard.ListSample.Android.Resource.Styleable.MenuItem_android_id;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.MenuItem_android_menuCategory = global::RecordGuard.ListSample.Android.Resource.Styleable.MenuItem_android_menuCategory;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.MenuItem_android_numericShortcut = global::RecordGuard.ListSample.Android.Resource.Styleable.MenuItem_android_numericShortcut;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.MenuItem_android_onClick = global::RecordGuard.ListSample.Android.Resource.Styleable.MenuItem_android_onClick;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.MenuItem_android_orderInCategory = global::RecordGuard.ListSample.Android.Resource.Styleable.MenuItem_android_orderInCategory;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.MenuItem_android_title = global::RecordGuard.ListSample.Android.Resource.Styleable.MenuItem_android_title;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.MenuItem_android_titleCondensed = global::RecordGuard.ListSample.Android.Resource.Styleable.MenuItem_android_titleCondensed;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.MenuItem_android_visible = global::RecordGuard.ListSample.Android.Resource.Styleable.MenuItem_android_visible;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.MenuItem_contentDescription = global::RecordGuard.ListSample.Android.Resource.Styleable.MenuItem_contentDescription;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.MenuItem_iconTint = global::RecordGuard.ListSample.Android.Resource.Styleable.MenuItem_iconTint;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.MenuItem_iconTintMode = global::RecordGuard.ListSample.Android.Resource.Styleable.MenuItem_iconTintMode;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.MenuItem_numericModifiers = global::RecordGuard.ListSample.Android.Resource.Styleable.MenuItem_numericModifiers;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.MenuItem_showAsAction = global::RecordGuard.ListSample.Android.Resource.Styleable.MenuItem_showAsAction;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.MenuItem_tooltipText = global::RecordGuard.ListSample.Android.Resource.Styleable.MenuItem_tooltipText;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.MenuView = global::RecordGuard.ListSample.Android.Resource.Styleable.MenuView;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.MenuView_android_headerBackground = global::RecordGuard.ListSample.Android.Resource.Styleable.MenuView_android_headerBackground;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.MenuView_android_horizontalDivider = global::RecordGuard.ListSample.Android.Resource.Styleable.MenuView_android_horizontalDivider;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.MenuView_android_itemBackground = global::RecordGuard.ListSample.Android.Resource.Styleable.MenuView_android_itemBackground;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.MenuView_android_itemIconDisabledAlpha = global::RecordGuard.ListSample.Android.Resource.Styleable.MenuView_android_itemIconDisabledAlpha;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.MenuView_android_itemTextAppearance = global::RecordGuard.ListSample.Android.Resource.Styleable.MenuView_android_itemTextAppearance;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.MenuView_android_verticalDivider = global::RecordGuard.ListSample.Android.Resource.Styleable.MenuView_android_verticalDivider;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.MenuView_android_windowAnimationStyle = global::RecordGuard.ListSample.Android.Resource.Styleable.MenuView_android_windowAnimationStyle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.MenuView_preserveIconSpacing = global::RecordGuard.ListSample.Android.Resource.Styleable.MenuView_preserveIconSpacing;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.MenuView_subMenuArrow = global::RecordGuard.ListSample.Android.Resource.Styleable.MenuView_subMenuArrow;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.MvxBinding = global::RecordGuard.ListSample.Android.Resource.Styleable.MvxBinding;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.MvxBinding_MvxBind = global::RecordGuard.ListSample.Android.Resource.Styleable.MvxBinding_MvxBind;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.MvxBinding_MvxLang = global::RecordGuard.ListSample.Android.Resource.Styleable.MvxBinding_MvxLang;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.MvxControl = global::RecordGuard.ListSample.Android.Resource.Styleable.MvxControl;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.MvxControl_MvxTemplate = global::RecordGuard.ListSample.Android.Resource.Styleable.MvxControl_MvxTemplate;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.MvxExpandableListView = global::RecordGuard.ListSample.Android.Resource.Styleable.MvxExpandableListView;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.MvxExpandableListView_MvxGroupItemTemplate = global::RecordGuard.ListSample.Android.Resource.Styleable.MvxExpandableListView_MvxGroupItemTemplate;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.MvxListView = global::RecordGuard.ListSample.Android.Resource.Styleable.MvxListView;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.MvxListView_MvxDropDownItemTemplate = global::RecordGuard.ListSample.Android.Resource.Styleable.MvxListView_MvxDropDownItemTemplate;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.MvxListView_MvxItemTemplate = global::RecordGuard.ListSample.Android.Resource.Styleable.MvxListView_MvxItemTemplate;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.MvxRecyclerView = global::RecordGuard.ListSample.Android.Resource.Styleable.MvxRecyclerView;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.MvxRecyclerView_MvxChildSwipeableTemplate = global::RecordGuard.ListSample.Android.Resource.Styleable.MvxRecyclerView_MvxChildSwipeableTemplate;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.MvxRecyclerView_MvxFooterLayoutId = global::RecordGuard.ListSample.Android.Resource.Styleable.MvxRecyclerView_MvxFooterLayoutId;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.MvxRecyclerView_MvxGroupedDataConverter = global::RecordGuard.ListSample.Android.Resource.Styleable.MvxRecyclerView_MvxGroupedDataConverter;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.MvxRecyclerView_MvxGroupExpandController = global::RecordGuard.ListSample.Android.Resource.Styleable.MvxRecyclerView_MvxGroupExpandController;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.MvxRecyclerView_MvxGroupSwipeableTemplate = global::RecordGuard.ListSample.Android.Resource.Styleable.MvxRecyclerView_MvxGroupSwipeableTemplate;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.MvxRecyclerView_MvxHeaderLayoutId = global::RecordGuard.ListSample.Android.Resource.Styleable.MvxRecyclerView_MvxHeaderLayoutId;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.MvxRecyclerView_MvxHidesFooterIfEmpty = global::RecordGuard.ListSample.Android.Resource.Styleable.MvxRecyclerView_MvxHidesFooterIfEmpty;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.MvxRecyclerView_MvxHidesHeaderIfEmpty = global::RecordGuard.ListSample.Android.Resource.Styleable.MvxRecyclerView_MvxHidesHeaderIfEmpty;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.MvxRecyclerView_MvxSwipeableTemplate = global::RecordGuard.ListSample.Android.Resource.Styleable.MvxRecyclerView_MvxSwipeableTemplate;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.MvxRecyclerView_MvxTemplateSelector = global::RecordGuard.ListSample.Android.Resource.Styleable.MvxRecyclerView_MvxTemplateSelector;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.MvxRecyclerView_MvxUniqueItemIdProvider = global::RecordGuard.ListSample.Android.Resource.Styleable.MvxRecyclerView_MvxUniqueItemIdProvider;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.PopupWindow = global::RecordGuard.ListSample.Android.Resource.Styleable.PopupWindow;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.PopupWindowBackgroundState = global::RecordGuard.ListSample.Android.Resource.Styleable.PopupWindowBackgroundState;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor = global::RecordGuard.ListSample.Android.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.PopupWindow_android_popupAnimationStyle = global::RecordGuard.ListSample.Android.Resource.Styleable.PopupWindow_android_popupAnimationStyle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.PopupWindow_android_popupBackground = global::RecordGuard.ListSample.Android.Resource.Styleable.PopupWindow_android_popupBackground;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.PopupWindow_overlapAnchor = global::RecordGuard.ListSample.Android.Resource.Styleable.PopupWindow_overlapAnchor;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.RecycleListView = global::RecordGuard.ListSample.Android.Resource.Styleable.RecycleListView;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.RecycleListView_paddingBottomNoButtons = global::RecordGuard.ListSample.Android.Resource.Styleable.RecycleListView_paddingBottomNoButtons;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.RecycleListView_paddingTopNoTitle = global::RecordGuard.ListSample.Android.Resource.Styleable.RecycleListView_paddingTopNoTitle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.RecyclerView = global::RecordGuard.ListSample.Android.Resource.Styleable.RecyclerView;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.RecyclerView_android_descendantFocusability = global::RecordGuard.ListSample.Android.Resource.Styleable.RecyclerView_android_descendantFocusability;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.RecyclerView_android_orientation = global::RecordGuard.ListSample.Android.Resource.Styleable.RecyclerView_android_orientation;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.RecyclerView_fastScrollEnabled = global::RecordGuard.ListSample.Android.Resource.Styleable.RecyclerView_fastScrollEnabled;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.RecyclerView_fastScrollHorizontalThumbDrawable = global::RecordGuard.ListSample.Android.Resource.Styleable.RecyclerView_fastScrollHorizontalThumbDrawable;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.RecyclerView_fastScrollHorizontalTrackDrawable = global::RecordGuard.ListSample.Android.Resource.Styleable.RecyclerView_fastScrollHorizontalTrackDrawable;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.RecyclerView_fastScrollVerticalThumbDrawable = global::RecordGuard.ListSample.Android.Resource.Styleable.RecyclerView_fastScrollVerticalThumbDrawable;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.RecyclerView_fastScrollVerticalTrackDrawable = global::RecordGuard.ListSample.Android.Resource.Styleable.RecyclerView_fastScrollVerticalTrackDrawable;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.RecyclerView_layoutManager = global::RecordGuard.ListSample.Android.Resource.Styleable.RecyclerView_layoutManager;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.RecyclerView_reverseLayout = global::RecordGuard.ListSample.Android.Resource.Styleable.RecyclerView_reverseLayout;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.RecyclerView_spanCount = global::RecordGuard.ListSample.Android.Resource.Styleable.RecyclerView_spanCount;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.RecyclerView_stackFromEnd = global::RecordGuard.ListSample.Android.Resource.Styleable.RecyclerView_stackFromEnd;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.SearchView = global::RecordGuard.ListSample.Android.Resource.Styleable.SearchView;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.SearchView_android_focusable = global::RecordGuard.ListSample.Android.Resource.Styleable.SearchView_android_focusable;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.SearchView_android_imeOptions = global::RecordGuard.ListSample.Android.Resource.Styleable.SearchView_android_imeOptions;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.SearchView_android_inputType = global::RecordGuard.ListSample.Android.Resource.Styleable.SearchView_android_inputType;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.SearchView_android_maxWidth = global::RecordGuard.ListSample.Android.Resource.Styleable.SearchView_android_maxWidth;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.SearchView_closeIcon = global::RecordGuard.ListSample.Android.Resource.Styleable.SearchView_closeIcon;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.SearchView_commitIcon = global::RecordGuard.ListSample.Android.Resource.Styleable.SearchView_commitIcon;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.SearchView_defaultQueryHint = global::RecordGuard.ListSample.Android.Resource.Styleable.SearchView_defaultQueryHint;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.SearchView_goIcon = global::RecordGuard.ListSample.Android.Resource.Styleable.SearchView_goIcon;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.SearchView_iconifiedByDefault = global::RecordGuard.ListSample.Android.Resource.Styleable.SearchView_iconifiedByDefault;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.SearchView_layout = global::RecordGuard.ListSample.Android.Resource.Styleable.SearchView_layout;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.SearchView_queryBackground = global::RecordGuard.ListSample.Android.Resource.Styleable.SearchView_queryBackground;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.SearchView_queryHint = global::RecordGuard.ListSample.Android.Resource.Styleable.SearchView_queryHint;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.SearchView_searchHintIcon = global::RecordGuard.ListSample.Android.Resource.Styleable.SearchView_searchHintIcon;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.SearchView_searchIcon = global::RecordGuard.ListSample.Android.Resource.Styleable.SearchView_searchIcon;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.SearchView_submitBackground = global::RecordGuard.ListSample.Android.Resource.Styleable.SearchView_submitBackground;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.SearchView_suggestionRowLayout = global::RecordGuard.ListSample.Android.Resource.Styleable.SearchView_suggestionRowLayout;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.SearchView_voiceIcon = global::RecordGuard.ListSample.Android.Resource.Styleable.SearchView_voiceIcon;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.Spinner = global::RecordGuard.ListSample.Android.Resource.Styleable.Spinner;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.Spinner_android_dropDownWidth = global::RecordGuard.ListSample.Android.Resource.Styleable.Spinner_android_dropDownWidth;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.Spinner_android_entries = global::RecordGuard.ListSample.Android.Resource.Styleable.Spinner_android_entries;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.Spinner_android_popupBackground = global::RecordGuard.ListSample.Android.Resource.Styleable.Spinner_android_popupBackground;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.Spinner_android_prompt = global::RecordGuard.ListSample.Android.Resource.Styleable.Spinner_android_prompt;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.Spinner_popupTheme = global::RecordGuard.ListSample.Android.Resource.Styleable.Spinner_popupTheme;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.StateListDrawable = global::RecordGuard.ListSample.Android.Resource.Styleable.StateListDrawable;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.StateListDrawableItem = global::RecordGuard.ListSample.Android.Resource.Styleable.StateListDrawableItem;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.StateListDrawableItem_android_drawable = global::RecordGuard.ListSample.Android.Resource.Styleable.StateListDrawableItem_android_drawable;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.StateListDrawable_android_constantSize = global::RecordGuard.ListSample.Android.Resource.Styleable.StateListDrawable_android_constantSize;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.StateListDrawable_android_dither = global::RecordGuard.ListSample.Android.Resource.Styleable.StateListDrawable_android_dither;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.StateListDrawable_android_enterFadeDuration = global::RecordGuard.ListSample.Android.Resource.Styleable.StateListDrawable_android_enterFadeDuration;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.StateListDrawable_android_exitFadeDuration = global::RecordGuard.ListSample.Android.Resource.Styleable.StateListDrawable_android_exitFadeDuration;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.StateListDrawable_android_variablePadding = global::RecordGuard.ListSample.Android.Resource.Styleable.StateListDrawable_android_variablePadding;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.StateListDrawable_android_visible = global::RecordGuard.ListSample.Android.Resource.Styleable.StateListDrawable_android_visible;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.SwitchCompat = global::RecordGuard.ListSample.Android.Resource.Styleable.SwitchCompat;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.SwitchCompat_android_textOff = global::RecordGuard.ListSample.Android.Resource.Styleable.SwitchCompat_android_textOff;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.SwitchCompat_android_textOn = global::RecordGuard.ListSample.Android.Resource.Styleable.SwitchCompat_android_textOn;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.SwitchCompat_android_thumb = global::RecordGuard.ListSample.Android.Resource.Styleable.SwitchCompat_android_thumb;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.SwitchCompat_showText = global::RecordGuard.ListSample.Android.Resource.Styleable.SwitchCompat_showText;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.SwitchCompat_splitTrack = global::RecordGuard.ListSample.Android.Resource.Styleable.SwitchCompat_splitTrack;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.SwitchCompat_switchMinWidth = global::RecordGuard.ListSample.Android.Resource.Styleable.SwitchCompat_switchMinWidth;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.SwitchCompat_switchPadding = global::RecordGuard.ListSample.Android.Resource.Styleable.SwitchCompat_switchPadding;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.SwitchCompat_switchTextAppearance = global::RecordGuard.ListSample.Android.Resource.Styleable.SwitchCompat_switchTextAppearance;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.SwitchCompat_thumbTextPadding = global::RecordGuard.ListSample.Android.Resource.Styleable.SwitchCompat_thumbTextPadding;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.SwitchCompat_thumbTint = global::RecordGuard.ListSample.Android.Resource.Styleable.SwitchCompat_thumbTint;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.SwitchCompat_thumbTintMode = global::RecordGuard.ListSample.Android.Resource.Styleable.SwitchCompat_thumbTintMode;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.SwitchCompat_track = global::RecordGuard.ListSample.Android.Resource.Styleable.SwitchCompat_track;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.SwitchCompat_trackTint = global::RecordGuard.ListSample.Android.Resource.Styleable.SwitchCompat_trackTint;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.SwitchCompat_trackTintMode = global::RecordGuard.ListSample.Android.Resource.Styleable.SwitchCompat_trackTintMode;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.TextAppearance = global::RecordGuard.ListSample.Android.Resource.Styleable.TextAppearance;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.TextAppearance_android_fontFamily = global::RecordGuard.ListSample.Android.Resource.Styleable.TextAppearance_android_fontFamily;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.TextAppearance_android_shadowColor = global::RecordGuard.ListSample.Android.Resource.Styleable.TextAppearance_android_shadowColor;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.TextAppearance_android_shadowDx = global::RecordGuard.ListSample.Android.Resource.Styleable.TextAppearance_android_shadowDx;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.TextAppearance_android_shadowDy = global::RecordGuard.ListSample.Android.Resource.Styleable.TextAppearance_android_shadowDy;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.TextAppearance_android_shadowRadius = global::RecordGuard.ListSample.Android.Resource.Styleable.TextAppearance_android_shadowRadius;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.TextAppearance_android_textColor = global::RecordGuard.ListSample.Android.Resource.Styleable.TextAppearance_android_textColor;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.TextAppearance_android_textColorHint = global::RecordGuard.ListSample.Android.Resource.Styleable.TextAppearance_android_textColorHint;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.TextAppearance_android_textColorLink = global::RecordGuard.ListSample.Android.Resource.Styleable.TextAppearance_android_textColorLink;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.TextAppearance_android_textSize = global::RecordGuard.ListSample.Android.Resource.Styleable.TextAppearance_android_textSize;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.TextAppearance_android_textStyle = global::RecordGuard.ListSample.Android.Resource.Styleable.TextAppearance_android_textStyle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.TextAppearance_android_typeface = global::RecordGuard.ListSample.Android.Resource.Styleable.TextAppearance_android_typeface;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.TextAppearance_fontFamily = global::RecordGuard.ListSample.Android.Resource.Styleable.TextAppearance_fontFamily;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.TextAppearance_textAllCaps = global::RecordGuard.ListSample.Android.Resource.Styleable.TextAppearance_textAllCaps;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.Toolbar = global::RecordGuard.ListSample.Android.Resource.Styleable.Toolbar;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.Toolbar_android_gravity = global::RecordGuard.ListSample.Android.Resource.Styleable.Toolbar_android_gravity;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.Toolbar_android_minHeight = global::RecordGuard.ListSample.Android.Resource.Styleable.Toolbar_android_minHeight;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.Toolbar_buttonGravity = global::RecordGuard.ListSample.Android.Resource.Styleable.Toolbar_buttonGravity;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.Toolbar_collapseContentDescription = global::RecordGuard.ListSample.Android.Resource.Styleable.Toolbar_collapseContentDescription;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.Toolbar_collapseIcon = global::RecordGuard.ListSample.Android.Resource.Styleable.Toolbar_collapseIcon;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.Toolbar_contentInsetEnd = global::RecordGuard.ListSample.Android.Resource.Styleable.Toolbar_contentInsetEnd;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.Toolbar_contentInsetEndWithActions = global::RecordGuard.ListSample.Android.Resource.Styleable.Toolbar_contentInsetEndWithActions;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.Toolbar_contentInsetLeft = global::RecordGuard.ListSample.Android.Resource.Styleable.Toolbar_contentInsetLeft;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.Toolbar_contentInsetRight = global::RecordGuard.ListSample.Android.Resource.Styleable.Toolbar_contentInsetRight;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.Toolbar_contentInsetStart = global::RecordGuard.ListSample.Android.Resource.Styleable.Toolbar_contentInsetStart;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.Toolbar_contentInsetStartWithNavigation = global::RecordGuard.ListSample.Android.Resource.Styleable.Toolbar_contentInsetStartWithNavigation;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.Toolbar_logo = global::RecordGuard.ListSample.Android.Resource.Styleable.Toolbar_logo;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.Toolbar_logoDescription = global::RecordGuard.ListSample.Android.Resource.Styleable.Toolbar_logoDescription;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.Toolbar_maxButtonHeight = global::RecordGuard.ListSample.Android.Resource.Styleable.Toolbar_maxButtonHeight;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.Toolbar_navigationContentDescription = global::RecordGuard.ListSample.Android.Resource.Styleable.Toolbar_navigationContentDescription;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.Toolbar_navigationIcon = global::RecordGuard.ListSample.Android.Resource.Styleable.Toolbar_navigationIcon;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.Toolbar_popupTheme = global::RecordGuard.ListSample.Android.Resource.Styleable.Toolbar_popupTheme;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.Toolbar_subtitle = global::RecordGuard.ListSample.Android.Resource.Styleable.Toolbar_subtitle;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.Toolbar_subtitleTextAppearance = global::RecordGuard.ListSample.Android.Resource.Styleable.Toolbar_subtitleTextAppearance;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.Toolbar_subtitleTextColor = global::RecordGuard.ListSample.Android.Resource.Styleable.Toolbar_subtitleTextColor;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.Toolbar_title = global::RecordGuard.ListSample.Android.Resource.Styleable.Toolbar_title;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.Toolbar_titleMargin = global::RecordGuard.ListSample.Android.Resource.Styleable.Toolbar_titleMargin;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.Toolbar_titleMarginBottom = global::RecordGuard.ListSample.Android.Resource.Styleable.Toolbar_titleMarginBottom;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.Toolbar_titleMarginEnd = global::RecordGuard.ListSample.Android.Resource.Styleable.Toolbar_titleMarginEnd;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.Toolbar_titleMargins = global::RecordGuard.ListSample.Android.Resource.Styleable.Toolbar_titleMargins;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.Toolbar_titleMarginStart = global::RecordGuard.ListSample.Android.Resource.Styleable.Toolbar_titleMarginStart;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.Toolbar_titleMarginTop = global::RecordGuard.ListSample.Android.Resource.Styleable.Toolbar_titleMarginTop;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.Toolbar_titleTextAppearance = global::RecordGuard.ListSample.Android.Resource.Styleable.Toolbar_titleTextAppearance;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.Toolbar_titleTextColor = global::RecordGuard.ListSample.Android.Resource.Styleable.Toolbar_titleTextColor;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.View = global::RecordGuard.ListSample.Android.Resource.Styleable.View;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.ViewBackgroundHelper = global::RecordGuard.ListSample.Android.Resource.Styleable.ViewBackgroundHelper;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.ViewBackgroundHelper_android_background = global::RecordGuard.ListSample.Android.Resource.Styleable.ViewBackgroundHelper_android_background;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.ViewBackgroundHelper_backgroundTint = global::RecordGuard.ListSample.Android.Resource.Styleable.ViewBackgroundHelper_backgroundTint;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode = global::RecordGuard.ListSample.Android.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.ViewStubCompat = global::RecordGuard.ListSample.Android.Resource.Styleable.ViewStubCompat;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.ViewStubCompat_android_id = global::RecordGuard.ListSample.Android.Resource.Styleable.ViewStubCompat_android_id;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.ViewStubCompat_android_inflatedId = global::RecordGuard.ListSample.Android.Resource.Styleable.ViewStubCompat_android_inflatedId;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.ViewStubCompat_android_layout = global::RecordGuard.ListSample.Android.Resource.Styleable.ViewStubCompat_android_layout;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.View_android_focusable = global::RecordGuard.ListSample.Android.Resource.Styleable.View_android_focusable;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.View_android_theme = global::RecordGuard.ListSample.Android.Resource.Styleable.View_android_theme;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.View_paddingEnd = global::RecordGuard.ListSample.Android.Resource.Styleable.View_paddingEnd;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.View_paddingStart = global::RecordGuard.ListSample.Android.Resource.Styleable.View_paddingStart;
+			global::MvvmCross.AdvancedRecyclerView.Resource.Styleable.View_theme = global::RecordGuard.ListSample.Android.Resource.Styleable.View_theme;
 			global::MvvmCross.Resource.Attribute.MvxBind = global::RecordGuard.ListSample.Android.Resource.Attribute.MvxBind;
 			global::MvvmCross.Resource.Attribute.MvxDropDownItemTemplate = global::RecordGuard.ListSample.Android.Resource.Attribute.MvxDropDownItemTemplate;
 			global::MvvmCross.Resource.Attribute.MvxGroupItemTemplate = global::RecordGuard.ListSample.Android.Resource.Attribute.MvxGroupItemTemplate;
@@ -1218,6 +2918,7 @@ namespace RecordGuard.ListSample.Android
 			global::MvvmCross.Droid.Support.Design.Resource.Id.action_image = global::RecordGuard.ListSample.Android.Resource.Id.action_image;
 			global::MvvmCross.Droid.Support.Design.Resource.Id.action_menu_divider = global::RecordGuard.ListSample.Android.Resource.Id.action_menu_divider;
 			global::MvvmCross.Droid.Support.Design.Resource.Id.action_menu_presenter = global::RecordGuard.ListSample.Android.Resource.Id.action_menu_presenter;
+			global::MvvmCross.Droid.Support.Design.Resource.Id.action_mode_bar = global::RecordGuard.ListSample.Android.Resource.Id.action_mode_bar;
 			global::MvvmCross.Droid.Support.Design.Resource.Id.action_mode_bar_stub = global::RecordGuard.ListSample.Android.Resource.Id.action_mode_bar_stub;
 			global::MvvmCross.Droid.Support.Design.Resource.Id.action_mode_close_button = global::RecordGuard.ListSample.Android.Resource.Id.action_mode_close_button;
 			global::MvvmCross.Droid.Support.Design.Resource.Id.action_text = global::RecordGuard.ListSample.Android.Resource.Id.action_text;
@@ -1250,6 +2951,7 @@ namespace RecordGuard.ListSample.Android
 			global::MvvmCross.Droid.Support.Design.Resource.Id.decor_content_parent = global::RecordGuard.ListSample.Android.Resource.Id.decor_content_parent;
 			global::MvvmCross.Droid.Support.Design.Resource.Id.default_activity_button = global::RecordGuard.ListSample.Android.Resource.Id.default_activity_button;
 			global::MvvmCross.Droid.Support.Design.Resource.Id.design_bottom_sheet = global::RecordGuard.ListSample.Android.Resource.Id.design_bottom_sheet;
+			global::MvvmCross.Droid.Support.Design.Resource.Id.design_menu_item_action_area = global::RecordGuard.ListSample.Android.Resource.Id.design_menu_item_action_area;
 			global::MvvmCross.Droid.Support.Design.Resource.Id.design_menu_item_action_area_stub = global::RecordGuard.ListSample.Android.Resource.Id.design_menu_item_action_area_stub;
 			global::MvvmCross.Droid.Support.Design.Resource.Id.design_menu_item_text = global::RecordGuard.ListSample.Android.Resource.Id.design_menu_item_text;
 			global::MvvmCross.Droid.Support.Design.Resource.Id.design_navigation_view = global::RecordGuard.ListSample.Android.Resource.Id.design_navigation_view;
@@ -3941,6 +5643,7 @@ namespace RecordGuard.ListSample.Android
 			global::MvvmCross.Droid.Support.V7.AppCompat.Resource.Id.action_image = global::RecordGuard.ListSample.Android.Resource.Id.action_image;
 			global::MvvmCross.Droid.Support.V7.AppCompat.Resource.Id.action_menu_divider = global::RecordGuard.ListSample.Android.Resource.Id.action_menu_divider;
 			global::MvvmCross.Droid.Support.V7.AppCompat.Resource.Id.action_menu_presenter = global::RecordGuard.ListSample.Android.Resource.Id.action_menu_presenter;
+			global::MvvmCross.Droid.Support.V7.AppCompat.Resource.Id.action_mode_bar = global::RecordGuard.ListSample.Android.Resource.Id.action_mode_bar;
 			global::MvvmCross.Droid.Support.V7.AppCompat.Resource.Id.action_mode_bar_stub = global::RecordGuard.ListSample.Android.Resource.Id.action_mode_bar_stub;
 			global::MvvmCross.Droid.Support.V7.AppCompat.Resource.Id.action_mode_close_button = global::RecordGuard.ListSample.Android.Resource.Id.action_mode_close_button;
 			global::MvvmCross.Droid.Support.V7.AppCompat.Resource.Id.action_text = global::RecordGuard.ListSample.Android.Resource.Id.action_text;
@@ -3973,6 +5676,7 @@ namespace RecordGuard.ListSample.Android
 			global::MvvmCross.Droid.Support.V7.AppCompat.Resource.Id.decor_content_parent = global::RecordGuard.ListSample.Android.Resource.Id.decor_content_parent;
 			global::MvvmCross.Droid.Support.V7.AppCompat.Resource.Id.default_activity_button = global::RecordGuard.ListSample.Android.Resource.Id.default_activity_button;
 			global::MvvmCross.Droid.Support.V7.AppCompat.Resource.Id.design_bottom_sheet = global::RecordGuard.ListSample.Android.Resource.Id.design_bottom_sheet;
+			global::MvvmCross.Droid.Support.V7.AppCompat.Resource.Id.design_menu_item_action_area = global::RecordGuard.ListSample.Android.Resource.Id.design_menu_item_action_area;
 			global::MvvmCross.Droid.Support.V7.AppCompat.Resource.Id.design_menu_item_action_area_stub = global::RecordGuard.ListSample.Android.Resource.Id.design_menu_item_action_area_stub;
 			global::MvvmCross.Droid.Support.V7.AppCompat.Resource.Id.design_menu_item_text = global::RecordGuard.ListSample.Android.Resource.Id.design_menu_item_text;
 			global::MvvmCross.Droid.Support.V7.AppCompat.Resource.Id.design_navigation_view = global::RecordGuard.ListSample.Android.Resource.Id.design_navigation_view;
@@ -5817,1502 +7521,1532 @@ namespace RecordGuard.ListSample.Android
 		public partial class Attribute
 		{
 			
-			// aapt resource value: 0x7F030000
-			public const int actionBarDivider = 2130903040;
-			
-			// aapt resource value: 0x7F030001
-			public const int actionBarItemBackground = 2130903041;
-			
-			// aapt resource value: 0x7F030002
-			public const int actionBarPopupTheme = 2130903042;
-			
-			// aapt resource value: 0x7F030003
-			public const int actionBarSize = 2130903043;
-			
-			// aapt resource value: 0x7F030004
-			public const int actionBarSplitStyle = 2130903044;
-			
-			// aapt resource value: 0x7F030005
-			public const int actionBarStyle = 2130903045;
-			
-			// aapt resource value: 0x7F030006
-			public const int actionBarTabBarStyle = 2130903046;
-			
-			// aapt resource value: 0x7F030007
-			public const int actionBarTabStyle = 2130903047;
-			
-			// aapt resource value: 0x7F030008
-			public const int actionBarTabTextStyle = 2130903048;
-			
-			// aapt resource value: 0x7F030009
-			public const int actionBarTheme = 2130903049;
-			
-			// aapt resource value: 0x7F03000A
-			public const int actionBarWidgetTheme = 2130903050;
-			
-			// aapt resource value: 0x7F03000B
-			public const int actionButtonStyle = 2130903051;
-			
-			// aapt resource value: 0x7F03000C
-			public const int actionDropDownStyle = 2130903052;
-			
-			// aapt resource value: 0x7F03000D
-			public const int actionLayout = 2130903053;
-			
-			// aapt resource value: 0x7F03000E
-			public const int actionMenuTextAppearance = 2130903054;
-			
-			// aapt resource value: 0x7F03000F
-			public const int actionMenuTextColor = 2130903055;
-			
-			// aapt resource value: 0x7F030010
-			public const int actionModeBackground = 2130903056;
-			
 			// aapt resource value: 0x7F030011
-			public const int actionModeCloseButtonStyle = 2130903057;
+			public const int actionBarDivider = 2130903057;
 			
 			// aapt resource value: 0x7F030012
-			public const int actionModeCloseDrawable = 2130903058;
+			public const int actionBarItemBackground = 2130903058;
 			
 			// aapt resource value: 0x7F030013
-			public const int actionModeCopyDrawable = 2130903059;
+			public const int actionBarPopupTheme = 2130903059;
 			
 			// aapt resource value: 0x7F030014
-			public const int actionModeCutDrawable = 2130903060;
+			public const int actionBarSize = 2130903060;
 			
 			// aapt resource value: 0x7F030015
-			public const int actionModeFindDrawable = 2130903061;
+			public const int actionBarSplitStyle = 2130903061;
 			
 			// aapt resource value: 0x7F030016
-			public const int actionModePasteDrawable = 2130903062;
+			public const int actionBarStyle = 2130903062;
 			
 			// aapt resource value: 0x7F030017
-			public const int actionModePopupWindowStyle = 2130903063;
+			public const int actionBarTabBarStyle = 2130903063;
 			
 			// aapt resource value: 0x7F030018
-			public const int actionModeSelectAllDrawable = 2130903064;
+			public const int actionBarTabStyle = 2130903064;
 			
 			// aapt resource value: 0x7F030019
-			public const int actionModeShareDrawable = 2130903065;
+			public const int actionBarTabTextStyle = 2130903065;
 			
 			// aapt resource value: 0x7F03001A
-			public const int actionModeSplitBackground = 2130903066;
+			public const int actionBarTheme = 2130903066;
 			
 			// aapt resource value: 0x7F03001B
-			public const int actionModeStyle = 2130903067;
+			public const int actionBarWidgetTheme = 2130903067;
 			
 			// aapt resource value: 0x7F03001C
-			public const int actionModeWebSearchDrawable = 2130903068;
+			public const int actionButtonStyle = 2130903068;
 			
 			// aapt resource value: 0x7F03001D
-			public const int actionOverflowButtonStyle = 2130903069;
+			public const int actionDropDownStyle = 2130903069;
 			
 			// aapt resource value: 0x7F03001E
-			public const int actionOverflowMenuStyle = 2130903070;
+			public const int actionLayout = 2130903070;
 			
 			// aapt resource value: 0x7F03001F
-			public const int actionProviderClass = 2130903071;
+			public const int actionMenuTextAppearance = 2130903071;
 			
 			// aapt resource value: 0x7F030020
-			public const int actionViewClass = 2130903072;
+			public const int actionMenuTextColor = 2130903072;
 			
 			// aapt resource value: 0x7F030021
-			public const int activityChooserViewStyle = 2130903073;
+			public const int actionModeBackground = 2130903073;
 			
 			// aapt resource value: 0x7F030022
-			public const int alertDialogButtonGroupStyle = 2130903074;
+			public const int actionModeCloseButtonStyle = 2130903074;
 			
 			// aapt resource value: 0x7F030023
-			public const int alertDialogCenterButtons = 2130903075;
+			public const int actionModeCloseDrawable = 2130903075;
 			
 			// aapt resource value: 0x7F030024
-			public const int alertDialogStyle = 2130903076;
+			public const int actionModeCopyDrawable = 2130903076;
 			
 			// aapt resource value: 0x7F030025
-			public const int alertDialogTheme = 2130903077;
+			public const int actionModeCutDrawable = 2130903077;
 			
 			// aapt resource value: 0x7F030026
-			public const int allowStacking = 2130903078;
+			public const int actionModeFindDrawable = 2130903078;
 			
 			// aapt resource value: 0x7F030027
-			public const int alpha = 2130903079;
+			public const int actionModePasteDrawable = 2130903079;
 			
 			// aapt resource value: 0x7F030028
-			public const int alphabeticModifiers = 2130903080;
+			public const int actionModePopupWindowStyle = 2130903080;
 			
 			// aapt resource value: 0x7F030029
-			public const int arrowHeadLength = 2130903081;
+			public const int actionModeSelectAllDrawable = 2130903081;
 			
 			// aapt resource value: 0x7F03002A
-			public const int arrowShaftLength = 2130903082;
+			public const int actionModeShareDrawable = 2130903082;
 			
 			// aapt resource value: 0x7F03002B
-			public const int autoCompleteTextViewStyle = 2130903083;
+			public const int actionModeSplitBackground = 2130903083;
 			
 			// aapt resource value: 0x7F03002C
-			public const int autoSizeMaxTextSize = 2130903084;
+			public const int actionModeStyle = 2130903084;
 			
 			// aapt resource value: 0x7F03002D
-			public const int autoSizeMinTextSize = 2130903085;
+			public const int actionModeWebSearchDrawable = 2130903085;
 			
 			// aapt resource value: 0x7F03002E
-			public const int autoSizePresetSizes = 2130903086;
+			public const int actionOverflowButtonStyle = 2130903086;
 			
 			// aapt resource value: 0x7F03002F
-			public const int autoSizeStepGranularity = 2130903087;
+			public const int actionOverflowMenuStyle = 2130903087;
 			
 			// aapt resource value: 0x7F030030
-			public const int autoSizeTextType = 2130903088;
+			public const int actionProviderClass = 2130903088;
 			
 			// aapt resource value: 0x7F030031
-			public const int background = 2130903089;
+			public const int actionViewClass = 2130903089;
 			
 			// aapt resource value: 0x7F030032
-			public const int backgroundSplit = 2130903090;
+			public const int activityChooserViewStyle = 2130903090;
 			
 			// aapt resource value: 0x7F030033
-			public const int backgroundStacked = 2130903091;
+			public const int alertDialogButtonGroupStyle = 2130903091;
 			
 			// aapt resource value: 0x7F030034
-			public const int backgroundTint = 2130903092;
+			public const int alertDialogCenterButtons = 2130903092;
 			
 			// aapt resource value: 0x7F030035
-			public const int backgroundTintMode = 2130903093;
+			public const int alertDialogStyle = 2130903093;
 			
 			// aapt resource value: 0x7F030036
-			public const int barLength = 2130903094;
+			public const int alertDialogTheme = 2130903094;
 			
 			// aapt resource value: 0x7F030037
-			public const int behavior_autoHide = 2130903095;
+			public const int allowStacking = 2130903095;
 			
 			// aapt resource value: 0x7F030038
-			public const int behavior_fitToContents = 2130903096;
+			public const int alpha = 2130903096;
 			
 			// aapt resource value: 0x7F030039
-			public const int behavior_hideable = 2130903097;
+			public const int alphabeticModifiers = 2130903097;
 			
 			// aapt resource value: 0x7F03003A
-			public const int behavior_overlapTop = 2130903098;
+			public const int arrowHeadLength = 2130903098;
 			
 			// aapt resource value: 0x7F03003B
-			public const int behavior_peekHeight = 2130903099;
+			public const int arrowShaftLength = 2130903099;
 			
 			// aapt resource value: 0x7F03003C
-			public const int behavior_skipCollapsed = 2130903100;
+			public const int autoCompleteTextViewStyle = 2130903100;
 			
 			// aapt resource value: 0x7F03003D
-			public const int borderlessButtonStyle = 2130903101;
+			public const int autoSizeMaxTextSize = 2130903101;
 			
 			// aapt resource value: 0x7F03003E
-			public const int borderWidth = 2130903102;
+			public const int autoSizeMinTextSize = 2130903102;
 			
 			// aapt resource value: 0x7F03003F
-			public const int bottomAppBarStyle = 2130903103;
+			public const int autoSizePresetSizes = 2130903103;
 			
 			// aapt resource value: 0x7F030040
-			public const int bottomNavigationStyle = 2130903104;
+			public const int autoSizeStepGranularity = 2130903104;
 			
 			// aapt resource value: 0x7F030041
-			public const int bottomSheetDialogTheme = 2130903105;
+			public const int autoSizeTextType = 2130903105;
 			
 			// aapt resource value: 0x7F030042
-			public const int bottomSheetStyle = 2130903106;
+			public const int background = 2130903106;
 			
 			// aapt resource value: 0x7F030043
-			public const int boxBackgroundColor = 2130903107;
+			public const int backgroundSplit = 2130903107;
 			
 			// aapt resource value: 0x7F030044
-			public const int boxBackgroundMode = 2130903108;
+			public const int backgroundStacked = 2130903108;
 			
 			// aapt resource value: 0x7F030045
-			public const int boxCollapsedPaddingTop = 2130903109;
+			public const int backgroundTint = 2130903109;
 			
 			// aapt resource value: 0x7F030046
-			public const int boxCornerRadiusBottomEnd = 2130903110;
+			public const int backgroundTintMode = 2130903110;
 			
 			// aapt resource value: 0x7F030047
-			public const int boxCornerRadiusBottomStart = 2130903111;
+			public const int barLength = 2130903111;
 			
 			// aapt resource value: 0x7F030048
-			public const int boxCornerRadiusTopEnd = 2130903112;
+			public const int behavior_autoHide = 2130903112;
 			
 			// aapt resource value: 0x7F030049
-			public const int boxCornerRadiusTopStart = 2130903113;
+			public const int behavior_fitToContents = 2130903113;
 			
 			// aapt resource value: 0x7F03004A
-			public const int boxStrokeColor = 2130903114;
+			public const int behavior_hideable = 2130903114;
 			
 			// aapt resource value: 0x7F03004B
-			public const int boxStrokeWidth = 2130903115;
+			public const int behavior_overlapTop = 2130903115;
 			
 			// aapt resource value: 0x7F03004C
-			public const int buttonBarButtonStyle = 2130903116;
+			public const int behavior_peekHeight = 2130903116;
 			
 			// aapt resource value: 0x7F03004D
-			public const int buttonBarNegativeButtonStyle = 2130903117;
-			
-			// aapt resource value: 0x7F03004E
-			public const int buttonBarNeutralButtonStyle = 2130903118;
+			public const int behavior_skipCollapsed = 2130903117;
 			
 			// aapt resource value: 0x7F03004F
-			public const int buttonBarPositiveButtonStyle = 2130903119;
+			public const int borderlessButtonStyle = 2130903119;
+			
+			// aapt resource value: 0x7F03004E
+			public const int borderWidth = 2130903118;
 			
 			// aapt resource value: 0x7F030050
-			public const int buttonBarStyle = 2130903120;
+			public const int bottomAppBarStyle = 2130903120;
 			
 			// aapt resource value: 0x7F030051
-			public const int buttonGravity = 2130903121;
+			public const int bottomNavigationStyle = 2130903121;
 			
 			// aapt resource value: 0x7F030052
-			public const int buttonIconDimen = 2130903122;
+			public const int bottomSheetDialogTheme = 2130903122;
 			
 			// aapt resource value: 0x7F030053
-			public const int buttonPanelSideLayout = 2130903123;
+			public const int bottomSheetStyle = 2130903123;
 			
 			// aapt resource value: 0x7F030054
-			public const int buttonStyle = 2130903124;
+			public const int boxBackgroundColor = 2130903124;
 			
 			// aapt resource value: 0x7F030055
-			public const int buttonStyleSmall = 2130903125;
+			public const int boxBackgroundMode = 2130903125;
 			
 			// aapt resource value: 0x7F030056
-			public const int buttonTint = 2130903126;
+			public const int boxCollapsedPaddingTop = 2130903126;
 			
 			// aapt resource value: 0x7F030057
-			public const int buttonTintMode = 2130903127;
+			public const int boxCornerRadiusBottomEnd = 2130903127;
 			
 			// aapt resource value: 0x7F030058
-			public const int cardBackgroundColor = 2130903128;
+			public const int boxCornerRadiusBottomStart = 2130903128;
 			
 			// aapt resource value: 0x7F030059
-			public const int cardCornerRadius = 2130903129;
+			public const int boxCornerRadiusTopEnd = 2130903129;
 			
 			// aapt resource value: 0x7F03005A
-			public const int cardElevation = 2130903130;
+			public const int boxCornerRadiusTopStart = 2130903130;
 			
 			// aapt resource value: 0x7F03005B
-			public const int cardMaxElevation = 2130903131;
+			public const int boxStrokeColor = 2130903131;
 			
 			// aapt resource value: 0x7F03005C
-			public const int cardPreventCornerOverlap = 2130903132;
+			public const int boxStrokeWidth = 2130903132;
 			
 			// aapt resource value: 0x7F03005D
-			public const int cardUseCompatPadding = 2130903133;
+			public const int buttonBarButtonStyle = 2130903133;
 			
 			// aapt resource value: 0x7F03005E
-			public const int cardViewStyle = 2130903134;
+			public const int buttonBarNegativeButtonStyle = 2130903134;
 			
 			// aapt resource value: 0x7F03005F
-			public const int checkboxStyle = 2130903135;
+			public const int buttonBarNeutralButtonStyle = 2130903135;
 			
 			// aapt resource value: 0x7F030060
-			public const int checkedChip = 2130903136;
+			public const int buttonBarPositiveButtonStyle = 2130903136;
 			
 			// aapt resource value: 0x7F030061
-			public const int checkedIcon = 2130903137;
+			public const int buttonBarStyle = 2130903137;
 			
 			// aapt resource value: 0x7F030062
-			public const int checkedIconEnabled = 2130903138;
+			public const int buttonGravity = 2130903138;
 			
 			// aapt resource value: 0x7F030063
-			public const int checkedIconVisible = 2130903139;
+			public const int buttonIconDimen = 2130903139;
 			
 			// aapt resource value: 0x7F030064
-			public const int checkedTextViewStyle = 2130903140;
+			public const int buttonPanelSideLayout = 2130903140;
 			
 			// aapt resource value: 0x7F030065
-			public const int chipBackgroundColor = 2130903141;
+			public const int buttonStyle = 2130903141;
 			
 			// aapt resource value: 0x7F030066
-			public const int chipCornerRadius = 2130903142;
+			public const int buttonStyleSmall = 2130903142;
 			
 			// aapt resource value: 0x7F030067
-			public const int chipEndPadding = 2130903143;
+			public const int buttonTint = 2130903143;
 			
 			// aapt resource value: 0x7F030068
-			public const int chipGroupStyle = 2130903144;
+			public const int buttonTintMode = 2130903144;
 			
 			// aapt resource value: 0x7F030069
-			public const int chipIcon = 2130903145;
+			public const int cardBackgroundColor = 2130903145;
 			
 			// aapt resource value: 0x7F03006A
-			public const int chipIconEnabled = 2130903146;
+			public const int cardCornerRadius = 2130903146;
 			
 			// aapt resource value: 0x7F03006B
-			public const int chipIconSize = 2130903147;
+			public const int cardElevation = 2130903147;
 			
 			// aapt resource value: 0x7F03006C
-			public const int chipIconTint = 2130903148;
+			public const int cardMaxElevation = 2130903148;
 			
 			// aapt resource value: 0x7F03006D
-			public const int chipIconVisible = 2130903149;
+			public const int cardPreventCornerOverlap = 2130903149;
 			
 			// aapt resource value: 0x7F03006E
-			public const int chipMinHeight = 2130903150;
+			public const int cardUseCompatPadding = 2130903150;
 			
 			// aapt resource value: 0x7F03006F
-			public const int chipSpacing = 2130903151;
+			public const int cardViewStyle = 2130903151;
 			
 			// aapt resource value: 0x7F030070
-			public const int chipSpacingHorizontal = 2130903152;
+			public const int checkboxStyle = 2130903152;
 			
 			// aapt resource value: 0x7F030071
-			public const int chipSpacingVertical = 2130903153;
+			public const int checkedChip = 2130903153;
 			
 			// aapt resource value: 0x7F030072
-			public const int chipStandaloneStyle = 2130903154;
+			public const int checkedIcon = 2130903154;
 			
 			// aapt resource value: 0x7F030073
-			public const int chipStartPadding = 2130903155;
+			public const int checkedIconEnabled = 2130903155;
 			
 			// aapt resource value: 0x7F030074
-			public const int chipStrokeColor = 2130903156;
+			public const int checkedIconVisible = 2130903156;
 			
 			// aapt resource value: 0x7F030075
-			public const int chipStrokeWidth = 2130903157;
+			public const int checkedTextViewStyle = 2130903157;
 			
 			// aapt resource value: 0x7F030076
-			public const int chipStyle = 2130903158;
+			public const int chipBackgroundColor = 2130903158;
 			
 			// aapt resource value: 0x7F030077
-			public const int closeIcon = 2130903159;
+			public const int chipCornerRadius = 2130903159;
 			
 			// aapt resource value: 0x7F030078
-			public const int closeIconEnabled = 2130903160;
+			public const int chipEndPadding = 2130903160;
 			
 			// aapt resource value: 0x7F030079
-			public const int closeIconEndPadding = 2130903161;
+			public const int chipGroupStyle = 2130903161;
 			
 			// aapt resource value: 0x7F03007A
-			public const int closeIconSize = 2130903162;
+			public const int chipIcon = 2130903162;
 			
 			// aapt resource value: 0x7F03007B
-			public const int closeIconStartPadding = 2130903163;
+			public const int chipIconEnabled = 2130903163;
 			
 			// aapt resource value: 0x7F03007C
-			public const int closeIconTint = 2130903164;
+			public const int chipIconSize = 2130903164;
 			
 			// aapt resource value: 0x7F03007D
-			public const int closeIconVisible = 2130903165;
+			public const int chipIconTint = 2130903165;
 			
 			// aapt resource value: 0x7F03007E
-			public const int closeItemLayout = 2130903166;
+			public const int chipIconVisible = 2130903166;
 			
 			// aapt resource value: 0x7F03007F
-			public const int collapseContentDescription = 2130903167;
+			public const int chipMinHeight = 2130903167;
 			
 			// aapt resource value: 0x7F030080
-			public const int collapsedTitleGravity = 2130903168;
+			public const int chipSpacing = 2130903168;
 			
 			// aapt resource value: 0x7F030081
-			public const int collapsedTitleTextAppearance = 2130903169;
+			public const int chipSpacingHorizontal = 2130903169;
 			
 			// aapt resource value: 0x7F030082
-			public const int collapseIcon = 2130903170;
+			public const int chipSpacingVertical = 2130903170;
 			
 			// aapt resource value: 0x7F030083
-			public const int color = 2130903171;
+			public const int chipStandaloneStyle = 2130903171;
 			
 			// aapt resource value: 0x7F030084
-			public const int colorAccent = 2130903172;
+			public const int chipStartPadding = 2130903172;
 			
 			// aapt resource value: 0x7F030085
-			public const int colorBackgroundFloating = 2130903173;
+			public const int chipStrokeColor = 2130903173;
 			
 			// aapt resource value: 0x7F030086
-			public const int colorButtonNormal = 2130903174;
+			public const int chipStrokeWidth = 2130903174;
 			
 			// aapt resource value: 0x7F030087
-			public const int colorControlActivated = 2130903175;
+			public const int chipStyle = 2130903175;
 			
 			// aapt resource value: 0x7F030088
-			public const int colorControlHighlight = 2130903176;
+			public const int closeIcon = 2130903176;
 			
 			// aapt resource value: 0x7F030089
-			public const int colorControlNormal = 2130903177;
+			public const int closeIconEnabled = 2130903177;
 			
 			// aapt resource value: 0x7F03008A
-			public const int colorError = 2130903178;
+			public const int closeIconEndPadding = 2130903178;
 			
 			// aapt resource value: 0x7F03008B
-			public const int colorPrimary = 2130903179;
+			public const int closeIconSize = 2130903179;
 			
 			// aapt resource value: 0x7F03008C
-			public const int colorPrimaryDark = 2130903180;
+			public const int closeIconStartPadding = 2130903180;
 			
 			// aapt resource value: 0x7F03008D
-			public const int colorSecondary = 2130903181;
+			public const int closeIconTint = 2130903181;
 			
 			// aapt resource value: 0x7F03008E
-			public const int colorSwitchThumbNormal = 2130903182;
+			public const int closeIconVisible = 2130903182;
 			
 			// aapt resource value: 0x7F03008F
-			public const int commitIcon = 2130903183;
+			public const int closeItemLayout = 2130903183;
 			
 			// aapt resource value: 0x7F030090
-			public const int contentDescription = 2130903184;
-			
-			// aapt resource value: 0x7F030091
-			public const int contentInsetEnd = 2130903185;
+			public const int collapseContentDescription = 2130903184;
 			
 			// aapt resource value: 0x7F030092
-			public const int contentInsetEndWithActions = 2130903186;
+			public const int collapsedTitleGravity = 2130903186;
 			
 			// aapt resource value: 0x7F030093
-			public const int contentInsetLeft = 2130903187;
+			public const int collapsedTitleTextAppearance = 2130903187;
+			
+			// aapt resource value: 0x7F030091
+			public const int collapseIcon = 2130903185;
 			
 			// aapt resource value: 0x7F030094
-			public const int contentInsetRight = 2130903188;
+			public const int color = 2130903188;
 			
 			// aapt resource value: 0x7F030095
-			public const int contentInsetStart = 2130903189;
+			public const int colorAccent = 2130903189;
 			
 			// aapt resource value: 0x7F030096
-			public const int contentInsetStartWithNavigation = 2130903190;
+			public const int colorBackgroundFloating = 2130903190;
 			
 			// aapt resource value: 0x7F030097
-			public const int contentPadding = 2130903191;
+			public const int colorButtonNormal = 2130903191;
 			
 			// aapt resource value: 0x7F030098
-			public const int contentPaddingBottom = 2130903192;
+			public const int colorControlActivated = 2130903192;
 			
 			// aapt resource value: 0x7F030099
-			public const int contentPaddingLeft = 2130903193;
+			public const int colorControlHighlight = 2130903193;
 			
 			// aapt resource value: 0x7F03009A
-			public const int contentPaddingRight = 2130903194;
+			public const int colorControlNormal = 2130903194;
 			
 			// aapt resource value: 0x7F03009B
-			public const int contentPaddingTop = 2130903195;
+			public const int colorError = 2130903195;
 			
 			// aapt resource value: 0x7F03009C
-			public const int contentScrim = 2130903196;
+			public const int colorPrimary = 2130903196;
 			
 			// aapt resource value: 0x7F03009D
-			public const int controlBackground = 2130903197;
+			public const int colorPrimaryDark = 2130903197;
 			
 			// aapt resource value: 0x7F03009E
-			public const int coordinatorLayoutStyle = 2130903198;
+			public const int colorSecondary = 2130903198;
 			
 			// aapt resource value: 0x7F03009F
-			public const int cornerRadius = 2130903199;
+			public const int colorSwitchThumbNormal = 2130903199;
 			
 			// aapt resource value: 0x7F0300A0
-			public const int counterEnabled = 2130903200;
+			public const int commitIcon = 2130903200;
 			
 			// aapt resource value: 0x7F0300A1
-			public const int counterMaxLength = 2130903201;
+			public const int contentDescription = 2130903201;
 			
 			// aapt resource value: 0x7F0300A2
-			public const int counterOverflowTextAppearance = 2130903202;
+			public const int contentInsetEnd = 2130903202;
 			
 			// aapt resource value: 0x7F0300A3
-			public const int counterTextAppearance = 2130903203;
+			public const int contentInsetEndWithActions = 2130903203;
 			
 			// aapt resource value: 0x7F0300A4
-			public const int customNavigationLayout = 2130903204;
+			public const int contentInsetLeft = 2130903204;
 			
 			// aapt resource value: 0x7F0300A5
-			public const int defaultQueryHint = 2130903205;
+			public const int contentInsetRight = 2130903205;
 			
 			// aapt resource value: 0x7F0300A6
-			public const int dialogCornerRadius = 2130903206;
+			public const int contentInsetStart = 2130903206;
 			
 			// aapt resource value: 0x7F0300A7
-			public const int dialogPreferredPadding = 2130903207;
+			public const int contentInsetStartWithNavigation = 2130903207;
 			
 			// aapt resource value: 0x7F0300A8
-			public const int dialogTheme = 2130903208;
+			public const int contentPadding = 2130903208;
 			
 			// aapt resource value: 0x7F0300A9
-			public const int displayOptions = 2130903209;
+			public const int contentPaddingBottom = 2130903209;
 			
 			// aapt resource value: 0x7F0300AA
-			public const int divider = 2130903210;
+			public const int contentPaddingLeft = 2130903210;
 			
 			// aapt resource value: 0x7F0300AB
-			public const int dividerHorizontal = 2130903211;
+			public const int contentPaddingRight = 2130903211;
 			
 			// aapt resource value: 0x7F0300AC
-			public const int dividerPadding = 2130903212;
+			public const int contentPaddingTop = 2130903212;
 			
 			// aapt resource value: 0x7F0300AD
-			public const int dividerVertical = 2130903213;
+			public const int contentScrim = 2130903213;
 			
 			// aapt resource value: 0x7F0300AE
-			public const int drawableSize = 2130903214;
+			public const int controlBackground = 2130903214;
 			
 			// aapt resource value: 0x7F0300AF
-			public const int drawerArrowStyle = 2130903215;
+			public const int coordinatorLayoutStyle = 2130903215;
 			
 			// aapt resource value: 0x7F0300B0
-			public const int dropdownListPreferredItemHeight = 2130903216;
+			public const int cornerRadius = 2130903216;
 			
 			// aapt resource value: 0x7F0300B1
-			public const int dropDownListViewStyle = 2130903217;
+			public const int counterEnabled = 2130903217;
 			
 			// aapt resource value: 0x7F0300B2
-			public const int editTextBackground = 2130903218;
+			public const int counterMaxLength = 2130903218;
 			
 			// aapt resource value: 0x7F0300B3
-			public const int editTextColor = 2130903219;
+			public const int counterOverflowTextAppearance = 2130903219;
 			
 			// aapt resource value: 0x7F0300B4
-			public const int editTextStyle = 2130903220;
+			public const int counterTextAppearance = 2130903220;
 			
 			// aapt resource value: 0x7F0300B5
-			public const int elevation = 2130903221;
+			public const int customNavigationLayout = 2130903221;
 			
 			// aapt resource value: 0x7F0300B6
-			public const int enforceMaterialTheme = 2130903222;
+			public const int defaultQueryHint = 2130903222;
 			
 			// aapt resource value: 0x7F0300B7
-			public const int enforceTextAppearance = 2130903223;
+			public const int dialogCornerRadius = 2130903223;
 			
 			// aapt resource value: 0x7F0300B8
-			public const int errorEnabled = 2130903224;
+			public const int dialogPreferredPadding = 2130903224;
 			
 			// aapt resource value: 0x7F0300B9
-			public const int errorTextAppearance = 2130903225;
+			public const int dialogTheme = 2130903225;
 			
 			// aapt resource value: 0x7F0300BA
-			public const int expandActivityOverflowButtonDrawable = 2130903226;
+			public const int displayOptions = 2130903226;
 			
 			// aapt resource value: 0x7F0300BB
-			public const int expanded = 2130903227;
+			public const int divider = 2130903227;
 			
 			// aapt resource value: 0x7F0300BC
-			public const int expandedTitleGravity = 2130903228;
+			public const int dividerHorizontal = 2130903228;
 			
 			// aapt resource value: 0x7F0300BD
-			public const int expandedTitleMargin = 2130903229;
+			public const int dividerPadding = 2130903229;
 			
 			// aapt resource value: 0x7F0300BE
-			public const int expandedTitleMarginBottom = 2130903230;
+			public const int dividerVertical = 2130903230;
 			
 			// aapt resource value: 0x7F0300BF
-			public const int expandedTitleMarginEnd = 2130903231;
+			public const int drawableSize = 2130903231;
 			
 			// aapt resource value: 0x7F0300C0
-			public const int expandedTitleMarginStart = 2130903232;
-			
-			// aapt resource value: 0x7F0300C1
-			public const int expandedTitleMarginTop = 2130903233;
+			public const int drawerArrowStyle = 2130903232;
 			
 			// aapt resource value: 0x7F0300C2
-			public const int expandedTitleTextAppearance = 2130903234;
+			public const int dropdownListPreferredItemHeight = 2130903234;
+			
+			// aapt resource value: 0x7F0300C1
+			public const int dropDownListViewStyle = 2130903233;
 			
 			// aapt resource value: 0x7F0300C3
-			public const int fabAlignmentMode = 2130903235;
+			public const int editTextBackground = 2130903235;
 			
 			// aapt resource value: 0x7F0300C4
-			public const int fabCradleMargin = 2130903236;
+			public const int editTextColor = 2130903236;
 			
 			// aapt resource value: 0x7F0300C5
-			public const int fabCradleRoundedCornerRadius = 2130903237;
+			public const int editTextStyle = 2130903237;
 			
 			// aapt resource value: 0x7F0300C6
-			public const int fabCradleVerticalOffset = 2130903238;
+			public const int elevation = 2130903238;
 			
 			// aapt resource value: 0x7F0300C7
-			public const int fabCustomSize = 2130903239;
+			public const int enforceMaterialTheme = 2130903239;
 			
 			// aapt resource value: 0x7F0300C8
-			public const int fabSize = 2130903240;
+			public const int enforceTextAppearance = 2130903240;
 			
 			// aapt resource value: 0x7F0300C9
-			public const int fastScrollEnabled = 2130903241;
+			public const int errorEnabled = 2130903241;
 			
 			// aapt resource value: 0x7F0300CA
-			public const int fastScrollHorizontalThumbDrawable = 2130903242;
+			public const int errorTextAppearance = 2130903242;
 			
 			// aapt resource value: 0x7F0300CB
-			public const int fastScrollHorizontalTrackDrawable = 2130903243;
+			public const int expandActivityOverflowButtonDrawable = 2130903243;
 			
 			// aapt resource value: 0x7F0300CC
-			public const int fastScrollVerticalThumbDrawable = 2130903244;
+			public const int expanded = 2130903244;
 			
 			// aapt resource value: 0x7F0300CD
-			public const int fastScrollVerticalTrackDrawable = 2130903245;
+			public const int expandedTitleGravity = 2130903245;
 			
 			// aapt resource value: 0x7F0300CE
-			public const int fill_color = 2130903246;
+			public const int expandedTitleMargin = 2130903246;
 			
 			// aapt resource value: 0x7F0300CF
-			public const int firstBaselineToTopHeight = 2130903247;
+			public const int expandedTitleMarginBottom = 2130903247;
 			
 			// aapt resource value: 0x7F0300D0
-			public const int floatingActionButtonStyle = 2130903248;
+			public const int expandedTitleMarginEnd = 2130903248;
 			
 			// aapt resource value: 0x7F0300D1
-			public const int font = 2130903249;
+			public const int expandedTitleMarginStart = 2130903249;
 			
 			// aapt resource value: 0x7F0300D2
-			public const int fontFamily = 2130903250;
+			public const int expandedTitleMarginTop = 2130903250;
 			
 			// aapt resource value: 0x7F0300D3
-			public const int fontProviderAuthority = 2130903251;
+			public const int expandedTitleTextAppearance = 2130903251;
 			
 			// aapt resource value: 0x7F0300D4
-			public const int fontProviderCerts = 2130903252;
+			public const int fabAlignmentMode = 2130903252;
 			
 			// aapt resource value: 0x7F0300D5
-			public const int fontProviderFetchStrategy = 2130903253;
+			public const int fabCradleMargin = 2130903253;
 			
 			// aapt resource value: 0x7F0300D6
-			public const int fontProviderFetchTimeout = 2130903254;
+			public const int fabCradleRoundedCornerRadius = 2130903254;
 			
 			// aapt resource value: 0x7F0300D7
-			public const int fontProviderPackage = 2130903255;
+			public const int fabCradleVerticalOffset = 2130903255;
 			
 			// aapt resource value: 0x7F0300D8
-			public const int fontProviderQuery = 2130903256;
+			public const int fabCustomSize = 2130903256;
 			
 			// aapt resource value: 0x7F0300D9
-			public const int fontStyle = 2130903257;
+			public const int fabSize = 2130903257;
 			
 			// aapt resource value: 0x7F0300DA
-			public const int fontVariationSettings = 2130903258;
+			public const int fastScrollEnabled = 2130903258;
 			
 			// aapt resource value: 0x7F0300DB
-			public const int fontWeight = 2130903259;
+			public const int fastScrollHorizontalThumbDrawable = 2130903259;
 			
 			// aapt resource value: 0x7F0300DC
-			public const int foregroundInsidePadding = 2130903260;
+			public const int fastScrollHorizontalTrackDrawable = 2130903260;
 			
 			// aapt resource value: 0x7F0300DD
-			public const int gapBetweenBars = 2130903261;
+			public const int fastScrollVerticalThumbDrawable = 2130903261;
 			
 			// aapt resource value: 0x7F0300DE
-			public const int goIcon = 2130903262;
+			public const int fastScrollVerticalTrackDrawable = 2130903262;
 			
 			// aapt resource value: 0x7F0300DF
-			public const int headerLayout = 2130903263;
+			public const int fill_color = 2130903263;
 			
 			// aapt resource value: 0x7F0300E0
-			public const int height = 2130903264;
+			public const int firstBaselineToTopHeight = 2130903264;
 			
 			// aapt resource value: 0x7F0300E1
-			public const int helperText = 2130903265;
+			public const int floatingActionButtonStyle = 2130903265;
 			
 			// aapt resource value: 0x7F0300E2
-			public const int helperTextEnabled = 2130903266;
+			public const int font = 2130903266;
 			
 			// aapt resource value: 0x7F0300E3
-			public const int helperTextTextAppearance = 2130903267;
+			public const int fontFamily = 2130903267;
 			
 			// aapt resource value: 0x7F0300E4
-			public const int hideMotionSpec = 2130903268;
+			public const int fontProviderAuthority = 2130903268;
 			
 			// aapt resource value: 0x7F0300E5
-			public const int hideOnContentScroll = 2130903269;
+			public const int fontProviderCerts = 2130903269;
 			
 			// aapt resource value: 0x7F0300E6
-			public const int hideOnScroll = 2130903270;
+			public const int fontProviderFetchStrategy = 2130903270;
 			
 			// aapt resource value: 0x7F0300E7
-			public const int hintAnimationEnabled = 2130903271;
+			public const int fontProviderFetchTimeout = 2130903271;
 			
 			// aapt resource value: 0x7F0300E8
-			public const int hintEnabled = 2130903272;
+			public const int fontProviderPackage = 2130903272;
 			
 			// aapt resource value: 0x7F0300E9
-			public const int hintTextAppearance = 2130903273;
+			public const int fontProviderQuery = 2130903273;
 			
 			// aapt resource value: 0x7F0300EA
-			public const int homeAsUpIndicator = 2130903274;
+			public const int fontStyle = 2130903274;
 			
 			// aapt resource value: 0x7F0300EB
-			public const int homeLayout = 2130903275;
+			public const int fontVariationSettings = 2130903275;
 			
 			// aapt resource value: 0x7F0300EC
-			public const int hoveredFocusedTranslationZ = 2130903276;
+			public const int fontWeight = 2130903276;
 			
 			// aapt resource value: 0x7F0300ED
-			public const int icon = 2130903277;
+			public const int foregroundInsidePadding = 2130903277;
 			
 			// aapt resource value: 0x7F0300EE
-			public const int iconEndPadding = 2130903278;
+			public const int gapBetweenBars = 2130903278;
 			
 			// aapt resource value: 0x7F0300EF
-			public const int iconGravity = 2130903279;
+			public const int goIcon = 2130903279;
 			
 			// aapt resource value: 0x7F0300F0
-			public const int iconifiedByDefault = 2130903280;
+			public const int headerLayout = 2130903280;
 			
 			// aapt resource value: 0x7F0300F1
-			public const int iconPadding = 2130903281;
+			public const int height = 2130903281;
 			
 			// aapt resource value: 0x7F0300F2
-			public const int iconSize = 2130903282;
+			public const int helperText = 2130903282;
 			
 			// aapt resource value: 0x7F0300F3
-			public const int iconStartPadding = 2130903283;
+			public const int helperTextEnabled = 2130903283;
 			
 			// aapt resource value: 0x7F0300F4
-			public const int iconTint = 2130903284;
+			public const int helperTextTextAppearance = 2130903284;
 			
 			// aapt resource value: 0x7F0300F5
-			public const int iconTintMode = 2130903285;
+			public const int hideMotionSpec = 2130903285;
 			
 			// aapt resource value: 0x7F0300F6
-			public const int imageButtonStyle = 2130903286;
+			public const int hideOnContentScroll = 2130903286;
 			
 			// aapt resource value: 0x7F0300F7
-			public const int indeterminateProgressStyle = 2130903287;
+			public const int hideOnScroll = 2130903287;
 			
 			// aapt resource value: 0x7F0300F8
-			public const int initialActivityCount = 2130903288;
+			public const int hintAnimationEnabled = 2130903288;
 			
 			// aapt resource value: 0x7F0300F9
-			public const int insetForeground = 2130903289;
+			public const int hintEnabled = 2130903289;
 			
 			// aapt resource value: 0x7F0300FA
-			public const int isLightTheme = 2130903290;
+			public const int hintTextAppearance = 2130903290;
 			
 			// aapt resource value: 0x7F0300FB
-			public const int itemBackground = 2130903291;
+			public const int homeAsUpIndicator = 2130903291;
 			
 			// aapt resource value: 0x7F0300FC
-			public const int itemHorizontalPadding = 2130903292;
+			public const int homeLayout = 2130903292;
 			
 			// aapt resource value: 0x7F0300FD
-			public const int itemHorizontalTranslationEnabled = 2130903293;
+			public const int hoveredFocusedTranslationZ = 2130903293;
 			
 			// aapt resource value: 0x7F0300FE
-			public const int itemIconPadding = 2130903294;
+			public const int icon = 2130903294;
 			
 			// aapt resource value: 0x7F0300FF
-			public const int itemIconSize = 2130903295;
+			public const int iconEndPadding = 2130903295;
 			
 			// aapt resource value: 0x7F030100
-			public const int itemIconTint = 2130903296;
-			
-			// aapt resource value: 0x7F030101
-			public const int itemPadding = 2130903297;
-			
-			// aapt resource value: 0x7F030102
-			public const int itemSpacing = 2130903298;
-			
-			// aapt resource value: 0x7F030103
-			public const int itemTextAppearance = 2130903299;
-			
-			// aapt resource value: 0x7F030104
-			public const int itemTextAppearanceActive = 2130903300;
-			
-			// aapt resource value: 0x7F030105
-			public const int itemTextAppearanceInactive = 2130903301;
+			public const int iconGravity = 2130903296;
 			
 			// aapt resource value: 0x7F030106
-			public const int itemTextColor = 2130903302;
+			public const int iconifiedByDefault = 2130903302;
+			
+			// aapt resource value: 0x7F030101
+			public const int iconPadding = 2130903297;
+			
+			// aapt resource value: 0x7F030102
+			public const int iconSize = 2130903298;
+			
+			// aapt resource value: 0x7F030103
+			public const int iconStartPadding = 2130903299;
+			
+			// aapt resource value: 0x7F030104
+			public const int iconTint = 2130903300;
+			
+			// aapt resource value: 0x7F030105
+			public const int iconTintMode = 2130903301;
 			
 			// aapt resource value: 0x7F030107
-			public const int keylines = 2130903303;
+			public const int imageButtonStyle = 2130903303;
 			
 			// aapt resource value: 0x7F030108
-			public const int labelVisibilityMode = 2130903304;
+			public const int indeterminateProgressStyle = 2130903304;
 			
 			// aapt resource value: 0x7F030109
-			public const int lastBaselineToBottomHeight = 2130903305;
+			public const int initialActivityCount = 2130903305;
 			
 			// aapt resource value: 0x7F03010A
-			public const int layout = 2130903306;
+			public const int insetForeground = 2130903306;
 			
 			// aapt resource value: 0x7F03010B
-			public const int layoutManager = 2130903307;
+			public const int isLightTheme = 2130903307;
 			
 			// aapt resource value: 0x7F03010C
-			public const int layout_anchor = 2130903308;
+			public const int itemBackground = 2130903308;
 			
 			// aapt resource value: 0x7F03010D
-			public const int layout_anchorGravity = 2130903309;
+			public const int itemHorizontalPadding = 2130903309;
 			
 			// aapt resource value: 0x7F03010E
-			public const int layout_behavior = 2130903310;
+			public const int itemHorizontalTranslationEnabled = 2130903310;
 			
 			// aapt resource value: 0x7F03010F
-			public const int layout_collapseMode = 2130903311;
+			public const int itemIconPadding = 2130903311;
 			
 			// aapt resource value: 0x7F030110
-			public const int layout_collapseParallaxMultiplier = 2130903312;
+			public const int itemIconSize = 2130903312;
 			
 			// aapt resource value: 0x7F030111
-			public const int layout_dodgeInsetEdges = 2130903313;
+			public const int itemIconTint = 2130903313;
 			
 			// aapt resource value: 0x7F030112
-			public const int layout_insetEdge = 2130903314;
+			public const int itemPadding = 2130903314;
 			
 			// aapt resource value: 0x7F030113
-			public const int layout_keyline = 2130903315;
+			public const int itemSpacing = 2130903315;
 			
 			// aapt resource value: 0x7F030114
-			public const int layout_scrollFlags = 2130903316;
+			public const int itemTextAppearance = 2130903316;
 			
 			// aapt resource value: 0x7F030115
-			public const int layout_scrollInterpolator = 2130903317;
+			public const int itemTextAppearanceActive = 2130903317;
 			
 			// aapt resource value: 0x7F030116
-			public const int liftOnScroll = 2130903318;
+			public const int itemTextAppearanceInactive = 2130903318;
 			
 			// aapt resource value: 0x7F030117
-			public const int lineHeight = 2130903319;
+			public const int itemTextColor = 2130903319;
 			
 			// aapt resource value: 0x7F030118
-			public const int lineSpacing = 2130903320;
+			public const int keylines = 2130903320;
 			
 			// aapt resource value: 0x7F030119
-			public const int listChoiceBackgroundIndicator = 2130903321;
+			public const int labelVisibilityMode = 2130903321;
 			
 			// aapt resource value: 0x7F03011A
-			public const int listDividerAlertDialog = 2130903322;
+			public const int lastBaselineToBottomHeight = 2130903322;
 			
 			// aapt resource value: 0x7F03011B
-			public const int listItemLayout = 2130903323;
+			public const int layout = 2130903323;
 			
 			// aapt resource value: 0x7F03011C
-			public const int listLayout = 2130903324;
+			public const int layoutManager = 2130903324;
 			
 			// aapt resource value: 0x7F03011D
-			public const int listMenuViewStyle = 2130903325;
+			public const int layout_anchor = 2130903325;
 			
 			// aapt resource value: 0x7F03011E
-			public const int listPopupWindowStyle = 2130903326;
+			public const int layout_anchorGravity = 2130903326;
 			
 			// aapt resource value: 0x7F03011F
-			public const int listPreferredItemHeight = 2130903327;
+			public const int layout_behavior = 2130903327;
 			
 			// aapt resource value: 0x7F030120
-			public const int listPreferredItemHeightLarge = 2130903328;
+			public const int layout_collapseMode = 2130903328;
 			
 			// aapt resource value: 0x7F030121
-			public const int listPreferredItemHeightSmall = 2130903329;
+			public const int layout_collapseParallaxMultiplier = 2130903329;
 			
 			// aapt resource value: 0x7F030122
-			public const int listPreferredItemPaddingLeft = 2130903330;
+			public const int layout_dodgeInsetEdges = 2130903330;
 			
 			// aapt resource value: 0x7F030123
-			public const int listPreferredItemPaddingRight = 2130903331;
+			public const int layout_insetEdge = 2130903331;
 			
 			// aapt resource value: 0x7F030124
-			public const int logo = 2130903332;
+			public const int layout_keyline = 2130903332;
 			
 			// aapt resource value: 0x7F030125
-			public const int logoDescription = 2130903333;
+			public const int layout_scrollFlags = 2130903333;
 			
 			// aapt resource value: 0x7F030126
-			public const int lottie_autoPlay = 2130903334;
+			public const int layout_scrollInterpolator = 2130903334;
 			
 			// aapt resource value: 0x7F030127
-			public const int lottie_colorFilter = 2130903335;
+			public const int liftOnScroll = 2130903335;
 			
 			// aapt resource value: 0x7F030128
-			public const int lottie_enableMergePathsForKitKatAndAbove = 2130903336;
+			public const int lineHeight = 2130903336;
 			
 			// aapt resource value: 0x7F030129
-			public const int lottie_fileName = 2130903337;
+			public const int lineSpacing = 2130903337;
 			
 			// aapt resource value: 0x7F03012A
-			public const int lottie_imageAssetsFolder = 2130903338;
+			public const int listChoiceBackgroundIndicator = 2130903338;
 			
 			// aapt resource value: 0x7F03012B
-			public const int lottie_loop = 2130903339;
+			public const int listDividerAlertDialog = 2130903339;
 			
 			// aapt resource value: 0x7F03012C
-			public const int lottie_progress = 2130903340;
+			public const int listItemLayout = 2130903340;
 			
 			// aapt resource value: 0x7F03012D
-			public const int lottie_rawRes = 2130903341;
+			public const int listLayout = 2130903341;
 			
 			// aapt resource value: 0x7F03012E
-			public const int lottie_repeatCount = 2130903342;
+			public const int listMenuViewStyle = 2130903342;
 			
 			// aapt resource value: 0x7F03012F
-			public const int lottie_repeatMode = 2130903343;
+			public const int listPopupWindowStyle = 2130903343;
 			
 			// aapt resource value: 0x7F030130
-			public const int lottie_scale = 2130903344;
+			public const int listPreferredItemHeight = 2130903344;
 			
 			// aapt resource value: 0x7F030131
-			public const int lottie_url = 2130903345;
+			public const int listPreferredItemHeightLarge = 2130903345;
 			
 			// aapt resource value: 0x7F030132
-			public const int materialButtonStyle = 2130903346;
+			public const int listPreferredItemHeightSmall = 2130903346;
 			
 			// aapt resource value: 0x7F030133
-			public const int materialCardViewStyle = 2130903347;
+			public const int listPreferredItemPaddingLeft = 2130903347;
 			
 			// aapt resource value: 0x7F030134
-			public const int maxActionInlineWidth = 2130903348;
+			public const int listPreferredItemPaddingRight = 2130903348;
 			
 			// aapt resource value: 0x7F030135
-			public const int maxButtonHeight = 2130903349;
+			public const int logo = 2130903349;
 			
 			// aapt resource value: 0x7F030136
-			public const int maxImageSize = 2130903350;
+			public const int logoDescription = 2130903350;
 			
 			// aapt resource value: 0x7F030137
-			public const int measureWithLargestChild = 2130903351;
+			public const int lottie_autoPlay = 2130903351;
 			
 			// aapt resource value: 0x7F030138
-			public const int menu = 2130903352;
+			public const int lottie_colorFilter = 2130903352;
 			
 			// aapt resource value: 0x7F030139
-			public const int multiChoiceItemLayout = 2130903353;
+			public const int lottie_enableMergePathsForKitKatAndAbove = 2130903353;
 			
 			// aapt resource value: 0x7F03013A
-			public const int MvxBind = 2130903354;
+			public const int lottie_fileName = 2130903354;
 			
 			// aapt resource value: 0x7F03013B
-			public const int MvxDropDownItemTemplate = 2130903355;
+			public const int lottie_imageAssetsFolder = 2130903355;
 			
 			// aapt resource value: 0x7F03013C
-			public const int MvxGroupItemTemplate = 2130903356;
+			public const int lottie_loop = 2130903356;
 			
 			// aapt resource value: 0x7F03013D
-			public const int MvxItemTemplate = 2130903357;
+			public const int lottie_progress = 2130903357;
 			
 			// aapt resource value: 0x7F03013E
-			public const int MvxLang = 2130903358;
+			public const int lottie_rawRes = 2130903358;
 			
 			// aapt resource value: 0x7F03013F
-			public const int MvxTemplate = 2130903359;
+			public const int lottie_repeatCount = 2130903359;
 			
 			// aapt resource value: 0x7F030140
-			public const int MvxTemplateSelector = 2130903360;
+			public const int lottie_repeatMode = 2130903360;
 			
 			// aapt resource value: 0x7F030141
-			public const int navigationContentDescription = 2130903361;
+			public const int lottie_scale = 2130903361;
 			
 			// aapt resource value: 0x7F030142
-			public const int navigationIcon = 2130903362;
+			public const int lottie_url = 2130903362;
 			
 			// aapt resource value: 0x7F030143
-			public const int navigationMode = 2130903363;
+			public const int materialButtonStyle = 2130903363;
 			
 			// aapt resource value: 0x7F030144
-			public const int navigationViewStyle = 2130903364;
+			public const int materialCardViewStyle = 2130903364;
 			
 			// aapt resource value: 0x7F030145
-			public const int numericModifiers = 2130903365;
+			public const int maxActionInlineWidth = 2130903365;
 			
 			// aapt resource value: 0x7F030146
-			public const int overlapAnchor = 2130903366;
+			public const int maxButtonHeight = 2130903366;
 			
 			// aapt resource value: 0x7F030147
-			public const int paddingBottomNoButtons = 2130903367;
+			public const int maxImageSize = 2130903367;
 			
 			// aapt resource value: 0x7F030148
-			public const int paddingEnd = 2130903368;
+			public const int measureWithLargestChild = 2130903368;
 			
 			// aapt resource value: 0x7F030149
-			public const int paddingStart = 2130903369;
+			public const int menu = 2130903369;
 			
 			// aapt resource value: 0x7F03014A
-			public const int paddingTopNoTitle = 2130903370;
+			public const int multiChoiceItemLayout = 2130903370;
+			
+			// aapt resource value: 0x7F030000
+			public const int MvxBind = 2130903040;
+			
+			// aapt resource value: 0x7F030001
+			public const int MvxChildSwipeableTemplate = 2130903041;
+			
+			// aapt resource value: 0x7F030002
+			public const int MvxDropDownItemTemplate = 2130903042;
+			
+			// aapt resource value: 0x7F030003
+			public const int MvxFooterLayoutId = 2130903043;
+			
+			// aapt resource value: 0x7F030007
+			public const int MvxGroupedDataConverter = 2130903047;
+			
+			// aapt resource value: 0x7F030004
+			public const int MvxGroupExpandController = 2130903044;
+			
+			// aapt resource value: 0x7F030005
+			public const int MvxGroupItemTemplate = 2130903045;
+			
+			// aapt resource value: 0x7F030006
+			public const int MvxGroupSwipeableTemplate = 2130903046;
+			
+			// aapt resource value: 0x7F030008
+			public const int MvxHeaderLayoutId = 2130903048;
+			
+			// aapt resource value: 0x7F030009
+			public const int MvxHidesFooterIfEmpty = 2130903049;
+			
+			// aapt resource value: 0x7F03000A
+			public const int MvxHidesHeaderIfEmpty = 2130903050;
+			
+			// aapt resource value: 0x7F03000B
+			public const int MvxItemTemplate = 2130903051;
+			
+			// aapt resource value: 0x7F03000C
+			public const int MvxLang = 2130903052;
+			
+			// aapt resource value: 0x7F03000D
+			public const int MvxSwipeableTemplate = 2130903053;
+			
+			// aapt resource value: 0x7F03000E
+			public const int MvxTemplate = 2130903054;
+			
+			// aapt resource value: 0x7F03000F
+			public const int MvxTemplateSelector = 2130903055;
+			
+			// aapt resource value: 0x7F030010
+			public const int MvxUniqueItemIdProvider = 2130903056;
 			
 			// aapt resource value: 0x7F03014B
-			public const int panelBackground = 2130903371;
+			public const int navigationContentDescription = 2130903371;
 			
 			// aapt resource value: 0x7F03014C
-			public const int panelMenuListTheme = 2130903372;
+			public const int navigationIcon = 2130903372;
 			
 			// aapt resource value: 0x7F03014D
-			public const int panelMenuListWidth = 2130903373;
+			public const int navigationMode = 2130903373;
 			
 			// aapt resource value: 0x7F03014E
-			public const int passwordToggleContentDescription = 2130903374;
+			public const int navigationViewStyle = 2130903374;
 			
 			// aapt resource value: 0x7F03014F
-			public const int passwordToggleDrawable = 2130903375;
+			public const int numericModifiers = 2130903375;
 			
 			// aapt resource value: 0x7F030150
-			public const int passwordToggleEnabled = 2130903376;
+			public const int overlapAnchor = 2130903376;
 			
 			// aapt resource value: 0x7F030151
-			public const int passwordToggleTint = 2130903377;
+			public const int paddingBottomNoButtons = 2130903377;
 			
 			// aapt resource value: 0x7F030152
-			public const int passwordToggleTintMode = 2130903378;
+			public const int paddingEnd = 2130903378;
 			
 			// aapt resource value: 0x7F030153
-			public const int pause_bg = 2130903379;
+			public const int paddingStart = 2130903379;
 			
 			// aapt resource value: 0x7F030154
-			public const int play_bg = 2130903380;
+			public const int paddingTopNoTitle = 2130903380;
 			
 			// aapt resource value: 0x7F030155
-			public const int popupMenuStyle = 2130903381;
+			public const int panelBackground = 2130903381;
 			
 			// aapt resource value: 0x7F030156
-			public const int popupTheme = 2130903382;
+			public const int panelMenuListTheme = 2130903382;
 			
 			// aapt resource value: 0x7F030157
-			public const int popupWindowStyle = 2130903383;
+			public const int panelMenuListWidth = 2130903383;
 			
 			// aapt resource value: 0x7F030158
-			public const int preserveIconSpacing = 2130903384;
+			public const int passwordToggleContentDescription = 2130903384;
 			
 			// aapt resource value: 0x7F030159
-			public const int pressedTranslationZ = 2130903385;
+			public const int passwordToggleDrawable = 2130903385;
 			
 			// aapt resource value: 0x7F03015A
-			public const int progressBarPadding = 2130903386;
+			public const int passwordToggleEnabled = 2130903386;
 			
 			// aapt resource value: 0x7F03015B
-			public const int progressBarStyle = 2130903387;
+			public const int passwordToggleTint = 2130903387;
 			
 			// aapt resource value: 0x7F03015C
-			public const int queryBackground = 2130903388;
+			public const int passwordToggleTintMode = 2130903388;
 			
 			// aapt resource value: 0x7F03015D
-			public const int queryHint = 2130903389;
+			public const int pause_bg = 2130903389;
 			
 			// aapt resource value: 0x7F03015E
-			public const int radioButtonStyle = 2130903390;
+			public const int play_bg = 2130903390;
 			
 			// aapt resource value: 0x7F03015F
-			public const int ratingBarStyle = 2130903391;
+			public const int popupMenuStyle = 2130903391;
 			
 			// aapt resource value: 0x7F030160
-			public const int ratingBarStyleIndicator = 2130903392;
+			public const int popupTheme = 2130903392;
 			
 			// aapt resource value: 0x7F030161
-			public const int ratingBarStyleSmall = 2130903393;
+			public const int popupWindowStyle = 2130903393;
 			
 			// aapt resource value: 0x7F030162
-			public const int reverseLayout = 2130903394;
+			public const int preserveIconSpacing = 2130903394;
 			
 			// aapt resource value: 0x7F030163
-			public const int rippleColor = 2130903395;
+			public const int pressedTranslationZ = 2130903395;
 			
 			// aapt resource value: 0x7F030164
-			public const int scrimAnimationDuration = 2130903396;
+			public const int progressBarPadding = 2130903396;
 			
 			// aapt resource value: 0x7F030165
-			public const int scrimBackground = 2130903397;
+			public const int progressBarStyle = 2130903397;
 			
 			// aapt resource value: 0x7F030166
-			public const int scrimVisibleHeightTrigger = 2130903398;
+			public const int queryBackground = 2130903398;
 			
 			// aapt resource value: 0x7F030167
-			public const int searchHintIcon = 2130903399;
+			public const int queryHint = 2130903399;
 			
 			// aapt resource value: 0x7F030168
-			public const int searchIcon = 2130903400;
+			public const int radioButtonStyle = 2130903400;
 			
 			// aapt resource value: 0x7F030169
-			public const int searchViewStyle = 2130903401;
+			public const int ratingBarStyle = 2130903401;
 			
 			// aapt resource value: 0x7F03016A
-			public const int seekBarStyle = 2130903402;
+			public const int ratingBarStyleIndicator = 2130903402;
 			
 			// aapt resource value: 0x7F03016B
-			public const int selectableItemBackground = 2130903403;
+			public const int ratingBarStyleSmall = 2130903403;
 			
 			// aapt resource value: 0x7F03016C
-			public const int selectableItemBackgroundBorderless = 2130903404;
+			public const int reverseLayout = 2130903404;
 			
 			// aapt resource value: 0x7F03016D
-			public const int showAsAction = 2130903405;
+			public const int rippleColor = 2130903405;
 			
 			// aapt resource value: 0x7F03016E
-			public const int showDividers = 2130903406;
+			public const int scrimAnimationDuration = 2130903406;
 			
 			// aapt resource value: 0x7F03016F
-			public const int showMotionSpec = 2130903407;
+			public const int scrimBackground = 2130903407;
 			
 			// aapt resource value: 0x7F030170
-			public const int showText = 2130903408;
+			public const int scrimVisibleHeightTrigger = 2130903408;
 			
 			// aapt resource value: 0x7F030171
-			public const int showTitle = 2130903409;
+			public const int searchHintIcon = 2130903409;
 			
 			// aapt resource value: 0x7F030172
-			public const int singleChoiceItemLayout = 2130903410;
+			public const int searchIcon = 2130903410;
 			
 			// aapt resource value: 0x7F030173
-			public const int singleLine = 2130903411;
+			public const int searchViewStyle = 2130903411;
 			
 			// aapt resource value: 0x7F030174
-			public const int singleSelection = 2130903412;
+			public const int seekBarStyle = 2130903412;
 			
 			// aapt resource value: 0x7F030175
-			public const int snackbarButtonStyle = 2130903413;
+			public const int selectableItemBackground = 2130903413;
 			
 			// aapt resource value: 0x7F030176
-			public const int snackbarStyle = 2130903414;
+			public const int selectableItemBackgroundBorderless = 2130903414;
 			
 			// aapt resource value: 0x7F030177
-			public const int spanCount = 2130903415;
+			public const int showAsAction = 2130903415;
 			
 			// aapt resource value: 0x7F030178
-			public const int spinBars = 2130903416;
+			public const int showDividers = 2130903416;
 			
 			// aapt resource value: 0x7F030179
-			public const int spinnerDropDownItemStyle = 2130903417;
+			public const int showMotionSpec = 2130903417;
 			
 			// aapt resource value: 0x7F03017A
-			public const int spinnerStyle = 2130903418;
+			public const int showText = 2130903418;
 			
 			// aapt resource value: 0x7F03017B
-			public const int splitTrack = 2130903419;
+			public const int showTitle = 2130903419;
 			
 			// aapt resource value: 0x7F03017C
-			public const int srcCompat = 2130903420;
+			public const int singleChoiceItemLayout = 2130903420;
 			
 			// aapt resource value: 0x7F03017D
-			public const int stackFromEnd = 2130903421;
+			public const int singleLine = 2130903421;
 			
 			// aapt resource value: 0x7F03017E
-			public const int state_above_anchor = 2130903422;
+			public const int singleSelection = 2130903422;
 			
 			// aapt resource value: 0x7F03017F
-			public const int state_collapsed = 2130903423;
+			public const int snackbarButtonStyle = 2130903423;
 			
 			// aapt resource value: 0x7F030180
-			public const int state_collapsible = 2130903424;
+			public const int snackbarStyle = 2130903424;
 			
 			// aapt resource value: 0x7F030181
-			public const int state_liftable = 2130903425;
+			public const int spanCount = 2130903425;
 			
 			// aapt resource value: 0x7F030182
-			public const int state_lifted = 2130903426;
+			public const int spinBars = 2130903426;
 			
 			// aapt resource value: 0x7F030183
-			public const int statusBarBackground = 2130903427;
+			public const int spinnerDropDownItemStyle = 2130903427;
 			
 			// aapt resource value: 0x7F030184
-			public const int statusBarScrim = 2130903428;
+			public const int spinnerStyle = 2130903428;
 			
 			// aapt resource value: 0x7F030185
-			public const int strokeColor = 2130903429;
+			public const int splitTrack = 2130903429;
 			
 			// aapt resource value: 0x7F030186
-			public const int strokeWidth = 2130903430;
+			public const int srcCompat = 2130903430;
 			
 			// aapt resource value: 0x7F030187
-			public const int subMenuArrow = 2130903431;
+			public const int stackFromEnd = 2130903431;
 			
 			// aapt resource value: 0x7F030188
-			public const int submitBackground = 2130903432;
+			public const int state_above_anchor = 2130903432;
 			
 			// aapt resource value: 0x7F030189
-			public const int subtitle = 2130903433;
+			public const int state_collapsed = 2130903433;
 			
 			// aapt resource value: 0x7F03018A
-			public const int subtitleTextAppearance = 2130903434;
+			public const int state_collapsible = 2130903434;
 			
 			// aapt resource value: 0x7F03018B
-			public const int subtitleTextColor = 2130903435;
+			public const int state_liftable = 2130903435;
 			
 			// aapt resource value: 0x7F03018C
-			public const int subtitleTextStyle = 2130903436;
+			public const int state_lifted = 2130903436;
 			
 			// aapt resource value: 0x7F03018D
-			public const int suggestionRowLayout = 2130903437;
+			public const int statusBarBackground = 2130903437;
 			
 			// aapt resource value: 0x7F03018E
-			public const int switchMinWidth = 2130903438;
+			public const int statusBarScrim = 2130903438;
 			
 			// aapt resource value: 0x7F03018F
-			public const int switchPadding = 2130903439;
+			public const int strokeColor = 2130903439;
 			
 			// aapt resource value: 0x7F030190
-			public const int switchStyle = 2130903440;
+			public const int strokeWidth = 2130903440;
 			
 			// aapt resource value: 0x7F030191
-			public const int switchTextAppearance = 2130903441;
+			public const int subMenuArrow = 2130903441;
 			
 			// aapt resource value: 0x7F030192
-			public const int tabBackground = 2130903442;
+			public const int submitBackground = 2130903442;
 			
 			// aapt resource value: 0x7F030193
-			public const int tabContentStart = 2130903443;
+			public const int subtitle = 2130903443;
 			
 			// aapt resource value: 0x7F030194
-			public const int tabGravity = 2130903444;
+			public const int subtitleTextAppearance = 2130903444;
 			
 			// aapt resource value: 0x7F030195
-			public const int tabIconTint = 2130903445;
+			public const int subtitleTextColor = 2130903445;
 			
 			// aapt resource value: 0x7F030196
-			public const int tabIconTintMode = 2130903446;
+			public const int subtitleTextStyle = 2130903446;
 			
 			// aapt resource value: 0x7F030197
-			public const int tabIndicator = 2130903447;
+			public const int suggestionRowLayout = 2130903447;
 			
 			// aapt resource value: 0x7F030198
-			public const int tabIndicatorAnimationDuration = 2130903448;
+			public const int switchMinWidth = 2130903448;
 			
 			// aapt resource value: 0x7F030199
-			public const int tabIndicatorColor = 2130903449;
+			public const int switchPadding = 2130903449;
 			
 			// aapt resource value: 0x7F03019A
-			public const int tabIndicatorFullWidth = 2130903450;
+			public const int switchStyle = 2130903450;
 			
 			// aapt resource value: 0x7F03019B
-			public const int tabIndicatorGravity = 2130903451;
+			public const int switchTextAppearance = 2130903451;
 			
 			// aapt resource value: 0x7F03019C
-			public const int tabIndicatorHeight = 2130903452;
+			public const int tabBackground = 2130903452;
 			
 			// aapt resource value: 0x7F03019D
-			public const int tabInlineLabel = 2130903453;
+			public const int tabContentStart = 2130903453;
 			
 			// aapt resource value: 0x7F03019E
-			public const int tabMaxWidth = 2130903454;
+			public const int tabGravity = 2130903454;
 			
 			// aapt resource value: 0x7F03019F
-			public const int tabMinWidth = 2130903455;
+			public const int tabIconTint = 2130903455;
 			
 			// aapt resource value: 0x7F0301A0
-			public const int tabMode = 2130903456;
+			public const int tabIconTintMode = 2130903456;
 			
 			// aapt resource value: 0x7F0301A1
-			public const int tabPadding = 2130903457;
+			public const int tabIndicator = 2130903457;
 			
 			// aapt resource value: 0x7F0301A2
-			public const int tabPaddingBottom = 2130903458;
+			public const int tabIndicatorAnimationDuration = 2130903458;
 			
 			// aapt resource value: 0x7F0301A3
-			public const int tabPaddingEnd = 2130903459;
+			public const int tabIndicatorColor = 2130903459;
 			
 			// aapt resource value: 0x7F0301A4
-			public const int tabPaddingStart = 2130903460;
+			public const int tabIndicatorFullWidth = 2130903460;
 			
 			// aapt resource value: 0x7F0301A5
-			public const int tabPaddingTop = 2130903461;
+			public const int tabIndicatorGravity = 2130903461;
 			
 			// aapt resource value: 0x7F0301A6
-			public const int tabRippleColor = 2130903462;
+			public const int tabIndicatorHeight = 2130903462;
 			
 			// aapt resource value: 0x7F0301A7
-			public const int tabSelectedTextColor = 2130903463;
+			public const int tabInlineLabel = 2130903463;
 			
 			// aapt resource value: 0x7F0301A8
-			public const int tabStyle = 2130903464;
+			public const int tabMaxWidth = 2130903464;
 			
 			// aapt resource value: 0x7F0301A9
-			public const int tabTextAppearance = 2130903465;
+			public const int tabMinWidth = 2130903465;
 			
 			// aapt resource value: 0x7F0301AA
-			public const int tabTextColor = 2130903466;
+			public const int tabMode = 2130903466;
 			
 			// aapt resource value: 0x7F0301AB
-			public const int tabUnboundedRipple = 2130903467;
+			public const int tabPadding = 2130903467;
 			
 			// aapt resource value: 0x7F0301AC
-			public const int textAllCaps = 2130903468;
+			public const int tabPaddingBottom = 2130903468;
 			
 			// aapt resource value: 0x7F0301AD
-			public const int textAppearanceBody1 = 2130903469;
+			public const int tabPaddingEnd = 2130903469;
 			
 			// aapt resource value: 0x7F0301AE
-			public const int textAppearanceBody2 = 2130903470;
+			public const int tabPaddingStart = 2130903470;
 			
 			// aapt resource value: 0x7F0301AF
-			public const int textAppearanceButton = 2130903471;
+			public const int tabPaddingTop = 2130903471;
 			
 			// aapt resource value: 0x7F0301B0
-			public const int textAppearanceCaption = 2130903472;
+			public const int tabRippleColor = 2130903472;
 			
 			// aapt resource value: 0x7F0301B1
-			public const int textAppearanceHeadline1 = 2130903473;
+			public const int tabSelectedTextColor = 2130903473;
 			
 			// aapt resource value: 0x7F0301B2
-			public const int textAppearanceHeadline2 = 2130903474;
+			public const int tabStyle = 2130903474;
 			
 			// aapt resource value: 0x7F0301B3
-			public const int textAppearanceHeadline3 = 2130903475;
+			public const int tabTextAppearance = 2130903475;
 			
 			// aapt resource value: 0x7F0301B4
-			public const int textAppearanceHeadline4 = 2130903476;
+			public const int tabTextColor = 2130903476;
 			
 			// aapt resource value: 0x7F0301B5
-			public const int textAppearanceHeadline5 = 2130903477;
+			public const int tabUnboundedRipple = 2130903477;
 			
 			// aapt resource value: 0x7F0301B6
-			public const int textAppearanceHeadline6 = 2130903478;
+			public const int textAllCaps = 2130903478;
 			
 			// aapt resource value: 0x7F0301B7
-			public const int textAppearanceLargePopupMenu = 2130903479;
+			public const int textAppearanceBody1 = 2130903479;
 			
 			// aapt resource value: 0x7F0301B8
-			public const int textAppearanceListItem = 2130903480;
+			public const int textAppearanceBody2 = 2130903480;
 			
 			// aapt resource value: 0x7F0301B9
-			public const int textAppearanceListItemSecondary = 2130903481;
+			public const int textAppearanceButton = 2130903481;
 			
 			// aapt resource value: 0x7F0301BA
-			public const int textAppearanceListItemSmall = 2130903482;
+			public const int textAppearanceCaption = 2130903482;
 			
 			// aapt resource value: 0x7F0301BB
-			public const int textAppearanceOverline = 2130903483;
+			public const int textAppearanceHeadline1 = 2130903483;
 			
 			// aapt resource value: 0x7F0301BC
-			public const int textAppearancePopupMenuHeader = 2130903484;
+			public const int textAppearanceHeadline2 = 2130903484;
 			
 			// aapt resource value: 0x7F0301BD
-			public const int textAppearanceSearchResultSubtitle = 2130903485;
+			public const int textAppearanceHeadline3 = 2130903485;
 			
 			// aapt resource value: 0x7F0301BE
-			public const int textAppearanceSearchResultTitle = 2130903486;
+			public const int textAppearanceHeadline4 = 2130903486;
 			
 			// aapt resource value: 0x7F0301BF
-			public const int textAppearanceSmallPopupMenu = 2130903487;
+			public const int textAppearanceHeadline5 = 2130903487;
 			
 			// aapt resource value: 0x7F0301C0
-			public const int textAppearanceSubtitle1 = 2130903488;
+			public const int textAppearanceHeadline6 = 2130903488;
 			
 			// aapt resource value: 0x7F0301C1
-			public const int textAppearanceSubtitle2 = 2130903489;
+			public const int textAppearanceLargePopupMenu = 2130903489;
 			
 			// aapt resource value: 0x7F0301C2
-			public const int textColorAlertDialogListItem = 2130903490;
+			public const int textAppearanceListItem = 2130903490;
 			
 			// aapt resource value: 0x7F0301C3
-			public const int textColorSearchUrl = 2130903491;
+			public const int textAppearanceListItemSecondary = 2130903491;
 			
 			// aapt resource value: 0x7F0301C4
-			public const int textEndPadding = 2130903492;
+			public const int textAppearanceListItemSmall = 2130903492;
 			
 			// aapt resource value: 0x7F0301C5
-			public const int textInputStyle = 2130903493;
+			public const int textAppearanceOverline = 2130903493;
 			
 			// aapt resource value: 0x7F0301C6
-			public const int textStartPadding = 2130903494;
+			public const int textAppearancePopupMenuHeader = 2130903494;
 			
 			// aapt resource value: 0x7F0301C7
-			public const int theme = 2130903495;
+			public const int textAppearanceSearchResultSubtitle = 2130903495;
 			
 			// aapt resource value: 0x7F0301C8
-			public const int thickness = 2130903496;
+			public const int textAppearanceSearchResultTitle = 2130903496;
 			
 			// aapt resource value: 0x7F0301C9
-			public const int thumbTextPadding = 2130903497;
+			public const int textAppearanceSmallPopupMenu = 2130903497;
 			
 			// aapt resource value: 0x7F0301CA
-			public const int thumbTint = 2130903498;
+			public const int textAppearanceSubtitle1 = 2130903498;
 			
 			// aapt resource value: 0x7F0301CB
-			public const int thumbTintMode = 2130903499;
+			public const int textAppearanceSubtitle2 = 2130903499;
 			
 			// aapt resource value: 0x7F0301CC
-			public const int tickMark = 2130903500;
+			public const int textColorAlertDialogListItem = 2130903500;
 			
 			// aapt resource value: 0x7F0301CD
-			public const int tickMarkTint = 2130903501;
+			public const int textColorSearchUrl = 2130903501;
 			
 			// aapt resource value: 0x7F0301CE
-			public const int tickMarkTintMode = 2130903502;
+			public const int textEndPadding = 2130903502;
 			
 			// aapt resource value: 0x7F0301CF
-			public const int tint = 2130903503;
+			public const int textInputStyle = 2130903503;
 			
 			// aapt resource value: 0x7F0301D0
-			public const int tintMode = 2130903504;
+			public const int textStartPadding = 2130903504;
 			
 			// aapt resource value: 0x7F0301D1
-			public const int title = 2130903505;
+			public const int theme = 2130903505;
 			
 			// aapt resource value: 0x7F0301D2
-			public const int titleEnabled = 2130903506;
+			public const int thickness = 2130903506;
 			
 			// aapt resource value: 0x7F0301D3
-			public const int titleMargin = 2130903507;
+			public const int thumbTextPadding = 2130903507;
 			
 			// aapt resource value: 0x7F0301D4
-			public const int titleMarginBottom = 2130903508;
+			public const int thumbTint = 2130903508;
 			
 			// aapt resource value: 0x7F0301D5
-			public const int titleMarginEnd = 2130903509;
+			public const int thumbTintMode = 2130903509;
 			
 			// aapt resource value: 0x7F0301D6
-			public const int titleMargins = 2130903510;
+			public const int tickMark = 2130903510;
 			
 			// aapt resource value: 0x7F0301D7
-			public const int titleMarginStart = 2130903511;
+			public const int tickMarkTint = 2130903511;
 			
 			// aapt resource value: 0x7F0301D8
-			public const int titleMarginTop = 2130903512;
+			public const int tickMarkTintMode = 2130903512;
 			
 			// aapt resource value: 0x7F0301D9
-			public const int titleTextAppearance = 2130903513;
+			public const int tint = 2130903513;
 			
 			// aapt resource value: 0x7F0301DA
-			public const int titleTextColor = 2130903514;
+			public const int tintMode = 2130903514;
 			
 			// aapt resource value: 0x7F0301DB
-			public const int titleTextStyle = 2130903515;
+			public const int title = 2130903515;
 			
 			// aapt resource value: 0x7F0301DC
-			public const int toolbarId = 2130903516;
+			public const int titleEnabled = 2130903516;
 			
 			// aapt resource value: 0x7F0301DD
-			public const int toolbarNavigationButtonStyle = 2130903517;
+			public const int titleMargin = 2130903517;
 			
 			// aapt resource value: 0x7F0301DE
-			public const int toolbarStyle = 2130903518;
+			public const int titleMarginBottom = 2130903518;
 			
 			// aapt resource value: 0x7F0301DF
-			public const int tooltipForegroundColor = 2130903519;
-			
-			// aapt resource value: 0x7F0301E0
-			public const int tooltipFrameBackground = 2130903520;
-			
-			// aapt resource value: 0x7F0301E1
-			public const int tooltipText = 2130903521;
+			public const int titleMarginEnd = 2130903519;
 			
 			// aapt resource value: 0x7F0301E2
-			public const int track = 2130903522;
+			public const int titleMargins = 2130903522;
+			
+			// aapt resource value: 0x7F0301E0
+			public const int titleMarginStart = 2130903520;
+			
+			// aapt resource value: 0x7F0301E1
+			public const int titleMarginTop = 2130903521;
 			
 			// aapt resource value: 0x7F0301E3
-			public const int trackTint = 2130903523;
+			public const int titleTextAppearance = 2130903523;
 			
 			// aapt resource value: 0x7F0301E4
-			public const int trackTintMode = 2130903524;
+			public const int titleTextColor = 2130903524;
 			
 			// aapt resource value: 0x7F0301E5
-			public const int ttcIndex = 2130903525;
+			public const int titleTextStyle = 2130903525;
 			
 			// aapt resource value: 0x7F0301E6
-			public const int useCompatPadding = 2130903526;
+			public const int toolbarId = 2130903526;
 			
 			// aapt resource value: 0x7F0301E7
-			public const int viewInflaterClass = 2130903527;
+			public const int toolbarNavigationButtonStyle = 2130903527;
 			
 			// aapt resource value: 0x7F0301E8
-			public const int voiceIcon = 2130903528;
+			public const int toolbarStyle = 2130903528;
 			
 			// aapt resource value: 0x7F0301E9
-			public const int windowActionBar = 2130903529;
+			public const int tooltipForegroundColor = 2130903529;
 			
 			// aapt resource value: 0x7F0301EA
-			public const int windowActionBarOverlay = 2130903530;
+			public const int tooltipFrameBackground = 2130903530;
 			
 			// aapt resource value: 0x7F0301EB
-			public const int windowActionModeOverlay = 2130903531;
+			public const int tooltipText = 2130903531;
 			
 			// aapt resource value: 0x7F0301EC
-			public const int windowFixedHeightMajor = 2130903532;
+			public const int track = 2130903532;
 			
 			// aapt resource value: 0x7F0301ED
-			public const int windowFixedHeightMinor = 2130903533;
+			public const int trackTint = 2130903533;
 			
 			// aapt resource value: 0x7F0301EE
-			public const int windowFixedWidthMajor = 2130903534;
+			public const int trackTintMode = 2130903534;
 			
 			// aapt resource value: 0x7F0301EF
-			public const int windowFixedWidthMinor = 2130903535;
+			public const int ttcIndex = 2130903535;
 			
 			// aapt resource value: 0x7F0301F0
-			public const int windowMinWidthMajor = 2130903536;
+			public const int useCompatPadding = 2130903536;
 			
 			// aapt resource value: 0x7F0301F1
-			public const int windowMinWidthMinor = 2130903537;
+			public const int viewInflaterClass = 2130903537;
 			
 			// aapt resource value: 0x7F0301F2
-			public const int windowNoTitle = 2130903538;
+			public const int voiceIcon = 2130903538;
+			
+			// aapt resource value: 0x7F0301F3
+			public const int windowActionBar = 2130903539;
+			
+			// aapt resource value: 0x7F0301F4
+			public const int windowActionBarOverlay = 2130903540;
+			
+			// aapt resource value: 0x7F0301F5
+			public const int windowActionModeOverlay = 2130903541;
+			
+			// aapt resource value: 0x7F0301F6
+			public const int windowFixedHeightMajor = 2130903542;
+			
+			// aapt resource value: 0x7F0301F7
+			public const int windowFixedHeightMinor = 2130903543;
+			
+			// aapt resource value: 0x7F0301F8
+			public const int windowFixedWidthMajor = 2130903544;
+			
+			// aapt resource value: 0x7F0301F9
+			public const int windowFixedWidthMinor = 2130903545;
+			
+			// aapt resource value: 0x7F0301FA
+			public const int windowMinWidthMajor = 2130903546;
+			
+			// aapt resource value: 0x7F0301FB
+			public const int windowMinWidthMinor = 2130903547;
+			
+			// aapt resource value: 0x7F0301FC
+			public const int windowNoTitle = 2130903548;
 			
 			static Attribute()
 			{
@@ -7655,20 +9389,20 @@ namespace RecordGuard.ListSample.Android
 			// aapt resource value: 0x7F050064
 			public const int mtrl_tabs_ripple_color = 2131034212;
 			
-			// aapt resource value: 0x7F050065
-			public const int mtrl_textinput_default_box_stroke_color = 2131034213;
-			
 			// aapt resource value: 0x7F050066
-			public const int mtrl_textinput_disabled_color = 2131034214;
+			public const int mtrl_textinput_default_box_stroke_color = 2131034214;
 			
 			// aapt resource value: 0x7F050067
-			public const int mtrl_textinput_filled_box_default_background_color = 2131034215;
+			public const int mtrl_textinput_disabled_color = 2131034215;
 			
 			// aapt resource value: 0x7F050068
-			public const int mtrl_textinput_hovered_box_stroke_color = 2131034216;
+			public const int mtrl_textinput_filled_box_default_background_color = 2131034216;
 			
 			// aapt resource value: 0x7F050069
-			public const int mtrl_text_btn_text_color_selector = 2131034217;
+			public const int mtrl_textinput_hovered_box_stroke_color = 2131034217;
+			
+			// aapt resource value: 0x7F050065
+			public const int mtrl_text_btn_text_color_selector = 2131034213;
 			
 			// aapt resource value: 0x7F05006A
 			public const int notification_action_color_filter = 2131034218;
@@ -8485,410 +10219,410 @@ namespace RecordGuard.ListSample.Android
 		public partial class Drawable
 		{
 			
-			// aapt resource value: 0x7F070000
-			public const int abc_ab_share_pack_mtrl_alpha = 2131165184;
-			
-			// aapt resource value: 0x7F070001
-			public const int abc_action_bar_item_background_material = 2131165185;
-			
-			// aapt resource value: 0x7F070002
-			public const int abc_btn_borderless_material = 2131165186;
-			
-			// aapt resource value: 0x7F070003
-			public const int abc_btn_check_material = 2131165187;
-			
-			// aapt resource value: 0x7F070004
-			public const int abc_btn_check_to_on_mtrl_000 = 2131165188;
-			
-			// aapt resource value: 0x7F070005
-			public const int abc_btn_check_to_on_mtrl_015 = 2131165189;
-			
 			// aapt resource value: 0x7F070006
-			public const int abc_btn_colored_material = 2131165190;
+			public const int abc_ab_share_pack_mtrl_alpha = 2131165190;
 			
 			// aapt resource value: 0x7F070007
-			public const int abc_btn_default_mtrl_shape = 2131165191;
+			public const int abc_action_bar_item_background_material = 2131165191;
 			
 			// aapt resource value: 0x7F070008
-			public const int abc_btn_radio_material = 2131165192;
+			public const int abc_btn_borderless_material = 2131165192;
 			
 			// aapt resource value: 0x7F070009
-			public const int abc_btn_radio_to_on_mtrl_000 = 2131165193;
+			public const int abc_btn_check_material = 2131165193;
 			
 			// aapt resource value: 0x7F07000A
-			public const int abc_btn_radio_to_on_mtrl_015 = 2131165194;
+			public const int abc_btn_check_to_on_mtrl_000 = 2131165194;
 			
 			// aapt resource value: 0x7F07000B
-			public const int abc_btn_switch_to_on_mtrl_00001 = 2131165195;
+			public const int abc_btn_check_to_on_mtrl_015 = 2131165195;
 			
 			// aapt resource value: 0x7F07000C
-			public const int abc_btn_switch_to_on_mtrl_00012 = 2131165196;
+			public const int abc_btn_colored_material = 2131165196;
 			
 			// aapt resource value: 0x7F07000D
-			public const int abc_cab_background_internal_bg = 2131165197;
+			public const int abc_btn_default_mtrl_shape = 2131165197;
 			
 			// aapt resource value: 0x7F07000E
-			public const int abc_cab_background_top_material = 2131165198;
+			public const int abc_btn_radio_material = 2131165198;
 			
 			// aapt resource value: 0x7F07000F
-			public const int abc_cab_background_top_mtrl_alpha = 2131165199;
+			public const int abc_btn_radio_to_on_mtrl_000 = 2131165199;
 			
 			// aapt resource value: 0x7F070010
-			public const int abc_control_background_material = 2131165200;
+			public const int abc_btn_radio_to_on_mtrl_015 = 2131165200;
 			
 			// aapt resource value: 0x7F070011
-			public const int abc_dialog_material_background = 2131165201;
+			public const int abc_btn_switch_to_on_mtrl_00001 = 2131165201;
 			
 			// aapt resource value: 0x7F070012
-			public const int abc_edit_text_material = 2131165202;
+			public const int abc_btn_switch_to_on_mtrl_00012 = 2131165202;
 			
 			// aapt resource value: 0x7F070013
-			public const int abc_ic_ab_back_material = 2131165203;
+			public const int abc_cab_background_internal_bg = 2131165203;
 			
 			// aapt resource value: 0x7F070014
-			public const int abc_ic_arrow_drop_right_black_24dp = 2131165204;
+			public const int abc_cab_background_top_material = 2131165204;
 			
 			// aapt resource value: 0x7F070015
-			public const int abc_ic_clear_material = 2131165205;
+			public const int abc_cab_background_top_mtrl_alpha = 2131165205;
 			
 			// aapt resource value: 0x7F070016
-			public const int abc_ic_commit_search_api_mtrl_alpha = 2131165206;
+			public const int abc_control_background_material = 2131165206;
 			
 			// aapt resource value: 0x7F070017
-			public const int abc_ic_go_search_api_material = 2131165207;
+			public const int abc_dialog_material_background = 2131165207;
 			
 			// aapt resource value: 0x7F070018
-			public const int abc_ic_menu_copy_mtrl_am_alpha = 2131165208;
+			public const int abc_edit_text_material = 2131165208;
 			
 			// aapt resource value: 0x7F070019
-			public const int abc_ic_menu_cut_mtrl_alpha = 2131165209;
+			public const int abc_ic_ab_back_material = 2131165209;
 			
 			// aapt resource value: 0x7F07001A
-			public const int abc_ic_menu_overflow_material = 2131165210;
+			public const int abc_ic_arrow_drop_right_black_24dp = 2131165210;
 			
 			// aapt resource value: 0x7F07001B
-			public const int abc_ic_menu_paste_mtrl_am_alpha = 2131165211;
+			public const int abc_ic_clear_material = 2131165211;
 			
 			// aapt resource value: 0x7F07001C
-			public const int abc_ic_menu_selectall_mtrl_alpha = 2131165212;
+			public const int abc_ic_commit_search_api_mtrl_alpha = 2131165212;
 			
 			// aapt resource value: 0x7F07001D
-			public const int abc_ic_menu_share_mtrl_alpha = 2131165213;
+			public const int abc_ic_go_search_api_material = 2131165213;
 			
 			// aapt resource value: 0x7F07001E
-			public const int abc_ic_search_api_material = 2131165214;
+			public const int abc_ic_menu_copy_mtrl_am_alpha = 2131165214;
 			
 			// aapt resource value: 0x7F07001F
-			public const int abc_ic_star_black_16dp = 2131165215;
+			public const int abc_ic_menu_cut_mtrl_alpha = 2131165215;
 			
 			// aapt resource value: 0x7F070020
-			public const int abc_ic_star_black_36dp = 2131165216;
+			public const int abc_ic_menu_overflow_material = 2131165216;
 			
 			// aapt resource value: 0x7F070021
-			public const int abc_ic_star_black_48dp = 2131165217;
+			public const int abc_ic_menu_paste_mtrl_am_alpha = 2131165217;
 			
 			// aapt resource value: 0x7F070022
-			public const int abc_ic_star_half_black_16dp = 2131165218;
+			public const int abc_ic_menu_selectall_mtrl_alpha = 2131165218;
 			
 			// aapt resource value: 0x7F070023
-			public const int abc_ic_star_half_black_36dp = 2131165219;
+			public const int abc_ic_menu_share_mtrl_alpha = 2131165219;
 			
 			// aapt resource value: 0x7F070024
-			public const int abc_ic_star_half_black_48dp = 2131165220;
+			public const int abc_ic_search_api_material = 2131165220;
 			
 			// aapt resource value: 0x7F070025
-			public const int abc_ic_voice_search_api_material = 2131165221;
+			public const int abc_ic_star_black_16dp = 2131165221;
 			
 			// aapt resource value: 0x7F070026
-			public const int abc_item_background_holo_dark = 2131165222;
+			public const int abc_ic_star_black_36dp = 2131165222;
 			
 			// aapt resource value: 0x7F070027
-			public const int abc_item_background_holo_light = 2131165223;
+			public const int abc_ic_star_black_48dp = 2131165223;
 			
 			// aapt resource value: 0x7F070028
-			public const int abc_list_divider_material = 2131165224;
+			public const int abc_ic_star_half_black_16dp = 2131165224;
 			
 			// aapt resource value: 0x7F070029
-			public const int abc_list_divider_mtrl_alpha = 2131165225;
+			public const int abc_ic_star_half_black_36dp = 2131165225;
 			
 			// aapt resource value: 0x7F07002A
-			public const int abc_list_focused_holo = 2131165226;
+			public const int abc_ic_star_half_black_48dp = 2131165226;
 			
 			// aapt resource value: 0x7F07002B
-			public const int abc_list_longpressed_holo = 2131165227;
+			public const int abc_ic_voice_search_api_material = 2131165227;
 			
 			// aapt resource value: 0x7F07002C
-			public const int abc_list_pressed_holo_dark = 2131165228;
+			public const int abc_item_background_holo_dark = 2131165228;
 			
 			// aapt resource value: 0x7F07002D
-			public const int abc_list_pressed_holo_light = 2131165229;
+			public const int abc_item_background_holo_light = 2131165229;
 			
 			// aapt resource value: 0x7F07002E
-			public const int abc_list_selector_background_transition_holo_dark = 2131165230;
+			public const int abc_list_divider_material = 2131165230;
 			
 			// aapt resource value: 0x7F07002F
-			public const int abc_list_selector_background_transition_holo_light = 2131165231;
+			public const int abc_list_divider_mtrl_alpha = 2131165231;
 			
 			// aapt resource value: 0x7F070030
-			public const int abc_list_selector_disabled_holo_dark = 2131165232;
+			public const int abc_list_focused_holo = 2131165232;
 			
 			// aapt resource value: 0x7F070031
-			public const int abc_list_selector_disabled_holo_light = 2131165233;
+			public const int abc_list_longpressed_holo = 2131165233;
 			
 			// aapt resource value: 0x7F070032
-			public const int abc_list_selector_holo_dark = 2131165234;
+			public const int abc_list_pressed_holo_dark = 2131165234;
 			
 			// aapt resource value: 0x7F070033
-			public const int abc_list_selector_holo_light = 2131165235;
+			public const int abc_list_pressed_holo_light = 2131165235;
 			
 			// aapt resource value: 0x7F070034
-			public const int abc_menu_hardkey_panel_mtrl_mult = 2131165236;
+			public const int abc_list_selector_background_transition_holo_dark = 2131165236;
 			
 			// aapt resource value: 0x7F070035
-			public const int abc_popup_background_mtrl_mult = 2131165237;
+			public const int abc_list_selector_background_transition_holo_light = 2131165237;
 			
 			// aapt resource value: 0x7F070036
-			public const int abc_ratingbar_indicator_material = 2131165238;
+			public const int abc_list_selector_disabled_holo_dark = 2131165238;
 			
 			// aapt resource value: 0x7F070037
-			public const int abc_ratingbar_material = 2131165239;
+			public const int abc_list_selector_disabled_holo_light = 2131165239;
 			
 			// aapt resource value: 0x7F070038
-			public const int abc_ratingbar_small_material = 2131165240;
+			public const int abc_list_selector_holo_dark = 2131165240;
 			
 			// aapt resource value: 0x7F070039
-			public const int abc_scrubber_control_off_mtrl_alpha = 2131165241;
+			public const int abc_list_selector_holo_light = 2131165241;
 			
 			// aapt resource value: 0x7F07003A
-			public const int abc_scrubber_control_to_pressed_mtrl_000 = 2131165242;
+			public const int abc_menu_hardkey_panel_mtrl_mult = 2131165242;
 			
 			// aapt resource value: 0x7F07003B
-			public const int abc_scrubber_control_to_pressed_mtrl_005 = 2131165243;
+			public const int abc_popup_background_mtrl_mult = 2131165243;
 			
 			// aapt resource value: 0x7F07003C
-			public const int abc_scrubber_primary_mtrl_alpha = 2131165244;
+			public const int abc_ratingbar_indicator_material = 2131165244;
 			
 			// aapt resource value: 0x7F07003D
-			public const int abc_scrubber_track_mtrl_alpha = 2131165245;
+			public const int abc_ratingbar_material = 2131165245;
 			
 			// aapt resource value: 0x7F07003E
-			public const int abc_seekbar_thumb_material = 2131165246;
+			public const int abc_ratingbar_small_material = 2131165246;
 			
 			// aapt resource value: 0x7F07003F
-			public const int abc_seekbar_tick_mark_material = 2131165247;
+			public const int abc_scrubber_control_off_mtrl_alpha = 2131165247;
 			
 			// aapt resource value: 0x7F070040
-			public const int abc_seekbar_track_material = 2131165248;
+			public const int abc_scrubber_control_to_pressed_mtrl_000 = 2131165248;
 			
 			// aapt resource value: 0x7F070041
-			public const int abc_spinner_mtrl_am_alpha = 2131165249;
+			public const int abc_scrubber_control_to_pressed_mtrl_005 = 2131165249;
 			
 			// aapt resource value: 0x7F070042
-			public const int abc_spinner_textfield_background_material = 2131165250;
+			public const int abc_scrubber_primary_mtrl_alpha = 2131165250;
 			
 			// aapt resource value: 0x7F070043
-			public const int abc_switch_thumb_material = 2131165251;
+			public const int abc_scrubber_track_mtrl_alpha = 2131165251;
 			
 			// aapt resource value: 0x7F070044
-			public const int abc_switch_track_mtrl_alpha = 2131165252;
+			public const int abc_seekbar_thumb_material = 2131165252;
 			
 			// aapt resource value: 0x7F070045
-			public const int abc_tab_indicator_material = 2131165253;
+			public const int abc_seekbar_tick_mark_material = 2131165253;
 			
 			// aapt resource value: 0x7F070046
-			public const int abc_tab_indicator_mtrl_alpha = 2131165254;
+			public const int abc_seekbar_track_material = 2131165254;
 			
 			// aapt resource value: 0x7F070047
-			public const int abc_textfield_activated_mtrl_alpha = 2131165255;
+			public const int abc_spinner_mtrl_am_alpha = 2131165255;
 			
 			// aapt resource value: 0x7F070048
-			public const int abc_textfield_default_mtrl_alpha = 2131165256;
+			public const int abc_spinner_textfield_background_material = 2131165256;
 			
 			// aapt resource value: 0x7F070049
-			public const int abc_textfield_search_activated_mtrl_alpha = 2131165257;
+			public const int abc_switch_thumb_material = 2131165257;
 			
 			// aapt resource value: 0x7F07004A
-			public const int abc_textfield_search_default_mtrl_alpha = 2131165258;
+			public const int abc_switch_track_mtrl_alpha = 2131165258;
 			
 			// aapt resource value: 0x7F07004B
-			public const int abc_textfield_search_material = 2131165259;
+			public const int abc_tab_indicator_material = 2131165259;
 			
 			// aapt resource value: 0x7F07004C
-			public const int abc_text_cursor_material = 2131165260;
-			
-			// aapt resource value: 0x7F07004D
-			public const int abc_text_select_handle_left_mtrl_dark = 2131165261;
-			
-			// aapt resource value: 0x7F07004E
-			public const int abc_text_select_handle_left_mtrl_light = 2131165262;
-			
-			// aapt resource value: 0x7F07004F
-			public const int abc_text_select_handle_middle_mtrl_dark = 2131165263;
-			
-			// aapt resource value: 0x7F070050
-			public const int abc_text_select_handle_middle_mtrl_light = 2131165264;
-			
-			// aapt resource value: 0x7F070051
-			public const int abc_text_select_handle_right_mtrl_dark = 2131165265;
-			
-			// aapt resource value: 0x7F070052
-			public const int abc_text_select_handle_right_mtrl_light = 2131165266;
-			
-			// aapt resource value: 0x7F070053
-			public const int abc_vector_test = 2131165267;
+			public const int abc_tab_indicator_mtrl_alpha = 2131165260;
 			
 			// aapt resource value: 0x7F070054
-			public const int appIcon = 2131165268;
+			public const int abc_textfield_activated_mtrl_alpha = 2131165268;
 			
 			// aapt resource value: 0x7F070055
-			public const int avd_hide_password = 2131165269;
+			public const int abc_textfield_default_mtrl_alpha = 2131165269;
 			
 			// aapt resource value: 0x7F070056
-			public const int avd_show_password = 2131165270;
+			public const int abc_textfield_search_activated_mtrl_alpha = 2131165270;
 			
 			// aapt resource value: 0x7F070057
-			public const int bg_swipe_item_state_active = 2131165271;
+			public const int abc_textfield_search_default_mtrl_alpha = 2131165271;
 			
 			// aapt resource value: 0x7F070058
-			public const int bg_swipe_item_state_neutral = 2131165272;
+			public const int abc_textfield_search_material = 2131165272;
+			
+			// aapt resource value: 0x7F07004D
+			public const int abc_text_cursor_material = 2131165261;
+			
+			// aapt resource value: 0x7F07004E
+			public const int abc_text_select_handle_left_mtrl_dark = 2131165262;
+			
+			// aapt resource value: 0x7F07004F
+			public const int abc_text_select_handle_left_mtrl_light = 2131165263;
+			
+			// aapt resource value: 0x7F070050
+			public const int abc_text_select_handle_middle_mtrl_dark = 2131165264;
+			
+			// aapt resource value: 0x7F070051
+			public const int abc_text_select_handle_middle_mtrl_light = 2131165265;
+			
+			// aapt resource value: 0x7F070052
+			public const int abc_text_select_handle_right_mtrl_dark = 2131165266;
+			
+			// aapt resource value: 0x7F070053
+			public const int abc_text_select_handle_right_mtrl_light = 2131165267;
 			
 			// aapt resource value: 0x7F070059
-			public const int bg_swipe_item_state_normal = 2131165273;
+			public const int abc_vector_test = 2131165273;
 			
 			// aapt resource value: 0x7F07005A
-			public const int bg_swipe_item_state_swiping = 2131165274;
+			public const int appIcon = 2131165274;
 			
 			// aapt resource value: 0x7F07005B
-			public const int button_shape_white = 2131165275;
+			public const int avd_hide_password = 2131165275;
 			
 			// aapt resource value: 0x7F07005C
-			public const int button_shape_white_default = 2131165276;
+			public const int avd_show_password = 2131165276;
 			
 			// aapt resource value: 0x7F07005D
-			public const int button_shape_white_disabled = 2131165277;
+			public const int bg_swipe_item_state_active = 2131165277;
 			
 			// aapt resource value: 0x7F07005E
-			public const int button_shape_white_pressed = 2131165278;
+			public const int bg_swipe_item_state_neutral = 2131165278;
 			
 			// aapt resource value: 0x7F07005F
-			public const int check = 2131165279;
+			public const int bg_swipe_item_state_normal = 2131165279;
 			
 			// aapt resource value: 0x7F070060
-			public const int close = 2131165280;
+			public const int bg_swipe_item_state_swiping = 2131165280;
 			
 			// aapt resource value: 0x7F070061
-			public const int delete = 2131165281;
+			public const int button_shape_white = 2131165281;
 			
 			// aapt resource value: 0x7F070062
-			public const int delete_grey = 2131165282;
+			public const int button_shape_white_default = 2131165282;
 			
 			// aapt resource value: 0x7F070063
-			public const int design_bottom_navigation_item_background = 2131165283;
+			public const int button_shape_white_disabled = 2131165283;
 			
 			// aapt resource value: 0x7F070064
-			public const int design_fab_background = 2131165284;
+			public const int button_shape_white_pressed = 2131165284;
 			
 			// aapt resource value: 0x7F070065
-			public const int design_ic_visibility = 2131165285;
+			public const int check = 2131165285;
 			
 			// aapt resource value: 0x7F070066
-			public const int design_ic_visibility_off = 2131165286;
+			public const int close = 2131165286;
 			
 			// aapt resource value: 0x7F070067
-			public const int design_password_eye = 2131165287;
+			public const int delete = 2131165287;
 			
 			// aapt resource value: 0x7F070068
-			public const int design_snackbar_background = 2131165288;
+			public const int delete_grey = 2131165288;
 			
 			// aapt resource value: 0x7F070069
-			public const int dots_vertical = 2131165289;
+			public const int design_bottom_navigation_item_background = 2131165289;
 			
 			// aapt resource value: 0x7F07006A
-			public const int icon_vector = 2131165290;
+			public const int design_fab_background = 2131165290;
 			
 			// aapt resource value: 0x7F07006B
-			public const int ic_mtrl_chip_checked_black = 2131165291;
+			public const int design_ic_visibility = 2131165291;
 			
 			// aapt resource value: 0x7F07006C
-			public const int ic_mtrl_chip_checked_circle = 2131165292;
+			public const int design_ic_visibility_off = 2131165292;
 			
 			// aapt resource value: 0x7F07006D
-			public const int ic_mtrl_chip_close_circle = 2131165293;
+			public const int design_password_eye = 2131165293;
 			
 			// aapt resource value: 0x7F07006E
-			public const int microphone = 2131165294;
+			public const int design_snackbar_background = 2131165294;
 			
 			// aapt resource value: 0x7F07006F
-			public const int mtrl_snackbar_background = 2131165295;
-			
-			// aapt resource value: 0x7F070070
-			public const int mtrl_tabs_default_indicator = 2131165296;
-			
-			// aapt resource value: 0x7F070071
-			public const int navigation_empty_icon = 2131165297;
-			
-			// aapt resource value: 0x7F070072
-			public const int notification_action_background = 2131165298;
+			public const int dots_vertical = 2131165295;
 			
 			// aapt resource value: 0x7F070073
-			public const int notification_bg = 2131165299;
+			public const int icon_vector = 2131165299;
+			
+			// aapt resource value: 0x7F070070
+			public const int ic_mtrl_chip_checked_black = 2131165296;
+			
+			// aapt resource value: 0x7F070071
+			public const int ic_mtrl_chip_checked_circle = 2131165297;
+			
+			// aapt resource value: 0x7F070072
+			public const int ic_mtrl_chip_close_circle = 2131165298;
 			
 			// aapt resource value: 0x7F070074
-			public const int notification_bg_low = 2131165300;
+			public const int microphone = 2131165300;
 			
 			// aapt resource value: 0x7F070075
-			public const int notification_bg_low_normal = 2131165301;
+			public const int mtrl_snackbar_background = 2131165301;
 			
 			// aapt resource value: 0x7F070076
-			public const int notification_bg_low_pressed = 2131165302;
+			public const int mtrl_tabs_default_indicator = 2131165302;
 			
 			// aapt resource value: 0x7F070077
-			public const int notification_bg_normal = 2131165303;
+			public const int navigation_empty_icon = 2131165303;
 			
 			// aapt resource value: 0x7F070078
-			public const int notification_bg_normal_pressed = 2131165304;
+			public const int notification_action_background = 2131165304;
 			
 			// aapt resource value: 0x7F070079
-			public const int notification_icon_background = 2131165305;
+			public const int notification_bg = 2131165305;
 			
 			// aapt resource value: 0x7F07007A
-			public const int notification_template_icon_bg = 2131165306;
+			public const int notification_bg_low = 2131165306;
 			
 			// aapt resource value: 0x7F07007B
-			public const int notification_template_icon_low_bg = 2131165307;
+			public const int notification_bg_low_normal = 2131165307;
 			
 			// aapt resource value: 0x7F07007C
-			public const int notification_tile_bg = 2131165308;
+			public const int notification_bg_low_pressed = 2131165308;
 			
 			// aapt resource value: 0x7F07007D
-			public const int notify_panel_notification_icon_bg = 2131165309;
+			public const int notification_bg_normal = 2131165309;
 			
 			// aapt resource value: 0x7F07007E
-			public const int overflow_icon = 2131165310;
+			public const int notification_bg_normal_pressed = 2131165310;
 			
 			// aapt resource value: 0x7F07007F
-			public const int pause = 2131165311;
+			public const int notification_icon_background = 2131165311;
 			
 			// aapt resource value: 0x7F070080
-			public const int pause_circle = 2131165312;
+			public const int notification_template_icon_bg = 2131165312;
 			
 			// aapt resource value: 0x7F070081
-			public const int play_circle = 2131165313;
+			public const int notification_template_icon_low_bg = 2131165313;
 			
 			// aapt resource value: 0x7F070082
-			public const int splashIcon = 2131165314;
+			public const int notification_tile_bg = 2131165314;
 			
 			// aapt resource value: 0x7F070083
-			public const int splashWindowBackgroundDrawable = 2131165315;
+			public const int notify_panel_notification_icon_bg = 2131165315;
 			
 			// aapt resource value: 0x7F070084
-			public const int stop_circle = 2131165316;
+			public const int overflow_icon = 2131165316;
 			
 			// aapt resource value: 0x7F070085
-			public const int tooltip_frame_dark = 2131165317;
+			public const int pause = 2131165317;
 			
 			// aapt resource value: 0x7F070086
-			public const int tooltip_frame_light = 2131165318;
+			public const int pause_circle = 2131165318;
+			
+			// aapt resource value: 0x7F070087
+			public const int play_circle = 2131165319;
+			
+			// aapt resource value: 0x7F070088
+			public const int splashIcon = 2131165320;
+			
+			// aapt resource value: 0x7F070089
+			public const int splashWindowBackgroundDrawable = 2131165321;
+			
+			// aapt resource value: 0x7F07008A
+			public const int stop_circle = 2131165322;
+			
+			// aapt resource value: 0x7F07008B
+			public const int tooltip_frame_dark = 2131165323;
+			
+			// aapt resource value: 0x7F07008C
+			public const int tooltip_frame_light = 2131165324;
 			
 			static Drawable()
 			{
@@ -8903,521 +10637,521 @@ namespace RecordGuard.ListSample.Android
 		public partial class Id
 		{
 			
-			// aapt resource value: 0x7F080000
-			public const int action0 = 2131230720;
-			
-			// aapt resource value: 0x7F080001
-			public const int actions = 2131230721;
-			
-			// aapt resource value: 0x7F080002
-			public const int action_bar = 2131230722;
-			
-			// aapt resource value: 0x7F080003
-			public const int action_bar_activity_content = 2131230723;
-			
-			// aapt resource value: 0x7F080004
-			public const int action_bar_container = 2131230724;
-			
-			// aapt resource value: 0x7F080005
-			public const int action_bar_root = 2131230725;
-			
-			// aapt resource value: 0x7F080006
-			public const int action_bar_spinner = 2131230726;
-			
-			// aapt resource value: 0x7F080007
-			public const int action_bar_subtitle = 2131230727;
-			
-			// aapt resource value: 0x7F080008
-			public const int action_bar_title = 2131230728;
-			
 			// aapt resource value: 0x7F080009
-			public const int action_container = 2131230729;
-			
-			// aapt resource value: 0x7F08000A
-			public const int action_context_bar = 2131230730;
-			
-			// aapt resource value: 0x7F08000B
-			public const int action_divider = 2131230731;
-			
-			// aapt resource value: 0x7F08000C
-			public const int action_image = 2131230732;
-			
-			// aapt resource value: 0x7F08000D
-			public const int action_menu_divider = 2131230733;
-			
-			// aapt resource value: 0x7F08000E
-			public const int action_menu_presenter = 2131230734;
-			
-			// aapt resource value: 0x7F08000F
-			public const int action_mode_bar_stub = 2131230735;
-			
-			// aapt resource value: 0x7F080010
-			public const int action_mode_close_button = 2131230736;
-			
-			// aapt resource value: 0x7F080011
-			public const int action_text = 2131230737;
-			
-			// aapt resource value: 0x7F080012
-			public const int activity_chooser_view_content = 2131230738;
-			
-			// aapt resource value: 0x7F080013
-			public const int add = 2131230739;
-			
-			// aapt resource value: 0x7F080014
-			public const int alertTitle = 2131230740;
-			
-			// aapt resource value: 0x7F080015
-			public const int all = 2131230741;
-			
-			// aapt resource value: 0x7F080016
-			public const int ALT = 2131230742;
-			
-			// aapt resource value: 0x7F080017
-			public const int always = 2131230743;
-			
-			// aapt resource value: 0x7F080018
-			public const int animation_view = 2131230744;
-			
-			// aapt resource value: 0x7F080019
-			public const int application_name = 2131230745;
-			
-			// aapt resource value: 0x7F08001A
-			public const int APPLICATION_NAME = 2131230746;
+			public const int action0 = 2131230729;
 			
 			// aapt resource value: 0x7F08001B
-			public const int async = 2131230747;
+			public const int actions = 2131230747;
+			
+			// aapt resource value: 0x7F08000A
+			public const int action_bar = 2131230730;
+			
+			// aapt resource value: 0x7F08000B
+			public const int action_bar_activity_content = 2131230731;
+			
+			// aapt resource value: 0x7F08000C
+			public const int action_bar_container = 2131230732;
+			
+			// aapt resource value: 0x7F08000D
+			public const int action_bar_root = 2131230733;
+			
+			// aapt resource value: 0x7F08000E
+			public const int action_bar_spinner = 2131230734;
+			
+			// aapt resource value: 0x7F08000F
+			public const int action_bar_subtitle = 2131230735;
+			
+			// aapt resource value: 0x7F080010
+			public const int action_bar_title = 2131230736;
+			
+			// aapt resource value: 0x7F080011
+			public const int action_container = 2131230737;
+			
+			// aapt resource value: 0x7F080012
+			public const int action_context_bar = 2131230738;
+			
+			// aapt resource value: 0x7F080013
+			public const int action_divider = 2131230739;
+			
+			// aapt resource value: 0x7F080014
+			public const int action_image = 2131230740;
+			
+			// aapt resource value: 0x7F080015
+			public const int action_menu_divider = 2131230741;
+			
+			// aapt resource value: 0x7F080016
+			public const int action_menu_presenter = 2131230742;
+			
+			// aapt resource value: 0x7F080017
+			public const int action_mode_bar = 2131230743;
+			
+			// aapt resource value: 0x7F080018
+			public const int action_mode_bar_stub = 2131230744;
+			
+			// aapt resource value: 0x7F080019
+			public const int action_mode_close_button = 2131230745;
+			
+			// aapt resource value: 0x7F08001A
+			public const int action_text = 2131230746;
 			
 			// aapt resource value: 0x7F08001C
-			public const int auto = 2131230748;
+			public const int activity_chooser_view_content = 2131230748;
 			
 			// aapt resource value: 0x7F08001D
-			public const int beginning = 2131230749;
+			public const int add = 2131230749;
 			
 			// aapt resource value: 0x7F08001E
-			public const int blocking = 2131230750;
+			public const int alertTitle = 2131230750;
 			
 			// aapt resource value: 0x7F08001F
-			public const int bottom = 2131230751;
+			public const int all = 2131230751;
+			
+			// aapt resource value: 0x7F080000
+			public const int ALT = 2131230720;
 			
 			// aapt resource value: 0x7F080020
-			public const int buttonPanel = 2131230752;
+			public const int always = 2131230752;
 			
 			// aapt resource value: 0x7F080021
-			public const int cancel_action = 2131230753;
+			public const int animation_view = 2131230753;
 			
 			// aapt resource value: 0x7F080022
-			public const int center = 2131230754;
+			public const int async = 2131230754;
 			
 			// aapt resource value: 0x7F080023
-			public const int center_horizontal = 2131230755;
+			public const int auto = 2131230755;
 			
 			// aapt resource value: 0x7F080024
-			public const int center_vertical = 2131230756;
+			public const int beginning = 2131230756;
 			
 			// aapt resource value: 0x7F080025
-			public const int checkbox = 2131230757;
+			public const int blocking = 2131230757;
 			
 			// aapt resource value: 0x7F080026
-			public const int chronometer = 2131230758;
+			public const int bottom = 2131230758;
 			
 			// aapt resource value: 0x7F080027
-			public const int clip_horizontal = 2131230759;
+			public const int buttonPanel = 2131230759;
 			
 			// aapt resource value: 0x7F080028
-			public const int clip_vertical = 2131230760;
+			public const int cancel_action = 2131230760;
 			
 			// aapt resource value: 0x7F080029
-			public const int collapseActionView = 2131230761;
+			public const int center = 2131230761;
 			
 			// aapt resource value: 0x7F08002A
-			public const int container = 2131230762;
+			public const int center_horizontal = 2131230762;
 			
 			// aapt resource value: 0x7F08002B
-			public const int content = 2131230763;
+			public const int center_vertical = 2131230763;
 			
 			// aapt resource value: 0x7F08002C
-			public const int contentPanel = 2131230764;
+			public const int checkbox = 2131230764;
 			
 			// aapt resource value: 0x7F08002D
-			public const int coordinator = 2131230765;
+			public const int chronometer = 2131230765;
 			
 			// aapt resource value: 0x7F08002E
-			public const int CTRL = 2131230766;
+			public const int clip_horizontal = 2131230766;
 			
 			// aapt resource value: 0x7F08002F
-			public const int custom = 2131230767;
+			public const int clip_vertical = 2131230767;
 			
 			// aapt resource value: 0x7F080030
-			public const int customPanel = 2131230768;
+			public const int collapseActionView = 2131230768;
 			
 			// aapt resource value: 0x7F080031
-			public const int decor_content_parent = 2131230769;
+			public const int container = 2131230769;
 			
 			// aapt resource value: 0x7F080032
-			public const int default_activity_button = 2131230770;
+			public const int content = 2131230770;
 			
 			// aapt resource value: 0x7F080033
-			public const int design_bottom_sheet = 2131230771;
+			public const int contentPanel = 2131230771;
 			
 			// aapt resource value: 0x7F080034
-			public const int design_menu_item_action_area_stub = 2131230772;
+			public const int coordinator = 2131230772;
+			
+			// aapt resource value: 0x7F080001
+			public const int CTRL = 2131230721;
 			
 			// aapt resource value: 0x7F080035
-			public const int design_menu_item_text = 2131230773;
+			public const int custom = 2131230773;
 			
 			// aapt resource value: 0x7F080036
-			public const int design_navigation_view = 2131230774;
+			public const int customPanel = 2131230774;
 			
 			// aapt resource value: 0x7F080037
-			public const int disableHome = 2131230775;
+			public const int decor_content_parent = 2131230775;
 			
 			// aapt resource value: 0x7F080038
-			public const int edit_query = 2131230776;
+			public const int default_activity_button = 2131230776;
 			
 			// aapt resource value: 0x7F080039
-			public const int emptyViewLayout = 2131230777;
+			public const int design_bottom_sheet = 2131230777;
 			
 			// aapt resource value: 0x7F08003A
-			public const int end = 2131230778;
+			public const int design_menu_item_action_area = 2131230778;
 			
 			// aapt resource value: 0x7F08003B
-			public const int end_padder = 2131230779;
+			public const int design_menu_item_action_area_stub = 2131230779;
 			
 			// aapt resource value: 0x7F08003C
-			public const int enterAlways = 2131230780;
+			public const int design_menu_item_text = 2131230780;
 			
 			// aapt resource value: 0x7F08003D
-			public const int enterAlwaysCollapsed = 2131230781;
+			public const int design_navigation_view = 2131230781;
 			
 			// aapt resource value: 0x7F08003E
-			public const int exitUntilCollapsed = 2131230782;
+			public const int disableHome = 2131230782;
 			
 			// aapt resource value: 0x7F08003F
-			public const int expanded_menu = 2131230783;
+			public const int edit_query = 2131230783;
 			
 			// aapt resource value: 0x7F080040
-			public const int expand_activities_button = 2131230784;
+			public const int emptyViewLayout = 2131230784;
 			
 			// aapt resource value: 0x7F080041
-			public const int fab = 2131230785;
+			public const int end = 2131230785;
 			
 			// aapt resource value: 0x7F080042
-			public const int fill = 2131230786;
+			public const int end_padder = 2131230786;
 			
 			// aapt resource value: 0x7F080043
-			public const int filled = 2131230787;
+			public const int enterAlways = 2131230787;
 			
 			// aapt resource value: 0x7F080044
-			public const int fill_horizontal = 2131230788;
+			public const int enterAlwaysCollapsed = 2131230788;
 			
 			// aapt resource value: 0x7F080045
-			public const int fill_vertical = 2131230789;
-			
-			// aapt resource value: 0x7F080046
-			public const int @fixed = 2131230790;
+			public const int exitUntilCollapsed = 2131230789;
 			
 			// aapt resource value: 0x7F080047
-			public const int forever = 2131230791;
+			public const int expanded_menu = 2131230791;
+			
+			// aapt resource value: 0x7F080046
+			public const int expand_activities_button = 2131230790;
 			
 			// aapt resource value: 0x7F080048
-			public const int FUNCTION = 2131230792;
+			public const int fab = 2131230792;
 			
 			// aapt resource value: 0x7F080049
-			public const int ghost_view = 2131230793;
-			
-			// aapt resource value: 0x7F08004A
-			public const int group_divider = 2131230794;
-			
-			// aapt resource value: 0x7F08004B
-			public const int home = 2131230795;
+			public const int fill = 2131230793;
 			
 			// aapt resource value: 0x7F08004C
-			public const int homeAsUp = 2131230796;
+			public const int filled = 2131230796;
+			
+			// aapt resource value: 0x7F08004A
+			public const int fill_horizontal = 2131230794;
+			
+			// aapt resource value: 0x7F08004B
+			public const int fill_vertical = 2131230795;
 			
 			// aapt resource value: 0x7F08004D
-			public const int icon = 2131230797;
+			public const int @fixed = 2131230797;
 			
 			// aapt resource value: 0x7F08004E
-			public const int icon_group = 2131230798;
+			public const int forever = 2131230798;
+			
+			// aapt resource value: 0x7F080002
+			public const int FUNCTION = 2131230722;
 			
 			// aapt resource value: 0x7F08004F
-			public const int ifRoom = 2131230799;
+			public const int ghost_view = 2131230799;
 			
 			// aapt resource value: 0x7F080050
-			public const int image = 2131230800;
+			public const int group_divider = 2131230800;
 			
 			// aapt resource value: 0x7F080051
-			public const int info = 2131230801;
+			public const int home = 2131230801;
 			
 			// aapt resource value: 0x7F080052
-			public const int italic = 2131230802;
+			public const int homeAsUp = 2131230802;
 			
 			// aapt resource value: 0x7F080053
-			public const int item_touch_helper_previous_elevation = 2131230803;
+			public const int icon = 2131230803;
 			
 			// aapt resource value: 0x7F080054
-			public const int labeled = 2131230804;
+			public const int icon_group = 2131230804;
 			
 			// aapt resource value: 0x7F080055
-			public const int largeLabel = 2131230805;
+			public const int ifRoom = 2131230805;
 			
 			// aapt resource value: 0x7F080056
-			public const int LayoutRoot = 2131230806;
+			public const int image = 2131230806;
 			
 			// aapt resource value: 0x7F080057
-			public const int left = 2131230807;
+			public const int info = 2131230807;
 			
 			// aapt resource value: 0x7F080058
-			public const int line1 = 2131230808;
+			public const int italic = 2131230808;
 			
 			// aapt resource value: 0x7F080059
-			public const int line3 = 2131230809;
+			public const int item_touch_helper_previous_elevation = 2131230809;
 			
 			// aapt resource value: 0x7F08005A
-			public const int listMode = 2131230810;
+			public const int labeled = 2131230810;
 			
 			// aapt resource value: 0x7F08005B
-			public const int listsViewContainer = 2131230811;
+			public const int largeLabel = 2131230811;
+			
+			// aapt resource value: 0x7F080003
+			public const int LayoutRoot = 2131230723;
 			
 			// aapt resource value: 0x7F08005C
-			public const int list_item = 2131230812;
+			public const int left = 2131230812;
 			
 			// aapt resource value: 0x7F08005D
-			public const int lottie_layer_name = 2131230813;
+			public const int line1 = 2131230813;
 			
 			// aapt resource value: 0x7F08005E
-			public const int mainViewLayout = 2131230814;
+			public const int line3 = 2131230814;
 			
 			// aapt resource value: 0x7F08005F
-			public const int masked = 2131230815;
-			
-			// aapt resource value: 0x7F080060
-			public const int media_actions = 2131230816;
+			public const int listMode = 2131230815;
 			
 			// aapt resource value: 0x7F080061
-			public const int message = 2131230817;
+			public const int listsViewContainer = 2131230817;
+			
+			// aapt resource value: 0x7F080060
+			public const int list_item = 2131230816;
 			
 			// aapt resource value: 0x7F080062
-			public const int META = 2131230818;
+			public const int lottie_layer_name = 2131230818;
 			
 			// aapt resource value: 0x7F080063
-			public const int middle = 2131230819;
+			public const int mainViewLayout = 2131230819;
 			
 			// aapt resource value: 0x7F080064
-			public const int mini = 2131230820;
+			public const int masked = 2131230820;
 			
 			// aapt resource value: 0x7F080065
-			public const int mtrl_child_content_container = 2131230821;
+			public const int media_actions = 2131230821;
 			
 			// aapt resource value: 0x7F080066
-			public const int mtrl_internal_children_alpha_tag = 2131230822;
+			public const int message = 2131230822;
+			
+			// aapt resource value: 0x7F080004
+			public const int META = 2131230724;
 			
 			// aapt resource value: 0x7F080067
-			public const int multiply = 2131230823;
+			public const int middle = 2131230823;
 			
 			// aapt resource value: 0x7F080068
-			public const int MvvmCrossTagId = 2131230824;
+			public const int mini = 2131230824;
 			
 			// aapt resource value: 0x7F080069
-			public const int MvxBindingTagUnique = 2131230825;
+			public const int mtrl_child_content_container = 2131230825;
 			
 			// aapt resource value: 0x7F08006A
-			public const int navigation_header_container = 2131230826;
+			public const int mtrl_internal_children_alpha_tag = 2131230826;
 			
 			// aapt resource value: 0x7F08006B
-			public const int never = 2131230827;
+			public const int multiply = 2131230827;
+			
+			// aapt resource value: 0x7F080005
+			public const int MvvmCrossTagId = 2131230725;
+			
+			// aapt resource value: 0x7F080006
+			public const int MvxBindingTagUnique = 2131230726;
 			
 			// aapt resource value: 0x7F08006C
-			public const int none = 2131230828;
+			public const int navigation_header_container = 2131230828;
 			
 			// aapt resource value: 0x7F08006D
-			public const int normal = 2131230829;
+			public const int never = 2131230829;
 			
 			// aapt resource value: 0x7F08006E
-			public const int notification_background = 2131230830;
+			public const int none = 2131230830;
 			
 			// aapt resource value: 0x7F08006F
-			public const int notification_main_column = 2131230831;
+			public const int normal = 2131230831;
 			
 			// aapt resource value: 0x7F080070
-			public const int notification_main_column_container = 2131230832;
+			public const int notification_background = 2131230832;
 			
 			// aapt resource value: 0x7F080071
-			public const int outline = 2131230833;
+			public const int notification_main_column = 2131230833;
 			
 			// aapt resource value: 0x7F080072
-			public const int overflow_item = 2131230834;
+			public const int notification_main_column_container = 2131230834;
 			
 			// aapt resource value: 0x7F080073
-			public const int parallax = 2131230835;
+			public const int outline = 2131230835;
 			
 			// aapt resource value: 0x7F080074
-			public const int parentPanel = 2131230836;
+			public const int overflow_item = 2131230836;
 			
 			// aapt resource value: 0x7F080075
-			public const int parent_matrix = 2131230837;
+			public const int parallax = 2131230837;
 			
 			// aapt resource value: 0x7F080076
-			public const int pin = 2131230838;
+			public const int parentPanel = 2131230838;
 			
 			// aapt resource value: 0x7F080077
-			public const int play_pause_view = 2131230839;
+			public const int parent_matrix = 2131230839;
 			
 			// aapt resource value: 0x7F080078
-			public const int popup_action_delete = 2131230840;
+			public const int pin = 2131230840;
 			
 			// aapt resource value: 0x7F080079
-			public const int progress_circular = 2131230841;
+			public const int play_pause_view = 2131230841;
 			
 			// aapt resource value: 0x7F08007A
-			public const int progress_horizontal = 2131230842;
+			public const int popup_action_delete = 2131230842;
 			
 			// aapt resource value: 0x7F08007B
-			public const int radio = 2131230843;
+			public const int progress_circular = 2131230843;
 			
 			// aapt resource value: 0x7F08007C
-			public const int recyclerView = 2131230844;
+			public const int progress_horizontal = 2131230844;
 			
 			// aapt resource value: 0x7F08007D
-			public const int restart = 2131230845;
+			public const int radio = 2131230845;
 			
 			// aapt resource value: 0x7F08007E
-			public const int reverse = 2131230846;
+			public const int recyclerView = 2131230846;
 			
 			// aapt resource value: 0x7F08007F
-			public const int right = 2131230847;
+			public const int restart = 2131230847;
 			
 			// aapt resource value: 0x7F080080
-			public const int right_icon = 2131230848;
+			public const int reverse = 2131230848;
 			
 			// aapt resource value: 0x7F080081
-			public const int right_side = 2131230849;
+			public const int right = 2131230849;
 			
 			// aapt resource value: 0x7F080082
-			public const int save_image_matrix = 2131230850;
+			public const int right_icon = 2131230850;
 			
 			// aapt resource value: 0x7F080083
-			public const int save_non_transition_alpha = 2131230851;
+			public const int right_side = 2131230851;
 			
 			// aapt resource value: 0x7F080084
-			public const int save_scale_type = 2131230852;
+			public const int save_image_matrix = 2131230852;
 			
 			// aapt resource value: 0x7F080085
-			public const int screen = 2131230853;
+			public const int save_non_transition_alpha = 2131230853;
 			
 			// aapt resource value: 0x7F080086
-			public const int scroll = 2131230854;
+			public const int save_scale_type = 2131230854;
 			
 			// aapt resource value: 0x7F080087
-			public const int scrollable = 2131230855;
+			public const int screen = 2131230855;
 			
 			// aapt resource value: 0x7F080088
-			public const int scrollIndicatorDown = 2131230856;
-			
-			// aapt resource value: 0x7F080089
-			public const int scrollIndicatorUp = 2131230857;
-			
-			// aapt resource value: 0x7F08008A
-			public const int scrollView = 2131230858;
-			
-			// aapt resource value: 0x7F08008B
-			public const int search_badge = 2131230859;
+			public const int scroll = 2131230856;
 			
 			// aapt resource value: 0x7F08008C
-			public const int search_bar = 2131230860;
+			public const int scrollable = 2131230860;
+			
+			// aapt resource value: 0x7F080089
+			public const int scrollIndicatorDown = 2131230857;
+			
+			// aapt resource value: 0x7F08008A
+			public const int scrollIndicatorUp = 2131230858;
+			
+			// aapt resource value: 0x7F08008B
+			public const int scrollView = 2131230859;
 			
 			// aapt resource value: 0x7F08008D
-			public const int search_button = 2131230861;
+			public const int search_badge = 2131230861;
 			
 			// aapt resource value: 0x7F08008E
-			public const int search_close_btn = 2131230862;
+			public const int search_bar = 2131230862;
 			
 			// aapt resource value: 0x7F08008F
-			public const int search_edit_frame = 2131230863;
+			public const int search_button = 2131230863;
 			
 			// aapt resource value: 0x7F080090
-			public const int search_go_btn = 2131230864;
+			public const int search_close_btn = 2131230864;
 			
 			// aapt resource value: 0x7F080091
-			public const int search_mag_icon = 2131230865;
+			public const int search_edit_frame = 2131230865;
 			
 			// aapt resource value: 0x7F080092
-			public const int search_plate = 2131230866;
+			public const int search_go_btn = 2131230866;
 			
 			// aapt resource value: 0x7F080093
-			public const int search_src_text = 2131230867;
+			public const int search_mag_icon = 2131230867;
 			
 			// aapt resource value: 0x7F080094
-			public const int search_voice_btn = 2131230868;
+			public const int search_plate = 2131230868;
 			
 			// aapt resource value: 0x7F080095
-			public const int selected = 2131230869;
+			public const int search_src_text = 2131230869;
 			
 			// aapt resource value: 0x7F080096
-			public const int select_dialog_listview = 2131230870;
-			
-			// aapt resource value: 0x7F080097
-			public const int SHIFT = 2131230871;
+			public const int search_voice_btn = 2131230870;
 			
 			// aapt resource value: 0x7F080098
-			public const int shortcut = 2131230872;
+			public const int selected = 2131230872;
+			
+			// aapt resource value: 0x7F080097
+			public const int select_dialog_listview = 2131230871;
+			
+			// aapt resource value: 0x7F080007
+			public const int SHIFT = 2131230727;
 			
 			// aapt resource value: 0x7F080099
-			public const int showCustom = 2131230873;
+			public const int shortcut = 2131230873;
 			
 			// aapt resource value: 0x7F08009A
-			public const int showHome = 2131230874;
+			public const int showCustom = 2131230874;
 			
 			// aapt resource value: 0x7F08009B
-			public const int showTitle = 2131230875;
+			public const int showHome = 2131230875;
 			
 			// aapt resource value: 0x7F08009C
-			public const int smallLabel = 2131230876;
+			public const int showTitle = 2131230876;
 			
 			// aapt resource value: 0x7F08009D
-			public const int snackbar_action = 2131230877;
+			public const int smallLabel = 2131230877;
 			
 			// aapt resource value: 0x7F08009E
-			public const int snackbar_text = 2131230878;
+			public const int snackbar_action = 2131230878;
 			
 			// aapt resource value: 0x7F08009F
-			public const int snap = 2131230879;
+			public const int snackbar_text = 2131230879;
 			
 			// aapt resource value: 0x7F0800A0
-			public const int snapMargins = 2131230880;
+			public const int snap = 2131230880;
 			
 			// aapt resource value: 0x7F0800A1
-			public const int spacer = 2131230881;
+			public const int snapMargins = 2131230881;
 			
 			// aapt resource value: 0x7F0800A2
-			public const int split_action_bar = 2131230882;
+			public const int spacer = 2131230882;
 			
 			// aapt resource value: 0x7F0800A3
-			public const int src_atop = 2131230883;
+			public const int split_action_bar = 2131230883;
 			
 			// aapt resource value: 0x7F0800A4
-			public const int src_in = 2131230884;
+			public const int src_atop = 2131230884;
 			
 			// aapt resource value: 0x7F0800A5
-			public const int src_over = 2131230885;
+			public const int src_in = 2131230885;
 			
 			// aapt resource value: 0x7F0800A6
-			public const int start = 2131230886;
+			public const int src_over = 2131230886;
 			
 			// aapt resource value: 0x7F0800A7
-			public const int status_bar_latest_event_content = 2131230887;
+			public const int start = 2131230887;
 			
 			// aapt resource value: 0x7F0800A8
-			public const int stretch = 2131230888;
+			public const int status_bar_latest_event_content = 2131230888;
 			
 			// aapt resource value: 0x7F0800A9
-			public const int submenuarrow = 2131230889;
+			public const int stretch = 2131230889;
 			
 			// aapt resource value: 0x7F0800AA
-			public const int submit_area = 2131230890;
+			public const int submenuarrow = 2131230890;
 			
 			// aapt resource value: 0x7F0800AB
-			public const int SYM = 2131230891;
+			public const int submit_area = 2131230891;
+			
+			// aapt resource value: 0x7F080008
+			public const int SYM = 2131230728;
 			
 			// aapt resource value: 0x7F0800AC
 			public const int tabMode = 2131230892;
@@ -9437,26 +11171,26 @@ namespace RecordGuard.ListSample.Android
 			// aapt resource value: 0x7F0800B1
 			public const int text2 = 2131230897;
 			
-			// aapt resource value: 0x7F0800B2
-			public const int textinput_counter = 2131230898;
-			
-			// aapt resource value: 0x7F0800B3
-			public const int textinput_error = 2131230899;
-			
-			// aapt resource value: 0x7F0800B4
-			public const int textinput_helper_text = 2131230900;
-			
-			// aapt resource value: 0x7F0800B5
-			public const int textSpacerNoButtons = 2131230901;
-			
 			// aapt resource value: 0x7F0800B6
-			public const int textSpacerNoTitle = 2131230902;
+			public const int textinput_counter = 2131230902;
 			
 			// aapt resource value: 0x7F0800B7
-			public const int textStart = 2131230903;
+			public const int textinput_error = 2131230903;
 			
 			// aapt resource value: 0x7F0800B8
-			public const int text_input_password_toggle = 2131230904;
+			public const int textinput_helper_text = 2131230904;
+			
+			// aapt resource value: 0x7F0800B2
+			public const int textSpacerNoButtons = 2131230898;
+			
+			// aapt resource value: 0x7F0800B3
+			public const int textSpacerNoTitle = 2131230899;
+			
+			// aapt resource value: 0x7F0800B4
+			public const int textStart = 2131230900;
+			
+			// aapt resource value: 0x7F0800B5
+			public const int text_input_password_toggle = 2131230901;
 			
 			// aapt resource value: 0x7F0800B9
 			public const int time = 2131230905;
@@ -9534,50 +11268,50 @@ namespace RecordGuard.ListSample.Android
 		public partial class Integer
 		{
 			
-			// aapt resource value: 0x7F0A0000
-			public const int abc_config_activityDefaultDur = 2131361792;
+			// aapt resource value: 0x7F090000
+			public const int abc_config_activityDefaultDur = 2131296256;
 			
-			// aapt resource value: 0x7F0A0001
-			public const int abc_config_activityShortDur = 2131361793;
+			// aapt resource value: 0x7F090001
+			public const int abc_config_activityShortDur = 2131296257;
 			
-			// aapt resource value: 0x7F0A0002
-			public const int app_bar_elevation_anim_duration = 2131361794;
+			// aapt resource value: 0x7F090002
+			public const int app_bar_elevation_anim_duration = 2131296258;
 			
-			// aapt resource value: 0x7F0A0003
-			public const int bottom_sheet_slide_duration = 2131361795;
+			// aapt resource value: 0x7F090003
+			public const int bottom_sheet_slide_duration = 2131296259;
 			
-			// aapt resource value: 0x7F0A0004
-			public const int cancel_button_image_alpha = 2131361796;
+			// aapt resource value: 0x7F090004
+			public const int cancel_button_image_alpha = 2131296260;
 			
-			// aapt resource value: 0x7F0A0005
-			public const int config_tooltipAnimTime = 2131361797;
+			// aapt resource value: 0x7F090005
+			public const int config_tooltipAnimTime = 2131296261;
 			
-			// aapt resource value: 0x7F0A0006
-			public const int design_snackbar_text_max_lines = 2131361798;
+			// aapt resource value: 0x7F090006
+			public const int design_snackbar_text_max_lines = 2131296262;
 			
-			// aapt resource value: 0x7F0A0007
-			public const int design_tab_indicator_anim_duration_ms = 2131361799;
+			// aapt resource value: 0x7F090007
+			public const int design_tab_indicator_anim_duration_ms = 2131296263;
 			
-			// aapt resource value: 0x7F0A0008
-			public const int hide_password_duration = 2131361800;
+			// aapt resource value: 0x7F090008
+			public const int hide_password_duration = 2131296264;
 			
-			// aapt resource value: 0x7F0A0009
-			public const int mtrl_btn_anim_delay_ms = 2131361801;
+			// aapt resource value: 0x7F090009
+			public const int mtrl_btn_anim_delay_ms = 2131296265;
 			
-			// aapt resource value: 0x7F0A000A
-			public const int mtrl_btn_anim_duration_ms = 2131361802;
+			// aapt resource value: 0x7F09000A
+			public const int mtrl_btn_anim_duration_ms = 2131296266;
 			
-			// aapt resource value: 0x7F0A000B
-			public const int mtrl_chip_anim_duration = 2131361803;
+			// aapt resource value: 0x7F09000B
+			public const int mtrl_chip_anim_duration = 2131296267;
 			
-			// aapt resource value: 0x7F0A000C
-			public const int mtrl_tab_indicator_anim_duration_ms = 2131361804;
+			// aapt resource value: 0x7F09000C
+			public const int mtrl_tab_indicator_anim_duration_ms = 2131296268;
 			
-			// aapt resource value: 0x7F0A000D
-			public const int show_password_duration = 2131361805;
+			// aapt resource value: 0x7F09000D
+			public const int show_password_duration = 2131296269;
 			
-			// aapt resource value: 0x7F0A000E
-			public const int status_bar_notification_info_maxnum = 2131361806;
+			// aapt resource value: 0x7F09000E
+			public const int status_bar_notification_info_maxnum = 2131296270;
 			
 			static Integer()
 			{
@@ -9592,17 +11326,17 @@ namespace RecordGuard.ListSample.Android
 		public partial class Interpolator
 		{
 			
-			// aapt resource value: 0x7F090000
-			public const int mtrl_fast_out_linear_in = 2131296256;
+			// aapt resource value: 0x7F0A0000
+			public const int mtrl_fast_out_linear_in = 2131361792;
 			
-			// aapt resource value: 0x7F090001
-			public const int mtrl_fast_out_slow_in = 2131296257;
+			// aapt resource value: 0x7F0A0001
+			public const int mtrl_fast_out_slow_in = 2131361793;
 			
-			// aapt resource value: 0x7F090002
-			public const int mtrl_linear = 2131296258;
+			// aapt resource value: 0x7F0A0002
+			public const int mtrl_linear = 2131361794;
 			
-			// aapt resource value: 0x7F090003
-			public const int mtrl_linear_out_slow_in = 2131296259;
+			// aapt resource value: 0x7F0A0003
+			public const int mtrl_linear_out_slow_in = 2131361795;
 			
 			static Interpolator()
 			{
@@ -9863,185 +11597,191 @@ namespace RecordGuard.ListSample.Android
 		public partial class String
 		{
 			
-			// aapt resource value: 0x7F0E0000
-			public const int abc_action_bar_home_description = 2131623936;
-			
-			// aapt resource value: 0x7F0E0001
-			public const int abc_action_bar_up_description = 2131623937;
-			
 			// aapt resource value: 0x7F0E0002
-			public const int abc_action_menu_overflow_description = 2131623938;
+			public const int abc_action_bar_home_description = 2131623938;
 			
 			// aapt resource value: 0x7F0E0003
-			public const int abc_action_mode_done = 2131623939;
+			public const int abc_action_bar_up_description = 2131623939;
 			
 			// aapt resource value: 0x7F0E0004
-			public const int abc_activitychooserview_choose_application = 2131623940;
+			public const int abc_action_menu_overflow_description = 2131623940;
 			
 			// aapt resource value: 0x7F0E0005
-			public const int abc_activity_chooser_view_see_all = 2131623941;
-			
-			// aapt resource value: 0x7F0E0006
-			public const int abc_capital_off = 2131623942;
+			public const int abc_action_mode_done = 2131623941;
 			
 			// aapt resource value: 0x7F0E0007
-			public const int abc_capital_on = 2131623943;
+			public const int abc_activitychooserview_choose_application = 2131623943;
+			
+			// aapt resource value: 0x7F0E0006
+			public const int abc_activity_chooser_view_see_all = 2131623942;
 			
 			// aapt resource value: 0x7F0E0008
-			public const int abc_font_family_body_1_material = 2131623944;
+			public const int abc_capital_off = 2131623944;
 			
 			// aapt resource value: 0x7F0E0009
-			public const int abc_font_family_body_2_material = 2131623945;
+			public const int abc_capital_on = 2131623945;
 			
 			// aapt resource value: 0x7F0E000A
-			public const int abc_font_family_button_material = 2131623946;
+			public const int abc_font_family_body_1_material = 2131623946;
 			
 			// aapt resource value: 0x7F0E000B
-			public const int abc_font_family_caption_material = 2131623947;
+			public const int abc_font_family_body_2_material = 2131623947;
 			
 			// aapt resource value: 0x7F0E000C
-			public const int abc_font_family_display_1_material = 2131623948;
+			public const int abc_font_family_button_material = 2131623948;
 			
 			// aapt resource value: 0x7F0E000D
-			public const int abc_font_family_display_2_material = 2131623949;
+			public const int abc_font_family_caption_material = 2131623949;
 			
 			// aapt resource value: 0x7F0E000E
-			public const int abc_font_family_display_3_material = 2131623950;
+			public const int abc_font_family_display_1_material = 2131623950;
 			
 			// aapt resource value: 0x7F0E000F
-			public const int abc_font_family_display_4_material = 2131623951;
+			public const int abc_font_family_display_2_material = 2131623951;
 			
 			// aapt resource value: 0x7F0E0010
-			public const int abc_font_family_headline_material = 2131623952;
+			public const int abc_font_family_display_3_material = 2131623952;
 			
 			// aapt resource value: 0x7F0E0011
-			public const int abc_font_family_menu_material = 2131623953;
+			public const int abc_font_family_display_4_material = 2131623953;
 			
 			// aapt resource value: 0x7F0E0012
-			public const int abc_font_family_subhead_material = 2131623954;
+			public const int abc_font_family_headline_material = 2131623954;
 			
 			// aapt resource value: 0x7F0E0013
-			public const int abc_font_family_title_material = 2131623955;
+			public const int abc_font_family_menu_material = 2131623955;
 			
 			// aapt resource value: 0x7F0E0014
-			public const int abc_menu_alt_shortcut_label = 2131623956;
+			public const int abc_font_family_subhead_material = 2131623956;
 			
 			// aapt resource value: 0x7F0E0015
-			public const int abc_menu_ctrl_shortcut_label = 2131623957;
+			public const int abc_font_family_title_material = 2131623957;
 			
 			// aapt resource value: 0x7F0E0016
-			public const int abc_menu_delete_shortcut_label = 2131623958;
+			public const int abc_menu_alt_shortcut_label = 2131623958;
 			
 			// aapt resource value: 0x7F0E0017
-			public const int abc_menu_enter_shortcut_label = 2131623959;
+			public const int abc_menu_ctrl_shortcut_label = 2131623959;
 			
 			// aapt resource value: 0x7F0E0018
-			public const int abc_menu_function_shortcut_label = 2131623960;
+			public const int abc_menu_delete_shortcut_label = 2131623960;
 			
 			// aapt resource value: 0x7F0E0019
-			public const int abc_menu_meta_shortcut_label = 2131623961;
+			public const int abc_menu_enter_shortcut_label = 2131623961;
 			
 			// aapt resource value: 0x7F0E001A
-			public const int abc_menu_shift_shortcut_label = 2131623962;
+			public const int abc_menu_function_shortcut_label = 2131623962;
 			
 			// aapt resource value: 0x7F0E001B
-			public const int abc_menu_space_shortcut_label = 2131623963;
+			public const int abc_menu_meta_shortcut_label = 2131623963;
 			
 			// aapt resource value: 0x7F0E001C
-			public const int abc_menu_sym_shortcut_label = 2131623964;
+			public const int abc_menu_shift_shortcut_label = 2131623964;
 			
 			// aapt resource value: 0x7F0E001D
-			public const int abc_prepend_shortcut_label = 2131623965;
+			public const int abc_menu_space_shortcut_label = 2131623965;
 			
 			// aapt resource value: 0x7F0E001E
-			public const int abc_searchview_description_clear = 2131623966;
+			public const int abc_menu_sym_shortcut_label = 2131623966;
 			
 			// aapt resource value: 0x7F0E001F
-			public const int abc_searchview_description_query = 2131623967;
-			
-			// aapt resource value: 0x7F0E0020
-			public const int abc_searchview_description_search = 2131623968;
+			public const int abc_prepend_shortcut_label = 2131623967;
 			
 			// aapt resource value: 0x7F0E0021
-			public const int abc_searchview_description_submit = 2131623969;
+			public const int abc_searchview_description_clear = 2131623969;
 			
 			// aapt resource value: 0x7F0E0022
-			public const int abc_searchview_description_voice = 2131623970;
+			public const int abc_searchview_description_query = 2131623970;
 			
 			// aapt resource value: 0x7F0E0023
-			public const int abc_search_hint = 2131623971;
+			public const int abc_searchview_description_search = 2131623971;
 			
 			// aapt resource value: 0x7F0E0024
-			public const int abc_shareactionprovider_share_with = 2131623972;
+			public const int abc_searchview_description_submit = 2131623972;
 			
 			// aapt resource value: 0x7F0E0025
-			public const int abc_shareactionprovider_share_with_application = 2131623973;
+			public const int abc_searchview_description_voice = 2131623973;
+			
+			// aapt resource value: 0x7F0E0020
+			public const int abc_search_hint = 2131623968;
 			
 			// aapt resource value: 0x7F0E0026
-			public const int abc_toolbar_collapse_description = 2131623974;
+			public const int abc_shareactionprovider_share_with = 2131623974;
 			
 			// aapt resource value: 0x7F0E0027
-			public const int appbar_scrolling_view_behavior = 2131623975;
+			public const int abc_shareactionprovider_share_with_application = 2131623975;
 			
 			// aapt resource value: 0x7F0E0028
-			public const int audio_child_swipeable = 2131623976;
+			public const int abc_toolbar_collapse_description = 2131623976;
+			
+			// aapt resource value: 0x7F0E0000
+			public const int AccordionMvxGroupExpandController = 2131623936;
 			
 			// aapt resource value: 0x7F0E0029
-			public const int audio_grouped_data_converter = 2131623977;
+			public const int appbar_scrolling_view_behavior = 2131623977;
 			
 			// aapt resource value: 0x7F0E002A
-			public const int audio_group_expand_controller = 2131623978;
-			
-			// aapt resource value: 0x7F0E002B
-			public const int audio_item_template_selector = 2131623979;
+			public const int audio_child_swipeable = 2131623978;
 			
 			// aapt resource value: 0x7F0E002C
-			public const int bottom_sheet_behavior = 2131623980;
+			public const int audio_grouped_data_converter = 2131623980;
+			
+			// aapt resource value: 0x7F0E002B
+			public const int audio_group_expand_controller = 2131623979;
 			
 			// aapt resource value: 0x7F0E002D
-			public const int character_counter_content_description = 2131623981;
+			public const int audio_item_template_selector = 2131623981;
 			
 			// aapt resource value: 0x7F0E002E
-			public const int character_counter_pattern = 2131623982;
+			public const int bottom_sheet_behavior = 2131623982;
 			
 			// aapt resource value: 0x7F0E002F
-			public const int fab_scroll_shrink_grow_autohide_behavior = 2131623983;
+			public const int character_counter_content_description = 2131623983;
 			
 			// aapt resource value: 0x7F0E0030
-			public const int fab_transformation_scrim_behavior = 2131623984;
+			public const int character_counter_pattern = 2131623984;
+			
+			// aapt resource value: 0x7F0E0001
+			public const int DefaultMvxGroupExpandController = 2131623937;
 			
 			// aapt resource value: 0x7F0E0031
-			public const int fab_transformation_sheet_behavior = 2131623985;
+			public const int fab_scroll_shrink_grow_autohide_behavior = 2131623985;
 			
 			// aapt resource value: 0x7F0E0032
-			public const int hide_bottom_view_on_scroll_behavior = 2131623986;
+			public const int fab_transformation_scrim_behavior = 2131623986;
 			
 			// aapt resource value: 0x7F0E0033
-			public const int mtrl_chip_close_icon_content_description = 2131623987;
+			public const int fab_transformation_sheet_behavior = 2131623987;
 			
 			// aapt resource value: 0x7F0E0034
-			public const int password_toggle_content_description = 2131623988;
+			public const int hide_bottom_view_on_scroll_behavior = 2131623988;
 			
 			// aapt resource value: 0x7F0E0035
-			public const int path_password_eye = 2131623989;
+			public const int mtrl_chip_close_icon_content_description = 2131623989;
 			
 			// aapt resource value: 0x7F0E0036
-			public const int path_password_eye_mask_strike_through = 2131623990;
+			public const int password_toggle_content_description = 2131623990;
 			
 			// aapt resource value: 0x7F0E0037
-			public const int path_password_eye_mask_visible = 2131623991;
+			public const int path_password_eye = 2131623991;
 			
 			// aapt resource value: 0x7F0E0038
-			public const int path_password_strike_through = 2131623992;
+			public const int path_password_eye_mask_strike_through = 2131623992;
 			
 			// aapt resource value: 0x7F0E0039
-			public const int search_menu_title = 2131623993;
+			public const int path_password_eye_mask_visible = 2131623993;
 			
 			// aapt resource value: 0x7F0E003A
-			public const int status_bar_notification_info_overflow = 2131623994;
+			public const int path_password_strike_through = 2131623994;
 			
 			// aapt resource value: 0x7F0E003B
-			public const int view_scroll_translation_autohide_behavior = 2131623995;
+			public const int search_menu_title = 2131623995;
+			
+			// aapt resource value: 0x7F0E003C
+			public const int status_bar_notification_info_overflow = 2131623996;
+			
+			// aapt resource value: 0x7F0E003D
+			public const int view_scroll_translation_autohide_behavior = 2131623997;
 			
 			static String()
 			{
@@ -10074,1499 +11814,1499 @@ namespace RecordGuard.ListSample.Android
 			// aapt resource value: 0x7F0F0005
 			public const int Animation_Design_BottomSheetDialog = 2131689477;
 			
+			// aapt resource value: 0x7F0F01F4
+			public const int appTheme = 2131689972;
+			
+			// aapt resource value: 0x7F0F01F5
+			public const int appThemeBase = 2131689973;
+			
 			// aapt resource value: 0x7F0F0006
-			public const int appTheme = 2131689478;
+			public const int Base_AlertDialog_AppCompat = 2131689478;
 			
 			// aapt resource value: 0x7F0F0007
-			public const int appThemeBase = 2131689479;
+			public const int Base_AlertDialog_AppCompat_Light = 2131689479;
 			
 			// aapt resource value: 0x7F0F0008
-			public const int Base_AlertDialog_AppCompat = 2131689480;
+			public const int Base_Animation_AppCompat_Dialog = 2131689480;
 			
 			// aapt resource value: 0x7F0F0009
-			public const int Base_AlertDialog_AppCompat_Light = 2131689481;
+			public const int Base_Animation_AppCompat_DropDownUp = 2131689481;
 			
 			// aapt resource value: 0x7F0F000A
-			public const int Base_Animation_AppCompat_Dialog = 2131689482;
+			public const int Base_Animation_AppCompat_Tooltip = 2131689482;
 			
 			// aapt resource value: 0x7F0F000B
-			public const int Base_Animation_AppCompat_DropDownUp = 2131689483;
-			
-			// aapt resource value: 0x7F0F000C
-			public const int Base_Animation_AppCompat_Tooltip = 2131689484;
+			public const int Base_CardView = 2131689483;
 			
 			// aapt resource value: 0x7F0F000D
-			public const int Base_CardView = 2131689485;
+			public const int Base_DialogWindowTitleBackground_AppCompat = 2131689485;
+			
+			// aapt resource value: 0x7F0F000C
+			public const int Base_DialogWindowTitle_AppCompat = 2131689484;
 			
 			// aapt resource value: 0x7F0F000E
-			public const int Base_DialogWindowTitleBackground_AppCompat = 2131689486;
+			public const int Base_TextAppearance_AppCompat = 2131689486;
 			
 			// aapt resource value: 0x7F0F000F
-			public const int Base_DialogWindowTitle_AppCompat = 2131689487;
+			public const int Base_TextAppearance_AppCompat_Body1 = 2131689487;
 			
 			// aapt resource value: 0x7F0F0010
-			public const int Base_TextAppearance_AppCompat = 2131689488;
+			public const int Base_TextAppearance_AppCompat_Body2 = 2131689488;
 			
 			// aapt resource value: 0x7F0F0011
-			public const int Base_TextAppearance_AppCompat_Body1 = 2131689489;
+			public const int Base_TextAppearance_AppCompat_Button = 2131689489;
 			
 			// aapt resource value: 0x7F0F0012
-			public const int Base_TextAppearance_AppCompat_Body2 = 2131689490;
+			public const int Base_TextAppearance_AppCompat_Caption = 2131689490;
 			
 			// aapt resource value: 0x7F0F0013
-			public const int Base_TextAppearance_AppCompat_Button = 2131689491;
+			public const int Base_TextAppearance_AppCompat_Display1 = 2131689491;
 			
 			// aapt resource value: 0x7F0F0014
-			public const int Base_TextAppearance_AppCompat_Caption = 2131689492;
+			public const int Base_TextAppearance_AppCompat_Display2 = 2131689492;
 			
 			// aapt resource value: 0x7F0F0015
-			public const int Base_TextAppearance_AppCompat_Display1 = 2131689493;
+			public const int Base_TextAppearance_AppCompat_Display3 = 2131689493;
 			
 			// aapt resource value: 0x7F0F0016
-			public const int Base_TextAppearance_AppCompat_Display2 = 2131689494;
+			public const int Base_TextAppearance_AppCompat_Display4 = 2131689494;
 			
 			// aapt resource value: 0x7F0F0017
-			public const int Base_TextAppearance_AppCompat_Display3 = 2131689495;
+			public const int Base_TextAppearance_AppCompat_Headline = 2131689495;
 			
 			// aapt resource value: 0x7F0F0018
-			public const int Base_TextAppearance_AppCompat_Display4 = 2131689496;
+			public const int Base_TextAppearance_AppCompat_Inverse = 2131689496;
 			
 			// aapt resource value: 0x7F0F0019
-			public const int Base_TextAppearance_AppCompat_Headline = 2131689497;
+			public const int Base_TextAppearance_AppCompat_Large = 2131689497;
 			
 			// aapt resource value: 0x7F0F001A
-			public const int Base_TextAppearance_AppCompat_Inverse = 2131689498;
+			public const int Base_TextAppearance_AppCompat_Large_Inverse = 2131689498;
 			
 			// aapt resource value: 0x7F0F001B
-			public const int Base_TextAppearance_AppCompat_Large = 2131689499;
+			public const int Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = 2131689499;
 			
 			// aapt resource value: 0x7F0F001C
-			public const int Base_TextAppearance_AppCompat_Large_Inverse = 2131689500;
+			public const int Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = 2131689500;
 			
 			// aapt resource value: 0x7F0F001D
-			public const int Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = 2131689501;
+			public const int Base_TextAppearance_AppCompat_Medium = 2131689501;
 			
 			// aapt resource value: 0x7F0F001E
-			public const int Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = 2131689502;
+			public const int Base_TextAppearance_AppCompat_Medium_Inverse = 2131689502;
 			
 			// aapt resource value: 0x7F0F001F
-			public const int Base_TextAppearance_AppCompat_Medium = 2131689503;
+			public const int Base_TextAppearance_AppCompat_Menu = 2131689503;
 			
 			// aapt resource value: 0x7F0F0020
-			public const int Base_TextAppearance_AppCompat_Medium_Inverse = 2131689504;
+			public const int Base_TextAppearance_AppCompat_SearchResult = 2131689504;
 			
 			// aapt resource value: 0x7F0F0021
-			public const int Base_TextAppearance_AppCompat_Menu = 2131689505;
+			public const int Base_TextAppearance_AppCompat_SearchResult_Subtitle = 2131689505;
 			
 			// aapt resource value: 0x7F0F0022
-			public const int Base_TextAppearance_AppCompat_SearchResult = 2131689506;
+			public const int Base_TextAppearance_AppCompat_SearchResult_Title = 2131689506;
 			
 			// aapt resource value: 0x7F0F0023
-			public const int Base_TextAppearance_AppCompat_SearchResult_Subtitle = 2131689507;
+			public const int Base_TextAppearance_AppCompat_Small = 2131689507;
 			
 			// aapt resource value: 0x7F0F0024
-			public const int Base_TextAppearance_AppCompat_SearchResult_Title = 2131689508;
+			public const int Base_TextAppearance_AppCompat_Small_Inverse = 2131689508;
 			
 			// aapt resource value: 0x7F0F0025
-			public const int Base_TextAppearance_AppCompat_Small = 2131689509;
+			public const int Base_TextAppearance_AppCompat_Subhead = 2131689509;
 			
 			// aapt resource value: 0x7F0F0026
-			public const int Base_TextAppearance_AppCompat_Small_Inverse = 2131689510;
+			public const int Base_TextAppearance_AppCompat_Subhead_Inverse = 2131689510;
 			
 			// aapt resource value: 0x7F0F0027
-			public const int Base_TextAppearance_AppCompat_Subhead = 2131689511;
+			public const int Base_TextAppearance_AppCompat_Title = 2131689511;
 			
 			// aapt resource value: 0x7F0F0028
-			public const int Base_TextAppearance_AppCompat_Subhead_Inverse = 2131689512;
+			public const int Base_TextAppearance_AppCompat_Title_Inverse = 2131689512;
 			
 			// aapt resource value: 0x7F0F0029
-			public const int Base_TextAppearance_AppCompat_Title = 2131689513;
+			public const int Base_TextAppearance_AppCompat_Tooltip = 2131689513;
 			
 			// aapt resource value: 0x7F0F002A
-			public const int Base_TextAppearance_AppCompat_Title_Inverse = 2131689514;
+			public const int Base_TextAppearance_AppCompat_Widget_ActionBar_Menu = 2131689514;
 			
 			// aapt resource value: 0x7F0F002B
-			public const int Base_TextAppearance_AppCompat_Tooltip = 2131689515;
+			public const int Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle = 2131689515;
 			
 			// aapt resource value: 0x7F0F002C
-			public const int Base_TextAppearance_AppCompat_Widget_ActionBar_Menu = 2131689516;
+			public const int Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = 2131689516;
 			
 			// aapt resource value: 0x7F0F002D
-			public const int Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle = 2131689517;
+			public const int Base_TextAppearance_AppCompat_Widget_ActionBar_Title = 2131689517;
 			
 			// aapt resource value: 0x7F0F002E
-			public const int Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = 2131689518;
+			public const int Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = 2131689518;
 			
 			// aapt resource value: 0x7F0F002F
-			public const int Base_TextAppearance_AppCompat_Widget_ActionBar_Title = 2131689519;
+			public const int Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle = 2131689519;
 			
 			// aapt resource value: 0x7F0F0030
-			public const int Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = 2131689520;
+			public const int Base_TextAppearance_AppCompat_Widget_ActionMode_Title = 2131689520;
 			
 			// aapt resource value: 0x7F0F0031
-			public const int Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle = 2131689521;
+			public const int Base_TextAppearance_AppCompat_Widget_Button = 2131689521;
 			
 			// aapt resource value: 0x7F0F0032
-			public const int Base_TextAppearance_AppCompat_Widget_ActionMode_Title = 2131689522;
+			public const int Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored = 2131689522;
 			
 			// aapt resource value: 0x7F0F0033
-			public const int Base_TextAppearance_AppCompat_Widget_Button = 2131689523;
+			public const int Base_TextAppearance_AppCompat_Widget_Button_Colored = 2131689523;
 			
 			// aapt resource value: 0x7F0F0034
-			public const int Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored = 2131689524;
+			public const int Base_TextAppearance_AppCompat_Widget_Button_Inverse = 2131689524;
 			
 			// aapt resource value: 0x7F0F0035
-			public const int Base_TextAppearance_AppCompat_Widget_Button_Colored = 2131689525;
+			public const int Base_TextAppearance_AppCompat_Widget_DropDownItem = 2131689525;
 			
 			// aapt resource value: 0x7F0F0036
-			public const int Base_TextAppearance_AppCompat_Widget_Button_Inverse = 2131689526;
+			public const int Base_TextAppearance_AppCompat_Widget_PopupMenu_Header = 2131689526;
 			
 			// aapt resource value: 0x7F0F0037
-			public const int Base_TextAppearance_AppCompat_Widget_DropDownItem = 2131689527;
+			public const int Base_TextAppearance_AppCompat_Widget_PopupMenu_Large = 2131689527;
 			
 			// aapt resource value: 0x7F0F0038
-			public const int Base_TextAppearance_AppCompat_Widget_PopupMenu_Header = 2131689528;
+			public const int Base_TextAppearance_AppCompat_Widget_PopupMenu_Small = 2131689528;
 			
 			// aapt resource value: 0x7F0F0039
-			public const int Base_TextAppearance_AppCompat_Widget_PopupMenu_Large = 2131689529;
+			public const int Base_TextAppearance_AppCompat_Widget_Switch = 2131689529;
 			
 			// aapt resource value: 0x7F0F003A
-			public const int Base_TextAppearance_AppCompat_Widget_PopupMenu_Small = 2131689530;
+			public const int Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem = 2131689530;
 			
 			// aapt resource value: 0x7F0F003B
-			public const int Base_TextAppearance_AppCompat_Widget_Switch = 2131689531;
+			public const int Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item = 2131689531;
 			
 			// aapt resource value: 0x7F0F003C
-			public const int Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem = 2131689532;
+			public const int Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle = 2131689532;
 			
 			// aapt resource value: 0x7F0F003D
-			public const int Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item = 2131689533;
-			
-			// aapt resource value: 0x7F0F003E
-			public const int Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle = 2131689534;
-			
-			// aapt resource value: 0x7F0F003F
-			public const int Base_TextAppearance_Widget_AppCompat_Toolbar_Title = 2131689535;
-			
-			// aapt resource value: 0x7F0F0040
-			public const int Base_ThemeOverlay_AppCompat = 2131689536;
-			
-			// aapt resource value: 0x7F0F0041
-			public const int Base_ThemeOverlay_AppCompat_ActionBar = 2131689537;
-			
-			// aapt resource value: 0x7F0F0042
-			public const int Base_ThemeOverlay_AppCompat_Dark = 2131689538;
-			
-			// aapt resource value: 0x7F0F0043
-			public const int Base_ThemeOverlay_AppCompat_Dark_ActionBar = 2131689539;
-			
-			// aapt resource value: 0x7F0F0044
-			public const int Base_ThemeOverlay_AppCompat_Dialog = 2131689540;
-			
-			// aapt resource value: 0x7F0F0045
-			public const int Base_ThemeOverlay_AppCompat_Dialog_Alert = 2131689541;
-			
-			// aapt resource value: 0x7F0F0046
-			public const int Base_ThemeOverlay_AppCompat_Light = 2131689542;
-			
-			// aapt resource value: 0x7F0F0047
-			public const int Base_ThemeOverlay_MaterialComponents_Dialog = 2131689543;
-			
-			// aapt resource value: 0x7F0F0048
-			public const int Base_ThemeOverlay_MaterialComponents_Dialog_Alert = 2131689544;
-			
-			// aapt resource value: 0x7F0F0049
-			public const int Base_Theme_AppCompat = 2131689545;
-			
-			// aapt resource value: 0x7F0F004A
-			public const int Base_Theme_AppCompat_CompactMenu = 2131689546;
-			
-			// aapt resource value: 0x7F0F004B
-			public const int Base_Theme_AppCompat_Dialog = 2131689547;
-			
-			// aapt resource value: 0x7F0F004C
-			public const int Base_Theme_AppCompat_DialogWhenLarge = 2131689548;
-			
-			// aapt resource value: 0x7F0F004D
-			public const int Base_Theme_AppCompat_Dialog_Alert = 2131689549;
-			
-			// aapt resource value: 0x7F0F004E
-			public const int Base_Theme_AppCompat_Dialog_FixedSize = 2131689550;
-			
-			// aapt resource value: 0x7F0F004F
-			public const int Base_Theme_AppCompat_Dialog_MinWidth = 2131689551;
-			
-			// aapt resource value: 0x7F0F0050
-			public const int Base_Theme_AppCompat_Light = 2131689552;
-			
-			// aapt resource value: 0x7F0F0051
-			public const int Base_Theme_AppCompat_Light_DarkActionBar = 2131689553;
-			
-			// aapt resource value: 0x7F0F0052
-			public const int Base_Theme_AppCompat_Light_Dialog = 2131689554;
-			
-			// aapt resource value: 0x7F0F0053
-			public const int Base_Theme_AppCompat_Light_DialogWhenLarge = 2131689555;
-			
-			// aapt resource value: 0x7F0F0054
-			public const int Base_Theme_AppCompat_Light_Dialog_Alert = 2131689556;
-			
-			// aapt resource value: 0x7F0F0055
-			public const int Base_Theme_AppCompat_Light_Dialog_FixedSize = 2131689557;
-			
-			// aapt resource value: 0x7F0F0056
-			public const int Base_Theme_AppCompat_Light_Dialog_MinWidth = 2131689558;
-			
-			// aapt resource value: 0x7F0F0057
-			public const int Base_Theme_MaterialComponents = 2131689559;
-			
-			// aapt resource value: 0x7F0F0058
-			public const int Base_Theme_MaterialComponents_Bridge = 2131689560;
-			
-			// aapt resource value: 0x7F0F0059
-			public const int Base_Theme_MaterialComponents_CompactMenu = 2131689561;
-			
-			// aapt resource value: 0x7F0F005A
-			public const int Base_Theme_MaterialComponents_Dialog = 2131689562;
-			
-			// aapt resource value: 0x7F0F005B
-			public const int Base_Theme_MaterialComponents_DialogWhenLarge = 2131689563;
-			
-			// aapt resource value: 0x7F0F005C
-			public const int Base_Theme_MaterialComponents_Dialog_Alert = 2131689564;
+			public const int Base_TextAppearance_Widget_AppCompat_Toolbar_Title = 2131689533;
 			
 			// aapt resource value: 0x7F0F005D
-			public const int Base_Theme_MaterialComponents_Dialog_FixedSize = 2131689565;
+			public const int Base_ThemeOverlay_AppCompat = 2131689565;
 			
 			// aapt resource value: 0x7F0F005E
-			public const int Base_Theme_MaterialComponents_Dialog_MinWidth = 2131689566;
+			public const int Base_ThemeOverlay_AppCompat_ActionBar = 2131689566;
 			
 			// aapt resource value: 0x7F0F005F
-			public const int Base_Theme_MaterialComponents_Light = 2131689567;
+			public const int Base_ThemeOverlay_AppCompat_Dark = 2131689567;
 			
 			// aapt resource value: 0x7F0F0060
-			public const int Base_Theme_MaterialComponents_Light_Bridge = 2131689568;
+			public const int Base_ThemeOverlay_AppCompat_Dark_ActionBar = 2131689568;
 			
 			// aapt resource value: 0x7F0F0061
-			public const int Base_Theme_MaterialComponents_Light_DarkActionBar = 2131689569;
+			public const int Base_ThemeOverlay_AppCompat_Dialog = 2131689569;
 			
 			// aapt resource value: 0x7F0F0062
-			public const int Base_Theme_MaterialComponents_Light_DarkActionBar_Bridge = 2131689570;
+			public const int Base_ThemeOverlay_AppCompat_Dialog_Alert = 2131689570;
 			
 			// aapt resource value: 0x7F0F0063
-			public const int Base_Theme_MaterialComponents_Light_Dialog = 2131689571;
+			public const int Base_ThemeOverlay_AppCompat_Light = 2131689571;
 			
 			// aapt resource value: 0x7F0F0064
-			public const int Base_Theme_MaterialComponents_Light_DialogWhenLarge = 2131689572;
+			public const int Base_ThemeOverlay_MaterialComponents_Dialog = 2131689572;
 			
 			// aapt resource value: 0x7F0F0065
-			public const int Base_Theme_MaterialComponents_Light_Dialog_Alert = 2131689573;
+			public const int Base_ThemeOverlay_MaterialComponents_Dialog_Alert = 2131689573;
 			
-			// aapt resource value: 0x7F0F0066
-			public const int Base_Theme_MaterialComponents_Light_Dialog_FixedSize = 2131689574;
+			// aapt resource value: 0x7F0F003E
+			public const int Base_Theme_AppCompat = 2131689534;
 			
-			// aapt resource value: 0x7F0F0067
-			public const int Base_Theme_MaterialComponents_Light_Dialog_MinWidth = 2131689575;
+			// aapt resource value: 0x7F0F003F
+			public const int Base_Theme_AppCompat_CompactMenu = 2131689535;
 			
-			// aapt resource value: 0x7F0F0068
-			public const int Base_V14_ThemeOverlay_MaterialComponents_Dialog = 2131689576;
+			// aapt resource value: 0x7F0F0040
+			public const int Base_Theme_AppCompat_Dialog = 2131689536;
 			
-			// aapt resource value: 0x7F0F0069
-			public const int Base_V14_ThemeOverlay_MaterialComponents_Dialog_Alert = 2131689577;
+			// aapt resource value: 0x7F0F0044
+			public const int Base_Theme_AppCompat_DialogWhenLarge = 2131689540;
 			
-			// aapt resource value: 0x7F0F006A
-			public const int Base_V14_Theme_MaterialComponents = 2131689578;
+			// aapt resource value: 0x7F0F0041
+			public const int Base_Theme_AppCompat_Dialog_Alert = 2131689537;
 			
-			// aapt resource value: 0x7F0F006B
-			public const int Base_V14_Theme_MaterialComponents_Bridge = 2131689579;
+			// aapt resource value: 0x7F0F0042
+			public const int Base_Theme_AppCompat_Dialog_FixedSize = 2131689538;
 			
-			// aapt resource value: 0x7F0F006C
-			public const int Base_V14_Theme_MaterialComponents_Dialog = 2131689580;
+			// aapt resource value: 0x7F0F0043
+			public const int Base_Theme_AppCompat_Dialog_MinWidth = 2131689539;
+			
+			// aapt resource value: 0x7F0F0045
+			public const int Base_Theme_AppCompat_Light = 2131689541;
+			
+			// aapt resource value: 0x7F0F0046
+			public const int Base_Theme_AppCompat_Light_DarkActionBar = 2131689542;
+			
+			// aapt resource value: 0x7F0F0047
+			public const int Base_Theme_AppCompat_Light_Dialog = 2131689543;
+			
+			// aapt resource value: 0x7F0F004B
+			public const int Base_Theme_AppCompat_Light_DialogWhenLarge = 2131689547;
+			
+			// aapt resource value: 0x7F0F0048
+			public const int Base_Theme_AppCompat_Light_Dialog_Alert = 2131689544;
+			
+			// aapt resource value: 0x7F0F0049
+			public const int Base_Theme_AppCompat_Light_Dialog_FixedSize = 2131689545;
+			
+			// aapt resource value: 0x7F0F004A
+			public const int Base_Theme_AppCompat_Light_Dialog_MinWidth = 2131689546;
+			
+			// aapt resource value: 0x7F0F004C
+			public const int Base_Theme_MaterialComponents = 2131689548;
+			
+			// aapt resource value: 0x7F0F004D
+			public const int Base_Theme_MaterialComponents_Bridge = 2131689549;
+			
+			// aapt resource value: 0x7F0F004E
+			public const int Base_Theme_MaterialComponents_CompactMenu = 2131689550;
+			
+			// aapt resource value: 0x7F0F004F
+			public const int Base_Theme_MaterialComponents_Dialog = 2131689551;
+			
+			// aapt resource value: 0x7F0F0053
+			public const int Base_Theme_MaterialComponents_DialogWhenLarge = 2131689555;
+			
+			// aapt resource value: 0x7F0F0050
+			public const int Base_Theme_MaterialComponents_Dialog_Alert = 2131689552;
+			
+			// aapt resource value: 0x7F0F0051
+			public const int Base_Theme_MaterialComponents_Dialog_FixedSize = 2131689553;
+			
+			// aapt resource value: 0x7F0F0052
+			public const int Base_Theme_MaterialComponents_Dialog_MinWidth = 2131689554;
+			
+			// aapt resource value: 0x7F0F0054
+			public const int Base_Theme_MaterialComponents_Light = 2131689556;
+			
+			// aapt resource value: 0x7F0F0055
+			public const int Base_Theme_MaterialComponents_Light_Bridge = 2131689557;
+			
+			// aapt resource value: 0x7F0F0056
+			public const int Base_Theme_MaterialComponents_Light_DarkActionBar = 2131689558;
+			
+			// aapt resource value: 0x7F0F0057
+			public const int Base_Theme_MaterialComponents_Light_DarkActionBar_Bridge = 2131689559;
+			
+			// aapt resource value: 0x7F0F0058
+			public const int Base_Theme_MaterialComponents_Light_Dialog = 2131689560;
+			
+			// aapt resource value: 0x7F0F005C
+			public const int Base_Theme_MaterialComponents_Light_DialogWhenLarge = 2131689564;
+			
+			// aapt resource value: 0x7F0F0059
+			public const int Base_Theme_MaterialComponents_Light_Dialog_Alert = 2131689561;
+			
+			// aapt resource value: 0x7F0F005A
+			public const int Base_Theme_MaterialComponents_Light_Dialog_FixedSize = 2131689562;
+			
+			// aapt resource value: 0x7F0F005B
+			public const int Base_Theme_MaterialComponents_Light_Dialog_MinWidth = 2131689563;
 			
 			// aapt resource value: 0x7F0F006D
-			public const int Base_V14_Theme_MaterialComponents_Light = 2131689581;
+			public const int Base_V14_ThemeOverlay_MaterialComponents_Dialog = 2131689581;
 			
 			// aapt resource value: 0x7F0F006E
-			public const int Base_V14_Theme_MaterialComponents_Light_Bridge = 2131689582;
+			public const int Base_V14_ThemeOverlay_MaterialComponents_Dialog_Alert = 2131689582;
 			
-			// aapt resource value: 0x7F0F006F
-			public const int Base_V14_Theme_MaterialComponents_Light_DarkActionBar_Bridge = 2131689583;
+			// aapt resource value: 0x7F0F0066
+			public const int Base_V14_Theme_MaterialComponents = 2131689574;
 			
-			// aapt resource value: 0x7F0F0070
-			public const int Base_V14_Theme_MaterialComponents_Light_Dialog = 2131689584;
+			// aapt resource value: 0x7F0F0067
+			public const int Base_V14_Theme_MaterialComponents_Bridge = 2131689575;
 			
-			// aapt resource value: 0x7F0F0071
-			public const int Base_V21_ThemeOverlay_AppCompat_Dialog = 2131689585;
+			// aapt resource value: 0x7F0F0068
+			public const int Base_V14_Theme_MaterialComponents_Dialog = 2131689576;
 			
-			// aapt resource value: 0x7F0F0072
-			public const int Base_V21_Theme_AppCompat = 2131689586;
+			// aapt resource value: 0x7F0F0069
+			public const int Base_V14_Theme_MaterialComponents_Light = 2131689577;
+			
+			// aapt resource value: 0x7F0F006A
+			public const int Base_V14_Theme_MaterialComponents_Light_Bridge = 2131689578;
+			
+			// aapt resource value: 0x7F0F006B
+			public const int Base_V14_Theme_MaterialComponents_Light_DarkActionBar_Bridge = 2131689579;
+			
+			// aapt resource value: 0x7F0F006C
+			public const int Base_V14_Theme_MaterialComponents_Light_Dialog = 2131689580;
 			
 			// aapt resource value: 0x7F0F0073
-			public const int Base_V21_Theme_AppCompat_Dialog = 2131689587;
+			public const int Base_V21_ThemeOverlay_AppCompat_Dialog = 2131689587;
+			
+			// aapt resource value: 0x7F0F006F
+			public const int Base_V21_Theme_AppCompat = 2131689583;
+			
+			// aapt resource value: 0x7F0F0070
+			public const int Base_V21_Theme_AppCompat_Dialog = 2131689584;
+			
+			// aapt resource value: 0x7F0F0071
+			public const int Base_V21_Theme_AppCompat_Light = 2131689585;
+			
+			// aapt resource value: 0x7F0F0072
+			public const int Base_V21_Theme_AppCompat_Light_Dialog = 2131689586;
 			
 			// aapt resource value: 0x7F0F0074
-			public const int Base_V21_Theme_AppCompat_Light = 2131689588;
+			public const int Base_V22_Theme_AppCompat = 2131689588;
 			
 			// aapt resource value: 0x7F0F0075
-			public const int Base_V21_Theme_AppCompat_Light_Dialog = 2131689589;
+			public const int Base_V22_Theme_AppCompat_Light = 2131689589;
 			
 			// aapt resource value: 0x7F0F0076
-			public const int Base_V22_Theme_AppCompat = 2131689590;
+			public const int Base_V23_Theme_AppCompat = 2131689590;
 			
 			// aapt resource value: 0x7F0F0077
-			public const int Base_V22_Theme_AppCompat_Light = 2131689591;
+			public const int Base_V23_Theme_AppCompat_Light = 2131689591;
 			
 			// aapt resource value: 0x7F0F0078
-			public const int Base_V23_Theme_AppCompat = 2131689592;
+			public const int Base_V26_Theme_AppCompat = 2131689592;
 			
 			// aapt resource value: 0x7F0F0079
-			public const int Base_V23_Theme_AppCompat_Light = 2131689593;
+			public const int Base_V26_Theme_AppCompat_Light = 2131689593;
 			
 			// aapt resource value: 0x7F0F007A
-			public const int Base_V26_Theme_AppCompat = 2131689594;
+			public const int Base_V26_Widget_AppCompat_Toolbar = 2131689594;
 			
 			// aapt resource value: 0x7F0F007B
-			public const int Base_V26_Theme_AppCompat_Light = 2131689595;
+			public const int Base_V28_Theme_AppCompat = 2131689595;
 			
 			// aapt resource value: 0x7F0F007C
-			public const int Base_V26_Widget_AppCompat_Toolbar = 2131689596;
-			
-			// aapt resource value: 0x7F0F007D
-			public const int Base_V28_Theme_AppCompat = 2131689597;
-			
-			// aapt resource value: 0x7F0F007E
-			public const int Base_V28_Theme_AppCompat_Light = 2131689598;
-			
-			// aapt resource value: 0x7F0F007F
-			public const int Base_V7_ThemeOverlay_AppCompat_Dialog = 2131689599;
-			
-			// aapt resource value: 0x7F0F0080
-			public const int Base_V7_Theme_AppCompat = 2131689600;
+			public const int Base_V28_Theme_AppCompat_Light = 2131689596;
 			
 			// aapt resource value: 0x7F0F0081
-			public const int Base_V7_Theme_AppCompat_Dialog = 2131689601;
+			public const int Base_V7_ThemeOverlay_AppCompat_Dialog = 2131689601;
+			
+			// aapt resource value: 0x7F0F007D
+			public const int Base_V7_Theme_AppCompat = 2131689597;
+			
+			// aapt resource value: 0x7F0F007E
+			public const int Base_V7_Theme_AppCompat_Dialog = 2131689598;
+			
+			// aapt resource value: 0x7F0F007F
+			public const int Base_V7_Theme_AppCompat_Light = 2131689599;
+			
+			// aapt resource value: 0x7F0F0080
+			public const int Base_V7_Theme_AppCompat_Light_Dialog = 2131689600;
 			
 			// aapt resource value: 0x7F0F0082
-			public const int Base_V7_Theme_AppCompat_Light = 2131689602;
+			public const int Base_V7_Widget_AppCompat_AutoCompleteTextView = 2131689602;
 			
 			// aapt resource value: 0x7F0F0083
-			public const int Base_V7_Theme_AppCompat_Light_Dialog = 2131689603;
+			public const int Base_V7_Widget_AppCompat_EditText = 2131689603;
 			
 			// aapt resource value: 0x7F0F0084
-			public const int Base_V7_Widget_AppCompat_AutoCompleteTextView = 2131689604;
+			public const int Base_V7_Widget_AppCompat_Toolbar = 2131689604;
 			
 			// aapt resource value: 0x7F0F0085
-			public const int Base_V7_Widget_AppCompat_EditText = 2131689605;
+			public const int Base_Widget_AppCompat_ActionBar = 2131689605;
 			
 			// aapt resource value: 0x7F0F0086
-			public const int Base_V7_Widget_AppCompat_Toolbar = 2131689606;
+			public const int Base_Widget_AppCompat_ActionBar_Solid = 2131689606;
 			
 			// aapt resource value: 0x7F0F0087
-			public const int Base_Widget_AppCompat_ActionBar = 2131689607;
+			public const int Base_Widget_AppCompat_ActionBar_TabBar = 2131689607;
 			
 			// aapt resource value: 0x7F0F0088
-			public const int Base_Widget_AppCompat_ActionBar_Solid = 2131689608;
+			public const int Base_Widget_AppCompat_ActionBar_TabText = 2131689608;
 			
 			// aapt resource value: 0x7F0F0089
-			public const int Base_Widget_AppCompat_ActionBar_TabBar = 2131689609;
+			public const int Base_Widget_AppCompat_ActionBar_TabView = 2131689609;
 			
 			// aapt resource value: 0x7F0F008A
-			public const int Base_Widget_AppCompat_ActionBar_TabText = 2131689610;
+			public const int Base_Widget_AppCompat_ActionButton = 2131689610;
 			
 			// aapt resource value: 0x7F0F008B
-			public const int Base_Widget_AppCompat_ActionBar_TabView = 2131689611;
+			public const int Base_Widget_AppCompat_ActionButton_CloseMode = 2131689611;
 			
 			// aapt resource value: 0x7F0F008C
-			public const int Base_Widget_AppCompat_ActionButton = 2131689612;
+			public const int Base_Widget_AppCompat_ActionButton_Overflow = 2131689612;
 			
 			// aapt resource value: 0x7F0F008D
-			public const int Base_Widget_AppCompat_ActionButton_CloseMode = 2131689613;
+			public const int Base_Widget_AppCompat_ActionMode = 2131689613;
 			
 			// aapt resource value: 0x7F0F008E
-			public const int Base_Widget_AppCompat_ActionButton_Overflow = 2131689614;
+			public const int Base_Widget_AppCompat_ActivityChooserView = 2131689614;
 			
 			// aapt resource value: 0x7F0F008F
-			public const int Base_Widget_AppCompat_ActionMode = 2131689615;
+			public const int Base_Widget_AppCompat_AutoCompleteTextView = 2131689615;
 			
 			// aapt resource value: 0x7F0F0090
-			public const int Base_Widget_AppCompat_ActivityChooserView = 2131689616;
-			
-			// aapt resource value: 0x7F0F0091
-			public const int Base_Widget_AppCompat_AutoCompleteTextView = 2131689617;
-			
-			// aapt resource value: 0x7F0F0092
-			public const int Base_Widget_AppCompat_Button = 2131689618;
-			
-			// aapt resource value: 0x7F0F0093
-			public const int Base_Widget_AppCompat_ButtonBar = 2131689619;
-			
-			// aapt resource value: 0x7F0F0094
-			public const int Base_Widget_AppCompat_ButtonBar_AlertDialog = 2131689620;
-			
-			// aapt resource value: 0x7F0F0095
-			public const int Base_Widget_AppCompat_Button_Borderless = 2131689621;
+			public const int Base_Widget_AppCompat_Button = 2131689616;
 			
 			// aapt resource value: 0x7F0F0096
-			public const int Base_Widget_AppCompat_Button_Borderless_Colored = 2131689622;
+			public const int Base_Widget_AppCompat_ButtonBar = 2131689622;
 			
 			// aapt resource value: 0x7F0F0097
-			public const int Base_Widget_AppCompat_Button_ButtonBar_AlertDialog = 2131689623;
+			public const int Base_Widget_AppCompat_ButtonBar_AlertDialog = 2131689623;
+			
+			// aapt resource value: 0x7F0F0091
+			public const int Base_Widget_AppCompat_Button_Borderless = 2131689617;
+			
+			// aapt resource value: 0x7F0F0092
+			public const int Base_Widget_AppCompat_Button_Borderless_Colored = 2131689618;
+			
+			// aapt resource value: 0x7F0F0093
+			public const int Base_Widget_AppCompat_Button_ButtonBar_AlertDialog = 2131689619;
+			
+			// aapt resource value: 0x7F0F0094
+			public const int Base_Widget_AppCompat_Button_Colored = 2131689620;
+			
+			// aapt resource value: 0x7F0F0095
+			public const int Base_Widget_AppCompat_Button_Small = 2131689621;
 			
 			// aapt resource value: 0x7F0F0098
-			public const int Base_Widget_AppCompat_Button_Colored = 2131689624;
+			public const int Base_Widget_AppCompat_CompoundButton_CheckBox = 2131689624;
 			
 			// aapt resource value: 0x7F0F0099
-			public const int Base_Widget_AppCompat_Button_Small = 2131689625;
+			public const int Base_Widget_AppCompat_CompoundButton_RadioButton = 2131689625;
 			
 			// aapt resource value: 0x7F0F009A
-			public const int Base_Widget_AppCompat_CompoundButton_CheckBox = 2131689626;
+			public const int Base_Widget_AppCompat_CompoundButton_Switch = 2131689626;
 			
 			// aapt resource value: 0x7F0F009B
-			public const int Base_Widget_AppCompat_CompoundButton_RadioButton = 2131689627;
+			public const int Base_Widget_AppCompat_DrawerArrowToggle = 2131689627;
 			
 			// aapt resource value: 0x7F0F009C
-			public const int Base_Widget_AppCompat_CompoundButton_Switch = 2131689628;
+			public const int Base_Widget_AppCompat_DrawerArrowToggle_Common = 2131689628;
 			
 			// aapt resource value: 0x7F0F009D
-			public const int Base_Widget_AppCompat_DrawerArrowToggle = 2131689629;
+			public const int Base_Widget_AppCompat_DropDownItem_Spinner = 2131689629;
 			
 			// aapt resource value: 0x7F0F009E
-			public const int Base_Widget_AppCompat_DrawerArrowToggle_Common = 2131689630;
+			public const int Base_Widget_AppCompat_EditText = 2131689630;
 			
 			// aapt resource value: 0x7F0F009F
-			public const int Base_Widget_AppCompat_DropDownItem_Spinner = 2131689631;
+			public const int Base_Widget_AppCompat_ImageButton = 2131689631;
 			
 			// aapt resource value: 0x7F0F00A0
-			public const int Base_Widget_AppCompat_EditText = 2131689632;
+			public const int Base_Widget_AppCompat_Light_ActionBar = 2131689632;
 			
 			// aapt resource value: 0x7F0F00A1
-			public const int Base_Widget_AppCompat_ImageButton = 2131689633;
+			public const int Base_Widget_AppCompat_Light_ActionBar_Solid = 2131689633;
 			
 			// aapt resource value: 0x7F0F00A2
-			public const int Base_Widget_AppCompat_Light_ActionBar = 2131689634;
+			public const int Base_Widget_AppCompat_Light_ActionBar_TabBar = 2131689634;
 			
 			// aapt resource value: 0x7F0F00A3
-			public const int Base_Widget_AppCompat_Light_ActionBar_Solid = 2131689635;
+			public const int Base_Widget_AppCompat_Light_ActionBar_TabText = 2131689635;
 			
 			// aapt resource value: 0x7F0F00A4
-			public const int Base_Widget_AppCompat_Light_ActionBar_TabBar = 2131689636;
+			public const int Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse = 2131689636;
 			
 			// aapt resource value: 0x7F0F00A5
-			public const int Base_Widget_AppCompat_Light_ActionBar_TabText = 2131689637;
+			public const int Base_Widget_AppCompat_Light_ActionBar_TabView = 2131689637;
 			
 			// aapt resource value: 0x7F0F00A6
-			public const int Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse = 2131689638;
+			public const int Base_Widget_AppCompat_Light_PopupMenu = 2131689638;
 			
 			// aapt resource value: 0x7F0F00A7
-			public const int Base_Widget_AppCompat_Light_ActionBar_TabView = 2131689639;
+			public const int Base_Widget_AppCompat_Light_PopupMenu_Overflow = 2131689639;
 			
 			// aapt resource value: 0x7F0F00A8
-			public const int Base_Widget_AppCompat_Light_PopupMenu = 2131689640;
+			public const int Base_Widget_AppCompat_ListMenuView = 2131689640;
 			
 			// aapt resource value: 0x7F0F00A9
-			public const int Base_Widget_AppCompat_Light_PopupMenu_Overflow = 2131689641;
+			public const int Base_Widget_AppCompat_ListPopupWindow = 2131689641;
 			
 			// aapt resource value: 0x7F0F00AA
-			public const int Base_Widget_AppCompat_ListMenuView = 2131689642;
+			public const int Base_Widget_AppCompat_ListView = 2131689642;
 			
 			// aapt resource value: 0x7F0F00AB
-			public const int Base_Widget_AppCompat_ListPopupWindow = 2131689643;
+			public const int Base_Widget_AppCompat_ListView_DropDown = 2131689643;
 			
 			// aapt resource value: 0x7F0F00AC
-			public const int Base_Widget_AppCompat_ListView = 2131689644;
+			public const int Base_Widget_AppCompat_ListView_Menu = 2131689644;
 			
 			// aapt resource value: 0x7F0F00AD
-			public const int Base_Widget_AppCompat_ListView_DropDown = 2131689645;
+			public const int Base_Widget_AppCompat_PopupMenu = 2131689645;
 			
 			// aapt resource value: 0x7F0F00AE
-			public const int Base_Widget_AppCompat_ListView_Menu = 2131689646;
+			public const int Base_Widget_AppCompat_PopupMenu_Overflow = 2131689646;
 			
 			// aapt resource value: 0x7F0F00AF
-			public const int Base_Widget_AppCompat_PopupMenu = 2131689647;
+			public const int Base_Widget_AppCompat_PopupWindow = 2131689647;
 			
 			// aapt resource value: 0x7F0F00B0
-			public const int Base_Widget_AppCompat_PopupMenu_Overflow = 2131689648;
+			public const int Base_Widget_AppCompat_ProgressBar = 2131689648;
 			
 			// aapt resource value: 0x7F0F00B1
-			public const int Base_Widget_AppCompat_PopupWindow = 2131689649;
+			public const int Base_Widget_AppCompat_ProgressBar_Horizontal = 2131689649;
 			
 			// aapt resource value: 0x7F0F00B2
-			public const int Base_Widget_AppCompat_ProgressBar = 2131689650;
+			public const int Base_Widget_AppCompat_RatingBar = 2131689650;
 			
 			// aapt resource value: 0x7F0F00B3
-			public const int Base_Widget_AppCompat_ProgressBar_Horizontal = 2131689651;
+			public const int Base_Widget_AppCompat_RatingBar_Indicator = 2131689651;
 			
 			// aapt resource value: 0x7F0F00B4
-			public const int Base_Widget_AppCompat_RatingBar = 2131689652;
+			public const int Base_Widget_AppCompat_RatingBar_Small = 2131689652;
 			
 			// aapt resource value: 0x7F0F00B5
-			public const int Base_Widget_AppCompat_RatingBar_Indicator = 2131689653;
+			public const int Base_Widget_AppCompat_SearchView = 2131689653;
 			
 			// aapt resource value: 0x7F0F00B6
-			public const int Base_Widget_AppCompat_RatingBar_Small = 2131689654;
+			public const int Base_Widget_AppCompat_SearchView_ActionBar = 2131689654;
 			
 			// aapt resource value: 0x7F0F00B7
-			public const int Base_Widget_AppCompat_SearchView = 2131689655;
+			public const int Base_Widget_AppCompat_SeekBar = 2131689655;
 			
 			// aapt resource value: 0x7F0F00B8
-			public const int Base_Widget_AppCompat_SearchView_ActionBar = 2131689656;
+			public const int Base_Widget_AppCompat_SeekBar_Discrete = 2131689656;
 			
 			// aapt resource value: 0x7F0F00B9
-			public const int Base_Widget_AppCompat_SeekBar = 2131689657;
+			public const int Base_Widget_AppCompat_Spinner = 2131689657;
 			
 			// aapt resource value: 0x7F0F00BA
-			public const int Base_Widget_AppCompat_SeekBar_Discrete = 2131689658;
+			public const int Base_Widget_AppCompat_Spinner_Underlined = 2131689658;
 			
 			// aapt resource value: 0x7F0F00BB
-			public const int Base_Widget_AppCompat_Spinner = 2131689659;
+			public const int Base_Widget_AppCompat_TextView_SpinnerItem = 2131689659;
 			
 			// aapt resource value: 0x7F0F00BC
-			public const int Base_Widget_AppCompat_Spinner_Underlined = 2131689660;
+			public const int Base_Widget_AppCompat_Toolbar = 2131689660;
 			
 			// aapt resource value: 0x7F0F00BD
-			public const int Base_Widget_AppCompat_TextView_SpinnerItem = 2131689661;
+			public const int Base_Widget_AppCompat_Toolbar_Button_Navigation = 2131689661;
 			
 			// aapt resource value: 0x7F0F00BE
-			public const int Base_Widget_AppCompat_Toolbar = 2131689662;
+			public const int Base_Widget_Design_TabLayout = 2131689662;
 			
 			// aapt resource value: 0x7F0F00BF
-			public const int Base_Widget_AppCompat_Toolbar_Button_Navigation = 2131689663;
+			public const int Base_Widget_MaterialComponents_Chip = 2131689663;
 			
 			// aapt resource value: 0x7F0F00C0
-			public const int Base_Widget_Design_TabLayout = 2131689664;
+			public const int Base_Widget_MaterialComponents_TextInputEditText = 2131689664;
 			
 			// aapt resource value: 0x7F0F00C1
-			public const int Base_Widget_MaterialComponents_Chip = 2131689665;
+			public const int Base_Widget_MaterialComponents_TextInputLayout = 2131689665;
 			
 			// aapt resource value: 0x7F0F00C2
-			public const int Base_Widget_MaterialComponents_TextInputEditText = 2131689666;
+			public const int CardView = 2131689666;
 			
 			// aapt resource value: 0x7F0F00C3
-			public const int Base_Widget_MaterialComponents_TextInputLayout = 2131689667;
+			public const int CardView_Dark = 2131689667;
 			
 			// aapt resource value: 0x7F0F00C4
-			public const int CardView = 2131689668;
+			public const int CardView_Light = 2131689668;
 			
 			// aapt resource value: 0x7F0F00C5
-			public const int CardView_Dark = 2131689669;
+			public const int Platform_AppCompat = 2131689669;
 			
 			// aapt resource value: 0x7F0F00C6
-			public const int CardView_Light = 2131689670;
+			public const int Platform_AppCompat_Light = 2131689670;
 			
 			// aapt resource value: 0x7F0F00C7
-			public const int Platform_AppCompat = 2131689671;
+			public const int Platform_MaterialComponents = 2131689671;
 			
 			// aapt resource value: 0x7F0F00C8
-			public const int Platform_AppCompat_Light = 2131689672;
+			public const int Platform_MaterialComponents_Dialog = 2131689672;
 			
 			// aapt resource value: 0x7F0F00C9
-			public const int Platform_MaterialComponents = 2131689673;
+			public const int Platform_MaterialComponents_Light = 2131689673;
 			
 			// aapt resource value: 0x7F0F00CA
-			public const int Platform_MaterialComponents_Dialog = 2131689674;
+			public const int Platform_MaterialComponents_Light_Dialog = 2131689674;
 			
 			// aapt resource value: 0x7F0F00CB
-			public const int Platform_MaterialComponents_Light = 2131689675;
+			public const int Platform_ThemeOverlay_AppCompat = 2131689675;
 			
 			// aapt resource value: 0x7F0F00CC
-			public const int Platform_MaterialComponents_Light_Dialog = 2131689676;
+			public const int Platform_ThemeOverlay_AppCompat_Dark = 2131689676;
 			
 			// aapt resource value: 0x7F0F00CD
-			public const int Platform_ThemeOverlay_AppCompat = 2131689677;
+			public const int Platform_ThemeOverlay_AppCompat_Light = 2131689677;
 			
 			// aapt resource value: 0x7F0F00CE
-			public const int Platform_ThemeOverlay_AppCompat_Dark = 2131689678;
+			public const int Platform_V21_AppCompat = 2131689678;
 			
 			// aapt resource value: 0x7F0F00CF
-			public const int Platform_ThemeOverlay_AppCompat_Light = 2131689679;
+			public const int Platform_V21_AppCompat_Light = 2131689679;
 			
 			// aapt resource value: 0x7F0F00D0
-			public const int Platform_V21_AppCompat = 2131689680;
+			public const int Platform_V25_AppCompat = 2131689680;
 			
 			// aapt resource value: 0x7F0F00D1
-			public const int Platform_V21_AppCompat_Light = 2131689681;
+			public const int Platform_V25_AppCompat_Light = 2131689681;
 			
 			// aapt resource value: 0x7F0F00D2
-			public const int Platform_V25_AppCompat = 2131689682;
+			public const int Platform_Widget_AppCompat_Spinner = 2131689682;
 			
 			// aapt resource value: 0x7F0F00D3
-			public const int Platform_V25_AppCompat_Light = 2131689683;
+			public const int RtlOverlay_DialogWindowTitle_AppCompat = 2131689683;
 			
 			// aapt resource value: 0x7F0F00D4
-			public const int Platform_Widget_AppCompat_Spinner = 2131689684;
+			public const int RtlOverlay_Widget_AppCompat_ActionBar_TitleItem = 2131689684;
 			
 			// aapt resource value: 0x7F0F00D5
-			public const int RtlOverlay_DialogWindowTitle_AppCompat = 2131689685;
+			public const int RtlOverlay_Widget_AppCompat_DialogTitle_Icon = 2131689685;
 			
 			// aapt resource value: 0x7F0F00D6
-			public const int RtlOverlay_Widget_AppCompat_ActionBar_TitleItem = 2131689686;
+			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem = 2131689686;
 			
 			// aapt resource value: 0x7F0F00D7
-			public const int RtlOverlay_Widget_AppCompat_DialogTitle_Icon = 2131689687;
+			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup = 2131689687;
 			
 			// aapt resource value: 0x7F0F00D8
-			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem = 2131689688;
+			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_Shortcut = 2131689688;
 			
 			// aapt resource value: 0x7F0F00D9
-			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup = 2131689689;
+			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_SubmenuArrow = 2131689689;
 			
 			// aapt resource value: 0x7F0F00DA
-			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_Shortcut = 2131689690;
+			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_Text = 2131689690;
 			
 			// aapt resource value: 0x7F0F00DB
-			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_SubmenuArrow = 2131689691;
-			
-			// aapt resource value: 0x7F0F00DC
-			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_Text = 2131689692;
-			
-			// aapt resource value: 0x7F0F00DD
-			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_Title = 2131689693;
-			
-			// aapt resource value: 0x7F0F00DE
-			public const int RtlOverlay_Widget_AppCompat_SearchView_MagIcon = 2131689694;
-			
-			// aapt resource value: 0x7F0F00DF
-			public const int RtlOverlay_Widget_AppCompat_Search_DropDown = 2131689695;
-			
-			// aapt resource value: 0x7F0F00E0
-			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1 = 2131689696;
+			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_Title = 2131689691;
 			
 			// aapt resource value: 0x7F0F00E1
-			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2 = 2131689697;
+			public const int RtlOverlay_Widget_AppCompat_SearchView_MagIcon = 2131689697;
+			
+			// aapt resource value: 0x7F0F00DC
+			public const int RtlOverlay_Widget_AppCompat_Search_DropDown = 2131689692;
+			
+			// aapt resource value: 0x7F0F00DD
+			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1 = 2131689693;
+			
+			// aapt resource value: 0x7F0F00DE
+			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2 = 2131689694;
+			
+			// aapt resource value: 0x7F0F00DF
+			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Query = 2131689695;
+			
+			// aapt resource value: 0x7F0F00E0
+			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Text = 2131689696;
 			
 			// aapt resource value: 0x7F0F00E2
-			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Query = 2131689698;
+			public const int RtlUnderlay_Widget_AppCompat_ActionButton = 2131689698;
 			
 			// aapt resource value: 0x7F0F00E3
-			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Text = 2131689699;
+			public const int RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = 2131689699;
+			
+			// aapt resource value: 0x7F0F01F6
+			public const int splashTheme = 2131689974;
+			
+			// aapt resource value: 0x7F0F01F7
+			public const int splashThemeBase = 2131689975;
 			
 			// aapt resource value: 0x7F0F00E4
-			public const int RtlUnderlay_Widget_AppCompat_ActionButton = 2131689700;
+			public const int TextAppearance_AppCompat = 2131689700;
 			
 			// aapt resource value: 0x7F0F00E5
-			public const int RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = 2131689701;
+			public const int TextAppearance_AppCompat_Body1 = 2131689701;
 			
 			// aapt resource value: 0x7F0F00E6
-			public const int splashTheme = 2131689702;
+			public const int TextAppearance_AppCompat_Body2 = 2131689702;
 			
 			// aapt resource value: 0x7F0F00E7
-			public const int splashThemeBase = 2131689703;
+			public const int TextAppearance_AppCompat_Button = 2131689703;
 			
 			// aapt resource value: 0x7F0F00E8
-			public const int TextAppearance_AppCompat = 2131689704;
+			public const int TextAppearance_AppCompat_Caption = 2131689704;
 			
 			// aapt resource value: 0x7F0F00E9
-			public const int TextAppearance_AppCompat_Body1 = 2131689705;
+			public const int TextAppearance_AppCompat_Display1 = 2131689705;
 			
 			// aapt resource value: 0x7F0F00EA
-			public const int TextAppearance_AppCompat_Body2 = 2131689706;
+			public const int TextAppearance_AppCompat_Display2 = 2131689706;
 			
 			// aapt resource value: 0x7F0F00EB
-			public const int TextAppearance_AppCompat_Button = 2131689707;
+			public const int TextAppearance_AppCompat_Display3 = 2131689707;
 			
 			// aapt resource value: 0x7F0F00EC
-			public const int TextAppearance_AppCompat_Caption = 2131689708;
+			public const int TextAppearance_AppCompat_Display4 = 2131689708;
 			
 			// aapt resource value: 0x7F0F00ED
-			public const int TextAppearance_AppCompat_Display1 = 2131689709;
+			public const int TextAppearance_AppCompat_Headline = 2131689709;
 			
 			// aapt resource value: 0x7F0F00EE
-			public const int TextAppearance_AppCompat_Display2 = 2131689710;
+			public const int TextAppearance_AppCompat_Inverse = 2131689710;
 			
 			// aapt resource value: 0x7F0F00EF
-			public const int TextAppearance_AppCompat_Display3 = 2131689711;
+			public const int TextAppearance_AppCompat_Large = 2131689711;
 			
 			// aapt resource value: 0x7F0F00F0
-			public const int TextAppearance_AppCompat_Display4 = 2131689712;
+			public const int TextAppearance_AppCompat_Large_Inverse = 2131689712;
 			
 			// aapt resource value: 0x7F0F00F1
-			public const int TextAppearance_AppCompat_Headline = 2131689713;
+			public const int TextAppearance_AppCompat_Light_SearchResult_Subtitle = 2131689713;
 			
 			// aapt resource value: 0x7F0F00F2
-			public const int TextAppearance_AppCompat_Inverse = 2131689714;
+			public const int TextAppearance_AppCompat_Light_SearchResult_Title = 2131689714;
 			
 			// aapt resource value: 0x7F0F00F3
-			public const int TextAppearance_AppCompat_Large = 2131689715;
+			public const int TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = 2131689715;
 			
 			// aapt resource value: 0x7F0F00F4
-			public const int TextAppearance_AppCompat_Large_Inverse = 2131689716;
+			public const int TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = 2131689716;
 			
 			// aapt resource value: 0x7F0F00F5
-			public const int TextAppearance_AppCompat_Light_SearchResult_Subtitle = 2131689717;
+			public const int TextAppearance_AppCompat_Medium = 2131689717;
 			
 			// aapt resource value: 0x7F0F00F6
-			public const int TextAppearance_AppCompat_Light_SearchResult_Title = 2131689718;
+			public const int TextAppearance_AppCompat_Medium_Inverse = 2131689718;
 			
 			// aapt resource value: 0x7F0F00F7
-			public const int TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = 2131689719;
+			public const int TextAppearance_AppCompat_Menu = 2131689719;
 			
 			// aapt resource value: 0x7F0F00F8
-			public const int TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = 2131689720;
+			public const int TextAppearance_AppCompat_SearchResult_Subtitle = 2131689720;
 			
 			// aapt resource value: 0x7F0F00F9
-			public const int TextAppearance_AppCompat_Medium = 2131689721;
+			public const int TextAppearance_AppCompat_SearchResult_Title = 2131689721;
 			
 			// aapt resource value: 0x7F0F00FA
-			public const int TextAppearance_AppCompat_Medium_Inverse = 2131689722;
+			public const int TextAppearance_AppCompat_Small = 2131689722;
 			
 			// aapt resource value: 0x7F0F00FB
-			public const int TextAppearance_AppCompat_Menu = 2131689723;
+			public const int TextAppearance_AppCompat_Small_Inverse = 2131689723;
 			
 			// aapt resource value: 0x7F0F00FC
-			public const int TextAppearance_AppCompat_SearchResult_Subtitle = 2131689724;
+			public const int TextAppearance_AppCompat_Subhead = 2131689724;
 			
 			// aapt resource value: 0x7F0F00FD
-			public const int TextAppearance_AppCompat_SearchResult_Title = 2131689725;
+			public const int TextAppearance_AppCompat_Subhead_Inverse = 2131689725;
 			
 			// aapt resource value: 0x7F0F00FE
-			public const int TextAppearance_AppCompat_Small = 2131689726;
+			public const int TextAppearance_AppCompat_Title = 2131689726;
 			
 			// aapt resource value: 0x7F0F00FF
-			public const int TextAppearance_AppCompat_Small_Inverse = 2131689727;
+			public const int TextAppearance_AppCompat_Title_Inverse = 2131689727;
 			
 			// aapt resource value: 0x7F0F0100
-			public const int TextAppearance_AppCompat_Subhead = 2131689728;
+			public const int TextAppearance_AppCompat_Tooltip = 2131689728;
 			
 			// aapt resource value: 0x7F0F0101
-			public const int TextAppearance_AppCompat_Subhead_Inverse = 2131689729;
+			public const int TextAppearance_AppCompat_Widget_ActionBar_Menu = 2131689729;
 			
 			// aapt resource value: 0x7F0F0102
-			public const int TextAppearance_AppCompat_Title = 2131689730;
+			public const int TextAppearance_AppCompat_Widget_ActionBar_Subtitle = 2131689730;
 			
 			// aapt resource value: 0x7F0F0103
-			public const int TextAppearance_AppCompat_Title_Inverse = 2131689731;
+			public const int TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = 2131689731;
 			
 			// aapt resource value: 0x7F0F0104
-			public const int TextAppearance_AppCompat_Tooltip = 2131689732;
+			public const int TextAppearance_AppCompat_Widget_ActionBar_Title = 2131689732;
 			
 			// aapt resource value: 0x7F0F0105
-			public const int TextAppearance_AppCompat_Widget_ActionBar_Menu = 2131689733;
+			public const int TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = 2131689733;
 			
 			// aapt resource value: 0x7F0F0106
-			public const int TextAppearance_AppCompat_Widget_ActionBar_Subtitle = 2131689734;
+			public const int TextAppearance_AppCompat_Widget_ActionMode_Subtitle = 2131689734;
 			
 			// aapt resource value: 0x7F0F0107
-			public const int TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = 2131689735;
+			public const int TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse = 2131689735;
 			
 			// aapt resource value: 0x7F0F0108
-			public const int TextAppearance_AppCompat_Widget_ActionBar_Title = 2131689736;
+			public const int TextAppearance_AppCompat_Widget_ActionMode_Title = 2131689736;
 			
 			// aapt resource value: 0x7F0F0109
-			public const int TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = 2131689737;
+			public const int TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse = 2131689737;
 			
 			// aapt resource value: 0x7F0F010A
-			public const int TextAppearance_AppCompat_Widget_ActionMode_Subtitle = 2131689738;
+			public const int TextAppearance_AppCompat_Widget_Button = 2131689738;
 			
 			// aapt resource value: 0x7F0F010B
-			public const int TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse = 2131689739;
+			public const int TextAppearance_AppCompat_Widget_Button_Borderless_Colored = 2131689739;
 			
 			// aapt resource value: 0x7F0F010C
-			public const int TextAppearance_AppCompat_Widget_ActionMode_Title = 2131689740;
+			public const int TextAppearance_AppCompat_Widget_Button_Colored = 2131689740;
 			
 			// aapt resource value: 0x7F0F010D
-			public const int TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse = 2131689741;
+			public const int TextAppearance_AppCompat_Widget_Button_Inverse = 2131689741;
 			
 			// aapt resource value: 0x7F0F010E
-			public const int TextAppearance_AppCompat_Widget_Button = 2131689742;
+			public const int TextAppearance_AppCompat_Widget_DropDownItem = 2131689742;
 			
 			// aapt resource value: 0x7F0F010F
-			public const int TextAppearance_AppCompat_Widget_Button_Borderless_Colored = 2131689743;
+			public const int TextAppearance_AppCompat_Widget_PopupMenu_Header = 2131689743;
 			
 			// aapt resource value: 0x7F0F0110
-			public const int TextAppearance_AppCompat_Widget_Button_Colored = 2131689744;
+			public const int TextAppearance_AppCompat_Widget_PopupMenu_Large = 2131689744;
 			
 			// aapt resource value: 0x7F0F0111
-			public const int TextAppearance_AppCompat_Widget_Button_Inverse = 2131689745;
+			public const int TextAppearance_AppCompat_Widget_PopupMenu_Small = 2131689745;
 			
 			// aapt resource value: 0x7F0F0112
-			public const int TextAppearance_AppCompat_Widget_DropDownItem = 2131689746;
+			public const int TextAppearance_AppCompat_Widget_Switch = 2131689746;
 			
 			// aapt resource value: 0x7F0F0113
-			public const int TextAppearance_AppCompat_Widget_PopupMenu_Header = 2131689747;
+			public const int TextAppearance_AppCompat_Widget_TextView_SpinnerItem = 2131689747;
 			
 			// aapt resource value: 0x7F0F0114
-			public const int TextAppearance_AppCompat_Widget_PopupMenu_Large = 2131689748;
+			public const int TextAppearance_Compat_Notification = 2131689748;
 			
 			// aapt resource value: 0x7F0F0115
-			public const int TextAppearance_AppCompat_Widget_PopupMenu_Small = 2131689749;
+			public const int TextAppearance_Compat_Notification_Info = 2131689749;
 			
 			// aapt resource value: 0x7F0F0116
-			public const int TextAppearance_AppCompat_Widget_Switch = 2131689750;
+			public const int TextAppearance_Compat_Notification_Info_Media = 2131689750;
 			
 			// aapt resource value: 0x7F0F0117
-			public const int TextAppearance_AppCompat_Widget_TextView_SpinnerItem = 2131689751;
+			public const int TextAppearance_Compat_Notification_Line2 = 2131689751;
 			
 			// aapt resource value: 0x7F0F0118
-			public const int TextAppearance_Compat_Notification = 2131689752;
+			public const int TextAppearance_Compat_Notification_Line2_Media = 2131689752;
 			
 			// aapt resource value: 0x7F0F0119
-			public const int TextAppearance_Compat_Notification_Info = 2131689753;
+			public const int TextAppearance_Compat_Notification_Media = 2131689753;
 			
 			// aapt resource value: 0x7F0F011A
-			public const int TextAppearance_Compat_Notification_Info_Media = 2131689754;
+			public const int TextAppearance_Compat_Notification_Time = 2131689754;
 			
 			// aapt resource value: 0x7F0F011B
-			public const int TextAppearance_Compat_Notification_Line2 = 2131689755;
+			public const int TextAppearance_Compat_Notification_Time_Media = 2131689755;
 			
 			// aapt resource value: 0x7F0F011C
-			public const int TextAppearance_Compat_Notification_Line2_Media = 2131689756;
+			public const int TextAppearance_Compat_Notification_Title = 2131689756;
 			
 			// aapt resource value: 0x7F0F011D
-			public const int TextAppearance_Compat_Notification_Media = 2131689757;
+			public const int TextAppearance_Compat_Notification_Title_Media = 2131689757;
 			
 			// aapt resource value: 0x7F0F011E
-			public const int TextAppearance_Compat_Notification_Time = 2131689758;
+			public const int TextAppearance_Design_CollapsingToolbar_Expanded = 2131689758;
 			
 			// aapt resource value: 0x7F0F011F
-			public const int TextAppearance_Compat_Notification_Time_Media = 2131689759;
+			public const int TextAppearance_Design_Counter = 2131689759;
 			
 			// aapt resource value: 0x7F0F0120
-			public const int TextAppearance_Compat_Notification_Title = 2131689760;
+			public const int TextAppearance_Design_Counter_Overflow = 2131689760;
 			
 			// aapt resource value: 0x7F0F0121
-			public const int TextAppearance_Compat_Notification_Title_Media = 2131689761;
+			public const int TextAppearance_Design_Error = 2131689761;
 			
 			// aapt resource value: 0x7F0F0122
-			public const int TextAppearance_Design_CollapsingToolbar_Expanded = 2131689762;
+			public const int TextAppearance_Design_HelperText = 2131689762;
 			
 			// aapt resource value: 0x7F0F0123
-			public const int TextAppearance_Design_Counter = 2131689763;
+			public const int TextAppearance_Design_Hint = 2131689763;
 			
 			// aapt resource value: 0x7F0F0124
-			public const int TextAppearance_Design_Counter_Overflow = 2131689764;
+			public const int TextAppearance_Design_Snackbar_Message = 2131689764;
 			
 			// aapt resource value: 0x7F0F0125
-			public const int TextAppearance_Design_Error = 2131689765;
+			public const int TextAppearance_Design_Tab = 2131689765;
 			
 			// aapt resource value: 0x7F0F0126
-			public const int TextAppearance_Design_HelperText = 2131689766;
+			public const int TextAppearance_MaterialComponents_Body1 = 2131689766;
 			
 			// aapt resource value: 0x7F0F0127
-			public const int TextAppearance_Design_Hint = 2131689767;
+			public const int TextAppearance_MaterialComponents_Body2 = 2131689767;
 			
 			// aapt resource value: 0x7F0F0128
-			public const int TextAppearance_Design_Snackbar_Message = 2131689768;
+			public const int TextAppearance_MaterialComponents_Button = 2131689768;
 			
 			// aapt resource value: 0x7F0F0129
-			public const int TextAppearance_Design_Tab = 2131689769;
+			public const int TextAppearance_MaterialComponents_Caption = 2131689769;
 			
 			// aapt resource value: 0x7F0F012A
-			public const int TextAppearance_MaterialComponents_Body1 = 2131689770;
+			public const int TextAppearance_MaterialComponents_Chip = 2131689770;
 			
 			// aapt resource value: 0x7F0F012B
-			public const int TextAppearance_MaterialComponents_Body2 = 2131689771;
+			public const int TextAppearance_MaterialComponents_Headline1 = 2131689771;
 			
 			// aapt resource value: 0x7F0F012C
-			public const int TextAppearance_MaterialComponents_Button = 2131689772;
+			public const int TextAppearance_MaterialComponents_Headline2 = 2131689772;
 			
 			// aapt resource value: 0x7F0F012D
-			public const int TextAppearance_MaterialComponents_Caption = 2131689773;
+			public const int TextAppearance_MaterialComponents_Headline3 = 2131689773;
 			
 			// aapt resource value: 0x7F0F012E
-			public const int TextAppearance_MaterialComponents_Chip = 2131689774;
+			public const int TextAppearance_MaterialComponents_Headline4 = 2131689774;
 			
 			// aapt resource value: 0x7F0F012F
-			public const int TextAppearance_MaterialComponents_Headline1 = 2131689775;
+			public const int TextAppearance_MaterialComponents_Headline5 = 2131689775;
 			
 			// aapt resource value: 0x7F0F0130
-			public const int TextAppearance_MaterialComponents_Headline2 = 2131689776;
+			public const int TextAppearance_MaterialComponents_Headline6 = 2131689776;
 			
 			// aapt resource value: 0x7F0F0131
-			public const int TextAppearance_MaterialComponents_Headline3 = 2131689777;
+			public const int TextAppearance_MaterialComponents_Overline = 2131689777;
 			
 			// aapt resource value: 0x7F0F0132
-			public const int TextAppearance_MaterialComponents_Headline4 = 2131689778;
+			public const int TextAppearance_MaterialComponents_Subtitle1 = 2131689778;
 			
 			// aapt resource value: 0x7F0F0133
-			public const int TextAppearance_MaterialComponents_Headline5 = 2131689779;
+			public const int TextAppearance_MaterialComponents_Subtitle2 = 2131689779;
 			
 			// aapt resource value: 0x7F0F0134
-			public const int TextAppearance_MaterialComponents_Headline6 = 2131689780;
+			public const int TextAppearance_MaterialComponents_Tab = 2131689780;
 			
 			// aapt resource value: 0x7F0F0135
-			public const int TextAppearance_MaterialComponents_Overline = 2131689781;
+			public const int TextAppearance_Widget_AppCompat_ExpandedMenu_Item = 2131689781;
 			
 			// aapt resource value: 0x7F0F0136
-			public const int TextAppearance_MaterialComponents_Subtitle1 = 2131689782;
+			public const int TextAppearance_Widget_AppCompat_Toolbar_Subtitle = 2131689782;
 			
 			// aapt resource value: 0x7F0F0137
-			public const int TextAppearance_MaterialComponents_Subtitle2 = 2131689783;
-			
-			// aapt resource value: 0x7F0F0138
-			public const int TextAppearance_MaterialComponents_Tab = 2131689784;
-			
-			// aapt resource value: 0x7F0F0139
-			public const int TextAppearance_Widget_AppCompat_ExpandedMenu_Item = 2131689785;
-			
-			// aapt resource value: 0x7F0F013A
-			public const int TextAppearance_Widget_AppCompat_Toolbar_Subtitle = 2131689786;
-			
-			// aapt resource value: 0x7F0F013B
-			public const int TextAppearance_Widget_AppCompat_Toolbar_Title = 2131689787;
-			
-			// aapt resource value: 0x7F0F013C
-			public const int ThemeOverlay_AppCompat = 2131689788;
-			
-			// aapt resource value: 0x7F0F013D
-			public const int ThemeOverlay_AppCompat_ActionBar = 2131689789;
-			
-			// aapt resource value: 0x7F0F013E
-			public const int ThemeOverlay_AppCompat_Dark = 2131689790;
-			
-			// aapt resource value: 0x7F0F013F
-			public const int ThemeOverlay_AppCompat_Dark_ActionBar = 2131689791;
-			
-			// aapt resource value: 0x7F0F0140
-			public const int ThemeOverlay_AppCompat_Dialog = 2131689792;
-			
-			// aapt resource value: 0x7F0F0141
-			public const int ThemeOverlay_AppCompat_Dialog_Alert = 2131689793;
-			
-			// aapt resource value: 0x7F0F0142
-			public const int ThemeOverlay_AppCompat_Light = 2131689794;
-			
-			// aapt resource value: 0x7F0F0143
-			public const int ThemeOverlay_MaterialComponents = 2131689795;
-			
-			// aapt resource value: 0x7F0F0144
-			public const int ThemeOverlay_MaterialComponents_ActionBar = 2131689796;
-			
-			// aapt resource value: 0x7F0F0145
-			public const int ThemeOverlay_MaterialComponents_Dark = 2131689797;
-			
-			// aapt resource value: 0x7F0F0146
-			public const int ThemeOverlay_MaterialComponents_Dark_ActionBar = 2131689798;
-			
-			// aapt resource value: 0x7F0F0147
-			public const int ThemeOverlay_MaterialComponents_Dialog = 2131689799;
-			
-			// aapt resource value: 0x7F0F0148
-			public const int ThemeOverlay_MaterialComponents_Dialog_Alert = 2131689800;
-			
-			// aapt resource value: 0x7F0F0149
-			public const int ThemeOverlay_MaterialComponents_Light = 2131689801;
-			
-			// aapt resource value: 0x7F0F014A
-			public const int ThemeOverlay_MaterialComponents_TextInputEditText = 2131689802;
-			
-			// aapt resource value: 0x7F0F014B
-			public const int ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox = 2131689803;
-			
-			// aapt resource value: 0x7F0F014C
-			public const int ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox_Dense = 2131689804;
-			
-			// aapt resource value: 0x7F0F014D
-			public const int ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox = 2131689805;
-			
-			// aapt resource value: 0x7F0F014E
-			public const int ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox_Dense = 2131689806;
-			
-			// aapt resource value: 0x7F0F014F
-			public const int Theme_AppCompat = 2131689807;
-			
-			// aapt resource value: 0x7F0F0150
-			public const int Theme_AppCompat_CompactMenu = 2131689808;
-			
-			// aapt resource value: 0x7F0F0151
-			public const int Theme_AppCompat_DayNight = 2131689809;
-			
-			// aapt resource value: 0x7F0F0152
-			public const int Theme_AppCompat_DayNight_DarkActionBar = 2131689810;
-			
-			// aapt resource value: 0x7F0F0153
-			public const int Theme_AppCompat_DayNight_Dialog = 2131689811;
-			
-			// aapt resource value: 0x7F0F0154
-			public const int Theme_AppCompat_DayNight_DialogWhenLarge = 2131689812;
-			
-			// aapt resource value: 0x7F0F0155
-			public const int Theme_AppCompat_DayNight_Dialog_Alert = 2131689813;
-			
-			// aapt resource value: 0x7F0F0156
-			public const int Theme_AppCompat_DayNight_Dialog_MinWidth = 2131689814;
-			
-			// aapt resource value: 0x7F0F0157
-			public const int Theme_AppCompat_DayNight_NoActionBar = 2131689815;
-			
-			// aapt resource value: 0x7F0F0158
-			public const int Theme_AppCompat_Dialog = 2131689816;
-			
-			// aapt resource value: 0x7F0F0159
-			public const int Theme_AppCompat_DialogWhenLarge = 2131689817;
-			
-			// aapt resource value: 0x7F0F015A
-			public const int Theme_AppCompat_Dialog_Alert = 2131689818;
-			
-			// aapt resource value: 0x7F0F015B
-			public const int Theme_AppCompat_Dialog_MinWidth = 2131689819;
-			
-			// aapt resource value: 0x7F0F015C
-			public const int Theme_AppCompat_Light = 2131689820;
-			
-			// aapt resource value: 0x7F0F015D
-			public const int Theme_AppCompat_Light_DarkActionBar = 2131689821;
-			
-			// aapt resource value: 0x7F0F015E
-			public const int Theme_AppCompat_Light_Dialog = 2131689822;
-			
-			// aapt resource value: 0x7F0F015F
-			public const int Theme_AppCompat_Light_DialogWhenLarge = 2131689823;
-			
-			// aapt resource value: 0x7F0F0160
-			public const int Theme_AppCompat_Light_Dialog_Alert = 2131689824;
-			
-			// aapt resource value: 0x7F0F0161
-			public const int Theme_AppCompat_Light_Dialog_MinWidth = 2131689825;
-			
-			// aapt resource value: 0x7F0F0162
-			public const int Theme_AppCompat_Light_NoActionBar = 2131689826;
-			
-			// aapt resource value: 0x7F0F0163
-			public const int Theme_AppCompat_NoActionBar = 2131689827;
-			
-			// aapt resource value: 0x7F0F0164
-			public const int Theme_Design = 2131689828;
-			
-			// aapt resource value: 0x7F0F0165
-			public const int Theme_Design_BottomSheetDialog = 2131689829;
-			
-			// aapt resource value: 0x7F0F0166
-			public const int Theme_Design_Light = 2131689830;
-			
-			// aapt resource value: 0x7F0F0167
-			public const int Theme_Design_Light_BottomSheetDialog = 2131689831;
+			public const int TextAppearance_Widget_AppCompat_Toolbar_Title = 2131689783;
 			
 			// aapt resource value: 0x7F0F0168
-			public const int Theme_Design_Light_NoActionBar = 2131689832;
+			public const int ThemeOverlay_AppCompat = 2131689832;
 			
 			// aapt resource value: 0x7F0F0169
-			public const int Theme_Design_NoActionBar = 2131689833;
+			public const int ThemeOverlay_AppCompat_ActionBar = 2131689833;
 			
 			// aapt resource value: 0x7F0F016A
-			public const int Theme_MaterialComponents = 2131689834;
+			public const int ThemeOverlay_AppCompat_Dark = 2131689834;
 			
 			// aapt resource value: 0x7F0F016B
-			public const int Theme_MaterialComponents_BottomSheetDialog = 2131689835;
+			public const int ThemeOverlay_AppCompat_Dark_ActionBar = 2131689835;
 			
 			// aapt resource value: 0x7F0F016C
-			public const int Theme_MaterialComponents_Bridge = 2131689836;
+			public const int ThemeOverlay_AppCompat_Dialog = 2131689836;
 			
 			// aapt resource value: 0x7F0F016D
-			public const int Theme_MaterialComponents_CompactMenu = 2131689837;
+			public const int ThemeOverlay_AppCompat_Dialog_Alert = 2131689837;
 			
 			// aapt resource value: 0x7F0F016E
-			public const int Theme_MaterialComponents_Dialog = 2131689838;
+			public const int ThemeOverlay_AppCompat_Light = 2131689838;
 			
 			// aapt resource value: 0x7F0F016F
-			public const int Theme_MaterialComponents_DialogWhenLarge = 2131689839;
+			public const int ThemeOverlay_MaterialComponents = 2131689839;
 			
 			// aapt resource value: 0x7F0F0170
-			public const int Theme_MaterialComponents_Dialog_Alert = 2131689840;
+			public const int ThemeOverlay_MaterialComponents_ActionBar = 2131689840;
 			
 			// aapt resource value: 0x7F0F0171
-			public const int Theme_MaterialComponents_Dialog_MinWidth = 2131689841;
+			public const int ThemeOverlay_MaterialComponents_Dark = 2131689841;
 			
 			// aapt resource value: 0x7F0F0172
-			public const int Theme_MaterialComponents_Light = 2131689842;
+			public const int ThemeOverlay_MaterialComponents_Dark_ActionBar = 2131689842;
 			
 			// aapt resource value: 0x7F0F0173
-			public const int Theme_MaterialComponents_Light_BottomSheetDialog = 2131689843;
+			public const int ThemeOverlay_MaterialComponents_Dialog = 2131689843;
 			
 			// aapt resource value: 0x7F0F0174
-			public const int Theme_MaterialComponents_Light_Bridge = 2131689844;
+			public const int ThemeOverlay_MaterialComponents_Dialog_Alert = 2131689844;
 			
 			// aapt resource value: 0x7F0F0175
-			public const int Theme_MaterialComponents_Light_DarkActionBar = 2131689845;
+			public const int ThemeOverlay_MaterialComponents_Light = 2131689845;
 			
 			// aapt resource value: 0x7F0F0176
-			public const int Theme_MaterialComponents_Light_DarkActionBar_Bridge = 2131689846;
+			public const int ThemeOverlay_MaterialComponents_TextInputEditText = 2131689846;
 			
 			// aapt resource value: 0x7F0F0177
-			public const int Theme_MaterialComponents_Light_Dialog = 2131689847;
+			public const int ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox = 2131689847;
 			
 			// aapt resource value: 0x7F0F0178
-			public const int Theme_MaterialComponents_Light_DialogWhenLarge = 2131689848;
+			public const int ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox_Dense = 2131689848;
 			
 			// aapt resource value: 0x7F0F0179
-			public const int Theme_MaterialComponents_Light_Dialog_Alert = 2131689849;
+			public const int ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox = 2131689849;
 			
 			// aapt resource value: 0x7F0F017A
-			public const int Theme_MaterialComponents_Light_Dialog_MinWidth = 2131689850;
+			public const int ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox_Dense = 2131689850;
+			
+			// aapt resource value: 0x7F0F0138
+			public const int Theme_AppCompat = 2131689784;
+			
+			// aapt resource value: 0x7F0F0139
+			public const int Theme_AppCompat_CompactMenu = 2131689785;
+			
+			// aapt resource value: 0x7F0F013A
+			public const int Theme_AppCompat_DayNight = 2131689786;
+			
+			// aapt resource value: 0x7F0F013B
+			public const int Theme_AppCompat_DayNight_DarkActionBar = 2131689787;
+			
+			// aapt resource value: 0x7F0F013C
+			public const int Theme_AppCompat_DayNight_Dialog = 2131689788;
+			
+			// aapt resource value: 0x7F0F013F
+			public const int Theme_AppCompat_DayNight_DialogWhenLarge = 2131689791;
+			
+			// aapt resource value: 0x7F0F013D
+			public const int Theme_AppCompat_DayNight_Dialog_Alert = 2131689789;
+			
+			// aapt resource value: 0x7F0F013E
+			public const int Theme_AppCompat_DayNight_Dialog_MinWidth = 2131689790;
+			
+			// aapt resource value: 0x7F0F0140
+			public const int Theme_AppCompat_DayNight_NoActionBar = 2131689792;
+			
+			// aapt resource value: 0x7F0F0141
+			public const int Theme_AppCompat_Dialog = 2131689793;
+			
+			// aapt resource value: 0x7F0F0144
+			public const int Theme_AppCompat_DialogWhenLarge = 2131689796;
+			
+			// aapt resource value: 0x7F0F0142
+			public const int Theme_AppCompat_Dialog_Alert = 2131689794;
+			
+			// aapt resource value: 0x7F0F0143
+			public const int Theme_AppCompat_Dialog_MinWidth = 2131689795;
+			
+			// aapt resource value: 0x7F0F0145
+			public const int Theme_AppCompat_Light = 2131689797;
+			
+			// aapt resource value: 0x7F0F0146
+			public const int Theme_AppCompat_Light_DarkActionBar = 2131689798;
+			
+			// aapt resource value: 0x7F0F0147
+			public const int Theme_AppCompat_Light_Dialog = 2131689799;
+			
+			// aapt resource value: 0x7F0F014A
+			public const int Theme_AppCompat_Light_DialogWhenLarge = 2131689802;
+			
+			// aapt resource value: 0x7F0F0148
+			public const int Theme_AppCompat_Light_Dialog_Alert = 2131689800;
+			
+			// aapt resource value: 0x7F0F0149
+			public const int Theme_AppCompat_Light_Dialog_MinWidth = 2131689801;
+			
+			// aapt resource value: 0x7F0F014B
+			public const int Theme_AppCompat_Light_NoActionBar = 2131689803;
+			
+			// aapt resource value: 0x7F0F014C
+			public const int Theme_AppCompat_NoActionBar = 2131689804;
+			
+			// aapt resource value: 0x7F0F014D
+			public const int Theme_Design = 2131689805;
+			
+			// aapt resource value: 0x7F0F014E
+			public const int Theme_Design_BottomSheetDialog = 2131689806;
+			
+			// aapt resource value: 0x7F0F014F
+			public const int Theme_Design_Light = 2131689807;
+			
+			// aapt resource value: 0x7F0F0150
+			public const int Theme_Design_Light_BottomSheetDialog = 2131689808;
+			
+			// aapt resource value: 0x7F0F0151
+			public const int Theme_Design_Light_NoActionBar = 2131689809;
+			
+			// aapt resource value: 0x7F0F0152
+			public const int Theme_Design_NoActionBar = 2131689810;
+			
+			// aapt resource value: 0x7F0F0153
+			public const int Theme_MaterialComponents = 2131689811;
+			
+			// aapt resource value: 0x7F0F0154
+			public const int Theme_MaterialComponents_BottomSheetDialog = 2131689812;
+			
+			// aapt resource value: 0x7F0F0155
+			public const int Theme_MaterialComponents_Bridge = 2131689813;
+			
+			// aapt resource value: 0x7F0F0156
+			public const int Theme_MaterialComponents_CompactMenu = 2131689814;
+			
+			// aapt resource value: 0x7F0F0157
+			public const int Theme_MaterialComponents_Dialog = 2131689815;
+			
+			// aapt resource value: 0x7F0F015A
+			public const int Theme_MaterialComponents_DialogWhenLarge = 2131689818;
+			
+			// aapt resource value: 0x7F0F0158
+			public const int Theme_MaterialComponents_Dialog_Alert = 2131689816;
+			
+			// aapt resource value: 0x7F0F0159
+			public const int Theme_MaterialComponents_Dialog_MinWidth = 2131689817;
+			
+			// aapt resource value: 0x7F0F015B
+			public const int Theme_MaterialComponents_Light = 2131689819;
+			
+			// aapt resource value: 0x7F0F015C
+			public const int Theme_MaterialComponents_Light_BottomSheetDialog = 2131689820;
+			
+			// aapt resource value: 0x7F0F015D
+			public const int Theme_MaterialComponents_Light_Bridge = 2131689821;
+			
+			// aapt resource value: 0x7F0F015E
+			public const int Theme_MaterialComponents_Light_DarkActionBar = 2131689822;
+			
+			// aapt resource value: 0x7F0F015F
+			public const int Theme_MaterialComponents_Light_DarkActionBar_Bridge = 2131689823;
+			
+			// aapt resource value: 0x7F0F0160
+			public const int Theme_MaterialComponents_Light_Dialog = 2131689824;
+			
+			// aapt resource value: 0x7F0F0163
+			public const int Theme_MaterialComponents_Light_DialogWhenLarge = 2131689827;
+			
+			// aapt resource value: 0x7F0F0161
+			public const int Theme_MaterialComponents_Light_Dialog_Alert = 2131689825;
+			
+			// aapt resource value: 0x7F0F0162
+			public const int Theme_MaterialComponents_Light_Dialog_MinWidth = 2131689826;
+			
+			// aapt resource value: 0x7F0F0164
+			public const int Theme_MaterialComponents_Light_NoActionBar = 2131689828;
+			
+			// aapt resource value: 0x7F0F0165
+			public const int Theme_MaterialComponents_Light_NoActionBar_Bridge = 2131689829;
+			
+			// aapt resource value: 0x7F0F0166
+			public const int Theme_MaterialComponents_NoActionBar = 2131689830;
+			
+			// aapt resource value: 0x7F0F0167
+			public const int Theme_MaterialComponents_NoActionBar_Bridge = 2131689831;
 			
 			// aapt resource value: 0x7F0F017B
-			public const int Theme_MaterialComponents_Light_NoActionBar = 2131689851;
+			public const int Widget_AppCompat_ActionBar = 2131689851;
 			
 			// aapt resource value: 0x7F0F017C
-			public const int Theme_MaterialComponents_Light_NoActionBar_Bridge = 2131689852;
+			public const int Widget_AppCompat_ActionBar_Solid = 2131689852;
 			
 			// aapt resource value: 0x7F0F017D
-			public const int Theme_MaterialComponents_NoActionBar = 2131689853;
+			public const int Widget_AppCompat_ActionBar_TabBar = 2131689853;
 			
 			// aapt resource value: 0x7F0F017E
-			public const int Theme_MaterialComponents_NoActionBar_Bridge = 2131689854;
+			public const int Widget_AppCompat_ActionBar_TabText = 2131689854;
 			
 			// aapt resource value: 0x7F0F017F
-			public const int Widget_AppCompat_ActionBar = 2131689855;
+			public const int Widget_AppCompat_ActionBar_TabView = 2131689855;
 			
 			// aapt resource value: 0x7F0F0180
-			public const int Widget_AppCompat_ActionBar_Solid = 2131689856;
+			public const int Widget_AppCompat_ActionButton = 2131689856;
 			
 			// aapt resource value: 0x7F0F0181
-			public const int Widget_AppCompat_ActionBar_TabBar = 2131689857;
+			public const int Widget_AppCompat_ActionButton_CloseMode = 2131689857;
 			
 			// aapt resource value: 0x7F0F0182
-			public const int Widget_AppCompat_ActionBar_TabText = 2131689858;
+			public const int Widget_AppCompat_ActionButton_Overflow = 2131689858;
 			
 			// aapt resource value: 0x7F0F0183
-			public const int Widget_AppCompat_ActionBar_TabView = 2131689859;
+			public const int Widget_AppCompat_ActionMode = 2131689859;
 			
 			// aapt resource value: 0x7F0F0184
-			public const int Widget_AppCompat_ActionButton = 2131689860;
+			public const int Widget_AppCompat_ActivityChooserView = 2131689860;
 			
 			// aapt resource value: 0x7F0F0185
-			public const int Widget_AppCompat_ActionButton_CloseMode = 2131689861;
+			public const int Widget_AppCompat_AutoCompleteTextView = 2131689861;
 			
 			// aapt resource value: 0x7F0F0186
-			public const int Widget_AppCompat_ActionButton_Overflow = 2131689862;
-			
-			// aapt resource value: 0x7F0F0187
-			public const int Widget_AppCompat_ActionMode = 2131689863;
-			
-			// aapt resource value: 0x7F0F0188
-			public const int Widget_AppCompat_ActivityChooserView = 2131689864;
-			
-			// aapt resource value: 0x7F0F0189
-			public const int Widget_AppCompat_AutoCompleteTextView = 2131689865;
-			
-			// aapt resource value: 0x7F0F018A
-			public const int Widget_AppCompat_Button = 2131689866;
-			
-			// aapt resource value: 0x7F0F018B
-			public const int Widget_AppCompat_ButtonBar = 2131689867;
+			public const int Widget_AppCompat_Button = 2131689862;
 			
 			// aapt resource value: 0x7F0F018C
-			public const int Widget_AppCompat_ButtonBar_AlertDialog = 2131689868;
+			public const int Widget_AppCompat_ButtonBar = 2131689868;
 			
 			// aapt resource value: 0x7F0F018D
-			public const int Widget_AppCompat_Button_Borderless = 2131689869;
+			public const int Widget_AppCompat_ButtonBar_AlertDialog = 2131689869;
+			
+			// aapt resource value: 0x7F0F0187
+			public const int Widget_AppCompat_Button_Borderless = 2131689863;
+			
+			// aapt resource value: 0x7F0F0188
+			public const int Widget_AppCompat_Button_Borderless_Colored = 2131689864;
+			
+			// aapt resource value: 0x7F0F0189
+			public const int Widget_AppCompat_Button_ButtonBar_AlertDialog = 2131689865;
+			
+			// aapt resource value: 0x7F0F018A
+			public const int Widget_AppCompat_Button_Colored = 2131689866;
+			
+			// aapt resource value: 0x7F0F018B
+			public const int Widget_AppCompat_Button_Small = 2131689867;
 			
 			// aapt resource value: 0x7F0F018E
-			public const int Widget_AppCompat_Button_Borderless_Colored = 2131689870;
+			public const int Widget_AppCompat_CompoundButton_CheckBox = 2131689870;
 			
 			// aapt resource value: 0x7F0F018F
-			public const int Widget_AppCompat_Button_ButtonBar_AlertDialog = 2131689871;
+			public const int Widget_AppCompat_CompoundButton_RadioButton = 2131689871;
 			
 			// aapt resource value: 0x7F0F0190
-			public const int Widget_AppCompat_Button_Colored = 2131689872;
+			public const int Widget_AppCompat_CompoundButton_Switch = 2131689872;
 			
 			// aapt resource value: 0x7F0F0191
-			public const int Widget_AppCompat_Button_Small = 2131689873;
+			public const int Widget_AppCompat_DrawerArrowToggle = 2131689873;
 			
 			// aapt resource value: 0x7F0F0192
-			public const int Widget_AppCompat_CompoundButton_CheckBox = 2131689874;
+			public const int Widget_AppCompat_DropDownItem_Spinner = 2131689874;
 			
 			// aapt resource value: 0x7F0F0193
-			public const int Widget_AppCompat_CompoundButton_RadioButton = 2131689875;
+			public const int Widget_AppCompat_EditText = 2131689875;
 			
 			// aapt resource value: 0x7F0F0194
-			public const int Widget_AppCompat_CompoundButton_Switch = 2131689876;
+			public const int Widget_AppCompat_ImageButton = 2131689876;
 			
 			// aapt resource value: 0x7F0F0195
-			public const int Widget_AppCompat_DrawerArrowToggle = 2131689877;
+			public const int Widget_AppCompat_Light_ActionBar = 2131689877;
 			
 			// aapt resource value: 0x7F0F0196
-			public const int Widget_AppCompat_DropDownItem_Spinner = 2131689878;
+			public const int Widget_AppCompat_Light_ActionBar_Solid = 2131689878;
 			
 			// aapt resource value: 0x7F0F0197
-			public const int Widget_AppCompat_EditText = 2131689879;
+			public const int Widget_AppCompat_Light_ActionBar_Solid_Inverse = 2131689879;
 			
 			// aapt resource value: 0x7F0F0198
-			public const int Widget_AppCompat_ImageButton = 2131689880;
+			public const int Widget_AppCompat_Light_ActionBar_TabBar = 2131689880;
 			
 			// aapt resource value: 0x7F0F0199
-			public const int Widget_AppCompat_Light_ActionBar = 2131689881;
+			public const int Widget_AppCompat_Light_ActionBar_TabBar_Inverse = 2131689881;
 			
 			// aapt resource value: 0x7F0F019A
-			public const int Widget_AppCompat_Light_ActionBar_Solid = 2131689882;
+			public const int Widget_AppCompat_Light_ActionBar_TabText = 2131689882;
 			
 			// aapt resource value: 0x7F0F019B
-			public const int Widget_AppCompat_Light_ActionBar_Solid_Inverse = 2131689883;
+			public const int Widget_AppCompat_Light_ActionBar_TabText_Inverse = 2131689883;
 			
 			// aapt resource value: 0x7F0F019C
-			public const int Widget_AppCompat_Light_ActionBar_TabBar = 2131689884;
+			public const int Widget_AppCompat_Light_ActionBar_TabView = 2131689884;
 			
 			// aapt resource value: 0x7F0F019D
-			public const int Widget_AppCompat_Light_ActionBar_TabBar_Inverse = 2131689885;
+			public const int Widget_AppCompat_Light_ActionBar_TabView_Inverse = 2131689885;
 			
 			// aapt resource value: 0x7F0F019E
-			public const int Widget_AppCompat_Light_ActionBar_TabText = 2131689886;
+			public const int Widget_AppCompat_Light_ActionButton = 2131689886;
 			
 			// aapt resource value: 0x7F0F019F
-			public const int Widget_AppCompat_Light_ActionBar_TabText_Inverse = 2131689887;
+			public const int Widget_AppCompat_Light_ActionButton_CloseMode = 2131689887;
 			
 			// aapt resource value: 0x7F0F01A0
-			public const int Widget_AppCompat_Light_ActionBar_TabView = 2131689888;
+			public const int Widget_AppCompat_Light_ActionButton_Overflow = 2131689888;
 			
 			// aapt resource value: 0x7F0F01A1
-			public const int Widget_AppCompat_Light_ActionBar_TabView_Inverse = 2131689889;
+			public const int Widget_AppCompat_Light_ActionMode_Inverse = 2131689889;
 			
 			// aapt resource value: 0x7F0F01A2
-			public const int Widget_AppCompat_Light_ActionButton = 2131689890;
+			public const int Widget_AppCompat_Light_ActivityChooserView = 2131689890;
 			
 			// aapt resource value: 0x7F0F01A3
-			public const int Widget_AppCompat_Light_ActionButton_CloseMode = 2131689891;
+			public const int Widget_AppCompat_Light_AutoCompleteTextView = 2131689891;
 			
 			// aapt resource value: 0x7F0F01A4
-			public const int Widget_AppCompat_Light_ActionButton_Overflow = 2131689892;
+			public const int Widget_AppCompat_Light_DropDownItem_Spinner = 2131689892;
 			
 			// aapt resource value: 0x7F0F01A5
-			public const int Widget_AppCompat_Light_ActionMode_Inverse = 2131689893;
+			public const int Widget_AppCompat_Light_ListPopupWindow = 2131689893;
 			
 			// aapt resource value: 0x7F0F01A6
-			public const int Widget_AppCompat_Light_ActivityChooserView = 2131689894;
+			public const int Widget_AppCompat_Light_ListView_DropDown = 2131689894;
 			
 			// aapt resource value: 0x7F0F01A7
-			public const int Widget_AppCompat_Light_AutoCompleteTextView = 2131689895;
+			public const int Widget_AppCompat_Light_PopupMenu = 2131689895;
 			
 			// aapt resource value: 0x7F0F01A8
-			public const int Widget_AppCompat_Light_DropDownItem_Spinner = 2131689896;
+			public const int Widget_AppCompat_Light_PopupMenu_Overflow = 2131689896;
 			
 			// aapt resource value: 0x7F0F01A9
-			public const int Widget_AppCompat_Light_ListPopupWindow = 2131689897;
+			public const int Widget_AppCompat_Light_SearchView = 2131689897;
 			
 			// aapt resource value: 0x7F0F01AA
-			public const int Widget_AppCompat_Light_ListView_DropDown = 2131689898;
+			public const int Widget_AppCompat_Light_Spinner_DropDown_ActionBar = 2131689898;
 			
 			// aapt resource value: 0x7F0F01AB
-			public const int Widget_AppCompat_Light_PopupMenu = 2131689899;
+			public const int Widget_AppCompat_ListMenuView = 2131689899;
 			
 			// aapt resource value: 0x7F0F01AC
-			public const int Widget_AppCompat_Light_PopupMenu_Overflow = 2131689900;
+			public const int Widget_AppCompat_ListPopupWindow = 2131689900;
 			
 			// aapt resource value: 0x7F0F01AD
-			public const int Widget_AppCompat_Light_SearchView = 2131689901;
+			public const int Widget_AppCompat_ListView = 2131689901;
 			
 			// aapt resource value: 0x7F0F01AE
-			public const int Widget_AppCompat_Light_Spinner_DropDown_ActionBar = 2131689902;
+			public const int Widget_AppCompat_ListView_DropDown = 2131689902;
 			
 			// aapt resource value: 0x7F0F01AF
-			public const int Widget_AppCompat_ListMenuView = 2131689903;
+			public const int Widget_AppCompat_ListView_Menu = 2131689903;
 			
 			// aapt resource value: 0x7F0F01B0
-			public const int Widget_AppCompat_ListPopupWindow = 2131689904;
+			public const int Widget_AppCompat_PopupMenu = 2131689904;
 			
 			// aapt resource value: 0x7F0F01B1
-			public const int Widget_AppCompat_ListView = 2131689905;
+			public const int Widget_AppCompat_PopupMenu_Overflow = 2131689905;
 			
 			// aapt resource value: 0x7F0F01B2
-			public const int Widget_AppCompat_ListView_DropDown = 2131689906;
+			public const int Widget_AppCompat_PopupWindow = 2131689906;
 			
 			// aapt resource value: 0x7F0F01B3
-			public const int Widget_AppCompat_ListView_Menu = 2131689907;
+			public const int Widget_AppCompat_ProgressBar = 2131689907;
 			
 			// aapt resource value: 0x7F0F01B4
-			public const int Widget_AppCompat_PopupMenu = 2131689908;
+			public const int Widget_AppCompat_ProgressBar_Horizontal = 2131689908;
 			
 			// aapt resource value: 0x7F0F01B5
-			public const int Widget_AppCompat_PopupMenu_Overflow = 2131689909;
+			public const int Widget_AppCompat_RatingBar = 2131689909;
 			
 			// aapt resource value: 0x7F0F01B6
-			public const int Widget_AppCompat_PopupWindow = 2131689910;
+			public const int Widget_AppCompat_RatingBar_Indicator = 2131689910;
 			
 			// aapt resource value: 0x7F0F01B7
-			public const int Widget_AppCompat_ProgressBar = 2131689911;
+			public const int Widget_AppCompat_RatingBar_Small = 2131689911;
 			
 			// aapt resource value: 0x7F0F01B8
-			public const int Widget_AppCompat_ProgressBar_Horizontal = 2131689912;
+			public const int Widget_AppCompat_SearchView = 2131689912;
 			
 			// aapt resource value: 0x7F0F01B9
-			public const int Widget_AppCompat_RatingBar = 2131689913;
+			public const int Widget_AppCompat_SearchView_ActionBar = 2131689913;
 			
 			// aapt resource value: 0x7F0F01BA
-			public const int Widget_AppCompat_RatingBar_Indicator = 2131689914;
+			public const int Widget_AppCompat_SeekBar = 2131689914;
 			
 			// aapt resource value: 0x7F0F01BB
-			public const int Widget_AppCompat_RatingBar_Small = 2131689915;
+			public const int Widget_AppCompat_SeekBar_Discrete = 2131689915;
 			
 			// aapt resource value: 0x7F0F01BC
-			public const int Widget_AppCompat_SearchView = 2131689916;
+			public const int Widget_AppCompat_Spinner = 2131689916;
 			
 			// aapt resource value: 0x7F0F01BD
-			public const int Widget_AppCompat_SearchView_ActionBar = 2131689917;
+			public const int Widget_AppCompat_Spinner_DropDown = 2131689917;
 			
 			// aapt resource value: 0x7F0F01BE
-			public const int Widget_AppCompat_SeekBar = 2131689918;
+			public const int Widget_AppCompat_Spinner_DropDown_ActionBar = 2131689918;
 			
 			// aapt resource value: 0x7F0F01BF
-			public const int Widget_AppCompat_SeekBar_Discrete = 2131689919;
+			public const int Widget_AppCompat_Spinner_Underlined = 2131689919;
 			
 			// aapt resource value: 0x7F0F01C0
-			public const int Widget_AppCompat_Spinner = 2131689920;
+			public const int Widget_AppCompat_TextView_SpinnerItem = 2131689920;
 			
 			// aapt resource value: 0x7F0F01C1
-			public const int Widget_AppCompat_Spinner_DropDown = 2131689921;
+			public const int Widget_AppCompat_Toolbar = 2131689921;
 			
 			// aapt resource value: 0x7F0F01C2
-			public const int Widget_AppCompat_Spinner_DropDown_ActionBar = 2131689922;
+			public const int Widget_AppCompat_Toolbar_Button_Navigation = 2131689922;
 			
 			// aapt resource value: 0x7F0F01C3
-			public const int Widget_AppCompat_Spinner_Underlined = 2131689923;
+			public const int Widget_Compat_NotificationActionContainer = 2131689923;
 			
 			// aapt resource value: 0x7F0F01C4
-			public const int Widget_AppCompat_TextView_SpinnerItem = 2131689924;
+			public const int Widget_Compat_NotificationActionText = 2131689924;
 			
 			// aapt resource value: 0x7F0F01C5
-			public const int Widget_AppCompat_Toolbar = 2131689925;
+			public const int Widget_Design_AppBarLayout = 2131689925;
 			
 			// aapt resource value: 0x7F0F01C6
-			public const int Widget_AppCompat_Toolbar_Button_Navigation = 2131689926;
+			public const int Widget_Design_BottomNavigationView = 2131689926;
 			
 			// aapt resource value: 0x7F0F01C7
-			public const int Widget_Compat_NotificationActionContainer = 2131689927;
+			public const int Widget_Design_BottomSheet_Modal = 2131689927;
 			
 			// aapt resource value: 0x7F0F01C8
-			public const int Widget_Compat_NotificationActionText = 2131689928;
+			public const int Widget_Design_CollapsingToolbar = 2131689928;
 			
 			// aapt resource value: 0x7F0F01C9
-			public const int Widget_Design_AppBarLayout = 2131689929;
+			public const int Widget_Design_FloatingActionButton = 2131689929;
 			
 			// aapt resource value: 0x7F0F01CA
-			public const int Widget_Design_BottomNavigationView = 2131689930;
+			public const int Widget_Design_NavigationView = 2131689930;
 			
 			// aapt resource value: 0x7F0F01CB
-			public const int Widget_Design_BottomSheet_Modal = 2131689931;
+			public const int Widget_Design_ScrimInsetsFrameLayout = 2131689931;
 			
 			// aapt resource value: 0x7F0F01CC
-			public const int Widget_Design_CollapsingToolbar = 2131689932;
+			public const int Widget_Design_Snackbar = 2131689932;
 			
 			// aapt resource value: 0x7F0F01CD
-			public const int Widget_Design_FloatingActionButton = 2131689933;
+			public const int Widget_Design_TabLayout = 2131689933;
 			
 			// aapt resource value: 0x7F0F01CE
-			public const int Widget_Design_NavigationView = 2131689934;
+			public const int Widget_Design_TextInputLayout = 2131689934;
 			
 			// aapt resource value: 0x7F0F01CF
-			public const int Widget_Design_ScrimInsetsFrameLayout = 2131689935;
+			public const int Widget_MaterialComponents_BottomAppBar = 2131689935;
 			
 			// aapt resource value: 0x7F0F01D0
-			public const int Widget_Design_Snackbar = 2131689936;
+			public const int Widget_MaterialComponents_BottomAppBar_Colored = 2131689936;
 			
 			// aapt resource value: 0x7F0F01D1
-			public const int Widget_Design_TabLayout = 2131689937;
+			public const int Widget_MaterialComponents_BottomNavigationView = 2131689937;
 			
 			// aapt resource value: 0x7F0F01D2
-			public const int Widget_Design_TextInputLayout = 2131689938;
+			public const int Widget_MaterialComponents_BottomNavigationView_Colored = 2131689938;
 			
 			// aapt resource value: 0x7F0F01D3
-			public const int Widget_MaterialComponents_BottomAppBar = 2131689939;
+			public const int Widget_MaterialComponents_BottomSheet_Modal = 2131689939;
 			
 			// aapt resource value: 0x7F0F01D4
-			public const int Widget_MaterialComponents_BottomAppBar_Colored = 2131689940;
+			public const int Widget_MaterialComponents_Button = 2131689940;
 			
 			// aapt resource value: 0x7F0F01D5
-			public const int Widget_MaterialComponents_BottomNavigationView = 2131689941;
+			public const int Widget_MaterialComponents_Button_Icon = 2131689941;
 			
 			// aapt resource value: 0x7F0F01D6
-			public const int Widget_MaterialComponents_BottomNavigationView_Colored = 2131689942;
+			public const int Widget_MaterialComponents_Button_OutlinedButton = 2131689942;
 			
 			// aapt resource value: 0x7F0F01D7
-			public const int Widget_MaterialComponents_BottomSheet_Modal = 2131689943;
+			public const int Widget_MaterialComponents_Button_OutlinedButton_Icon = 2131689943;
 			
 			// aapt resource value: 0x7F0F01D8
-			public const int Widget_MaterialComponents_Button = 2131689944;
+			public const int Widget_MaterialComponents_Button_TextButton = 2131689944;
 			
 			// aapt resource value: 0x7F0F01D9
-			public const int Widget_MaterialComponents_Button_Icon = 2131689945;
+			public const int Widget_MaterialComponents_Button_TextButton_Dialog = 2131689945;
 			
 			// aapt resource value: 0x7F0F01DA
-			public const int Widget_MaterialComponents_Button_OutlinedButton = 2131689946;
+			public const int Widget_MaterialComponents_Button_TextButton_Dialog_Icon = 2131689946;
 			
 			// aapt resource value: 0x7F0F01DB
-			public const int Widget_MaterialComponents_Button_OutlinedButton_Icon = 2131689947;
+			public const int Widget_MaterialComponents_Button_TextButton_Icon = 2131689947;
 			
 			// aapt resource value: 0x7F0F01DC
-			public const int Widget_MaterialComponents_Button_TextButton = 2131689948;
+			public const int Widget_MaterialComponents_Button_UnelevatedButton = 2131689948;
 			
 			// aapt resource value: 0x7F0F01DD
-			public const int Widget_MaterialComponents_Button_TextButton_Dialog = 2131689949;
+			public const int Widget_MaterialComponents_Button_UnelevatedButton_Icon = 2131689949;
 			
 			// aapt resource value: 0x7F0F01DE
-			public const int Widget_MaterialComponents_Button_TextButton_Dialog_Icon = 2131689950;
-			
-			// aapt resource value: 0x7F0F01DF
-			public const int Widget_MaterialComponents_Button_TextButton_Icon = 2131689951;
-			
-			// aapt resource value: 0x7F0F01E0
-			public const int Widget_MaterialComponents_Button_UnelevatedButton = 2131689952;
-			
-			// aapt resource value: 0x7F0F01E1
-			public const int Widget_MaterialComponents_Button_UnelevatedButton_Icon = 2131689953;
-			
-			// aapt resource value: 0x7F0F01E2
-			public const int Widget_MaterialComponents_CardView = 2131689954;
+			public const int Widget_MaterialComponents_CardView = 2131689950;
 			
 			// aapt resource value: 0x7F0F01E3
 			public const int Widget_MaterialComponents_ChipGroup = 2131689955;
 			
+			// aapt resource value: 0x7F0F01DF
+			public const int Widget_MaterialComponents_Chip_Action = 2131689951;
+			
+			// aapt resource value: 0x7F0F01E0
+			public const int Widget_MaterialComponents_Chip_Choice = 2131689952;
+			
+			// aapt resource value: 0x7F0F01E1
+			public const int Widget_MaterialComponents_Chip_Entry = 2131689953;
+			
+			// aapt resource value: 0x7F0F01E2
+			public const int Widget_MaterialComponents_Chip_Filter = 2131689954;
+			
 			// aapt resource value: 0x7F0F01E4
-			public const int Widget_MaterialComponents_Chip_Action = 2131689956;
+			public const int Widget_MaterialComponents_FloatingActionButton = 2131689956;
 			
 			// aapt resource value: 0x7F0F01E5
-			public const int Widget_MaterialComponents_Chip_Choice = 2131689957;
+			public const int Widget_MaterialComponents_NavigationView = 2131689957;
 			
 			// aapt resource value: 0x7F0F01E6
-			public const int Widget_MaterialComponents_Chip_Entry = 2131689958;
+			public const int Widget_MaterialComponents_Snackbar = 2131689958;
 			
 			// aapt resource value: 0x7F0F01E7
-			public const int Widget_MaterialComponents_Chip_Filter = 2131689959;
+			public const int Widget_MaterialComponents_Snackbar_FullWidth = 2131689959;
 			
 			// aapt resource value: 0x7F0F01E8
-			public const int Widget_MaterialComponents_FloatingActionButton = 2131689960;
+			public const int Widget_MaterialComponents_TabLayout = 2131689960;
 			
 			// aapt resource value: 0x7F0F01E9
-			public const int Widget_MaterialComponents_NavigationView = 2131689961;
+			public const int Widget_MaterialComponents_TabLayout_Colored = 2131689961;
 			
 			// aapt resource value: 0x7F0F01EA
-			public const int Widget_MaterialComponents_Snackbar = 2131689962;
+			public const int Widget_MaterialComponents_TextInputEditText_FilledBox = 2131689962;
 			
 			// aapt resource value: 0x7F0F01EB
-			public const int Widget_MaterialComponents_Snackbar_FullWidth = 2131689963;
+			public const int Widget_MaterialComponents_TextInputEditText_FilledBox_Dense = 2131689963;
 			
 			// aapt resource value: 0x7F0F01EC
-			public const int Widget_MaterialComponents_TabLayout = 2131689964;
+			public const int Widget_MaterialComponents_TextInputEditText_OutlinedBox = 2131689964;
 			
 			// aapt resource value: 0x7F0F01ED
-			public const int Widget_MaterialComponents_TabLayout_Colored = 2131689965;
+			public const int Widget_MaterialComponents_TextInputEditText_OutlinedBox_Dense = 2131689965;
 			
 			// aapt resource value: 0x7F0F01EE
-			public const int Widget_MaterialComponents_TextInputEditText_FilledBox = 2131689966;
+			public const int Widget_MaterialComponents_TextInputLayout_FilledBox = 2131689966;
 			
 			// aapt resource value: 0x7F0F01EF
-			public const int Widget_MaterialComponents_TextInputEditText_FilledBox_Dense = 2131689967;
+			public const int Widget_MaterialComponents_TextInputLayout_FilledBox_Dense = 2131689967;
 			
 			// aapt resource value: 0x7F0F01F0
-			public const int Widget_MaterialComponents_TextInputEditText_OutlinedBox = 2131689968;
+			public const int Widget_MaterialComponents_TextInputLayout_OutlinedBox = 2131689968;
 			
 			// aapt resource value: 0x7F0F01F1
-			public const int Widget_MaterialComponents_TextInputEditText_OutlinedBox_Dense = 2131689969;
+			public const int Widget_MaterialComponents_TextInputLayout_OutlinedBox_Dense = 2131689969;
 			
 			// aapt resource value: 0x7F0F01F2
-			public const int Widget_MaterialComponents_TextInputLayout_FilledBox = 2131689970;
+			public const int Widget_MaterialComponents_Toolbar = 2131689970;
 			
 			// aapt resource value: 0x7F0F01F3
-			public const int Widget_MaterialComponents_TextInputLayout_FilledBox_Dense = 2131689971;
-			
-			// aapt resource value: 0x7F0F01F4
-			public const int Widget_MaterialComponents_TextInputLayout_OutlinedBox = 2131689972;
-			
-			// aapt resource value: 0x7F0F01F5
-			public const int Widget_MaterialComponents_TextInputLayout_OutlinedBox_Dense = 2131689973;
-			
-			// aapt resource value: 0x7F0F01F6
-			public const int Widget_MaterialComponents_Toolbar = 2131689974;
-			
-			// aapt resource value: 0x7F0F01F7
-			public const int Widget_Support_CoordinatorLayout = 2131689975;
+			public const int Widget_Support_CoordinatorLayout = 2131689971;
 			
 			static Style()
 			{
@@ -11581,37 +13321,37 @@ namespace RecordGuard.ListSample.Android
 		public partial class Styleable
 		{
 			
-			// aapt resource value: { 0x7F030031,0x7F030032,0x7F030033,0x7F030091,0x7F030092,0x7F030093,0x7F030094,0x7F030095,0x7F030096,0x7F0300A4,0x7F0300A9,0x7F0300AA,0x7F0300B5,0x7F0300E0,0x7F0300E5,0x7F0300EA,0x7F0300EB,0x7F0300ED,0x7F0300F7,0x7F030101,0x7F030124,0x7F030143,0x7F030156,0x7F03015A,0x7F03015B,0x7F030189,0x7F03018C,0x7F0301D1,0x7F0301DB }
+			// aapt resource value: { 0x7F030042,0x7F030043,0x7F030044,0x7F0300A2,0x7F0300A3,0x7F0300A4,0x7F0300A5,0x7F0300A6,0x7F0300A7,0x7F0300B5,0x7F0300BA,0x7F0300BB,0x7F0300C6,0x7F0300F1,0x7F0300F6,0x7F0300FB,0x7F0300FC,0x7F0300FE,0x7F030108,0x7F030112,0x7F030135,0x7F03014D,0x7F030160,0x7F030164,0x7F030165,0x7F030193,0x7F030196,0x7F0301DB,0x7F0301E5 }
 			public static int[] ActionBar = new int[] {
-					2130903089,
-					2130903090,
-					2130903091,
-					2130903185,
-					2130903186,
-					2130903187,
-					2130903188,
-					2130903189,
-					2130903190,
+					2130903106,
+					2130903107,
+					2130903108,
+					2130903202,
+					2130903203,
 					2130903204,
-					2130903209,
-					2130903210,
+					2130903205,
+					2130903206,
+					2130903207,
 					2130903221,
-					2130903264,
-					2130903269,
-					2130903274,
-					2130903275,
-					2130903277,
-					2130903287,
-					2130903297,
-					2130903332,
-					2130903363,
-					2130903382,
-					2130903386,
-					2130903387,
-					2130903433,
-					2130903436,
-					2130903505,
-					2130903515};
+					2130903226,
+					2130903227,
+					2130903238,
+					2130903281,
+					2130903286,
+					2130903291,
+					2130903292,
+					2130903294,
+					2130903304,
+					2130903314,
+					2130903349,
+					2130903373,
+					2130903392,
+					2130903396,
+					2130903397,
+					2130903443,
+					2130903446,
+					2130903515,
+					2130903525};
 			
 			// aapt resource value: { 0x10100B3 }
 			public static int[] ActionBarLayout = new int[] {
@@ -11714,17 +13454,18 @@ namespace RecordGuard.ListSample.Android
 			// aapt resource value: 0
 			public const int ActionMenuItemView_android_minWidth = 0;
 			
-			// aapt resource value: {  }
-			public static int[] ActionMenuView = new int[0];
+			// aapt resource value: { 0xFFFFFFFF }
+			public static int[] ActionMenuView = new int[] {
+					-1};
 			
-			// aapt resource value: { 0x7F030031,0x7F030032,0x7F03007E,0x7F0300E0,0x7F03018C,0x7F0301DB }
+			// aapt resource value: { 0x7F030042,0x7F030043,0x7F03008F,0x7F0300F1,0x7F030196,0x7F0301E5 }
 			public static int[] ActionMode = new int[] {
-					2130903089,
-					2130903090,
-					2130903166,
-					2130903264,
-					2130903436,
-					2130903515};
+					2130903106,
+					2130903107,
+					2130903183,
+					2130903281,
+					2130903446,
+					2130903525};
 			
 			// aapt resource value: 0
 			public const int ActionMode_background = 0;
@@ -11744,10 +13485,10 @@ namespace RecordGuard.ListSample.Android
 			// aapt resource value: 5
 			public const int ActionMode_titleTextStyle = 5;
 			
-			// aapt resource value: { 0x7F0300BA,0x7F0300F8 }
+			// aapt resource value: { 0x7F0300CB,0x7F030109 }
 			public static int[] ActivityChooserView = new int[] {
-					2130903226,
-					2130903288};
+					2130903243,
+					2130903305};
 			
 			// aapt resource value: 0
 			public const int ActivityChooserView_expandActivityOverflowButtonDrawable = 0;
@@ -11755,16 +13496,16 @@ namespace RecordGuard.ListSample.Android
 			// aapt resource value: 1
 			public const int ActivityChooserView_initialActivityCount = 1;
 			
-			// aapt resource value: { 0x10100F2,0x7F030052,0x7F030053,0x7F03011B,0x7F03011C,0x7F030139,0x7F030171,0x7F030172 }
+			// aapt resource value: { 0x10100F2,0x7F030063,0x7F030064,0x7F03012C,0x7F03012D,0x7F03014A,0x7F03017B,0x7F03017C }
 			public static int[] AlertDialog = new int[] {
 					16842994,
-					2130903122,
-					2130903123,
-					2130903323,
-					2130903324,
-					2130903353,
-					2130903409,
-					2130903410};
+					2130903139,
+					2130903140,
+					2130903340,
+					2130903341,
+					2130903370,
+					2130903419,
+					2130903420};
 			
 			// aapt resource value: 0
 			public const int AlertDialog_android_layout = 0;
@@ -11790,78 +13531,78 @@ namespace RecordGuard.ListSample.Android
 			// aapt resource value: 7
 			public const int AlertDialog_singleChoiceItemLayout = 7;
 			
-			// aapt resource value: { 0x1010196,0x101011C,0x101030C,0x101030D,0x1010195,0x1010194 }
+			// aapt resource value: { 0x101011C,0x1010194,0x1010195,0x1010196,0x101030C,0x101030D }
 			public static int[] AnimatedStateListDrawableCompat = new int[] {
-					16843158,
 					16843036,
-					16843532,
-					16843533,
+					16843156,
 					16843157,
-					16843156};
-			
-			// aapt resource value: 0
-			public const int AnimatedStateListDrawableCompat_android_constantSize = 0;
-			
-			// aapt resource value: 1
-			public const int AnimatedStateListDrawableCompat_android_dither = 1;
-			
-			// aapt resource value: 2
-			public const int AnimatedStateListDrawableCompat_android_enterFadeDuration = 2;
+					16843158,
+					16843532,
+					16843533};
 			
 			// aapt resource value: 3
-			public const int AnimatedStateListDrawableCompat_android_exitFadeDuration = 3;
-			
-			// aapt resource value: 4
-			public const int AnimatedStateListDrawableCompat_android_variablePadding = 4;
-			
-			// aapt resource value: 5
-			public const int AnimatedStateListDrawableCompat_android_visible = 5;
-			
-			// aapt resource value: { 0x1010199,0x10100D0 }
-			public static int[] AnimatedStateListDrawableItem = new int[] {
-					16843161,
-					16842960};
+			public const int AnimatedStateListDrawableCompat_android_constantSize = 3;
 			
 			// aapt resource value: 0
-			public const int AnimatedStateListDrawableItem_android_drawable = 0;
+			public const int AnimatedStateListDrawableCompat_android_dither = 0;
+			
+			// aapt resource value: 4
+			public const int AnimatedStateListDrawableCompat_android_enterFadeDuration = 4;
+			
+			// aapt resource value: 5
+			public const int AnimatedStateListDrawableCompat_android_exitFadeDuration = 5;
+			
+			// aapt resource value: 2
+			public const int AnimatedStateListDrawableCompat_android_variablePadding = 2;
 			
 			// aapt resource value: 1
-			public const int AnimatedStateListDrawableItem_android_id = 1;
+			public const int AnimatedStateListDrawableCompat_android_visible = 1;
 			
-			// aapt resource value: { 0x1010199,0x101044A,0x101044B,0x1010449 }
+			// aapt resource value: { 0x10100D0,0x1010199 }
+			public static int[] AnimatedStateListDrawableItem = new int[] {
+					16842960,
+					16843161};
+			
+			// aapt resource value: 1
+			public const int AnimatedStateListDrawableItem_android_drawable = 1;
+			
+			// aapt resource value: 0
+			public const int AnimatedStateListDrawableItem_android_id = 0;
+			
+			// aapt resource value: { 0x1010199,0x1010449,0x101044A,0x101044B }
 			public static int[] AnimatedStateListDrawableTransition = new int[] {
 					16843161,
+					16843849,
 					16843850,
-					16843851,
-					16843849};
+					16843851};
 			
 			// aapt resource value: 0
 			public const int AnimatedStateListDrawableTransition_android_drawable = 0;
 			
-			// aapt resource value: 1
-			public const int AnimatedStateListDrawableTransition_android_fromId = 1;
-			
 			// aapt resource value: 2
-			public const int AnimatedStateListDrawableTransition_android_reversible = 2;
+			public const int AnimatedStateListDrawableTransition_android_fromId = 2;
 			
 			// aapt resource value: 3
-			public const int AnimatedStateListDrawableTransition_android_toId = 3;
+			public const int AnimatedStateListDrawableTransition_android_reversible = 3;
 			
-			// aapt resource value: { 0x10100D4,0x1010540,0x101048F,0x7F0300B5,0x7F0300BB,0x7F030116 }
+			// aapt resource value: 1
+			public const int AnimatedStateListDrawableTransition_android_toId = 1;
+			
+			// aapt resource value: { 0x10100D4,0x101048F,0x1010540,0x7F0300C6,0x7F0300CC,0x7F030127 }
 			public static int[] AppBarLayout = new int[] {
 					16842964,
-					16844096,
 					16843919,
-					2130903221,
-					2130903227,
-					2130903318};
+					16844096,
+					2130903238,
+					2130903244,
+					2130903335};
 			
-			// aapt resource value: { 0x7F03017F,0x7F030180,0x7F030181,0x7F030182 }
+			// aapt resource value: { 0x7F030189,0x7F03018A,0x7F03018B,0x7F03018C }
 			public static int[] AppBarLayoutStates = new int[] {
-					2130903423,
-					2130903424,
-					2130903425,
-					2130903426};
+					2130903433,
+					2130903434,
+					2130903435,
+					2130903436};
 			
 			// aapt resource value: 0
 			public const int AppBarLayoutStates_state_collapsed = 0;
@@ -11878,11 +13619,11 @@ namespace RecordGuard.ListSample.Android
 			// aapt resource value: 0
 			public const int AppBarLayout_android_background = 0;
 			
-			// aapt resource value: 1
-			public const int AppBarLayout_android_keyboardNavigationCluster = 1;
-			
 			// aapt resource value: 2
-			public const int AppBarLayout_android_touchscreenBlocksFocus = 2;
+			public const int AppBarLayout_android_keyboardNavigationCluster = 2;
+			
+			// aapt resource value: 1
+			public const int AppBarLayout_android_touchscreenBlocksFocus = 1;
 			
 			// aapt resource value: 3
 			public const int AppBarLayout_elevation = 3;
@@ -11890,10 +13631,10 @@ namespace RecordGuard.ListSample.Android
 			// aapt resource value: 4
 			public const int AppBarLayout_expanded = 4;
 			
-			// aapt resource value: { 0x7F030114,0x7F030115 }
+			// aapt resource value: { 0x7F030125,0x7F030126 }
 			public static int[] AppBarLayout_Layout = new int[] {
-					2130903316,
-					2130903317};
+					2130903333,
+					2130903334};
 			
 			// aapt resource value: 0
 			public const int AppBarLayout_Layout_layout_scrollFlags = 0;
@@ -11904,12 +13645,12 @@ namespace RecordGuard.ListSample.Android
 			// aapt resource value: 5
 			public const int AppBarLayout_liftOnScroll = 5;
 			
-			// aapt resource value: { 0x1010119,0x7F03017C,0x7F0301CF,0x7F0301D0 }
+			// aapt resource value: { 0x1010119,0x7F030186,0x7F0301D9,0x7F0301DA }
 			public static int[] AppCompatImageView = new int[] {
 					16843033,
-					2130903420,
-					2130903503,
-					2130903504};
+					2130903430,
+					2130903513,
+					2130903514};
 			
 			// aapt resource value: 0
 			public const int AppCompatImageView_android_src = 0;
@@ -11923,12 +13664,12 @@ namespace RecordGuard.ListSample.Android
 			// aapt resource value: 3
 			public const int AppCompatImageView_tintMode = 3;
 			
-			// aapt resource value: { 0x1010142,0x7F0301CC,0x7F0301CD,0x7F0301CE }
+			// aapt resource value: { 0x1010142,0x7F0301D6,0x7F0301D7,0x7F0301D8 }
 			public static int[] AppCompatSeekBar = new int[] {
 					16843074,
-					2130903500,
-					2130903501,
-					2130903502};
+					2130903510,
+					2130903511,
+					2130903512};
 			
 			// aapt resource value: 0
 			public const int AppCompatSeekBar_android_thumb = 0;
@@ -11942,50 +13683,50 @@ namespace RecordGuard.ListSample.Android
 			// aapt resource value: 3
 			public const int AppCompatSeekBar_tickMarkTintMode = 3;
 			
-			// aapt resource value: { 0x101016E,0x1010393,0x101016F,0x1010170,0x1010392,0x101016D,0x1010034 }
+			// aapt resource value: { 0x1010034,0x101016D,0x101016E,0x101016F,0x1010170,0x1010392,0x1010393 }
 			public static int[] AppCompatTextHelper = new int[] {
+					16842804,
+					16843117,
 					16843118,
-					16843667,
 					16843119,
 					16843120,
 					16843666,
-					16843117,
-					16842804};
-			
-			// aapt resource value: 0
-			public const int AppCompatTextHelper_android_drawableBottom = 0;
-			
-			// aapt resource value: 1
-			public const int AppCompatTextHelper_android_drawableEnd = 1;
+					16843667};
 			
 			// aapt resource value: 2
-			public const int AppCompatTextHelper_android_drawableLeft = 2;
-			
-			// aapt resource value: 3
-			public const int AppCompatTextHelper_android_drawableRight = 3;
-			
-			// aapt resource value: 4
-			public const int AppCompatTextHelper_android_drawableStart = 4;
-			
-			// aapt resource value: 5
-			public const int AppCompatTextHelper_android_drawableTop = 5;
+			public const int AppCompatTextHelper_android_drawableBottom = 2;
 			
 			// aapt resource value: 6
-			public const int AppCompatTextHelper_android_textAppearance = 6;
+			public const int AppCompatTextHelper_android_drawableEnd = 6;
 			
-			// aapt resource value: { 0x1010034,0x7F03002C,0x7F03002D,0x7F03002E,0x7F03002F,0x7F030030,0x7F0300CF,0x7F0300D2,0x7F030109,0x7F030117,0x7F0301AC }
+			// aapt resource value: 3
+			public const int AppCompatTextHelper_android_drawableLeft = 3;
+			
+			// aapt resource value: 4
+			public const int AppCompatTextHelper_android_drawableRight = 4;
+			
+			// aapt resource value: 5
+			public const int AppCompatTextHelper_android_drawableStart = 5;
+			
+			// aapt resource value: 1
+			public const int AppCompatTextHelper_android_drawableTop = 1;
+			
+			// aapt resource value: 0
+			public const int AppCompatTextHelper_android_textAppearance = 0;
+			
+			// aapt resource value: { 0x1010034,0x7F03003D,0x7F03003E,0x7F03003F,0x7F030040,0x7F030041,0x7F0300E0,0x7F0300E3,0x7F03011A,0x7F030128,0x7F0301B6 }
 			public static int[] AppCompatTextView = new int[] {
 					16842804,
-					2130903084,
-					2130903085,
-					2130903086,
-					2130903087,
-					2130903088,
-					2130903247,
-					2130903250,
-					2130903305,
-					2130903319,
-					2130903468};
+					2130903101,
+					2130903102,
+					2130903103,
+					2130903104,
+					2130903105,
+					2130903264,
+					2130903267,
+					2130903322,
+					2130903336,
+					2130903478};
 			
 			// aapt resource value: 0
 			public const int AppCompatTextView_android_textAppearance = 0;
@@ -12020,24 +13761,10 @@ namespace RecordGuard.ListSample.Android
 			// aapt resource value: 10
 			public const int AppCompatTextView_textAllCaps = 10;
 			
-			// aapt resource value: { 0x7F030000,0x7F030001,0x7F030002,0x7F030003,0x7F030004,0x7F030005,0x7F030006,0x7F030007,0x7F030008,0x7F030009,0x7F03000A,0x7F03000B,0x7F03000C,0x7F03000E,0x7F03000F,0x7F030010,0x7F030011,0x7F030012,0x7F030013,0x7F030014,0x7F030015,0x7F030016,0x7F030017,0x7F030018,0x7F030019,0x7F03001A,0x7F03001B,0x7F03001C,0x7F03001D,0x7F03001E,0x7F030021,0x7F030022,0x7F030023,0x7F030024,0x7F030025,0x10100AE,0x1010057,0x7F03002B,0x7F03003D,0x7F03004C,0x7F03004D,0x7F03004E,0x7F03004F,0x7F030050,0x7F030054,0x7F030055,0x7F03005F,0x7F030064,0x7F030084,0x7F030085,0x7F030086,0x7F030087,0x7F030088,0x7F030089,0x7F03008A,0x7F03008B,0x7F03008C,0x7F03008E,0x7F03009D,0x7F0300A6,0x7F0300A7,0x7F0300A8,0x7F0300AB,0x7F0300AD,0x7F0300B0,0x7F0300B1,0x7F0300B2,0x7F0300B3,0x7F0300B4,0x7F0300EA,0x7F0300F6,0x7F030119,0x7F03011A,0x7F03011D,0x7F03011E,0x7F03011F,0x7F030120,0x7F030121,0x7F030122,0x7F030123,0x7F03014B,0x7F03014C,0x7F03014D,0x7F030155,0x7F030157,0x7F03015E,0x7F03015F,0x7F030160,0x7F030161,0x7F030169,0x7F03016A,0x7F03016B,0x7F03016C,0x7F030179,0x7F03017A,0x7F030190,0x7F0301B7,0x7F0301B8,0x7F0301B9,0x7F0301BA,0x7F0301BC,0x7F0301BD,0x7F0301BE,0x7F0301BF,0x7F0301C2,0x7F0301C3,0x7F0301DD,0x7F0301DE,0x7F0301DF,0x7F0301E0,0x7F0301E7,0x7F0301E9,0x7F0301EA,0x7F0301EB,0x7F0301EC,0x7F0301ED,0x7F0301EE,0x7F0301EF,0x7F0301F0,0x7F0301F1,0x7F0301F2 }
+			// aapt resource value: { 0x1010057,0x10100AE,0x7F030011,0x7F030012,0x7F030013,0x7F030014,0x7F030015,0x7F030016,0x7F030017,0x7F030018,0x7F030019,0x7F03001A,0x7F03001B,0x7F03001C,0x7F03001D,0x7F03001F,0x7F030020,0x7F030021,0x7F030022,0x7F030023,0x7F030024,0x7F030025,0x7F030026,0x7F030027,0x7F030028,0x7F030029,0x7F03002A,0x7F03002B,0x7F03002C,0x7F03002D,0x7F03002E,0x7F03002F,0x7F030032,0x7F030033,0x7F030034,0x7F030035,0x7F030036,0x7F03003C,0x7F03004F,0x7F03005D,0x7F03005E,0x7F03005F,0x7F030060,0x7F030061,0x7F030065,0x7F030066,0x7F030070,0x7F030075,0x7F030095,0x7F030096,0x7F030097,0x7F030098,0x7F030099,0x7F03009A,0x7F03009B,0x7F03009C,0x7F03009D,0x7F03009F,0x7F0300AE,0x7F0300B7,0x7F0300B8,0x7F0300B9,0x7F0300BC,0x7F0300BE,0x7F0300C1,0x7F0300C2,0x7F0300C3,0x7F0300C4,0x7F0300C5,0x7F0300FB,0x7F030107,0x7F03012A,0x7F03012B,0x7F03012E,0x7F03012F,0x7F030130,0x7F030131,0x7F030132,0x7F030133,0x7F030134,0x7F030155,0x7F030156,0x7F030157,0x7F03015F,0x7F030161,0x7F030168,0x7F030169,0x7F03016A,0x7F03016B,0x7F030173,0x7F030174,0x7F030175,0x7F030176,0x7F030183,0x7F030184,0x7F03019A,0x7F0301C1,0x7F0301C2,0x7F0301C3,0x7F0301C4,0x7F0301C6,0x7F0301C7,0x7F0301C8,0x7F0301C9,0x7F0301CC,0x7F0301CD,0x7F0301E7,0x7F0301E8,0x7F0301E9,0x7F0301EA,0x7F0301F1,0x7F0301F3,0x7F0301F4,0x7F0301F5,0x7F0301F6,0x7F0301F7,0x7F0301F8,0x7F0301F9,0x7F0301FA,0x7F0301FB,0x7F0301FC }
 			public static int[] AppCompatTheme = new int[] {
-					2130903040,
-					2130903041,
-					2130903042,
-					2130903043,
-					2130903044,
-					2130903045,
-					2130903046,
-					2130903047,
-					2130903048,
-					2130903049,
-					2130903050,
-					2130903051,
-					2130903052,
-					2130903054,
-					2130903055,
-					2130903056,
+					16842839,
+					16842926,
 					2130903057,
 					2130903058,
 					2130903059,
@@ -12051,209 +13778,223 @@ namespace RecordGuard.ListSample.Android
 					2130903067,
 					2130903068,
 					2130903069,
-					2130903070,
+					2130903071,
+					2130903072,
 					2130903073,
 					2130903074,
 					2130903075,
 					2130903076,
 					2130903077,
-					16842926,
-					16842839,
+					2130903078,
+					2130903079,
+					2130903080,
+					2130903081,
+					2130903082,
 					2130903083,
-					2130903101,
-					2130903116,
-					2130903117,
-					2130903118,
+					2130903084,
+					2130903085,
+					2130903086,
+					2130903087,
+					2130903090,
+					2130903091,
+					2130903092,
+					2130903093,
+					2130903094,
+					2130903100,
 					2130903119,
-					2130903120,
-					2130903124,
-					2130903125,
+					2130903133,
+					2130903134,
 					2130903135,
-					2130903140,
-					2130903172,
-					2130903173,
-					2130903174,
-					2130903175,
-					2130903176,
-					2130903177,
-					2130903178,
-					2130903179,
-					2130903180,
-					2130903182,
+					2130903136,
+					2130903137,
+					2130903141,
+					2130903142,
+					2130903152,
+					2130903157,
+					2130903189,
+					2130903190,
+					2130903191,
+					2130903192,
+					2130903193,
+					2130903194,
+					2130903195,
+					2130903196,
 					2130903197,
-					2130903206,
-					2130903207,
-					2130903208,
-					2130903211,
-					2130903213,
-					2130903216,
-					2130903217,
-					2130903218,
-					2130903219,
-					2130903220,
-					2130903274,
-					2130903286,
-					2130903321,
-					2130903322,
-					2130903325,
-					2130903326,
-					2130903327,
-					2130903328,
-					2130903329,
-					2130903330,
-					2130903331,
-					2130903371,
-					2130903372,
-					2130903373,
+					2130903199,
+					2130903214,
+					2130903223,
+					2130903224,
+					2130903225,
+					2130903228,
+					2130903230,
+					2130903233,
+					2130903234,
+					2130903235,
+					2130903236,
+					2130903237,
+					2130903291,
+					2130903303,
+					2130903338,
+					2130903339,
+					2130903342,
+					2130903343,
+					2130903344,
+					2130903345,
+					2130903346,
+					2130903347,
+					2130903348,
 					2130903381,
+					2130903382,
 					2130903383,
-					2130903390,
 					2130903391,
-					2130903392,
 					2130903393,
+					2130903400,
 					2130903401,
 					2130903402,
 					2130903403,
-					2130903404,
-					2130903417,
-					2130903418,
-					2130903440,
-					2130903479,
-					2130903480,
-					2130903481,
-					2130903482,
-					2130903484,
-					2130903485,
-					2130903486,
-					2130903487,
+					2130903411,
+					2130903412,
+					2130903413,
+					2130903414,
+					2130903427,
+					2130903428,
+					2130903450,
+					2130903489,
 					2130903490,
 					2130903491,
-					2130903517,
-					2130903518,
-					2130903519,
-					2130903520,
+					2130903492,
+					2130903494,
+					2130903495,
+					2130903496,
+					2130903497,
+					2130903500,
+					2130903501,
 					2130903527,
+					2130903528,
 					2130903529,
 					2130903530,
-					2130903531,
-					2130903532,
-					2130903533,
-					2130903534,
-					2130903535,
-					2130903536,
 					2130903537,
-					2130903538};
-			
-			// aapt resource value: 0
-			public const int AppCompatTheme_actionBarDivider = 0;
-			
-			// aapt resource value: 1
-			public const int AppCompatTheme_actionBarItemBackground = 1;
+					2130903539,
+					2130903540,
+					2130903541,
+					2130903542,
+					2130903543,
+					2130903544,
+					2130903545,
+					2130903546,
+					2130903547,
+					2130903548};
 			
 			// aapt resource value: 2
-			public const int AppCompatTheme_actionBarPopupTheme = 2;
+			public const int AppCompatTheme_actionBarDivider = 2;
 			
 			// aapt resource value: 3
-			public const int AppCompatTheme_actionBarSize = 3;
+			public const int AppCompatTheme_actionBarItemBackground = 3;
 			
 			// aapt resource value: 4
-			public const int AppCompatTheme_actionBarSplitStyle = 4;
+			public const int AppCompatTheme_actionBarPopupTheme = 4;
 			
 			// aapt resource value: 5
-			public const int AppCompatTheme_actionBarStyle = 5;
+			public const int AppCompatTheme_actionBarSize = 5;
 			
 			// aapt resource value: 6
-			public const int AppCompatTheme_actionBarTabBarStyle = 6;
+			public const int AppCompatTheme_actionBarSplitStyle = 6;
 			
 			// aapt resource value: 7
-			public const int AppCompatTheme_actionBarTabStyle = 7;
+			public const int AppCompatTheme_actionBarStyle = 7;
 			
 			// aapt resource value: 8
-			public const int AppCompatTheme_actionBarTabTextStyle = 8;
+			public const int AppCompatTheme_actionBarTabBarStyle = 8;
 			
 			// aapt resource value: 9
-			public const int AppCompatTheme_actionBarTheme = 9;
+			public const int AppCompatTheme_actionBarTabStyle = 9;
 			
 			// aapt resource value: 10
-			public const int AppCompatTheme_actionBarWidgetTheme = 10;
+			public const int AppCompatTheme_actionBarTabTextStyle = 10;
 			
 			// aapt resource value: 11
-			public const int AppCompatTheme_actionButtonStyle = 11;
+			public const int AppCompatTheme_actionBarTheme = 11;
 			
 			// aapt resource value: 12
-			public const int AppCompatTheme_actionDropDownStyle = 12;
+			public const int AppCompatTheme_actionBarWidgetTheme = 12;
 			
 			// aapt resource value: 13
-			public const int AppCompatTheme_actionMenuTextAppearance = 13;
+			public const int AppCompatTheme_actionButtonStyle = 13;
 			
 			// aapt resource value: 14
-			public const int AppCompatTheme_actionMenuTextColor = 14;
+			public const int AppCompatTheme_actionDropDownStyle = 14;
 			
 			// aapt resource value: 15
-			public const int AppCompatTheme_actionModeBackground = 15;
+			public const int AppCompatTheme_actionMenuTextAppearance = 15;
 			
 			// aapt resource value: 16
-			public const int AppCompatTheme_actionModeCloseButtonStyle = 16;
+			public const int AppCompatTheme_actionMenuTextColor = 16;
 			
 			// aapt resource value: 17
-			public const int AppCompatTheme_actionModeCloseDrawable = 17;
+			public const int AppCompatTheme_actionModeBackground = 17;
 			
 			// aapt resource value: 18
-			public const int AppCompatTheme_actionModeCopyDrawable = 18;
+			public const int AppCompatTheme_actionModeCloseButtonStyle = 18;
 			
 			// aapt resource value: 19
-			public const int AppCompatTheme_actionModeCutDrawable = 19;
+			public const int AppCompatTheme_actionModeCloseDrawable = 19;
 			
 			// aapt resource value: 20
-			public const int AppCompatTheme_actionModeFindDrawable = 20;
+			public const int AppCompatTheme_actionModeCopyDrawable = 20;
 			
 			// aapt resource value: 21
-			public const int AppCompatTheme_actionModePasteDrawable = 21;
+			public const int AppCompatTheme_actionModeCutDrawable = 21;
 			
 			// aapt resource value: 22
-			public const int AppCompatTheme_actionModePopupWindowStyle = 22;
+			public const int AppCompatTheme_actionModeFindDrawable = 22;
 			
 			// aapt resource value: 23
-			public const int AppCompatTheme_actionModeSelectAllDrawable = 23;
+			public const int AppCompatTheme_actionModePasteDrawable = 23;
 			
 			// aapt resource value: 24
-			public const int AppCompatTheme_actionModeShareDrawable = 24;
+			public const int AppCompatTheme_actionModePopupWindowStyle = 24;
 			
 			// aapt resource value: 25
-			public const int AppCompatTheme_actionModeSplitBackground = 25;
+			public const int AppCompatTheme_actionModeSelectAllDrawable = 25;
 			
 			// aapt resource value: 26
-			public const int AppCompatTheme_actionModeStyle = 26;
+			public const int AppCompatTheme_actionModeShareDrawable = 26;
 			
 			// aapt resource value: 27
-			public const int AppCompatTheme_actionModeWebSearchDrawable = 27;
+			public const int AppCompatTheme_actionModeSplitBackground = 27;
 			
 			// aapt resource value: 28
-			public const int AppCompatTheme_actionOverflowButtonStyle = 28;
+			public const int AppCompatTheme_actionModeStyle = 28;
 			
 			// aapt resource value: 29
-			public const int AppCompatTheme_actionOverflowMenuStyle = 29;
+			public const int AppCompatTheme_actionModeWebSearchDrawable = 29;
 			
 			// aapt resource value: 30
-			public const int AppCompatTheme_activityChooserViewStyle = 30;
+			public const int AppCompatTheme_actionOverflowButtonStyle = 30;
 			
 			// aapt resource value: 31
-			public const int AppCompatTheme_alertDialogButtonGroupStyle = 31;
+			public const int AppCompatTheme_actionOverflowMenuStyle = 31;
 			
 			// aapt resource value: 32
-			public const int AppCompatTheme_alertDialogCenterButtons = 32;
+			public const int AppCompatTheme_activityChooserViewStyle = 32;
 			
 			// aapt resource value: 33
-			public const int AppCompatTheme_alertDialogStyle = 33;
+			public const int AppCompatTheme_alertDialogButtonGroupStyle = 33;
 			
 			// aapt resource value: 34
-			public const int AppCompatTheme_alertDialogTheme = 34;
+			public const int AppCompatTheme_alertDialogCenterButtons = 34;
 			
 			// aapt resource value: 35
-			public const int AppCompatTheme_android_windowAnimationStyle = 35;
+			public const int AppCompatTheme_alertDialogStyle = 35;
 			
 			// aapt resource value: 36
-			public const int AppCompatTheme_android_windowIsFloating = 36;
+			public const int AppCompatTheme_alertDialogTheme = 36;
+			
+			// aapt resource value: 1
+			public const int AppCompatTheme_android_windowAnimationStyle = 1;
+			
+			// aapt resource value: 0
+			public const int AppCompatTheme_android_windowIsFloating = 0;
 			
 			// aapt resource value: 37
 			public const int AppCompatTheme_autoCompleteTextViewStyle = 37;
@@ -12336,11 +14077,11 @@ namespace RecordGuard.ListSample.Android
 			// aapt resource value: 63
 			public const int AppCompatTheme_dividerVertical = 63;
 			
-			// aapt resource value: 64
-			public const int AppCompatTheme_dropdownListPreferredItemHeight = 64;
-			
 			// aapt resource value: 65
-			public const int AppCompatTheme_dropDownListViewStyle = 65;
+			public const int AppCompatTheme_dropdownListPreferredItemHeight = 65;
+			
+			// aapt resource value: 64
+			public const int AppCompatTheme_dropDownListViewStyle = 64;
 			
 			// aapt resource value: 66
 			public const int AppCompatTheme_editTextBackground = 66;
@@ -12507,14 +14248,14 @@ namespace RecordGuard.ListSample.Android
 			// aapt resource value: 120
 			public const int AppCompatTheme_windowNoTitle = 120;
 			
-			// aapt resource value: { 0x7F030034,0x7F0300C3,0x7F0300C4,0x7F0300C5,0x7F0300C6,0x7F0300E6 }
+			// aapt resource value: { 0x7F030045,0x7F0300D4,0x7F0300D5,0x7F0300D6,0x7F0300D7,0x7F0300F7 }
 			public static int[] BottomAppBar = new int[] {
-					2130903092,
-					2130903235,
-					2130903236,
-					2130903237,
-					2130903238,
-					2130903270};
+					2130903109,
+					2130903252,
+					2130903253,
+					2130903254,
+					2130903255,
+					2130903287};
 			
 			// aapt resource value: 0
 			public const int BottomAppBar_backgroundTint = 0;
@@ -12534,18 +14275,18 @@ namespace RecordGuard.ListSample.Android
 			// aapt resource value: 5
 			public const int BottomAppBar_hideOnScroll = 5;
 			
-			// aapt resource value: { 0x7F0300B5,0x7F0300FB,0x7F0300FD,0x7F0300FF,0x7F030100,0x7F030104,0x7F030105,0x7F030106,0x7F030108,0x7F030138 }
+			// aapt resource value: { 0x7F0300C6,0x7F03010C,0x7F03010E,0x7F030110,0x7F030111,0x7F030115,0x7F030116,0x7F030117,0x7F030119,0x7F030149 }
 			public static int[] BottomNavigationView = new int[] {
-					2130903221,
-					2130903291,
-					2130903293,
-					2130903295,
-					2130903296,
-					2130903300,
-					2130903301,
-					2130903302,
-					2130903304,
-					2130903352};
+					2130903238,
+					2130903308,
+					2130903310,
+					2130903312,
+					2130903313,
+					2130903317,
+					2130903318,
+					2130903319,
+					2130903321,
+					2130903369};
 			
 			// aapt resource value: 0
 			public const int BottomNavigationView_elevation = 0;
@@ -12577,12 +14318,12 @@ namespace RecordGuard.ListSample.Android
 			// aapt resource value: 9
 			public const int BottomNavigationView_menu = 9;
 			
-			// aapt resource value: { 0x7F030038,0x7F030039,0x7F03003B,0x7F03003C }
+			// aapt resource value: { 0x7F030049,0x7F03004A,0x7F03004C,0x7F03004D }
 			public static int[] BottomSheetBehavior_Layout = new int[] {
-					2130903096,
-					2130903097,
-					2130903099,
-					2130903100};
+					2130903113,
+					2130903114,
+					2130903116,
+					2130903117};
 			
 			// aapt resource value: 0
 			public const int BottomSheetBehavior_Layout_behavior_fitToContents = 0;
@@ -12596,34 +14337,34 @@ namespace RecordGuard.ListSample.Android
 			// aapt resource value: 3
 			public const int BottomSheetBehavior_Layout_behavior_skipCollapsed = 3;
 			
-			// aapt resource value: { 0x7F030026 }
+			// aapt resource value: { 0x7F030037 }
 			public static int[] ButtonBarLayout = new int[] {
-					2130903078};
+					2130903095};
 			
 			// aapt resource value: 0
 			public const int ButtonBarLayout_allowStacking = 0;
 			
-			// aapt resource value: { 0x1010140,0x101013F,0x7F030058,0x7F030059,0x7F03005A,0x7F03005B,0x7F03005C,0x7F03005D,0x7F030097,0x7F030098,0x7F030099,0x7F03009A,0x7F03009B }
+			// aapt resource value: { 0x101013F,0x1010140,0x7F030069,0x7F03006A,0x7F03006B,0x7F03006C,0x7F03006D,0x7F03006E,0x7F0300A8,0x7F0300A9,0x7F0300AA,0x7F0300AB,0x7F0300AC }
 			public static int[] CardView = new int[] {
-					16843072,
 					16843071,
-					2130903128,
-					2130903129,
-					2130903130,
-					2130903131,
-					2130903132,
-					2130903133,
-					2130903191,
-					2130903192,
-					2130903193,
-					2130903194,
-					2130903195};
-			
-			// aapt resource value: 0
-			public const int CardView_android_minHeight = 0;
+					16843072,
+					2130903145,
+					2130903146,
+					2130903147,
+					2130903148,
+					2130903149,
+					2130903150,
+					2130903208,
+					2130903209,
+					2130903210,
+					2130903211,
+					2130903212};
 			
 			// aapt resource value: 1
-			public const int CardView_android_minWidth = 1;
+			public const int CardView_android_minHeight = 1;
+			
+			// aapt resource value: 0
+			public const int CardView_android_minWidth = 0;
 			
 			// aapt resource value: 2
 			public const int CardView_cardBackgroundColor = 2;
@@ -12658,51 +14399,51 @@ namespace RecordGuard.ListSample.Android
 			// aapt resource value: 12
 			public const int CardView_contentPaddingTop = 12;
 			
-			// aapt resource value: { 0x10101E5,0x10100AB,0x101011F,0x101014F,0x1010034,0x7F030061,0x7F030062,0x7F030063,0x7F030065,0x7F030066,0x7F030067,0x7F030069,0x7F03006A,0x7F03006B,0x7F03006C,0x7F03006D,0x7F03006E,0x7F030073,0x7F030074,0x7F030075,0x7F030077,0x7F030078,0x7F030079,0x7F03007A,0x7F03007B,0x7F03007C,0x7F03007D,0x7F0300E4,0x7F0300EE,0x7F0300F3,0x7F030163,0x7F03016F,0x7F0301C4,0x7F0301C6 }
+			// aapt resource value: { 0x1010034,0x10100AB,0x101011F,0x101014F,0x10101E5,0x7F030072,0x7F030073,0x7F030074,0x7F030076,0x7F030077,0x7F030078,0x7F03007A,0x7F03007B,0x7F03007C,0x7F03007D,0x7F03007E,0x7F03007F,0x7F030084,0x7F030085,0x7F030086,0x7F030088,0x7F030089,0x7F03008A,0x7F03008B,0x7F03008C,0x7F03008D,0x7F03008E,0x7F0300F5,0x7F0300FF,0x7F030103,0x7F03016D,0x7F030179,0x7F0301CE,0x7F0301D0 }
 			public static int[] Chip = new int[] {
-					16843237,
+					16842804,
 					16842923,
 					16843039,
 					16843087,
-					16842804,
-					2130903137,
-					2130903138,
-					2130903139,
-					2130903141,
-					2130903142,
-					2130903143,
-					2130903145,
-					2130903146,
-					2130903147,
-					2130903148,
-					2130903149,
-					2130903150,
+					16843237,
+					2130903154,
 					2130903155,
 					2130903156,
-					2130903157,
+					2130903158,
 					2130903159,
 					2130903160,
-					2130903161,
 					2130903162,
 					2130903163,
 					2130903164,
 					2130903165,
-					2130903268,
-					2130903278,
-					2130903283,
-					2130903395,
-					2130903407,
-					2130903492,
-					2130903494};
+					2130903166,
+					2130903167,
+					2130903172,
+					2130903173,
+					2130903174,
+					2130903176,
+					2130903177,
+					2130903178,
+					2130903179,
+					2130903180,
+					2130903181,
+					2130903182,
+					2130903285,
+					2130903295,
+					2130903299,
+					2130903405,
+					2130903417,
+					2130903502,
+					2130903504};
 			
-			// aapt resource value: { 0x7F030060,0x7F03006F,0x7F030070,0x7F030071,0x7F030173,0x7F030174 }
+			// aapt resource value: { 0x7F030071,0x7F030080,0x7F030081,0x7F030082,0x7F03017D,0x7F03017E }
 			public static int[] ChipGroup = new int[] {
-					2130903136,
-					2130903151,
-					2130903152,
 					2130903153,
-					2130903411,
-					2130903412};
+					2130903168,
+					2130903169,
+					2130903170,
+					2130903421,
+					2130903422};
 			
 			// aapt resource value: 0
 			public const int ChipGroup_checkedChip = 0;
@@ -12722,8 +14463,8 @@ namespace RecordGuard.ListSample.Android
 			// aapt resource value: 5
 			public const int ChipGroup_singleSelection = 5;
 			
-			// aapt resource value: 0
-			public const int Chip_android_checkable = 0;
+			// aapt resource value: 4
+			public const int Chip_android_checkable = 4;
 			
 			// aapt resource value: 1
 			public const int Chip_android_ellipsize = 1;
@@ -12734,8 +14475,8 @@ namespace RecordGuard.ListSample.Android
 			// aapt resource value: 3
 			public const int Chip_android_text = 3;
 			
-			// aapt resource value: 4
-			public const int Chip_android_textAppearance = 4;
+			// aapt resource value: 0
+			public const int Chip_android_textAppearance = 0;
 			
 			// aapt resource value: 5
 			public const int Chip_checkedIcon = 5;
@@ -12824,24 +14565,24 @@ namespace RecordGuard.ListSample.Android
 			// aapt resource value: 33
 			public const int Chip_textStartPadding = 33;
 			
-			// aapt resource value: { 0x7F030080,0x7F030081,0x7F03009C,0x7F0300BC,0x7F0300BD,0x7F0300BE,0x7F0300BF,0x7F0300C0,0x7F0300C1,0x7F0300C2,0x7F030164,0x7F030166,0x7F030184,0x7F0301D1,0x7F0301D2,0x7F0301DC }
+			// aapt resource value: { 0x7F030092,0x7F030093,0x7F0300AD,0x7F0300CD,0x7F0300CE,0x7F0300CF,0x7F0300D0,0x7F0300D1,0x7F0300D2,0x7F0300D3,0x7F03016E,0x7F030170,0x7F03018E,0x7F0301DB,0x7F0301DC,0x7F0301E6 }
 			public static int[] CollapsingToolbarLayout = new int[] {
-					2130903168,
-					2130903169,
-					2130903196,
-					2130903228,
-					2130903229,
-					2130903230,
-					2130903231,
-					2130903232,
-					2130903233,
-					2130903234,
-					2130903396,
-					2130903398,
-					2130903428,
-					2130903505,
-					2130903506,
-					2130903516};
+					2130903186,
+					2130903187,
+					2130903213,
+					2130903245,
+					2130903246,
+					2130903247,
+					2130903248,
+					2130903249,
+					2130903250,
+					2130903251,
+					2130903406,
+					2130903408,
+					2130903438,
+					2130903515,
+					2130903516,
+					2130903526};
 			
 			// aapt resource value: 0
 			public const int CollapsingToolbarLayout_collapsedTitleGravity = 0;
@@ -12873,10 +14614,10 @@ namespace RecordGuard.ListSample.Android
 			// aapt resource value: 9
 			public const int CollapsingToolbarLayout_expandedTitleTextAppearance = 9;
 			
-			// aapt resource value: { 0x7F03010F,0x7F030110 }
+			// aapt resource value: { 0x7F030120,0x7F030121 }
 			public static int[] CollapsingToolbarLayout_Layout = new int[] {
-					2130903311,
-					2130903312};
+					2130903328,
+					2130903329};
 			
 			// aapt resource value: 0
 			public const int CollapsingToolbarLayout_Layout_layout_collapseMode = 0;
@@ -12902,26 +14643,26 @@ namespace RecordGuard.ListSample.Android
 			// aapt resource value: 15
 			public const int CollapsingToolbarLayout_toolbarId = 15;
 			
-			// aapt resource value: { 0x7F030027,0x101031F,0x10101A5 }
+			// aapt resource value: { 0x10101A5,0x101031F,0x7F030038 }
 			public static int[] ColorStateListItem = new int[] {
-					2130903079,
+					16843173,
 					16843551,
-					16843173};
+					2130903096};
 			
-			// aapt resource value: 0
-			public const int ColorStateListItem_alpha = 0;
+			// aapt resource value: 2
+			public const int ColorStateListItem_alpha = 2;
 			
 			// aapt resource value: 1
 			public const int ColorStateListItem_android_alpha = 1;
 			
-			// aapt resource value: 2
-			public const int ColorStateListItem_android_color = 2;
+			// aapt resource value: 0
+			public const int ColorStateListItem_android_color = 0;
 			
-			// aapt resource value: { 0x1010107,0x7F030056,0x7F030057 }
+			// aapt resource value: { 0x1010107,0x7F030067,0x7F030068 }
 			public static int[] CompoundButton = new int[] {
 					16843015,
-					2130903126,
-					2130903127};
+					2130903143,
+					2130903144};
 			
 			// aapt resource value: 0
 			public const int CompoundButton_android_button = 0;
@@ -12932,23 +14673,23 @@ namespace RecordGuard.ListSample.Android
 			// aapt resource value: 2
 			public const int CompoundButton_buttonTintMode = 2;
 			
-			// aapt resource value: { 0x7F030107,0x7F030183 }
+			// aapt resource value: { 0x7F030118,0x7F03018D }
 			public static int[] CoordinatorLayout = new int[] {
-					2130903303,
-					2130903427};
+					2130903320,
+					2130903437};
 			
 			// aapt resource value: 0
 			public const int CoordinatorLayout_keylines = 0;
 			
-			// aapt resource value: { 0x10100B3,0x7F03010C,0x7F03010D,0x7F03010E,0x7F030111,0x7F030112,0x7F030113 }
+			// aapt resource value: { 0x10100B3,0x7F03011D,0x7F03011E,0x7F03011F,0x7F030122,0x7F030123,0x7F030124 }
 			public static int[] CoordinatorLayout_Layout = new int[] {
 					16842931,
-					2130903308,
-					2130903309,
-					2130903310,
-					2130903313,
-					2130903314,
-					2130903315};
+					2130903325,
+					2130903326,
+					2130903327,
+					2130903330,
+					2130903331,
+					2130903332};
 			
 			// aapt resource value: 0
 			public const int CoordinatorLayout_Layout_android_layout_gravity = 0;
@@ -12974,10 +14715,10 @@ namespace RecordGuard.ListSample.Android
 			// aapt resource value: 1
 			public const int CoordinatorLayout_statusBarBackground = 1;
 			
-			// aapt resource value: { 0x7F030041,0x7F030042 }
+			// aapt resource value: { 0x7F030052,0x7F030053 }
 			public static int[] DesignTheme = new int[] {
-					2130903105,
-					2130903106};
+					2130903122,
+					2130903123};
 			
 			// aapt resource value: 0
 			public const int DesignTheme_bottomSheetDialogTheme = 0;
@@ -12985,16 +14726,16 @@ namespace RecordGuard.ListSample.Android
 			// aapt resource value: 1
 			public const int DesignTheme_bottomSheetStyle = 1;
 			
-			// aapt resource value: { 0x7F030029,0x7F03002A,0x7F030036,0x7F030083,0x7F0300AE,0x7F0300DD,0x7F030178,0x7F0301C8 }
+			// aapt resource value: { 0x7F03003A,0x7F03003B,0x7F030047,0x7F030094,0x7F0300BF,0x7F0300EE,0x7F030182,0x7F0301D2 }
 			public static int[] DrawerArrowToggle = new int[] {
-					2130903081,
-					2130903082,
-					2130903094,
-					2130903171,
-					2130903214,
-					2130903261,
-					2130903416,
-					2130903496};
+					2130903098,
+					2130903099,
+					2130903111,
+					2130903188,
+					2130903231,
+					2130903278,
+					2130903426,
+					2130903506};
 			
 			// aapt resource value: 0
 			public const int DrawerArrowToggle_arrowHeadLength = 0;
@@ -13020,21 +14761,21 @@ namespace RecordGuard.ListSample.Android
 			// aapt resource value: 7
 			public const int DrawerArrowToggle_thickness = 7;
 			
-			// aapt resource value: { 0x7F030034,0x7F030035,0x7F03003E,0x7F0300B5,0x7F0300C7,0x7F0300C8,0x7F0300E4,0x7F0300EC,0x7F030136,0x7F030159,0x7F030163,0x7F03016F,0x7F0301E6 }
+			// aapt resource value: { 0x7F030045,0x7F030046,0x7F03004E,0x7F0300C6,0x7F0300D8,0x7F0300D9,0x7F0300F5,0x7F0300FD,0x7F030147,0x7F030163,0x7F03016D,0x7F030179,0x7F0301F0 }
 			public static int[] FloatingActionButton = new int[] {
-					2130903092,
-					2130903093,
-					2130903102,
-					2130903221,
-					2130903239,
-					2130903240,
-					2130903268,
-					2130903276,
-					2130903350,
-					2130903385,
+					2130903109,
+					2130903110,
+					2130903118,
+					2130903238,
+					2130903256,
+					2130903257,
+					2130903285,
+					2130903293,
+					2130903367,
 					2130903395,
-					2130903407,
-					2130903526};
+					2130903405,
+					2130903417,
+					2130903536};
 			
 			// aapt resource value: 0
 			public const int FloatingActionButton_backgroundTint = 0;
@@ -13042,9 +14783,9 @@ namespace RecordGuard.ListSample.Android
 			// aapt resource value: 1
 			public const int FloatingActionButton_backgroundTintMode = 1;
 			
-			// aapt resource value: { 0x7F030037 }
+			// aapt resource value: { 0x7F030048 }
 			public static int[] FloatingActionButton_Behavior_Layout = new int[] {
-					2130903095};
+					2130903112};
 			
 			// aapt resource value: 0
 			public const int FloatingActionButton_Behavior_Layout_behavior_autoHide = 0;
@@ -13082,10 +14823,10 @@ namespace RecordGuard.ListSample.Android
 			// aapt resource value: 12
 			public const int FloatingActionButton_useCompatPadding = 12;
 			
-			// aapt resource value: { 0x7F030102,0x7F030118 }
+			// aapt resource value: { 0x7F030113,0x7F030129 }
 			public static int[] FlowLayout = new int[] {
-					2130903298,
-					2130903320};
+					2130903315,
+					2130903337};
 			
 			// aapt resource value: 0
 			public const int FlowLayout_itemSpacing = 0;
@@ -13093,42 +14834,42 @@ namespace RecordGuard.ListSample.Android
 			// aapt resource value: 1
 			public const int FlowLayout_lineSpacing = 1;
 			
-			// aapt resource value: { 0x7F0300D3,0x7F0300D4,0x7F0300D5,0x7F0300D6,0x7F0300D7,0x7F0300D8 }
+			// aapt resource value: { 0x7F0300E4,0x7F0300E5,0x7F0300E6,0x7F0300E7,0x7F0300E8,0x7F0300E9 }
 			public static int[] FontFamily = new int[] {
-					2130903251,
-					2130903252,
-					2130903253,
-					2130903254,
-					2130903255,
-					2130903256};
+					2130903268,
+					2130903269,
+					2130903270,
+					2130903271,
+					2130903272,
+					2130903273};
 			
-			// aapt resource value: { 0x1010532,0x101053F,0x1010570,0x1010533,0x101056F,0x7F0300D1,0x7F0300D9,0x7F0300DA,0x7F0300DB,0x7F0301E5 }
+			// aapt resource value: { 0x1010532,0x1010533,0x101053F,0x101056F,0x1010570,0x7F0300E2,0x7F0300EA,0x7F0300EB,0x7F0300EC,0x7F0301EF }
 			public static int[] FontFamilyFont = new int[] {
 					16844082,
-					16844095,
-					16844144,
 					16844083,
+					16844095,
 					16844143,
-					2130903249,
-					2130903257,
-					2130903258,
-					2130903259,
-					2130903525};
+					16844144,
+					2130903266,
+					2130903274,
+					2130903275,
+					2130903276,
+					2130903535};
 			
 			// aapt resource value: 0
 			public const int FontFamilyFont_android_font = 0;
 			
-			// aapt resource value: 1
-			public const int FontFamilyFont_android_fontStyle = 1;
-			
 			// aapt resource value: 2
-			public const int FontFamilyFont_android_fontVariationSettings = 2;
-			
-			// aapt resource value: 3
-			public const int FontFamilyFont_android_fontWeight = 3;
+			public const int FontFamilyFont_android_fontStyle = 2;
 			
 			// aapt resource value: 4
-			public const int FontFamilyFont_android_ttcIndex = 4;
+			public const int FontFamilyFont_android_fontVariationSettings = 4;
+			
+			// aapt resource value: 1
+			public const int FontFamilyFont_android_fontWeight = 1;
+			
+			// aapt resource value: 3
+			public const int FontFamilyFont_android_ttcIndex = 3;
 			
 			// aapt resource value: 5
 			public const int FontFamilyFont_font = 5;
@@ -13163,11 +14904,11 @@ namespace RecordGuard.ListSample.Android
 			// aapt resource value: 5
 			public const int FontFamily_fontProviderQuery = 5;
 			
-			// aapt resource value: { 0x1010109,0x1010200,0x7F0300DC }
+			// aapt resource value: { 0x1010109,0x1010200,0x7F0300ED }
 			public static int[] ForegroundLinearLayout = new int[] {
 					16843017,
 					16843264,
-					2130903260};
+					2130903277};
 			
 			// aapt resource value: 0
 			public const int ForegroundLinearLayout_android_foreground = 0;
@@ -13178,20 +14919,20 @@ namespace RecordGuard.ListSample.Android
 			// aapt resource value: 2
 			public const int ForegroundLinearLayout_foregroundInsidePadding = 2;
 			
-			// aapt resource value: { 0x101020B,0x10101A2,0x10101A3,0x101019E,0x1010512,0x1010513,0x10101A4,0x101019D,0x1010510,0x1010511,0x1010201,0x10101A1 }
+			// aapt resource value: { 0x101019D,0x101019E,0x10101A1,0x10101A2,0x10101A3,0x10101A4,0x1010201,0x101020B,0x1010510,0x1010511,0x1010512,0x1010513 }
 			public static int[] GradientColor = new int[] {
-					16843275,
+					16843165,
+					16843166,
+					16843169,
 					16843170,
 					16843171,
-					16843166,
-					16844050,
-					16844051,
 					16843172,
-					16843165,
+					16843265,
+					16843275,
 					16844048,
 					16844049,
-					16843265,
-					16843169};
+					16844050,
+					16844051};
 			
 			// aapt resource value: { 0x10101A5,0x1010514 }
 			public static int[] GradientColorItem = new int[] {
@@ -13204,29 +14945,29 @@ namespace RecordGuard.ListSample.Android
 			// aapt resource value: 1
 			public const int GradientColorItem_android_offset = 1;
 			
-			// aapt resource value: 0
-			public const int GradientColor_android_centerColor = 0;
-			
-			// aapt resource value: 1
-			public const int GradientColor_android_centerX = 1;
-			
-			// aapt resource value: 2
-			public const int GradientColor_android_centerY = 2;
+			// aapt resource value: 7
+			public const int GradientColor_android_centerColor = 7;
 			
 			// aapt resource value: 3
-			public const int GradientColor_android_endColor = 3;
+			public const int GradientColor_android_centerX = 3;
 			
 			// aapt resource value: 4
-			public const int GradientColor_android_endX = 4;
+			public const int GradientColor_android_centerY = 4;
+			
+			// aapt resource value: 1
+			public const int GradientColor_android_endColor = 1;
+			
+			// aapt resource value: 10
+			public const int GradientColor_android_endX = 10;
+			
+			// aapt resource value: 11
+			public const int GradientColor_android_endY = 11;
 			
 			// aapt resource value: 5
-			public const int GradientColor_android_endY = 5;
+			public const int GradientColor_android_gradientRadius = 5;
 			
-			// aapt resource value: 6
-			public const int GradientColor_android_gradientRadius = 6;
-			
-			// aapt resource value: 7
-			public const int GradientColor_android_startColor = 7;
+			// aapt resource value: 0
+			public const int GradientColor_android_startColor = 0;
 			
 			// aapt resource value: 8
 			public const int GradientColor_android_startX = 8;
@@ -13234,35 +14975,35 @@ namespace RecordGuard.ListSample.Android
 			// aapt resource value: 9
 			public const int GradientColor_android_startY = 9;
 			
-			// aapt resource value: 10
-			public const int GradientColor_android_tileMode = 10;
-			
-			// aapt resource value: 11
-			public const int GradientColor_android_type = 11;
-			
-			// aapt resource value: { 0x1010126,0x1010127,0x10100AF,0x10100C4,0x1010128,0x7F0300AA,0x7F0300AC,0x7F030137,0x7F03016E }
-			public static int[] LinearLayoutCompat = new int[] {
-					16843046,
-					16843047,
-					16842927,
-					16842948,
-					16843048,
-					2130903210,
-					2130903212,
-					2130903351,
-					2130903406};
-			
-			// aapt resource value: 0
-			public const int LinearLayoutCompat_android_baselineAligned = 0;
-			
-			// aapt resource value: 1
-			public const int LinearLayoutCompat_android_baselineAlignedChildIndex = 1;
+			// aapt resource value: 6
+			public const int GradientColor_android_tileMode = 6;
 			
 			// aapt resource value: 2
-			public const int LinearLayoutCompat_android_gravity = 2;
+			public const int GradientColor_android_type = 2;
+			
+			// aapt resource value: { 0x10100AF,0x10100C4,0x1010126,0x1010127,0x1010128,0x7F0300BB,0x7F0300BD,0x7F030148,0x7F030178 }
+			public static int[] LinearLayoutCompat = new int[] {
+					16842927,
+					16842948,
+					16843046,
+					16843047,
+					16843048,
+					2130903227,
+					2130903229,
+					2130903368,
+					2130903416};
+			
+			// aapt resource value: 2
+			public const int LinearLayoutCompat_android_baselineAligned = 2;
 			
 			// aapt resource value: 3
-			public const int LinearLayoutCompat_android_orientation = 3;
+			public const int LinearLayoutCompat_android_baselineAlignedChildIndex = 3;
+			
+			// aapt resource value: 0
+			public const int LinearLayoutCompat_android_gravity = 0;
+			
+			// aapt resource value: 1
+			public const int LinearLayoutCompat_android_orientation = 1;
 			
 			// aapt resource value: 4
 			public const int LinearLayoutCompat_android_weightSum = 4;
@@ -13273,24 +15014,24 @@ namespace RecordGuard.ListSample.Android
 			// aapt resource value: 6
 			public const int LinearLayoutCompat_dividerPadding = 6;
 			
-			// aapt resource value: { 0x10100B3,0x10100F5,0x1010181,0x10100F4 }
+			// aapt resource value: { 0x10100B3,0x10100F4,0x10100F5,0x1010181 }
 			public static int[] LinearLayoutCompat_Layout = new int[] {
 					16842931,
+					16842996,
 					16842997,
-					16843137,
-					16842996};
+					16843137};
 			
 			// aapt resource value: 0
 			public const int LinearLayoutCompat_Layout_android_layout_gravity = 0;
 			
-			// aapt resource value: 1
-			public const int LinearLayoutCompat_Layout_android_layout_height = 1;
-			
 			// aapt resource value: 2
-			public const int LinearLayoutCompat_Layout_android_layout_weight = 2;
+			public const int LinearLayoutCompat_Layout_android_layout_height = 2;
 			
 			// aapt resource value: 3
-			public const int LinearLayoutCompat_Layout_android_layout_width = 3;
+			public const int LinearLayoutCompat_Layout_android_layout_weight = 3;
+			
+			// aapt resource value: 1
+			public const int LinearLayoutCompat_Layout_android_layout_width = 1;
 			
 			// aapt resource value: 7
 			public const int LinearLayoutCompat_measureWithLargestChild = 7;
@@ -13309,20 +15050,20 @@ namespace RecordGuard.ListSample.Android
 			// aapt resource value: 1
 			public const int ListPopupWindow_android_dropDownVerticalOffset = 1;
 			
-			// aapt resource value: { 0x7F030126,0x7F030127,0x7F030128,0x7F030129,0x7F03012A,0x7F03012B,0x7F03012C,0x7F03012D,0x7F03012E,0x7F03012F,0x7F030130,0x7F030131 }
+			// aapt resource value: { 0x7F030137,0x7F030138,0x7F030139,0x7F03013A,0x7F03013B,0x7F03013C,0x7F03013D,0x7F03013E,0x7F03013F,0x7F030140,0x7F030141,0x7F030142 }
 			public static int[] LottieAnimationView = new int[] {
-					2130903334,
-					2130903335,
-					2130903336,
-					2130903337,
-					2130903338,
-					2130903339,
-					2130903340,
-					2130903341,
-					2130903342,
-					2130903343,
-					2130903344,
-					2130903345};
+					2130903351,
+					2130903352,
+					2130903353,
+					2130903354,
+					2130903355,
+					2130903356,
+					2130903357,
+					2130903358,
+					2130903359,
+					2130903360,
+					2130903361,
+					2130903362};
 			
 			// aapt resource value: 0
 			public const int LottieAnimationView_lottie_autoPlay = 0;
@@ -13360,36 +15101,36 @@ namespace RecordGuard.ListSample.Android
 			// aapt resource value: 11
 			public const int LottieAnimationView_lottie_url = 11;
 			
-			// aapt resource value: { 0x10101BA,0x10101B7,0x10101B8,0x10101B9,0x7F030034,0x7F030035,0x7F03009F,0x7F0300ED,0x7F0300EF,0x7F0300F1,0x7F0300F2,0x7F0300F4,0x7F0300F5,0x7F030163,0x7F030185,0x7F030186 }
+			// aapt resource value: { 0x10101B7,0x10101B8,0x10101B9,0x10101BA,0x7F030045,0x7F030046,0x7F0300B0,0x7F0300FE,0x7F030100,0x7F030101,0x7F030102,0x7F030104,0x7F030105,0x7F03016D,0x7F03018F,0x7F030190 }
 			public static int[] MaterialButton = new int[] {
-					16843194,
 					16843191,
 					16843192,
 					16843193,
-					2130903092,
-					2130903093,
-					2130903199,
-					2130903277,
-					2130903279,
-					2130903281,
-					2130903282,
-					2130903284,
-					2130903285,
-					2130903395,
-					2130903429,
-					2130903430};
-			
-			// aapt resource value: 0
-			public const int MaterialButton_android_insetBottom = 0;
-			
-			// aapt resource value: 1
-			public const int MaterialButton_android_insetLeft = 1;
-			
-			// aapt resource value: 2
-			public const int MaterialButton_android_insetRight = 2;
+					16843194,
+					2130903109,
+					2130903110,
+					2130903216,
+					2130903294,
+					2130903296,
+					2130903297,
+					2130903298,
+					2130903300,
+					2130903301,
+					2130903405,
+					2130903439,
+					2130903440};
 			
 			// aapt resource value: 3
-			public const int MaterialButton_android_insetTop = 3;
+			public const int MaterialButton_android_insetBottom = 3;
+			
+			// aapt resource value: 0
+			public const int MaterialButton_android_insetLeft = 0;
+			
+			// aapt resource value: 1
+			public const int MaterialButton_android_insetRight = 1;
+			
+			// aapt resource value: 2
+			public const int MaterialButton_android_insetTop = 2;
 			
 			// aapt resource value: 4
 			public const int MaterialButton_backgroundTint = 4;
@@ -13427,10 +15168,10 @@ namespace RecordGuard.ListSample.Android
 			// aapt resource value: 15
 			public const int MaterialButton_strokeWidth = 15;
 			
-			// aapt resource value: { 0x7F030185,0x7F030186 }
+			// aapt resource value: { 0x7F03018F,0x7F030190 }
 			public static int[] MaterialCardView = new int[] {
-					2130903429,
-					2130903430};
+					2130903439,
+					2130903440};
 			
 			// aapt resource value: 0
 			public const int MaterialCardView_strokeColor = 0;
@@ -13438,40 +15179,40 @@ namespace RecordGuard.ListSample.Android
 			// aapt resource value: 1
 			public const int MaterialCardView_strokeWidth = 1;
 			
-			// aapt resource value: { 0x7F030041,0x7F030042,0x7F030068,0x7F030072,0x7F030076,0x7F030084,0x7F030085,0x7F03008B,0x7F03008C,0x7F03008D,0x7F0300B4,0x7F0300D0,0x7F030132,0x7F030133,0x7F030144,0x7F030165,0x7F030175,0x7F0301A8,0x7F0301AD,0x7F0301AE,0x7F0301AF,0x7F0301B0,0x7F0301B1,0x7F0301B2,0x7F0301B3,0x7F0301B4,0x7F0301B5,0x7F0301B6,0x7F0301BB,0x7F0301C0,0x7F0301C1,0x7F0301C5 }
+			// aapt resource value: { 0x7F030052,0x7F030053,0x7F030079,0x7F030083,0x7F030087,0x7F030095,0x7F030096,0x7F03009C,0x7F03009D,0x7F03009E,0x7F0300C5,0x7F0300E1,0x7F030143,0x7F030144,0x7F03014E,0x7F03016F,0x7F03017F,0x7F0301B2,0x7F0301B7,0x7F0301B8,0x7F0301B9,0x7F0301BA,0x7F0301BB,0x7F0301BC,0x7F0301BD,0x7F0301BE,0x7F0301BF,0x7F0301C0,0x7F0301C5,0x7F0301CA,0x7F0301CB,0x7F0301CF }
 			public static int[] MaterialComponentsTheme = new int[] {
-					2130903105,
-					2130903106,
-					2130903144,
-					2130903154,
-					2130903158,
-					2130903172,
-					2130903173,
-					2130903179,
-					2130903180,
-					2130903181,
-					2130903220,
-					2130903248,
-					2130903346,
-					2130903347,
+					2130903122,
+					2130903123,
+					2130903161,
+					2130903171,
+					2130903175,
+					2130903189,
+					2130903190,
+					2130903196,
+					2130903197,
+					2130903198,
+					2130903237,
+					2130903265,
+					2130903363,
 					2130903364,
-					2130903397,
-					2130903413,
-					2130903464,
-					2130903469,
-					2130903470,
-					2130903471,
-					2130903472,
-					2130903473,
+					2130903374,
+					2130903407,
+					2130903423,
 					2130903474,
-					2130903475,
-					2130903476,
-					2130903477,
-					2130903478,
+					2130903479,
+					2130903480,
+					2130903481,
+					2130903482,
 					2130903483,
+					2130903484,
+					2130903485,
+					2130903486,
+					2130903487,
 					2130903488,
-					2130903489,
-					2130903493};
+					2130903493,
+					2130903498,
+					2130903499,
+					2130903503};
 			
 			// aapt resource value: 0
 			public const int MaterialComponentsTheme_bottomSheetDialogTheme = 0;
@@ -13569,23 +15310,23 @@ namespace RecordGuard.ListSample.Android
 			// aapt resource value: 31
 			public const int MaterialComponentsTheme_textInputStyle = 31;
 			
-			// aapt resource value: { 0x10101E0,0x101000E,0x10100D0,0x10101DE,0x10101DF,0x1010194 }
+			// aapt resource value: { 0x101000E,0x10100D0,0x1010194,0x10101DE,0x10101DF,0x10101E0 }
 			public static int[] MenuGroup = new int[] {
-					16843232,
 					16842766,
 					16842960,
+					16843156,
 					16843230,
 					16843231,
-					16843156};
+					16843232};
+			
+			// aapt resource value: 5
+			public const int MenuGroup_android_checkableBehavior = 5;
 			
 			// aapt resource value: 0
-			public const int MenuGroup_android_checkableBehavior = 0;
+			public const int MenuGroup_android_enabled = 0;
 			
 			// aapt resource value: 1
-			public const int MenuGroup_android_enabled = 1;
-			
-			// aapt resource value: 2
-			public const int MenuGroup_android_id = 2;
+			public const int MenuGroup_android_id = 1;
 			
 			// aapt resource value: 3
 			public const int MenuGroup_android_menuCategory = 3;
@@ -13593,85 +15334,85 @@ namespace RecordGuard.ListSample.Android
 			// aapt resource value: 4
 			public const int MenuGroup_android_orderInCategory = 4;
 			
-			// aapt resource value: 5
-			public const int MenuGroup_android_visible = 5;
+			// aapt resource value: 2
+			public const int MenuGroup_android_visible = 2;
 			
-			// aapt resource value: { 0x7F03000D,0x7F03001F,0x7F030020,0x7F030028,0x10101E3,0x10101E5,0x1010106,0x101000E,0x1010002,0x10100D0,0x10101DE,0x10101E4,0x101026F,0x10101DF,0x10101E1,0x10101E2,0x1010194,0x7F030090,0x7F0300F4,0x7F0300F5,0x7F030145,0x7F03016D,0x7F0301E1 }
+			// aapt resource value: { 0x1010002,0x101000E,0x10100D0,0x1010106,0x1010194,0x10101DE,0x10101DF,0x10101E1,0x10101E2,0x10101E3,0x10101E4,0x10101E5,0x101026F,0x7F03001E,0x7F030030,0x7F030031,0x7F030039,0x7F0300A1,0x7F030104,0x7F030105,0x7F03014F,0x7F030177,0x7F0301EB }
 			public static int[] MenuItem = new int[] {
-					2130903053,
-					2130903071,
-					2130903072,
-					2130903080,
-					16843235,
-					16843237,
-					16843014,
-					16842766,
 					16842754,
+					16842766,
 					16842960,
+					16843014,
+					16843156,
 					16843230,
-					16843236,
-					16843375,
 					16843231,
 					16843233,
 					16843234,
-					16843156,
-					2130903184,
-					2130903284,
-					2130903285,
-					2130903365,
-					2130903405,
-					2130903521};
+					16843235,
+					16843236,
+					16843237,
+					16843375,
+					2130903070,
+					2130903088,
+					2130903089,
+					2130903097,
+					2130903201,
+					2130903300,
+					2130903301,
+					2130903375,
+					2130903415,
+					2130903531};
 			
-			// aapt resource value: 0
-			public const int MenuItem_actionLayout = 0;
+			// aapt resource value: 13
+			public const int MenuItem_actionLayout = 13;
 			
-			// aapt resource value: 1
-			public const int MenuItem_actionProviderClass = 1;
+			// aapt resource value: 14
+			public const int MenuItem_actionProviderClass = 14;
 			
-			// aapt resource value: 2
-			public const int MenuItem_actionViewClass = 2;
+			// aapt resource value: 15
+			public const int MenuItem_actionViewClass = 15;
 			
-			// aapt resource value: 3
-			public const int MenuItem_alphabeticModifiers = 3;
-			
-			// aapt resource value: 4
-			public const int MenuItem_android_alphabeticShortcut = 4;
-			
-			// aapt resource value: 5
-			public const int MenuItem_android_checkable = 5;
-			
-			// aapt resource value: 6
-			public const int MenuItem_android_checked = 6;
-			
-			// aapt resource value: 7
-			public const int MenuItem_android_enabled = 7;
-			
-			// aapt resource value: 8
-			public const int MenuItem_android_icon = 8;
+			// aapt resource value: 16
+			public const int MenuItem_alphabeticModifiers = 16;
 			
 			// aapt resource value: 9
-			public const int MenuItem_android_id = 9;
-			
-			// aapt resource value: 10
-			public const int MenuItem_android_menuCategory = 10;
+			public const int MenuItem_android_alphabeticShortcut = 9;
 			
 			// aapt resource value: 11
-			public const int MenuItem_android_numericShortcut = 11;
+			public const int MenuItem_android_checkable = 11;
+			
+			// aapt resource value: 3
+			public const int MenuItem_android_checked = 3;
+			
+			// aapt resource value: 1
+			public const int MenuItem_android_enabled = 1;
+			
+			// aapt resource value: 0
+			public const int MenuItem_android_icon = 0;
+			
+			// aapt resource value: 2
+			public const int MenuItem_android_id = 2;
+			
+			// aapt resource value: 5
+			public const int MenuItem_android_menuCategory = 5;
+			
+			// aapt resource value: 10
+			public const int MenuItem_android_numericShortcut = 10;
 			
 			// aapt resource value: 12
 			public const int MenuItem_android_onClick = 12;
 			
-			// aapt resource value: 13
-			public const int MenuItem_android_orderInCategory = 13;
+			// aapt resource value: 6
+			public const int MenuItem_android_orderInCategory = 6;
 			
-			// aapt resource value: 14
-			public const int MenuItem_android_title = 14;
+			// aapt resource value: 7
+			public const int MenuItem_android_title = 7;
 			
-			// aapt resource value: 15
-			public const int MenuItem_android_titleCondensed = 15;
+			// aapt resource value: 8
+			public const int MenuItem_android_titleCondensed = 8;
 			
-			// aapt resource value: 16
-			public const int MenuItem_android_visible = 16;
+			// aapt resource value: 4
+			public const int MenuItem_android_visible = 4;
 			
 			// aapt resource value: 17
 			public const int MenuItem_contentDescription = 17;
@@ -13691,38 +15432,38 @@ namespace RecordGuard.ListSample.Android
 			// aapt resource value: 22
 			public const int MenuItem_tooltipText = 22;
 			
-			// aapt resource value: { 0x101012F,0x101012D,0x1010130,0x1010131,0x101012C,0x101012E,0x10100AE,0x7F030158,0x7F030187 }
+			// aapt resource value: { 0x10100AE,0x101012C,0x101012D,0x101012E,0x101012F,0x1010130,0x1010131,0x7F030162,0x7F030191 }
 			public static int[] MenuView = new int[] {
-					16843055,
+					16842926,
+					16843052,
 					16843053,
+					16843054,
+					16843055,
 					16843056,
 					16843057,
-					16843052,
-					16843054,
-					16842926,
-					2130903384,
-					2130903431};
-			
-			// aapt resource value: 0
-			public const int MenuView_android_headerBackground = 0;
-			
-			// aapt resource value: 1
-			public const int MenuView_android_horizontalDivider = 1;
-			
-			// aapt resource value: 2
-			public const int MenuView_android_itemBackground = 2;
-			
-			// aapt resource value: 3
-			public const int MenuView_android_itemIconDisabledAlpha = 3;
+					2130903394,
+					2130903441};
 			
 			// aapt resource value: 4
-			public const int MenuView_android_itemTextAppearance = 4;
+			public const int MenuView_android_headerBackground = 4;
+			
+			// aapt resource value: 2
+			public const int MenuView_android_horizontalDivider = 2;
 			
 			// aapt resource value: 5
-			public const int MenuView_android_verticalDivider = 5;
+			public const int MenuView_android_itemBackground = 5;
 			
 			// aapt resource value: 6
-			public const int MenuView_android_windowAnimationStyle = 6;
+			public const int MenuView_android_itemIconDisabledAlpha = 6;
+			
+			// aapt resource value: 1
+			public const int MenuView_android_itemTextAppearance = 1;
+			
+			// aapt resource value: 3
+			public const int MenuView_android_verticalDivider = 3;
+			
+			// aapt resource value: 0
+			public const int MenuView_android_windowAnimationStyle = 0;
 			
 			// aapt resource value: 7
 			public const int MenuView_preserveIconSpacing = 7;
@@ -13730,10 +15471,10 @@ namespace RecordGuard.ListSample.Android
 			// aapt resource value: 8
 			public const int MenuView_subMenuArrow = 8;
 			
-			// aapt resource value: { 0x7F03013A,0x7F03013E }
+			// aapt resource value: { 0x7F030000,0x7F03000C }
 			public static int[] MvxBinding = new int[] {
-					2130903354,
-					2130903358};
+					2130903040,
+					2130903052};
 			
 			// aapt resource value: 0
 			public const int MvxBinding_MvxBind = 0;
@@ -13741,24 +15482,24 @@ namespace RecordGuard.ListSample.Android
 			// aapt resource value: 1
 			public const int MvxBinding_MvxLang = 1;
 			
-			// aapt resource value: { 0x7F03013F }
+			// aapt resource value: { 0x7F03000E }
 			public static int[] MvxControl = new int[] {
-					2130903359};
+					2130903054};
 			
 			// aapt resource value: 0
 			public const int MvxControl_MvxTemplate = 0;
 			
-			// aapt resource value: { 0x7F03013C }
+			// aapt resource value: { 0x7F030005 }
 			public static int[] MvxExpandableListView = new int[] {
-					2130903356};
+					2130903045};
 			
 			// aapt resource value: 0
 			public const int MvxExpandableListView_MvxGroupItemTemplate = 0;
 			
-			// aapt resource value: { 0x7F03013B,0x7F03013D }
+			// aapt resource value: { 0x7F030002,0x7F03000B }
 			public static int[] MvxListView = new int[] {
-					2130903355,
-					2130903357};
+					2130903042,
+					2130903051};
 			
 			// aapt resource value: 0
 			public const int MvxListView_MvxDropDownItemTemplate = 0;
@@ -13766,27 +15507,67 @@ namespace RecordGuard.ListSample.Android
 			// aapt resource value: 1
 			public const int MvxListView_MvxItemTemplate = 1;
 			
-			// aapt resource value: { 0x7F030140 }
+			// aapt resource value: { 0x7F030001,0x7F030003,0x7F030004,0x7F030006,0x7F030007,0x7F030008,0x7F030009,0x7F03000A,0x7F03000D,0x7F03000F,0x7F030010 }
 			public static int[] MvxRecyclerView = new int[] {
-					2130903360};
+					2130903041,
+					2130903043,
+					2130903044,
+					2130903046,
+					2130903047,
+					2130903048,
+					2130903049,
+					2130903050,
+					2130903053,
+					2130903055,
+					2130903056};
 			
 			// aapt resource value: 0
-			public const int MvxRecyclerView_MvxTemplateSelector = 0;
+			public const int MvxRecyclerView_MvxChildSwipeableTemplate = 0;
 			
-			// aapt resource value: { 0x10100D4,0x10100DD,0x101011F,0x7F0300B5,0x7F0300DF,0x7F0300FB,0x7F0300FC,0x7F0300FE,0x7F030100,0x7F030103,0x7F030106,0x7F030138 }
+			// aapt resource value: 1
+			public const int MvxRecyclerView_MvxFooterLayoutId = 1;
+			
+			// aapt resource value: 4
+			public const int MvxRecyclerView_MvxGroupedDataConverter = 4;
+			
+			// aapt resource value: 2
+			public const int MvxRecyclerView_MvxGroupExpandController = 2;
+			
+			// aapt resource value: 3
+			public const int MvxRecyclerView_MvxGroupSwipeableTemplate = 3;
+			
+			// aapt resource value: 5
+			public const int MvxRecyclerView_MvxHeaderLayoutId = 5;
+			
+			// aapt resource value: 6
+			public const int MvxRecyclerView_MvxHidesFooterIfEmpty = 6;
+			
+			// aapt resource value: 7
+			public const int MvxRecyclerView_MvxHidesHeaderIfEmpty = 7;
+			
+			// aapt resource value: 8
+			public const int MvxRecyclerView_MvxSwipeableTemplate = 8;
+			
+			// aapt resource value: 9
+			public const int MvxRecyclerView_MvxTemplateSelector = 9;
+			
+			// aapt resource value: 10
+			public const int MvxRecyclerView_MvxUniqueItemIdProvider = 10;
+			
+			// aapt resource value: { 0x10100D4,0x10100DD,0x101011F,0x7F0300C6,0x7F0300F0,0x7F03010C,0x7F03010D,0x7F03010F,0x7F030111,0x7F030114,0x7F030117,0x7F030149 }
 			public static int[] NavigationView = new int[] {
 					16842964,
 					16842973,
 					16843039,
-					2130903221,
-					2130903263,
-					2130903291,
-					2130903292,
-					2130903294,
-					2130903296,
-					2130903299,
-					2130903302,
-					2130903352};
+					2130903238,
+					2130903280,
+					2130903308,
+					2130903309,
+					2130903311,
+					2130903313,
+					2130903316,
+					2130903319,
+					2130903369};
 			
 			// aapt resource value: 0
 			public const int NavigationView_android_background = 0;
@@ -13824,11 +15605,11 @@ namespace RecordGuard.ListSample.Android
 			// aapt resource value: 11
 			public const int NavigationView_menu = 11;
 			
-			// aapt resource value: { 0x7F0300CE,0x7F030153,0x7F030154 }
+			// aapt resource value: { 0x7F0300DF,0x7F03015D,0x7F03015E }
 			public static int[] PlayPauseView = new int[] {
-					2130903246,
-					2130903379,
-					2130903380};
+					2130903263,
+					2130903389,
+					2130903390};
 			
 			// aapt resource value: 0
 			public const int PlayPauseView_fill_color = 0;
@@ -13839,32 +15620,32 @@ namespace RecordGuard.ListSample.Android
 			// aapt resource value: 2
 			public const int PlayPauseView_play_bg = 2;
 			
-			// aapt resource value: { 0x10102C9,0x1010176,0x7F030146 }
+			// aapt resource value: { 0x1010176,0x10102C9,0x7F030150 }
 			public static int[] PopupWindow = new int[] {
-					16843465,
 					16843126,
-					2130903366};
+					16843465,
+					2130903376};
 			
-			// aapt resource value: { 0x7F03017E }
+			// aapt resource value: { 0x7F030188 }
 			public static int[] PopupWindowBackgroundState = new int[] {
-					2130903422};
+					2130903432};
 			
 			// aapt resource value: 0
 			public const int PopupWindowBackgroundState_state_above_anchor = 0;
 			
-			// aapt resource value: 0
-			public const int PopupWindow_android_popupAnimationStyle = 0;
-			
 			// aapt resource value: 1
-			public const int PopupWindow_android_popupBackground = 1;
+			public const int PopupWindow_android_popupAnimationStyle = 1;
+			
+			// aapt resource value: 0
+			public const int PopupWindow_android_popupBackground = 0;
 			
 			// aapt resource value: 2
 			public const int PopupWindow_overlapAnchor = 2;
 			
-			// aapt resource value: { 0x7F030147,0x7F03014A }
+			// aapt resource value: { 0x7F030151,0x7F030154 }
 			public static int[] RecycleListView = new int[] {
-					2130903367,
-					2130903370};
+					2130903377,
+					2130903380};
 			
 			// aapt resource value: 0
 			public const int RecycleListView_paddingBottomNoButtons = 0;
@@ -13872,25 +15653,25 @@ namespace RecordGuard.ListSample.Android
 			// aapt resource value: 1
 			public const int RecycleListView_paddingTopNoTitle = 1;
 			
-			// aapt resource value: { 0x10100F1,0x10100C4,0x7F0300C9,0x7F0300CA,0x7F0300CB,0x7F0300CC,0x7F0300CD,0x7F03010B,0x7F030162,0x7F030177,0x7F03017D }
+			// aapt resource value: { 0x10100C4,0x10100F1,0x7F0300DA,0x7F0300DB,0x7F0300DC,0x7F0300DD,0x7F0300DE,0x7F03011C,0x7F03016C,0x7F030181,0x7F030187 }
 			public static int[] RecyclerView = new int[] {
-					16842993,
 					16842948,
-					2130903241,
-					2130903242,
-					2130903243,
-					2130903244,
-					2130903245,
-					2130903307,
-					2130903394,
-					2130903415,
-					2130903421};
-			
-			// aapt resource value: 0
-			public const int RecyclerView_android_descendantFocusability = 0;
+					16842993,
+					2130903258,
+					2130903259,
+					2130903260,
+					2130903261,
+					2130903262,
+					2130903324,
+					2130903404,
+					2130903425,
+					2130903431};
 			
 			// aapt resource value: 1
-			public const int RecyclerView_android_orientation = 1;
+			public const int RecyclerView_android_descendantFocusability = 1;
+			
+			// aapt resource value: 0
+			public const int RecyclerView_android_orientation = 0;
 			
 			// aapt resource value: 2
 			public const int RecyclerView_fastScrollEnabled = 2;
@@ -13919,51 +15700,51 @@ namespace RecordGuard.ListSample.Android
 			// aapt resource value: 10
 			public const int RecyclerView_stackFromEnd = 10;
 			
-			// aapt resource value: { 0x7F0300F9 }
+			// aapt resource value: { 0x7F03010A }
 			public static int[] ScrimInsetsFrameLayout = new int[] {
-					2130903289};
+					2130903306};
 			
 			// aapt resource value: 0
 			public const int ScrimInsetsFrameLayout_insetForeground = 0;
 			
-			// aapt resource value: { 0x7F03003A }
+			// aapt resource value: { 0x7F03004B }
 			public static int[] ScrollingViewBehavior_Layout = new int[] {
-					2130903098};
+					2130903115};
 			
 			// aapt resource value: 0
 			public const int ScrollingViewBehavior_Layout_behavior_overlapTop = 0;
 			
-			// aapt resource value: { 0x10100DA,0x1010264,0x1010220,0x101011F,0x7F030077,0x7F03008F,0x7F0300A5,0x7F0300DE,0x7F0300F0,0x7F03010A,0x7F03015C,0x7F03015D,0x7F030167,0x7F030168,0x7F030188,0x7F03018D,0x7F0301E8 }
+			// aapt resource value: { 0x10100DA,0x101011F,0x1010220,0x1010264,0x7F030088,0x7F0300A0,0x7F0300B6,0x7F0300EF,0x7F030106,0x7F03011B,0x7F030166,0x7F030167,0x7F030171,0x7F030172,0x7F030192,0x7F030197,0x7F0301F2 }
 			public static int[] SearchView = new int[] {
 					16842970,
-					16843364,
-					16843296,
 					16843039,
-					2130903159,
-					2130903183,
-					2130903205,
-					2130903262,
-					2130903280,
-					2130903306,
-					2130903388,
-					2130903389,
+					16843296,
+					16843364,
+					2130903176,
+					2130903200,
+					2130903222,
+					2130903279,
+					2130903302,
+					2130903323,
+					2130903398,
 					2130903399,
-					2130903400,
-					2130903432,
-					2130903437,
-					2130903528};
+					2130903409,
+					2130903410,
+					2130903442,
+					2130903447,
+					2130903538};
 			
 			// aapt resource value: 0
 			public const int SearchView_android_focusable = 0;
 			
-			// aapt resource value: 1
-			public const int SearchView_android_imeOptions = 1;
+			// aapt resource value: 3
+			public const int SearchView_android_imeOptions = 3;
 			
 			// aapt resource value: 2
 			public const int SearchView_android_inputType = 2;
 			
-			// aapt resource value: 3
-			public const int SearchView_android_maxWidth = 3;
+			// aapt resource value: 1
+			public const int SearchView_android_maxWidth = 1;
 			
 			// aapt resource value: 4
 			public const int SearchView_closeIcon = 4;
@@ -14004,16 +15785,16 @@ namespace RecordGuard.ListSample.Android
 			// aapt resource value: 16
 			public const int SearchView_voiceIcon = 16;
 			
-			// aapt resource value: { 0x7F030175,0x7F030176 }
+			// aapt resource value: { 0x7F03017F,0x7F030180 }
 			public static int[] Snackbar = new int[] {
-					2130903413,
-					2130903414};
+					2130903423,
+					2130903424};
 			
-			// aapt resource value: { 0x101011F,0x7F0300B5,0x7F030134 }
+			// aapt resource value: { 0x101011F,0x7F0300C6,0x7F030145 }
 			public static int[] SnackbarLayout = new int[] {
 					16843039,
-					2130903221,
-					2130903348};
+					2130903238,
+					2130903365};
 			
 			// aapt resource value: 0
 			public const int SnackbarLayout_android_maxWidth = 0;
@@ -14030,37 +15811,37 @@ namespace RecordGuard.ListSample.Android
 			// aapt resource value: 1
 			public const int Snackbar_snackbarStyle = 1;
 			
-			// aapt resource value: { 0x1010262,0x10100B2,0x1010176,0x101017B,0x7F030156 }
+			// aapt resource value: { 0x10100B2,0x1010176,0x101017B,0x1010262,0x7F030160 }
 			public static int[] Spinner = new int[] {
-					16843362,
 					16842930,
 					16843126,
 					16843131,
-					2130903382};
-			
-			// aapt resource value: 0
-			public const int Spinner_android_dropDownWidth = 0;
-			
-			// aapt resource value: 1
-			public const int Spinner_android_entries = 1;
-			
-			// aapt resource value: 2
-			public const int Spinner_android_popupBackground = 2;
+					16843362,
+					2130903392};
 			
 			// aapt resource value: 3
-			public const int Spinner_android_prompt = 3;
+			public const int Spinner_android_dropDownWidth = 3;
+			
+			// aapt resource value: 0
+			public const int Spinner_android_entries = 0;
+			
+			// aapt resource value: 1
+			public const int Spinner_android_popupBackground = 1;
+			
+			// aapt resource value: 2
+			public const int Spinner_android_prompt = 2;
 			
 			// aapt resource value: 4
 			public const int Spinner_popupTheme = 4;
 			
-			// aapt resource value: { 0x1010196,0x101011C,0x101030C,0x101030D,0x1010195,0x1010194 }
+			// aapt resource value: { 0x101011C,0x1010194,0x1010195,0x1010196,0x101030C,0x101030D }
 			public static int[] StateListDrawable = new int[] {
-					16843158,
 					16843036,
-					16843532,
-					16843533,
+					16843156,
 					16843157,
-					16843156};
+					16843158,
+					16843532,
+					16843533};
 			
 			// aapt resource value: { 0x1010199 }
 			public static int[] StateListDrawableItem = new int[] {
@@ -14069,46 +15850,46 @@ namespace RecordGuard.ListSample.Android
 			// aapt resource value: 0
 			public const int StateListDrawableItem_android_drawable = 0;
 			
-			// aapt resource value: 0
-			public const int StateListDrawable_android_constantSize = 0;
-			
-			// aapt resource value: 1
-			public const int StateListDrawable_android_dither = 1;
-			
-			// aapt resource value: 2
-			public const int StateListDrawable_android_enterFadeDuration = 2;
-			
 			// aapt resource value: 3
-			public const int StateListDrawable_android_exitFadeDuration = 3;
+			public const int StateListDrawable_android_constantSize = 3;
+			
+			// aapt resource value: 0
+			public const int StateListDrawable_android_dither = 0;
 			
 			// aapt resource value: 4
-			public const int StateListDrawable_android_variablePadding = 4;
+			public const int StateListDrawable_android_enterFadeDuration = 4;
 			
 			// aapt resource value: 5
-			public const int StateListDrawable_android_visible = 5;
+			public const int StateListDrawable_android_exitFadeDuration = 5;
 			
-			// aapt resource value: { 0x1010125,0x1010124,0x1010142,0x7F030170,0x7F03017B,0x7F03018E,0x7F03018F,0x7F030191,0x7F0301C9,0x7F0301CA,0x7F0301CB,0x7F0301E2,0x7F0301E3,0x7F0301E4 }
-			public static int[] SwitchCompat = new int[] {
-					16843045,
-					16843044,
-					16843074,
-					2130903408,
-					2130903419,
-					2130903438,
-					2130903439,
-					2130903441,
-					2130903497,
-					2130903498,
-					2130903499,
-					2130903522,
-					2130903523,
-					2130903524};
-			
-			// aapt resource value: 0
-			public const int SwitchCompat_android_textOff = 0;
+			// aapt resource value: 2
+			public const int StateListDrawable_android_variablePadding = 2;
 			
 			// aapt resource value: 1
-			public const int SwitchCompat_android_textOn = 1;
+			public const int StateListDrawable_android_visible = 1;
+			
+			// aapt resource value: { 0x1010124,0x1010125,0x1010142,0x7F03017A,0x7F030185,0x7F030198,0x7F030199,0x7F03019B,0x7F0301D3,0x7F0301D4,0x7F0301D5,0x7F0301EC,0x7F0301ED,0x7F0301EE }
+			public static int[] SwitchCompat = new int[] {
+					16843044,
+					16843045,
+					16843074,
+					2130903418,
+					2130903429,
+					2130903448,
+					2130903449,
+					2130903451,
+					2130903507,
+					2130903508,
+					2130903509,
+					2130903532,
+					2130903533,
+					2130903534};
+			
+			// aapt resource value: 1
+			public const int SwitchCompat_android_textOff = 1;
+			
+			// aapt resource value: 0
+			public const int SwitchCompat_android_textOn = 0;
 			
 			// aapt resource value: 2
 			public const int SwitchCompat_android_thumb = 2;
@@ -14161,18 +15942,8 @@ namespace RecordGuard.ListSample.Android
 			// aapt resource value: 2
 			public const int TabItem_android_text = 2;
 			
-			// aapt resource value: { 0x7F030192,0x7F030193,0x7F030194,0x7F030195,0x7F030196,0x7F030197,0x7F030198,0x7F030199,0x7F03019A,0x7F03019B,0x7F03019C,0x7F03019D,0x7F03019E,0x7F03019F,0x7F0301A0,0x7F0301A1,0x7F0301A2,0x7F0301A3,0x7F0301A4,0x7F0301A5,0x7F0301A6,0x7F0301A7,0x7F0301A9,0x7F0301AA,0x7F0301AB }
+			// aapt resource value: { 0x7F03019C,0x7F03019D,0x7F03019E,0x7F03019F,0x7F0301A0,0x7F0301A1,0x7F0301A2,0x7F0301A3,0x7F0301A4,0x7F0301A5,0x7F0301A6,0x7F0301A7,0x7F0301A8,0x7F0301A9,0x7F0301AA,0x7F0301AB,0x7F0301AC,0x7F0301AD,0x7F0301AE,0x7F0301AF,0x7F0301B0,0x7F0301B1,0x7F0301B3,0x7F0301B4,0x7F0301B5 }
 			public static int[] TabLayout = new int[] {
-					2130903442,
-					2130903443,
-					2130903444,
-					2130903445,
-					2130903446,
-					2130903447,
-					2130903448,
-					2130903449,
-					2130903450,
-					2130903451,
 					2130903452,
 					2130903453,
 					2130903454,
@@ -14185,9 +15956,19 @@ namespace RecordGuard.ListSample.Android
 					2130903461,
 					2130903462,
 					2130903463,
+					2130903464,
 					2130903465,
 					2130903466,
-					2130903467};
+					2130903467,
+					2130903468,
+					2130903469,
+					2130903470,
+					2130903471,
+					2130903472,
+					2130903473,
+					2130903475,
+					2130903476,
+					2130903477};
 			
 			// aapt resource value: 0
 			public const int TabLayout_tabBackground = 0;
@@ -14264,54 +16045,54 @@ namespace RecordGuard.ListSample.Android
 			// aapt resource value: 24
 			public const int TabLayout_tabUnboundedRipple = 24;
 			
-			// aapt resource value: { 0x10103AC,0x1010161,0x1010162,0x1010163,0x1010164,0x1010098,0x101009A,0x101009B,0x1010095,0x1010097,0x1010096,0x7F0300D2,0x7F0301AC }
+			// aapt resource value: { 0x1010095,0x1010096,0x1010097,0x1010098,0x101009A,0x101009B,0x1010161,0x1010162,0x1010163,0x1010164,0x10103AC,0x7F0300E3,0x7F0301B6 }
 			public static int[] TextAppearance = new int[] {
-					16843692,
+					16842901,
+					16842902,
+					16842903,
+					16842904,
+					16842906,
+					16842907,
 					16843105,
 					16843106,
 					16843107,
 					16843108,
-					16842904,
-					16842906,
-					16842907,
-					16842901,
-					16842903,
-					16842902,
-					2130903250,
-					2130903468};
-			
-			// aapt resource value: 0
-			public const int TextAppearance_android_fontFamily = 0;
-			
-			// aapt resource value: 1
-			public const int TextAppearance_android_shadowColor = 1;
-			
-			// aapt resource value: 2
-			public const int TextAppearance_android_shadowDx = 2;
-			
-			// aapt resource value: 3
-			public const int TextAppearance_android_shadowDy = 3;
-			
-			// aapt resource value: 4
-			public const int TextAppearance_android_shadowRadius = 4;
-			
-			// aapt resource value: 5
-			public const int TextAppearance_android_textColor = 5;
-			
-			// aapt resource value: 6
-			public const int TextAppearance_android_textColorHint = 6;
-			
-			// aapt resource value: 7
-			public const int TextAppearance_android_textColorLink = 7;
-			
-			// aapt resource value: 8
-			public const int TextAppearance_android_textSize = 8;
-			
-			// aapt resource value: 9
-			public const int TextAppearance_android_textStyle = 9;
+					16843692,
+					2130903267,
+					2130903478};
 			
 			// aapt resource value: 10
-			public const int TextAppearance_android_typeface = 10;
+			public const int TextAppearance_android_fontFamily = 10;
+			
+			// aapt resource value: 6
+			public const int TextAppearance_android_shadowColor = 6;
+			
+			// aapt resource value: 7
+			public const int TextAppearance_android_shadowDx = 7;
+			
+			// aapt resource value: 8
+			public const int TextAppearance_android_shadowDy = 8;
+			
+			// aapt resource value: 9
+			public const int TextAppearance_android_shadowRadius = 9;
+			
+			// aapt resource value: 3
+			public const int TextAppearance_android_textColor = 3;
+			
+			// aapt resource value: 4
+			public const int TextAppearance_android_textColorHint = 4;
+			
+			// aapt resource value: 5
+			public const int TextAppearance_android_textColorLink = 5;
+			
+			// aapt resource value: 0
+			public const int TextAppearance_android_textSize = 0;
+			
+			// aapt resource value: 2
+			public const int TextAppearance_android_textStyle = 2;
+			
+			// aapt resource value: 1
+			public const int TextAppearance_android_typeface = 1;
 			
 			// aapt resource value: 11
 			public const int TextAppearance_fontFamily = 11;
@@ -14319,42 +16100,42 @@ namespace RecordGuard.ListSample.Android
 			// aapt resource value: 12
 			public const int TextAppearance_textAllCaps = 12;
 			
-			// aapt resource value: { 0x1010150,0x101009A,0x7F030043,0x7F030044,0x7F030045,0x7F030046,0x7F030047,0x7F030048,0x7F030049,0x7F03004A,0x7F03004B,0x7F0300A0,0x7F0300A1,0x7F0300A2,0x7F0300A3,0x7F0300B8,0x7F0300B9,0x7F0300E1,0x7F0300E2,0x7F0300E3,0x7F0300E7,0x7F0300E8,0x7F0300E9,0x7F03014E,0x7F03014F,0x7F030150,0x7F030151,0x7F030152 }
+			// aapt resource value: { 0x101009A,0x1010150,0x7F030054,0x7F030055,0x7F030056,0x7F030057,0x7F030058,0x7F030059,0x7F03005A,0x7F03005B,0x7F03005C,0x7F0300B1,0x7F0300B2,0x7F0300B3,0x7F0300B4,0x7F0300C9,0x7F0300CA,0x7F0300F2,0x7F0300F3,0x7F0300F4,0x7F0300F8,0x7F0300F9,0x7F0300FA,0x7F030158,0x7F030159,0x7F03015A,0x7F03015B,0x7F03015C }
 			public static int[] TextInputLayout = new int[] {
-					16843088,
 					16842906,
-					2130903107,
-					2130903108,
-					2130903109,
-					2130903110,
-					2130903111,
-					2130903112,
-					2130903113,
-					2130903114,
-					2130903115,
-					2130903200,
-					2130903201,
-					2130903202,
-					2130903203,
-					2130903224,
-					2130903225,
-					2130903265,
-					2130903266,
-					2130903267,
-					2130903271,
-					2130903272,
-					2130903273,
-					2130903374,
-					2130903375,
-					2130903376,
-					2130903377,
-					2130903378};
-			
-			// aapt resource value: 0
-			public const int TextInputLayout_android_hint = 0;
+					16843088,
+					2130903124,
+					2130903125,
+					2130903126,
+					2130903127,
+					2130903128,
+					2130903129,
+					2130903130,
+					2130903131,
+					2130903132,
+					2130903217,
+					2130903218,
+					2130903219,
+					2130903220,
+					2130903241,
+					2130903242,
+					2130903282,
+					2130903283,
+					2130903284,
+					2130903288,
+					2130903289,
+					2130903290,
+					2130903384,
+					2130903385,
+					2130903386,
+					2130903387,
+					2130903388};
 			
 			// aapt resource value: 1
-			public const int TextInputLayout_android_textColorHint = 1;
+			public const int TextInputLayout_android_hint = 1;
+			
+			// aapt resource value: 0
+			public const int TextInputLayout_android_textColorHint = 0;
 			
 			// aapt resource value: 2
 			public const int TextInputLayout_boxBackgroundColor = 2;
@@ -14434,11 +16215,11 @@ namespace RecordGuard.ListSample.Android
 			// aapt resource value: 27
 			public const int TextInputLayout_passwordToggleTintMode = 27;
 			
-			// aapt resource value: { 0x1010034,0x7F0300B6,0x7F0300B7 }
+			// aapt resource value: { 0x1010034,0x7F0300C7,0x7F0300C8 }
 			public static int[] ThemeEnforcement = new int[] {
 					16842804,
-					2130903222,
-					2130903223};
+					2130903239,
+					2130903240};
 			
 			// aapt resource value: 0
 			public const int ThemeEnforcement_android_textAppearance = 0;
@@ -14449,37 +16230,37 @@ namespace RecordGuard.ListSample.Android
 			// aapt resource value: 2
 			public const int ThemeEnforcement_enforceTextAppearance = 2;
 			
-			// aapt resource value: { 0x10100AF,0x1010140,0x7F030051,0x7F03007F,0x7F030082,0x7F030091,0x7F030092,0x7F030093,0x7F030094,0x7F030095,0x7F030096,0x7F030124,0x7F030125,0x7F030135,0x7F030141,0x7F030142,0x7F030156,0x7F030189,0x7F03018A,0x7F03018B,0x7F0301D1,0x7F0301D3,0x7F0301D4,0x7F0301D5,0x7F0301D6,0x7F0301D7,0x7F0301D8,0x7F0301D9,0x7F0301DA }
+			// aapt resource value: { 0x10100AF,0x1010140,0x7F030062,0x7F030090,0x7F030091,0x7F0300A2,0x7F0300A3,0x7F0300A4,0x7F0300A5,0x7F0300A6,0x7F0300A7,0x7F030135,0x7F030136,0x7F030146,0x7F03014B,0x7F03014C,0x7F030160,0x7F030193,0x7F030194,0x7F030195,0x7F0301DB,0x7F0301DD,0x7F0301DE,0x7F0301DF,0x7F0301E0,0x7F0301E1,0x7F0301E2,0x7F0301E3,0x7F0301E4 }
 			public static int[] Toolbar = new int[] {
 					16842927,
 					16843072,
-					2130903121,
-					2130903167,
-					2130903170,
+					2130903138,
+					2130903184,
 					2130903185,
-					2130903186,
-					2130903187,
-					2130903188,
-					2130903189,
-					2130903190,
-					2130903332,
-					2130903333,
+					2130903202,
+					2130903203,
+					2130903204,
+					2130903205,
+					2130903206,
+					2130903207,
 					2130903349,
-					2130903361,
-					2130903362,
-					2130903382,
-					2130903433,
-					2130903434,
-					2130903435,
-					2130903505,
-					2130903507,
-					2130903508,
-					2130903509,
-					2130903510,
-					2130903511,
-					2130903512,
-					2130903513,
-					2130903514};
+					2130903350,
+					2130903366,
+					2130903371,
+					2130903372,
+					2130903392,
+					2130903443,
+					2130903444,
+					2130903445,
+					2130903515,
+					2130903517,
+					2130903518,
+					2130903519,
+					2130903520,
+					2130903521,
+					2130903522,
+					2130903523,
+					2130903524};
 			
 			// aapt resource value: 0
 			public const int Toolbar_android_gravity = 0;
@@ -14553,14 +16334,14 @@ namespace RecordGuard.ListSample.Android
 			// aapt resource value: 23
 			public const int Toolbar_titleMarginEnd = 23;
 			
+			// aapt resource value: 26
+			public const int Toolbar_titleMargins = 26;
+			
 			// aapt resource value: 24
-			public const int Toolbar_titleMargins = 24;
+			public const int Toolbar_titleMarginStart = 24;
 			
 			// aapt resource value: 25
-			public const int Toolbar_titleMarginStart = 25;
-			
-			// aapt resource value: 26
-			public const int Toolbar_titleMarginTop = 26;
+			public const int Toolbar_titleMarginTop = 25;
 			
 			// aapt resource value: 27
 			public const int Toolbar_titleTextAppearance = 27;
@@ -14568,19 +16349,19 @@ namespace RecordGuard.ListSample.Android
 			// aapt resource value: 28
 			public const int Toolbar_titleTextColor = 28;
 			
-			// aapt resource value: { 0x10100DA,0x1010000,0x7F030148,0x7F030149,0x7F0301C7 }
+			// aapt resource value: { 0x1010000,0x10100DA,0x7F030152,0x7F030153,0x7F0301D1 }
 			public static int[] View = new int[] {
-					16842970,
 					16842752,
-					2130903368,
-					2130903369,
-					2130903495};
+					16842970,
+					2130903378,
+					2130903379,
+					2130903505};
 			
-			// aapt resource value: { 0x10100D4,0x7F030034,0x7F030035 }
+			// aapt resource value: { 0x10100D4,0x7F030045,0x7F030046 }
 			public static int[] ViewBackgroundHelper = new int[] {
 					16842964,
-					2130903092,
-					2130903093};
+					2130903109,
+					2130903110};
 			
 			// aapt resource value: 0
 			public const int ViewBackgroundHelper_android_background = 0;
@@ -14591,26 +16372,26 @@ namespace RecordGuard.ListSample.Android
 			// aapt resource value: 2
 			public const int ViewBackgroundHelper_backgroundTintMode = 2;
 			
-			// aapt resource value: { 0x10100D0,0x10100F3,0x10100F2 }
+			// aapt resource value: { 0x10100D0,0x10100F2,0x10100F3 }
 			public static int[] ViewStubCompat = new int[] {
 					16842960,
-					16842995,
-					16842994};
+					16842994,
+					16842995};
 			
 			// aapt resource value: 0
 			public const int ViewStubCompat_android_id = 0;
 			
-			// aapt resource value: 1
-			public const int ViewStubCompat_android_inflatedId = 1;
-			
 			// aapt resource value: 2
-			public const int ViewStubCompat_android_layout = 2;
+			public const int ViewStubCompat_android_inflatedId = 2;
+			
+			// aapt resource value: 1
+			public const int ViewStubCompat_android_layout = 1;
+			
+			// aapt resource value: 1
+			public const int View_android_focusable = 1;
 			
 			// aapt resource value: 0
-			public const int View_android_focusable = 0;
-			
-			// aapt resource value: 1
-			public const int View_android_theme = 1;
+			public const int View_android_theme = 0;
 			
 			// aapt resource value: 2
 			public const int View_paddingEnd = 2;
