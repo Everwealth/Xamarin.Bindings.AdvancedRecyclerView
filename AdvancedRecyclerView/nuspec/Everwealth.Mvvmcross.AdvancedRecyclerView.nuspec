@@ -7,8 +7,7 @@
     <authors>Everwealth</authors>
     <owners>Everwealth</owners>    
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
-    <license type="expression">Apache-2.0</license>
-    <licenseUrl>https://licenses.nuget.org/Apache-2.0</licenseUrl>
+    <licenseUrl>https://github.com/Everwealth/Xamarin.Bindings.AdvancedRecyclerView/blob/master/LICENSE</licenseUrl>
     <projectUrl>https://github.com/Everwealth/Xamarin.Bindings.AdvancedRecyclerView</projectUrl>
     <description>Mvx Wrapper for AdvancedRecyclerView library.
       Currently supports:
