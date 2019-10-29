@@ -163,13 +163,13 @@ namespace MvvmCross.AdvancedRecyclerView.Adapters.Expandable
         private void ChildItemOnClick(object sender, EventArgs e)
         {
             var holder = (IMvxRecyclerViewHolder)sender;
-            GroupItemClickCommand?.Execute(holder.DataContext);
+            ChildItemClickCommand?.Execute(holder.DataContext);
         }
 
         private void ChildItemOnLongClick(object sender, EventArgs e)
         {
             var holder = (IMvxRecyclerViewHolder)sender;
-            GroupItemLongClickCommand?.Execute(holder.DataContext);        
+            ChildItemLongClickCommand?.Execute(holder.DataContext);        
         }
         public override Object OnCreateGroupViewHolder(ViewGroup parent, int viewType)
         {
