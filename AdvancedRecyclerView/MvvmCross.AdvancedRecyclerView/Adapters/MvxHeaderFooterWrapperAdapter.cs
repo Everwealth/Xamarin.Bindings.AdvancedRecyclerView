@@ -64,13 +64,13 @@ namespace MvvmCross.AdvancedRecyclerView.Adapters
         private void FooterViewHolderOnLongClick(object sender, EventArgs e)
         {
             var holder = (IMvxRecyclerViewHolder)sender;
-            FooterClickCommand?.Execute(holder.DataContext);
+            FooterLongClickCommand?.Execute(holder.DataContext);
         }
 
         private void FooterViewHolderOnClick(object sender, EventArgs e)
         {
             var holder = (IMvxRecyclerViewHolder)sender;
-            FooterLongClickCommand?.Execute(holder);
+            FooterClickCommand?.Execute(holder.DataContext);
         }
 
         public override Object OnCreateHeaderItemViewHolder(ViewGroup p0, int p1)
