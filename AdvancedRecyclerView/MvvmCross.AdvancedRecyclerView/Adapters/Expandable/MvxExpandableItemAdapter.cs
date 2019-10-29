@@ -442,5 +442,19 @@ namespace MvvmCross.AdvancedRecyclerView.Adapters.Expandable
         public event Action<MvxGroupSwipeBackgroundSetEventArgs> GroupItemSwipeBackgroundSet;
 
         public event Action<MvxChildSwipeBackgroundSetEventARgs> ChildItemSwipeBackgroundSet;
+        
+        public override void OnViewAttachedToWindow(Object holder)
+        {
+            base.OnViewAttachedToWindow(holder);
+            var viewHolder = (IMvxRecyclerViewHolder)holder;
+            viewHolder.OnAttachedToWindow();
+        }
+
+        public override void OnViewDetachedFromWindow(Object holder)
+        {
+            var viewHolder = (IMvxRecyclerViewHolder)holder;
+            viewHolder.OnDetachedFromWindow();
+            base.OnViewDetachedFromWindow(holder);
+        }
     }
 }
