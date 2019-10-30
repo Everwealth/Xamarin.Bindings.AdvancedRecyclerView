@@ -456,5 +456,13 @@ namespace MvvmCross.AdvancedRecyclerView.Adapters.Expandable
             viewHolder.OnDetachedFromWindow();
             base.OnViewDetachedFromWindow(holder);
         }
+
+        public override void OnViewRecycled(Object holder)
+        {
+            var viewHolder = (IMvxRecyclerViewHolder)holder;
+            viewHolder.OnViewRecycled();
+        }
+        
+        
     }
 }
