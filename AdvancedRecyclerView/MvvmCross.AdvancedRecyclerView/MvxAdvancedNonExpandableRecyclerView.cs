@@ -12,7 +12,7 @@ using MvvmCross.Platforms.Android.Binding.BindingContext;
 namespace MvvmCross.AdvancedRecyclerView
 {
 	[Register("mvvmcross.advancedrecyclerview.MvxAdvancedNonExpandableRecyclerView")]
-	public sealed class MvxAdvancedNonExpandableRecyclerView : MvxAdvancedRecyclerView
+	public class MvxAdvancedNonExpandableRecyclerView : MvxAdvancedRecyclerView
 	{
 		public MvxAdvancedNonExpandableRecyclerView(IntPtr javaReference, Android.Runtime.JniHandleOwnership transfer) : base(
 			javaReference, transfer)
