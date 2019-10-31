@@ -154,10 +154,7 @@ namespace MvvmCross.AdvancedRecyclerView.Adapters.Expandable
                     ChildSwipeableTemplate.SwipeContainerViewGroupId,
                     ChildSwipeableTemplate.UnderSwipeContainerViewGroupId,
                     itemBindingContext);
-            viewHolder.Click -= ChildItemOnClick;
-            viewHolder.LongClick -= ChildItemOnLongClick;           
-            viewHolder.Click += ChildItemOnClick;
-            viewHolder.LongClick += ChildItemOnLongClick;
+            
             return viewHolder;
         }
         private void ChildItemOnClick(object sender, EventArgs e)
@@ -182,10 +179,7 @@ namespace MvvmCross.AdvancedRecyclerView.Adapters.Expandable
                     GroupSwipeableTemplate.UnderSwipeContainerViewGroupId,
                     itemBindingContext)
                 ;
-            viewHolder.Click -= GroupItemOnClick;
-            viewHolder.LongClick -= GroupItemOnLongClick;           
-            viewHolder.Click += GroupItemOnClick;
-            viewHolder.LongClick += GroupItemOnLongClick;
+            
             return viewHolder;
         }
         
@@ -246,7 +240,14 @@ namespace MvvmCross.AdvancedRecyclerView.Adapters.Expandable
                 ChildSwipeableTemplate.SetupUnderSwipeBackground(advancedRecyclerViewHolder);
                 ChildSwipeableTemplate.SetupSlideAmount(advancedRecyclerViewHolder, ChildSwipeItemPinnedStateController);
             }
+            
+            advancedRecyclerViewHolder.Click -= ChildItemOnClick;
+            advancedRecyclerViewHolder.LongClick -= ChildItemOnLongClick;           
+            advancedRecyclerViewHolder.Click += ChildItemOnClick;
+            advancedRecyclerViewHolder.LongClick += ChildItemOnLongClick;
         }
+        
+        
 
         public override void OnBindGroupViewHolder(Object viewHolder, int groupPosition, int viewType)
         {
@@ -269,6 +270,11 @@ namespace MvvmCross.AdvancedRecyclerView.Adapters.Expandable
                 GroupSwipeableTemplate.SetupUnderSwipeBackground(advancedRecyclerViewHolder);
                 GroupSwipeableTemplate.SetupSlideAmount(advancedRecyclerViewHolder, GroupSwipeItemPinnedStateController);
             }
+            
+            advancedRecyclerViewHolder.Click -= GroupItemOnClick;
+            advancedRecyclerViewHolder.LongClick -= GroupItemOnLongClick;           
+            advancedRecyclerViewHolder.Click += GroupItemOnClick;
+            advancedRecyclerViewHolder.LongClick += GroupItemOnLongClick;
         }
 
         public override int GetChildCount(int p0)
