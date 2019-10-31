@@ -126,9 +126,9 @@ namespace MvvmCross.AdvancedRecyclerView.ViewHolders
         }
         public virtual void OnDetachedFromWindow()
         {
-            itemViewClickSubscription.Dispose();
+            itemViewClickSubscription?.Dispose();
             itemViewClickSubscription = null;
-            itemViewLongClickSubscription.Dispose();
+            itemViewLongClickSubscription?.Dispose();
             itemViewLongClickSubscription = null;
 
             _cachedDataContext = DataContext;

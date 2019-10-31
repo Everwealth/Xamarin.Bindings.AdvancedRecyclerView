@@ -460,9 +460,11 @@ namespace MvvmCross.AdvancedRecyclerView.Adapters.Expandable
         public override void OnViewRecycled(Object holder)
         {
             var viewHolder = (IMvxRecyclerViewHolder)holder;
+            viewHolder.Click -= ChildItemOnClick;
+            viewHolder.LongClick -= ChildItemOnLongClick;
+            viewHolder.Click -= GroupItemOnClick;
+            viewHolder.LongClick -= GroupItemOnLongClick;
             viewHolder.OnViewRecycled();
         }
-        
-        
     }
 }
