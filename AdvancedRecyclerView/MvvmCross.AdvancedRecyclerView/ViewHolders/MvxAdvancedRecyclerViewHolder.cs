@@ -5,7 +5,7 @@ using Com.H6ah4i.Android.Widget.Advrecyclerview.Swipeable;
 using Com.H6ah4i.Android.Widget.Advrecyclerview.Utils;
 using MvvmCross.Base;
 using MvvmCross.Binding.BindingContext;
-using MvvmCross.Droid.Support.V7.RecyclerView;
+using MvvmCross.DroidX.RecyclerView;
 using MvvmCross.Platforms.Android.Binding.BindingContext;
 using MvvmCross.WeakSubscription;
 

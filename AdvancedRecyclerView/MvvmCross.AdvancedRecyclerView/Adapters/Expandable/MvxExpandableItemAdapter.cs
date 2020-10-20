@@ -5,7 +5,7 @@ using System.Collections.Specialized;
 using System.Linq;
 using System.Windows.Input;
 using Android.Runtime;
-using Android.Support.V7.Widget;
+using AndroidX.RecyclerView.Widget;
 using Android.Views;
 using Com.H6ah4i.Android.Widget.Advrecyclerview.Expandable;
 using Com.H6ah4i.Android.Widget.Advrecyclerview.Swipeable;
@@ -22,8 +22,8 @@ using MvvmCross.AdvancedRecyclerView.TemplateSelectors;
 using MvvmCross.AdvancedRecyclerView.Utils;
 using MvvmCross.AdvancedRecyclerView.ViewHolders;
 using MvvmCross.Binding.Extensions;
-using MvvmCross.Droid.Support.V7.RecyclerView;
-using MvvmCross.Droid.Support.V7.RecyclerView.ItemTemplates;
+using MvvmCross.DroidX.RecyclerView;
+using MvvmCross.DroidX.RecyclerView.ItemTemplates;
 using MvvmCross.Exceptions;
 using MvvmCross.Logging;
 using MvvmCross.Platforms.Android.Binding.BindingContext;
@@ -316,6 +316,22 @@ namespace MvvmCross.AdvancedRecyclerView.Adapters.Expandable
         public override bool GetInitialGroupExpandedState (int groupPosition)
         {
             return GroupExpandController.GetInitialGroupExpandedState (groupPosition);
+        }
+
+        public override void OnViewAttachedToWindow(Object holder)
+        {
+            base.OnViewAttachedToWindow(holder);
+
+            var viewHolder = (IMvxRecyclerViewHolder)holder;
+            viewHolder.OnAttachedToWindow();
+        }
+
+        public override void OnViewDetachedFromWindow(Object holder)
+        {
+            var viewHolder = (IMvxRecyclerViewHolder)holder;
+
+            viewHolder.OnDetachedFromWindow();
+            base.OnViewDetachedFromWindow(holder);
         }
 
         public MvxGroupedData GetItemAt(int groupIndex)

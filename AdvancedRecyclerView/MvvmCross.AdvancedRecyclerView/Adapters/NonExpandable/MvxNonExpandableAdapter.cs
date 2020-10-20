@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Specialized;
 using Android.Runtime;
-using Android.Support.V7.Widget;
+using AndroidX.RecyclerView.Widget;
 using Android.Views;
 using Com.H6ah4i.Android.Widget.Advrecyclerview.Swipeable;
 using Com.H6ah4i.Android.Widget.Advrecyclerview.Swipeable.Action;
@@ -15,7 +15,7 @@ using MvvmCross.AdvancedRecyclerView.Swipe.ResultActions.ItemManager;
 using MvvmCross.AdvancedRecyclerView.Swipe.State;
 using MvvmCross.AdvancedRecyclerView.TemplateSelectors;
 using MvvmCross.AdvancedRecyclerView.ViewHolders;
-using MvvmCross.Droid.Support.V7.RecyclerView;
+using MvvmCross.DroidX.RecyclerView;
 using MvvmCross.Platforms.Android.Binding.BindingContext;
 using Object = Java.Lang.Object;
 
@@ -100,6 +100,22 @@ namespace MvvmCross.AdvancedRecyclerView.Adapters.NonExpandable
                 SwipeableTemplate.SetupUnderSwipeBackground(advancedRecyclerViewHolder);
                 SwipeableTemplate.SetupSlideAmount(advancedRecyclerViewHolder, SwipeItemPinnedStateController);
             }
+        }
+
+        public override void OnViewAttachedToWindow(Object holder)
+        {
+            base.OnViewAttachedToWindow(holder);
+
+            var viewHolder = (IMvxRecyclerViewHolder)holder;
+            viewHolder.OnAttachedToWindow();
+        }
+
+        public override void OnViewDetachedFromWindow(Object holder)
+        {
+            var viewHolder = (IMvxRecyclerViewHolder)holder;
+
+            viewHolder.OnDetachedFromWindow();
+            base.OnViewDetachedFromWindow(holder);
         }
 
         public int OnGetSwipeReactionType(Object p0, int p1, int x, int y)

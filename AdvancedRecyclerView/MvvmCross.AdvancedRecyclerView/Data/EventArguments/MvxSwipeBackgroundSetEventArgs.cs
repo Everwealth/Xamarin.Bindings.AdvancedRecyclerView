@@ -1,5 +1,5 @@
 ﻿using System;
-using Android.Support.V7.Widget;
+using AndroidX.RecyclerView.Widget;
 using MvvmCross.AdvancedRecyclerView.ViewHolders;
 
 namespace MvvmCross.AdvancedRecyclerView.Data.EventArguments

@@ -1,5 +1,5 @@
 ﻿using System;
-using Android.Support.V7.App;
+using AndroidX.AppCompat.App;
 using MvvmCross.Plugin.Messenger;
 using XamarinMvvmCross_MeetupSample.Core;
 using XamarinMvvmCross_MeetupSample.Core.MessageObserver;

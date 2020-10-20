@@ -1,11 +1,11 @@
 using System;
 using System.Windows.Input;
-using Android.Support.V7.Widget;
+using AndroidX.RecyclerView.Widget;
 using Android.Views;
 using Com.H6ah4i.Android.Widget.Advrecyclerview.Headerfooter;
 using MvvmCross.AdvancedRecyclerView.Data;
-using MvvmCross.Droid.Support.V7.RecyclerView;
-using MvvmCross.Droid.Support.V7.RecyclerView.Model;
+using MvvmCross.DroidX.RecyclerView;
+using MvvmCross.DroidX.RecyclerView.Model;
 using MvvmCross.Platforms.Android.Binding.BindingContext;
 using Object = Java.Lang.Object;
 

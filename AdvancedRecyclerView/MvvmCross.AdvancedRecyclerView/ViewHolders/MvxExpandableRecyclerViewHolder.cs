@@ -2,7 +2,6 @@ using System;
 using Android.Runtime;
 using Android.Views;
 using Com.H6ah4i.Android.Widget.Advrecyclerview.Expandable;
-using MvvmCross.Droid.Support.V7.RecyclerView;
 using MvvmCross.Platforms.Android.Binding.BindingContext;
 
 namespace MvvmCross.AdvancedRecyclerView.ViewHolders
@@ -18,6 +17,12 @@ namespace MvvmCross.AdvancedRecyclerView.ViewHolders
         {
         }
 
-        public int ExpandStateFlags { get; set; }
+        public int ExpandStateFlags
+        {
+            get => ExpandState.Flags;
+            set => ExpandState.Flags = value;
+        }
+
+        public ExpandableItemState ExpandState { get; } = new ExpandableItemState();
     }
 }

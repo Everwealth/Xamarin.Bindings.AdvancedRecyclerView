@@ -1,6 +1,5 @@
 ﻿using System;
 using MvvmCross.AdvancedRecyclerView.TemplateSelectors;
-using MvvmCross.Droid.Support.V7.RecyclerView.ItemTemplates;
 using XamarinMvvmCross_MeetupSample.Core;
 
 namespace XamarinMvvmCross_MeetupSample.Droid

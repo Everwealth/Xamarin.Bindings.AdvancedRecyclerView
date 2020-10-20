@@ -14,10 +14,10 @@ namespace XamarinMvvmCross_MeetupSample.Droid
 		{
 		}
 
-		protected LoginActivity(IntPtr ptr, JniHandleOwnership transfer) : base(ptr, transfer)
-		{
+		//protected LoginActivity(IntPtr ptr, JniHandleOwnership transfer) : base(ptr, transfer)
+		//{
 
-		}
+		//}
 
 		protected override System.Collections.Generic.IEnumerable<Core.MessageObserver.IMessageObserver> GetMessageObservers()
 		{

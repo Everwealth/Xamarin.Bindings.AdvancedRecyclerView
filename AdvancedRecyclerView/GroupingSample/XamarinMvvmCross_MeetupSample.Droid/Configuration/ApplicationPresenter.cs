@@ -1,13 +1,13 @@
 ﻿using System.Collections.Generic;
 using System.Reflection;
 using Android.Content;
-using MvvmCross.Droid.Support.V7.AppCompat;
+using MvvmCross.Platforms.Android.Presenters;
 using MvvmCross.ViewModels;
 using XamarinMvvmCross_MeetupSample.Core.ViewModels;
 
 namespace XamarinMvvmCross_MeetupSample.Droid
 {
-	public class ApplicationPresenter : MvxAppCompatViewPresenter
+	public class ApplicationPresenter : MvxAndroidViewPresenter
 	{
 		public ApplicationPresenter(IEnumerable<Assembly> androidViewAssemblies) : base(androidViewAssemblies)
 		{

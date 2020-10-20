@@ -1,6 +1,6 @@
 ﻿using System;
-using Android.Support.Design.Widget;
 using Android.Views;
+using Google.Android.Material.Snackbar;
 using XamarinMvvmCross_MeetupSample.Core;
 using XamarinMvvmCross_MeetupSample.Core.MessageObserver;
 

@@ -1,6 +1,6 @@
 ﻿using System;
 using Android.Content;
-using Android.Support.V7.App;
+using AndroidX.AppCompat.App;
 
 namespace XamarinMvvmCross_MeetupSample.Droid
 {

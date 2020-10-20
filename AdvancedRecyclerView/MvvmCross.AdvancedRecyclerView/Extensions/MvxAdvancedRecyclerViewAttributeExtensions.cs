@@ -6,7 +6,7 @@ using MvvmCross.AdvancedRecyclerView.Data;
 using MvvmCross.AdvancedRecyclerView.Data.ItemUniqueIdProvider;
 using MvvmCross.AdvancedRecyclerView.TemplateSelectors;
 using MvvmCross.AdvancedRecyclerView.Utils;
-using MvvmCross.Droid.Support.V7.RecyclerView.ItemTemplates;
+using MvvmCross.DroidX.RecyclerView.ItemTemplates;
 using MvvmCross.Logging;
 using MvvmCross.Platforms.Android.Binding.ResourceHelpers;
 using MvvmCross.Platforms.Android.Binding.Views;
@@ -411,7 +411,7 @@ namespace MvvmCross.AdvancedRecyclerView.Extensions
                 return;
             areBindingResourcesInitialized = true;
 
-            var resourceTypeFinder = Mvx.Resolve<IMvxAppResourceTypeFinder>().Find();
+            var resourceTypeFinder = Mvx.IoCProvider.Resolve<IMvxAppResourceTypeFinder>().Find();
             var styleableType = resourceTypeFinder.GetNestedType("Styleable");
 
             MvxRecyclerViewGroupId = (int[])styleableType.GetField("MvxRecyclerView").GetValue(null);

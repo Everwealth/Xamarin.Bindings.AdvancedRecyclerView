@@ -5,10 +5,10 @@ using System.Windows.Input;
 using Android.Content;
 using Android.OS;
 using Android.Runtime;
-using Android.Support.V7.Widget;
 using Android.Util;
+using AndroidX.RecyclerView.Widget;
 using MvvmCross.AdvancedRecyclerView.Adapters;
-using MvvmCross.Droid.Support.V7.RecyclerView.Model;
+using MvvmCross.DroidX.RecyclerView.Model;
 
 namespace MvvmCross.AdvancedRecyclerView
 {

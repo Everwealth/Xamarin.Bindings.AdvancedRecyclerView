@@ -9,7 +9,6 @@ namespace XamarinMvvmCross_MeetupSample.Droid
 	{
         public Setup()
         {
-
         }
          
 		protected override IMvxApplication CreateApp()

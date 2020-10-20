@@ -1,5 +1,5 @@
-using Android.Support.V4.View;
 using Android.Views;
+using AndroidX.Core.View;
 
 namespace MvvmCross.AdvancedRecyclerView.Extensions
 {
