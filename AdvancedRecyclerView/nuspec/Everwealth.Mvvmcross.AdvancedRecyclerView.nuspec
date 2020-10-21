@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>Everwealth.Mvvmcross.AdvancedRecyclerView</id>
+    <version>1.0.0</version>
+    <title>Everwealth.Mvvmcross.AdvancedRecyclerView</title>
+    <authors>Everwealth</authors>
+    <owners>Everwealth</owners>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <licenseUrl>https://github.com/Everwealth/Xamarin.Bindings.AdvancedRecyclerView/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/Everwealth/Xamarin.Bindings.AdvancedRecyclerView</projectUrl>
+    <description>Mvx Wrapper for AdvancedRecyclerView library.
+      Currently supports:
+      - grouping,
+      - swipe (without grouping),
+      - header/footer</description>
+    <tags>xamarin android mvvmcross</tags>
+    <dependencies>
+      <group targetFramework="monoandroid100">
+        <dependency id="Xamarin.Build.Download" version="0.10.0" />
+        <dependency id="Xamarin.AndroidX.RecyclerView" version="1.1.0.1" />
+        <dependency id="Everwealth.AdvancedRecyclerView" version="1.0.21" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="..\MvvmCross.AdvancedRecyclerView\bin\Release\MvvmCross.AdvancedRecyclerView.*" target="lib\MonoAndroid" />
+  </files>
+</package>

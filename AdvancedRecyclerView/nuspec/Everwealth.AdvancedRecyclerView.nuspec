@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>Everwealth.AdvancedRecyclerView</id>
+    <version>1.0.0</version>
+    <title>Everwealth.AdvancedRecyclerView</title>
+    <authors>Everwealth</authors>
+    <owners>Everwealth</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <projectUrl>https://github.com/Everwealth/Xamarin.Bindings.AdvancedRecyclerView</projectUrl>
+    <description>Xamarin binding library for AdvancedRecyclerView</description>
+    <dependencies>
+      <group targetFramework="monoandroid100">
+        <dependency id="Xamarin.AndroidX.RecyclerView" version="1.1.0.1" />
+        <dependency id="MvvmCross.DroidX.RecyclerView" version="7.0.1" />
+      </group>
+    </dependencies>
+
+    <frameworkAssemblies>
+      <frameworkAssembly assemblyName="Mono.Android.Export" targetFramework="MonoAndroid" />
+    </frameworkAssemblies>
+  </metadata>
+  <files>
+    <file src="..\Bindings\bin\Release\Xamarin.Bindings.AdvancedRecyclerView.*" target="lib\MonoAndroid\" />
+  </files>
+</package>
