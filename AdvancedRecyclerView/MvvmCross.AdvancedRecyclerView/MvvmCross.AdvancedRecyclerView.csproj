@@ -122,7 +122,7 @@
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="MvvmCross.DroidX.RecyclerView">
-      <Version>6.5.0-alpha.178</Version>
+      <Version>7.0.1</Version>
     </PackageReference>
     <PackageReference Include="Xamarin.AndroidX.RecyclerView">
       <Version>1.1.0.1</Version>
