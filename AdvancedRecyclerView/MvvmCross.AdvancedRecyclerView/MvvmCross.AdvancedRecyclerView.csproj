@@ -122,10 +122,10 @@
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="MvvmCross.DroidX.RecyclerView">
-      <Version>7.0.1</Version>
+      <Version>7.1.2</Version>
     </PackageReference>
     <PackageReference Include="Xamarin.AndroidX.RecyclerView">
-      <Version>1.1.0.1</Version>
+      <Version>1.1.0.5</Version>
     </PackageReference>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
